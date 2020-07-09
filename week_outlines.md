@@ -177,6 +177,7 @@ By the end of the week all developers can:
 ### Practicals
 
 * [Learning a new language by translation](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A)
+* [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/master/week-5/async_JS.md)
 * [JS Objects & Prototypes](https://hackmd.io/nb1VZarCTGicD6dMOo43Ww)
 * [Closures](https://hackmd.io/cIFsMAqISHqVHN_-p9hY0Q)
 
@@ -239,9 +240,8 @@ Note: they get the choice of morning goals / afternoon challenges vs all day pro
 ### Practicals
 
 * [JS Objects & Prototypes](https://hackmd.io/nb1VZarCTGicD6dMOo43Ww)
-* [Closures](https://hackmd.io/cIFsMAqISHqVHN_-p9hY0Q)
+* [Explore Closures in JS](https://github.com/makersacademy/skills-workshops/blob/master/week-7/explore_closures.md)
 * [Reading beyond your level](https://hackmd.io/F-pmnp3hRhePddmf3mnKGw)
-* [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/master/week-5/async_JS.md)
 * [Modelling the flow of JS requests to an API](https://github.com/makersacademy/skills-workshops/tree/master/week-7/process-modelling-js-api/process_modelling)
 
 ### Resources
