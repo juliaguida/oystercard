@@ -36,7 +36,7 @@ There are up to three tech tests this week.  This means you can start from scrat
 
 ### Code reviews from your coach
 
-You can message your coach on Slack and ask for a code review of one of your repos anytime you like.
+Your coach will tell you how to request code reviews.
 
 ### Language
 
