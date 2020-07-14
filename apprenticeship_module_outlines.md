@@ -201,8 +201,6 @@ If you would prefer to work on a single, larger project, take a look at the [Gil
 
 ## Week 5: The Web
 
-By the end of the module all developers can:
-
 ### This module's goals
 By the end of the week, all developers can:
 * Write feature tests using Capybara
