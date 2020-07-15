@@ -27,7 +27,7 @@ Monday is [Day one](./day_one.md)
 - 17.30: [Retro](https://github.com/makersacademy/course/blob/master/pills/student_retrospective.md). Coach-facilitated.
 - 18.00: Announcements for the weekend.
 
-#### Weekend challenge
+#### End of unit challenge
 
 - [Airport challenge](https://github.com/makersacademy/airport_challenge).
 - (optional) Make a video of fully TDD'd FizzBuzz. Can you do it in less than 5 minutes? (Record for a student is around 4mins, 30 secs, with well named methods, not taking any shortcuts)

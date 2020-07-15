@@ -1,4 +1,4 @@
-# Weekend Challenges
+# End of Unit Challenges
 
 #### Week 1: [Airport Challenge][1]
 

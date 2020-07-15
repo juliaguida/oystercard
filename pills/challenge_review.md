@@ -1,6 +1,6 @@
-# Weekend challenge review
+# End of unit challenge review
 
-After attempting a weekend challenge, the next step is to review and reflect on the work. We use a code and concept review process to facilitate this reflection and to help you to get better at analysing your own code.
+After attempting an end of unit challenge, the next step is to review and reflect on the work. We use a code and concept review process to facilitate this reflection and to help you to get better at analysing your own code.
 
 Code review is a process where you and your peers review your code, share approaches and identify strategies. The ability to review, assess and improve code is a key developer skill in industry.
 
@@ -16,7 +16,7 @@ Concept review is a where a coach will look to provide additional insight; explo
 
 ### Pair review (30 minutes)
 
-Aim to arrive between 9.30am and 10am. Get together in your pairs and spend around 30 minutes reviewing each others code according to the rubric for that weekend. The rubric can usually be found in the git repository for the original challenge.
+Aim to arrive between 9.30am and 10am. Get together in your pairs and spend around 30 minutes reviewing each others code according to the rubric for that challenge. The rubric can usually be found in the git repository for the original challenge.
 
 Try to identify 1 to 3 things to discuss with your partner and aim to come away from that discussion with 1 to 3 things you would like to improve about your code or discuss with your group.
 
@@ -29,7 +29,7 @@ Skills:
 
 Following your peer review, get together in small groups. Groups will consist of 4 to 6 students; a coach will post group allocations in the slack channel before 10am.
 
-Share with the group the things you want to explore from the weekend challenge. Try to identify either (a) somebody who can help you with your doubts or (b) somebody you can help with theirs (be generous - helping others level up is both a key skill in itself and something which will help you consolidate your own knowledge). Break off into subgroups accordingly.
+Share with the group the things you want to explore from the end of unit challenge. Try to identify either (a) somebody who can help you with your doubts or (b) somebody you can help with theirs (be generous - helping others level up is both a key skill in itself and something which will help you consolidate your own knowledge). Break off into subgroups accordingly.
 
 When discussion has finished, identify up to 3 questions, concepts or doubts that your group would like to explore with a coach. *Send your list to a coach*. The coach collating the review feedback will make themselves known on the morning.
 
@@ -40,11 +40,11 @@ Skills:
 
 ### Refactor (30 minutes)
 
-Based on the feedback you have received, identify at least 1 refactor that you can make to your weekend to challenge to improve it. Attempt a 20 to 30 minute refactor cycle, (if you have more than 30 minutes, attempt 2).
+Based on the feedback you have received, identify at least 1 refactor that you can make that will improve your solution. Attempt a 20 to 30 minute refactor cycle, (if you have more than 30 minutes, attempt 2).
 
 Remember that any development cycle should be short and if you aren't able to complete a refactor in this time you should consider whether you are simplifying effectively. If you have trouble with this, ask a coach about the Process Cards, which can help you think more clearly about this.
 
-Ensure that you have submitted a pull request for your weekend challenge to the main repository. In the description for your pull request, add a comment describing (a) up to 3 things that you thing went well and (b) up to 3 things that you think you would like to do better.
+Ensure that you have submitted a pull request for your end of unit challenge to the main repository. In the description for your pull request, add a comment describing (a) up to 3 things that you thing went well and (b) up to 3 things that you think you would like to do better.
 
 Skills:
 - Prioritisation

@@ -46,7 +46,7 @@ experience, refactors the existing code). Then:
 
 Sample Rubrics
 --------------
-For inspiration, here are some example review rubrics for some of the weekend challenges:
+For inspiration, here are some example review rubrics for some of the end of unit challenges:
 
 * [Airport Challenge](https://github.com/makersacademy/airport_challenge/blob/master/docs/review.md)
 * [Takeaway Challenge](https://github.com/makersacademy/takeaway-challenge/blob/master/docs/review.md)

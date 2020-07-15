@@ -31,7 +31,7 @@
 - 17.30: [Retro](https://github.com/makersacademy/course/blob/master/pills/student_retrospective.md)
 - 18.00: Announcements for the weekend
 
-#### Weekend challenge
+#### End of unit challenge
 
 - [Takeaway challenge](https://github.com/makersacademy/takeaway-challenge)
 

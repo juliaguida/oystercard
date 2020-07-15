@@ -22,7 +22,7 @@
 * 10.00-11.00 — Practical workshop
 * 14.00-14.30 — Meditation
 * 17.00—18.00 — Yoga
-* 18.00 - [Weekend challenge](./learning_at_makers.md#weekend-challenges) release
+* 18.00 - [End of unit challenge](./learning_at_makers.md#end-of-unit-challenges) release
 
 
 ## Workshops

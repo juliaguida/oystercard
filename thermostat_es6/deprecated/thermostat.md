@@ -41,7 +41,7 @@ Here's an overview of the schedule for talks this week:
 * Thursday
   * API's, AJAX, Asynchronous transactions
 * Friday
-  * Weekend Challenge release
+  * End of Unit Challenge release
   * Retrospective
 
 

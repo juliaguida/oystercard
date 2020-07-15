@@ -24,12 +24,9 @@
 - 5.30: [Retro](https://github.com/makersacademy/course/blob/master/pills/student_retrospective.md)
 - 6.00: Announcements for the weekend
 
-#### Weekend Challenge
+#### End of Unit Challenge
 CHOOSE EITHER (or do both if you are keen!):
 - [Frontman Challenge](https://github.com/makersacademy/frontman-challenge) - this will help you develop your front end skills
 - [Bowling Challenge](https://github.com/makersacademy/bowling-challenge) - this will focus on business logic / OOD
-
-Note - you have TWO weekends to spend on this (so no code review on Monday of week 6). We recommend you do as much as you can on the first weekend.
-
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/remote/week05.md)
