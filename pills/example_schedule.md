@@ -10,7 +10,7 @@
 
 #### Monday
 
-* Morning - Code review of [weekend challenge](./learning_at_makers.md#weekend-challenges)
+* Morning - Code review of [end of unit challenge](./learning_at_makers.md#end-of-unit-challenges)
 * Late morning - Kick off for the week
 * Late morning - Release [weekly challenges](./learning_at_makers.md#challenge-based-learning)
 * 17.00 - [Daily reflection](./learning_at_makers.md#daily-reflection)
@@ -23,7 +23,7 @@
 #### Friday (additional)
 
 * 17.00 - [Weekly retro](./student_retrospective.md)
-* 18.00 - [Weekend challenge](./learning_at_makers.md#weekend-challenges) release
+* 18.00 - [End of unit challenge](./learning_at_makers.md#end-of-unit-challenges) release
 
 ### Joy
 

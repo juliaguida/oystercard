@@ -88,9 +88,9 @@ A [killer article from Allison Kaptur](http://akaptur.com/blog/2015/10/10/effect
 
 * Avoid the walkthroughs as much as possible.  Spending half an hour struggling might feel painful, but you'll learn so much from following dead-ends.  Before you look at the walkthrough, follow the whole [escalation process](./escalation_process.md).
 
-### Weekend challenges
+### End of unit challenges
 
-* Small projects you build over the weekend.
+* Small projects you build at the end of each unit.
 
 * You work on them on your own.
 

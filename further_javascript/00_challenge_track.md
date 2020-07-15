@@ -8,7 +8,7 @@ You'll build a note-taking app by working through **challenges**.  No walkthroug
 
 ### Group code reviews
 
-We'll have group code reviews on Wednesday, Thursday and Friday.  These will last 30 minutes.  The format will be similar to the Monday weekend challenge code reviews.
+We'll have group code reviews on Wednesday, Thursday and Friday.  These will last 30 minutes.  The format will be similar to the Monday end of unit challenge code reviews.
 
 ### Notes app
 

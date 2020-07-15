@@ -27,7 +27,7 @@ By the end of the week all developers can:
 ### Challenges
 
 * [Afternoons - Boris bikes](https://github.com/makersacademy/course/blob/master/boris_bikes/0_challenge_map.md)
-* [Weekend - Airport](https://github.com/makersacademy/airport_challenge)
+* [End of unit - Airport](https://github.com/makersacademy/airport_challenge)
 
 ### Practicals
 
@@ -74,7 +74,7 @@ Watch a [short video](https://www.youtube.com/watch?v=TqKG8j_tgbM) explaining wh
 ### Challenges
 
 * [Afternoons - Oystercard](https://github.com/makersacademy/course/tree/master/oystercard)
-* [Weekend - Takeaway](https://github.com/makersacademy/takeaway-challenge)
+* [End of unit - Takeaway](https://github.com/makersacademy/takeaway-challenge)
 
 ### Projects
 
@@ -117,7 +117,7 @@ By the end of the week all developers can:
 ### Challenges
 
 * [Afternoons - Battle](https://github.com/makersacademy/course/tree/master/intro_to_the_web)
-* [Weekend - RPS](https://github.com/makersacademy/rps-challenge)
+* [End of unit - RPS](https://github.com/makersacademy/rps-challenge)
 
 ### Practicals
 
@@ -145,7 +145,7 @@ By the end of the week all developers can:
 ### Challenges
 
 * [Afternoons - Bookmark Manager](https://github.com/makersacademy/course/blob/master/bookmark_manager/00_challenge_map.md)
-* [Weekend - Chitter](https://github.com/makersacademy/chitter-challenge)
+* [End of unit - Chitter](https://github.com/makersacademy/chitter-challenge)
 
 ### Practicals
 
@@ -172,7 +172,7 @@ By the end of the week all developers can:
 ### Challenges
 
 * [Afternoons - Thermostat](https://github.com/makersacademy/course/blob/master/thermostat_es6/README.md)
-* [Weekend - Bowling](https://github.com/makersacademy/bowling-challenge)
+* [End of unit - Bowling](https://github.com/makersacademy/bowling-challenge)
 
 ### Practicals
 
@@ -210,7 +210,7 @@ By the end of the week all developers can build tested, easy-to-change software 
 ### Challenges
 
 * [Weekdays - MakersBnB](https://github.com/makersacademy/course/tree/master/makersbnb)
-* [Weekend - Bowling again](https://github.com/makersacademy/bowling-challenge)
+* [End of unit - Bowling again](https://github.com/makersacademy/bowling-challenge)
 
 ### Resources
 * [Technical Learning Resources](https://airtable.com/shrxLK3dcqRz9VssB/tblokmw6yNUO75ge6?blocks=hide)
@@ -233,7 +233,7 @@ Most of the work and interventions we have run historically are meant to 'de-mag
 Note: they get the choice of morning goals / afternoon challenges vs all day project groups.
 
 * [Afternoons - Notes app](https://github.com/makersacademy/course/blob/master/further_javascript)
-* Weekend, either of:
+* End of unit, either of:
   * [News summary](https://github.com/makersacademy/news-summary-challenge)
   * [Chitter API Frontend Challenge](https://github.com/makersacademy/frontend-api-challenge)
 

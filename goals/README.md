@@ -77,7 +77,7 @@ The team projects follow the same pattern but instead with
 - **09.30-12.30: Group project work.**
 - **14.00-18.00: Group project work.**
 
-Most weekends you'll plan how to achieve your goals within the context of a weekend challenge that we provide.
+At the end of each unit, you'll plan how to achieve your goals within the context of an end of unit challenge that we provide.
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/goals/README.md)

@@ -26,7 +26,7 @@
 - 5.30: [Retro](https://github.com/makersacademy/course/blob/master/pills/student_retrospective.md)
 - 6.00: Announcements for the weekend
 
-#### Weekend challenge
+#### End of unit challenge
 - [Chitter challenge](https://github.com/makersacademy/chitter-challenge)
 
 
