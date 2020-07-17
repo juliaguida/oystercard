@@ -518,10 +518,8 @@ describe('displaying usage levels', function() {
 
 Bearing in mind that we're saying 'anything else' temperature-wise is going to count as 'high-usage', we don't need to think about that setting. That means that we only have two temperature breakpoints to worry about:
 
-* below 25 (which is our maximum temperature when PSM is ON)
+* below 25 (which also happens to be our maximum temperature when PSM is ON)
 * below 18
-
-The great news, is in our object constructor function we already have a constant for the first limit, so all we need is one for the 18 degree maximum, which I shall call `MEDIUM_ENERGY_USAGE_LIMIT`
 
 ```javascript
 // src/thermostat.js
@@ -529,6 +527,7 @@ The great news, is in our object constructor function we already have a constant
 constructor {
   // Other properties omitted for brevity
   this.MEDIUM_ENERGY_USAGE_LIMIT = 18;
+  this.HIGH_ENERGY_USAGE_LIMIT = 25;
 }
 ```
 
@@ -541,7 +540,7 @@ energyUsage() {
   if (this.temperature < this.MEDIUM_ENERGY_USAGE_LIMIT) {
     return 'low-usage';
   }
-  if (this.temperature >= this.MEDIUM_ENERGY_USAGE_LIMIT && this.temperature <= this.MAX_LIMIT_PSM_ON) {
+  if (this.temperature < this.HIGH_ENERGY_USAGE_LIMIT) {
     return 'medium-usage';
   }
   return 'high-usage';
