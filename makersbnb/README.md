@@ -113,7 +113,7 @@ This week you might find it useful to expand your web development tool kit - [th
 4. Add a README that has:
    * A high level description of the project specification.
    * A user stories section (leave it blank for now).
-5. Start turning the [specifications](./specification_and_mockups.md) [into user stories](#turning-a-specification-into-user-stories) and adding these to your README using the [development workflow](../pills/development_workflow.md) to get the README merged into master.
+5. Start turning the headline [specifications](./specification_and_mockups.md) [into user stories](#turning-a-specification-into-user-stories) and adding these to your README using the [development workflow](../pills/development_workflow.md) to get the README merged into master.
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/makersbnb/README.md)
