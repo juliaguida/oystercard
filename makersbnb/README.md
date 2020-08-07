@@ -107,15 +107,13 @@ This week you might find it useful to expand your web development tool kit - [th
 
 ### Project setup
 
-1. One member in your group, create a GitHub repo for your Makersbnb project.
-2. Add the other members of your group as collaborators.
-3. Add a README that has:
-   * A description of the high level description of the spec.
-   * A user stories section.
-4. Start turning the [specification into user stories](#turning-a-specification-into-user-stories).
-5. Create a branch.
-6. Add the user stories to the README.
-7. Use the [developer workflow](#developer-workflow) to get the README merged into master.
+1. Create a private slack channel with all team members and invite the coach leading this week to that channel.
+2. One member in your group should create a GitHub repo for your Makersbnb project and add the other members of your group as collaborators.
+3. Add a link to this repo to the description of your team's slack channel.
+4. Add a README that has:
+   * A high level description of the project specification.
+   * A user stories section (leave it blank for now).
+5. Start turning the [specifications](./specification_and_mockups.md) [into user stories](#turning-a-specification-into-user-stories) and adding these to your README using the [development workflow](../pills/development_workflow.md) to get the README merged into master.
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/makersbnb/README.md)
