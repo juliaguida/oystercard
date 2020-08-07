@@ -9,9 +9,9 @@
 - Project teams set their own schedule
 
 
-#### Friday
-- 15:00:Student-led team retros (organised in your teams)
-- 16:00:MakersBnb presentations with the whole cohort
+#### Friday afternoon
+- Student-led team retros (organised in your teams)
+- MakersBnb presentations to the whole cohort
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/onsite/week06.md)
