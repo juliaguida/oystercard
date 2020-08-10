@@ -6,7 +6,7 @@
 
 2. You'll get into your teams and run through the [project setup](#project-setup).
 
-3. We'll gather back in 15 minutes for a quick Q&A.
+3. We'll gather back in some time for a quick Q&A this morning.
 
 4. You'll build Airbnb!
 
