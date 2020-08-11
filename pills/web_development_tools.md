@@ -9,7 +9,7 @@ The tools in this pill will be useful in almost every web development project, a
 Before starting to build your application, it's a great idea to draw simple illustrations of the user journey (wireframes). Wireframes typically show basic layout of each page in an application, including user interaction points like buttons and input fields. They can be linked together to show the overall user journey.
 
 - [Invision](https://www.invisionapp.com/) allows one free project for drawing wireframes.
-- [Balsamiq](https://balsamiq.com/) has a 30 day free trial of the cloud version.
+- [Framer](https://framer.com/) is a basic free mockup tool.
 
 ## Exploring APIs
 
