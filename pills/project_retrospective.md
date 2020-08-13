@@ -30,7 +30,7 @@ Time: 30 minutes.
 
 * Was everyone’s voice heard in the team? If not, how can we make it better?
 
-* Is everyone up to speed at where we are at? Did we all understand the steps to get here? If not, how can we make it better?
+* Is everyone up to speed with where we are at? Did we all understand the steps to get here? If not, how can we make it better?
 
 * Does everyone feel happy working in the team? If not, how can we make it better?
 
