@@ -6,10 +6,6 @@ You'll build a note-taking app by working through **challenges**.  No walkthroug
 
 ## Structure of the week
 
-### Group code reviews
-
-We'll have group code reviews on Wednesday, Thursday and Friday.  These will last 30 minutes.  The format will be similar to the Monday end of unit challenge code reviews.
-
 ### Notes app
 
 Build a notes app as a frontend, single page web app.  You'll be guided through this by the high-level challenges listed below.  However, there will be no walkthroughs.

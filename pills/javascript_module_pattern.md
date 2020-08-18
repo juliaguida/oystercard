@@ -1,6 +1,7 @@
 # JavaScript module pattern
 
 A design pattern to encapsulate your JavaScript code.
+**Note:** There are a few different ways to encapsulate code in JS. This is just one of them.
 
 ## Immediately Invoked Function Expression (IIFE)
 

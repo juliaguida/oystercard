@@ -40,7 +40,7 @@ When you decide on the API for your abstraction and feature, try to make it as t
 
 - [Writing tests without a testing framework](../pills/writing_tests_without_a_testing_framework.md)
 - :pill: [Frontend, single page app](https://github.com/makersacademy/course/blob/master/pills/frontend_single_page_app.md)
-- [Constructor and prototype pattern](https://github.com/makersacademy/skills-workshops/tree/master/week-5/encapsulation_with_constructor_and_prototype_pattern)
+- :pill: [Javascript Classes](https://github.com/makersacademy/course/blob/master/pills/js_classes.md)
 - :pill: [JavaScript module pattern](https://github.com/makersacademy/course/blob/master/pills/javascript_module_pattern.md)
 
 
