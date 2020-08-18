@@ -47,6 +47,15 @@ var barney = new Dog('Pug');
 ```
 > inside the function, `this` will be the newly created object.
 
+In javascript, there are no `attr_reader` or `attr_accessor`. Instead, instance variables are accessible to the outside by default so this code will return `'Pug'`
+
+```javascript
+var barney = new Dog('Pug');
+barney.breed
+```
+
+
+
 
 ## Defining methods
 
@@ -82,6 +91,28 @@ We can then call the `bark` method on any instance of `Dog` like so:
 fido = new Dog('Basset Hound');
 fido.bark('Fido');
 ```
+
+## Final structure
+
+Here's the dog class, with the two previous methods.
+
+```javascript
+class Dog {
+  constructor(breed) {
+    this.breed = breed;
+  }
+
+  bark(name) {
+    console.log(name + ' says Woof!');
+  }
+}
+```
+Here's how to then use this class:
+```javascript
+var fido = new Dog();
+fido.bark('Fido')
+```
+This will print `Fido says Woof!` to the console.
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/js_classes.md)
