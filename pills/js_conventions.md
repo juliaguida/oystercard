@@ -6,7 +6,7 @@ Some conventions are different between JavaScript and Ruby, while others will be
 
 ## Variable naming
 
-When naming variables in JS, we tend to use 'camel casing' rather than 'snake casing', as in Ruby. That means for variable names that are more than one word, we mark the start of a new word with a capital letter, instead of preceeding it with an underscore. For example
+When naming variables in JS, we tend to use 'camel casing' rather than 'snake casing', as in Ruby. That means for variable names that are more than one word, we mark the start of a new word with a capital letter, instead of preceding it with an underscore. For example
 
 ~~~ruby
 the_meaning_of_life = 42

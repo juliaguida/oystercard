@@ -22,8 +22,7 @@ Because you'll need to integrate several different elements to make the code wor
 ### Specification
 
 - Code is in a file called `note-controller.js`.
-- Code is wrapped in the module pattern.
-- Code uses the constructor and prototype pattern to define a note controller that can be instantiated.
+- Code uses Javascript classes to define a note controller that can be instantiated.
 - The note controller constructor does the following:
   - Takes a note list model as a parameter.
   - Adds a note that says `Favourite drink: seltzer`.
@@ -41,6 +40,5 @@ Because you'll need to integrate several different elements to make the code wor
 - [Document Object Model (DOM) on MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 - [getElementById on MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
 - [innerHTML on MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
-
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/further_javascript/06_display_note_list.md)

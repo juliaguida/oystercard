@@ -178,7 +178,6 @@ By the end of the week all developers can:
 
 * [Learning a new language by translation](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A)
 * [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/master/week-5/async_JS.md)
-* [JS Objects & Prototypes](https://hackmd.io/nb1VZarCTGicD6dMOo43Ww)
 * [Closures](https://hackmd.io/cIFsMAqISHqVHN_-p9hY0Q)
 
 ### Resources
@@ -224,10 +223,6 @@ By the end of the week all developers can:
 * Work competently in Javascript *
 * Reason about asynchronous behaviour in Javascript
 
-\* This week is analogous to week 2 in that developers will be wrestling with some underlying language concepts that are not well understood (by Makers).
-
-Most of the work and interventions we have run historically are meant to 'de-magic' Javascript and force developers to confront the pieces they are glossing over in an attempt to get work done.
-
 ### Challenges
 
 Note: they get the choice of morning goals / afternoon challenges vs all day project groups.
@@ -239,10 +234,10 @@ Note: they get the choice of morning goals / afternoon challenges vs all day pro
 
 ### Practicals
 
-* [JS Objects & Prototypes](https://hackmd.io/nb1VZarCTGicD6dMOo43Ww)
 * [Explore Closures in JS](https://github.com/makersacademy/skills-workshops/blob/master/week-7/explore_closures.md)
 * [Reading beyond your level](https://hackmd.io/F-pmnp3hRhePddmf3mnKGw)
 * [Modelling the flow of JS requests to an API](https://github.com/makersacademy/skills-workshops/tree/master/week-7/process-modelling-js-api/process_modelling)
+* [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/master/week-5/async_JS.md)
 
 ### Resources
 * [Technical Learning Resources](https://airtable.com/shrfvOQf2zZNGUhk8/tblokmw6yNUO75ge6?blocks=hide)

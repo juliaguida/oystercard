@@ -41,14 +41,11 @@ Here is the code for the implementation of `Circle`:
 
 ```js
 // circle.js
-
-(function(exports) {
-  function Circle() {
+class Circle {
+  constructor() {
     this.radius = 10;
-  };
-
-  exports.Circle = Circle;
-})(this);
+  }
+}
 ```
 
 To run these tests:
