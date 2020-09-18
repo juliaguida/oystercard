@@ -48,7 +48,7 @@ Time: 30 minutes.
 
 * Are we using/experiencing agile development? / What are the links to Agile development in what we’ve been doing?
 
-* If we could change one thing about your experience working as a team so far, what would it be?
+* If you could change one thing about your experience working as a team so far, what would it be?
 
 * When did we feel most productive and happy so far? How can we use this to impact the rest of our time working as a team?
 
