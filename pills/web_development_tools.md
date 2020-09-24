@@ -10,6 +10,7 @@ Before starting to build your application, it's a great idea to draw simple illu
 
 - [Invision](https://www.invisionapp.com/) allows one free project for drawing wireframes.
 - [Framer](https://framer.com/) is a basic free mockup tool.
+- [Balsamiq](https://balsamiq.com/) is another tool for wireframing – use the free trial to start with and if you'd like to continue beyond that you can use this license key `SoftwareDevelopment2020|u1RneJxzCncxiQ+pCc5PKylPLEpVcEktS83JL8hNzStRMDIwMqgxNDOyNDU3MwADAHDGDiM=`.  We're allowed to share it with you, our learners, but please don't share it with people outside Makers.
 
 ## Exploring APIs
 
