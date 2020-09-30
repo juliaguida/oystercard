@@ -20,7 +20,7 @@ You can use the approach below to collaborate with your pair on the weekly chall
 
 ### The next day
 
-1. Bob is now working with a new pair partner, Chetna. Bob got to step 3 yesterday while Chetna and Dave got to step 4, therefore Bob and Chetna decide to work off of Bob's code.
+1. Bob is now working with a new pair partner, Chetna. Bob got to step 3 yesterday while Chetna got to step 4, therefore Bob and Chetna decide to work off of Bob's code.
 
 2. Bob creates a `boris-bikes-2` repo on his GitHub account.
 
