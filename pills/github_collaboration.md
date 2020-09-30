@@ -20,7 +20,7 @@ You can use the approach below to collaborate with your pair on the weekly chall
 
 ### The next day
 
-1. Bob is now working with a new pair partner, Chetna.
+1. Bob is now working with a new pair partner, Chetna. Bob got to step 3 yesterday while Chetna and Dave got to step 4, therefore Bob and Chetna decide to work off of Bob's code.
 
 2. Bob creates a `boris-bikes-2` repo on his GitHub account.
 
@@ -28,7 +28,7 @@ You can use the approach below to collaborate with your pair on the weekly chall
 
 4. Bob can now push new commits from his clone to `boris-bikes-2`.
 
-5. Bob adds Chetna as a collaborator.  She can now clone and contribute to his repo.
+5. Bob adds Chetna as a collaborator. She can now clone and contribute to this new repo.
 
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/github_collaboration.md)
