@@ -26,7 +26,7 @@ By the end of the week, you should:
 
 This week, you'll work solo to complete different technical challenges. A self assessment form will help you reflect on the quality of your code, and coaches will review your code once you believe you have achieved professional quality.
 
-On Friday, you'll also come up with ideas for final projects.
+This week, you'll also come up with ideas for final projects.
 
 ### Processes
 
