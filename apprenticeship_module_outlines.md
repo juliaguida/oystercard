@@ -76,7 +76,7 @@ Not everyone will get onto these and that's OK – there will be plenty more tim
 * I use a methodical approach to solving problems
 * I use my own initiative
 
-Remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeships_starting_pack/course_goals.md).
+Remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md).
 
 ### Resources
 
