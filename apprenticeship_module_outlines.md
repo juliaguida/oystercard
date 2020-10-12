@@ -11,15 +11,9 @@ By the end of modules 1 & 2 all developers can:
 
 ### Challenges
 
-* [Build a website](https://github.com/makersacademy/build-a-website)
-* [Git collaboration](https://github.com/makersacademy/skills-workshops/blob/master/practicals/git_collaboration.md)
-* [The Command Line Mystery](https://github.com/makersacademy/clmystery)
 * [Mastery Quizzes](https://mastery-curriculum.makers.tech/)
 * [Student Directory](https://github.com/makersacademy/student-directory)
-* [_The_ Katathon](https://docs.google.com/document/d/1N-kf_HtZJgNs1iPahwa1VkSvDyU8shiyEpku_k0VLqQ/edit)
 * [TDD FizzBuzz Kata](https://github.com/makersacademy/course/blob/master/fizzbuzz/fizzbuzz.md)
-* [End of Module Challenge: Part 1](https://github.com/makersacademy/wednesday-challenge)
-
 
 ### Skills Breakdown
 
@@ -58,7 +52,7 @@ By the end of modules 1 & 2 all developers can:
 
 ## Week 3: Test-Driven Development
 
-### This module's goals
+### This module's main goals
 
 By the end of the module all developers can:
 
@@ -66,6 +60,15 @@ By the end of the module all developers can:
 * Test-drive a simple program using objects and methods
 * Pair using the driver-navigator style
 * Follow an effective debugging process
+
+### Stretch goals
+
+Not everyone will get onto these and that's OK – there will be plenty more time to work on them.
+
+* Test drive a more complex application, with several classes that work together
+* Use doubles and stubs to isloate your unit tests
+* Use static code analysis tools to gain insight into the quality of your code
+
 
 #### The broader course goals relevant to this module are...
 
@@ -75,30 +78,43 @@ By the end of the module all developers can:
 
 Remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeships_starting_pack/course_goals.md).
 
-### Exercises for self-directed learning
+### Resources
+
+* [TDD Fizzbuzz video](https://www.youtube.com/watch?)
+* [The 4 phases of a test](https://robots.thoughtbot.com/four-phase-test)
+* [The three rules of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+* [Encapsulation on Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_%28computer_programming%29)
+* [Technical Learning Resources](https://airtable.com/shrIlMSX4PrGxuSfT/tblokmw6yNUO75ge6?blocks=hide)
+
+### Exercises andfor self-directed learning
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
-The intention is that you should work through the core exercises in order, from the top to the bottom of the table, looking at optional exercises which interest you or which relate to key skills you feel you need more practice on.
+For some skills, there are several options so that you can spend some time focussing on that one skill, if that's the best use of your time right now.  There is no expectation that you or anyone else will complete all the exercises.
 
-| Key Skill                     | Core Exercise                                  | Resources                                                     |
-| ----------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------- |
-| Coding A Single Object        | [State and Behaviour][state_and_behaviour]     |  `bank_account_class.mov` - course videos                                                                      |
-| Writing Tests                 | [Writing Unit Tests][writing_unit_tests]       |  |
-|                               | [Testing Relationships Between Classes][testing_relationships_classes]       |  |
+If you're new to working with classes, start with *An intro to classes*.  If you've already used a class a few times, but not yet written any tests, start with *An intro to writing tests*.  If you've written a few tests already but would to get some more practice, start with *Test Driving a Dice Class*.  If you're looking for something more challenging, jump down to the stretch skills.
+
+| Key Skill                     | Exercise                                  | 
+| ----------------------------- | ---------------------------------------------- |
+| Using Classes        | [An intro to classes][state_and_behaviour]     |
+| Writing Tests                 | [An intro to writing tests][writing_unit_tests]       |
 | Test Driving Methods          | [Test Driving Practical][tdd_practical]        |                                         |
-|                               | [TDD Fizzbuzz][tdd_fizzbuzz]                   |   [TDD Fizzbuzz video](https://www.youtube.com/watch?v=OaDSK3G8474)                                                                     |
-|                               | [Test driving a kata][tdd_kata]                   |                                                                        |
-| Test Driving A Single Object  | [Bank Account][bank_account]                   |  `tdd-bank-account.mov` - course videos                               |
-|                               | [Diagram Your TDD Process][diagram_tdd]      |                                                                        |
-|                               | [Test Drive a Dice Class][tdd_dice_class]      |                                                                        |
-
-| Stretch Skill                 | Core Exercise                                  |                       
-| ----------------------------- | ---------------------------------------------- | 
+|                               | [TDD Fizzbuzz][tdd_fizzbuzz]                   |
+|                               | [Test driving a kata][tdd_kata]                   |
+| Test Driving A Single Object  | [Bank Account][bank_account]                   |
+|                               | [Diagram Your TDD Process][diagram_tdd]      |
+|                               | [Test Drive a Dice Class][tdd_dice_class]      |
 | Debugging                     | [Debugging Practical][debugging_practical]     |                     
 |                               | [Debug Fizzbuzz][debug_fizzbuzz]               |     
-|                               | [Debugging 1][debugging_1]                     |                        |                               |                                                |
-| Test Driving Multiple Objects | [Simple Checkout][simple_checkout]             |                        |                               |  [Test Drive a Notes App][tdd_notes_app]       |                                          
+|                               | [Debugging 1][debugging_1]                     |                     
+
+| Stretch Skill                 | Exercise                                  |                       
+| ----------------------------- | ---------------------------------------------- | 
+| Test Driving Multiple Objects | [Simple Checkout][simple_checkout]             |
+|                               | [Test Drive a Notes App][tdd_notes_app]        |
+|                               | [Testing Relationships Between Classes][testing_relationships_classes]       |
+| Deciding what to test         | [Testing behaviour rather than state][behaviour_vs_state] |
+| Object Oriented Design        | [Encapsulation][encapsulation] |                   
 
 
 [debugging_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md
@@ -117,6 +133,7 @@ The intention is that you should work through the core exercises in order, from 
 [bank_account]: https://github.com/makersacademy/simple_tdd_bank
 [tdd_kata]: http://codekata.com/kata/kata01-supermarket-pricing/
 [tdd_fizzbuzz]: https://github.com/makersacademy/course/blob/a40d2500a627546c70feebdc92da329147ae34c1/fizzbuzz/fizzbuzz.md
+[behaviour_vs_state]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/behaviour_not_state.md
 
 
 
@@ -142,7 +159,7 @@ The skills and concepts dealt with this week build on the things you learned las
 
 If you need to spend more time working on these things, now is the time!
 
-### This module's goals
+### This module's main goals
 
 By the end of the module all developers can:
 * Review another person's code and learn from what they read
@@ -201,7 +218,7 @@ If you would prefer to work on a single, larger project, take a look at the [Gil
 
 ## Week 5: The Web
 
-### This module's goals
+### This module's main goals
 By the end of the week, all developers can:
 * Write feature tests using Capybara
 * Test-drive a simple Sinatra app
@@ -257,7 +274,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 This week, you'll learn how to build database-backed web applications.  Along the way, you'll build your own [Object Relational Mapper](https://en.wikipedia.org/wiki/DataMapper). Bear in mind that you'll probably never have to do this again – you'd use an existing tool like [Active Record](https://github.com/rails/rails/tree/master/activerecord) or [Ruby Object Mapper](https://rom-rb.org/) instead – but building your own tools is a great way to learn how tools of that type work.
 
-### This module's goals
+### This module's main goals
 
 By the end of the module all developers can:
 
@@ -330,7 +347,7 @@ By the end of this module all developers can:
 
 In this module you'll focus on developing a great process for learning a new language.  From time to time you should ask yourself this question: what would my plan be if I were to start learning another new language tomorrow?  You might find that your answer to this question changes during the week.
 
-### This module's goals
+### This module's main goals
 
 By the end of the module all developers can:
 
