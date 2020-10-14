@@ -115,8 +115,12 @@ If you're new to working with classes, start with *An intro to classes*.  If you
 |                               | [Testing Relationships Between Classes][testing_relationships_classes]       |
 | Deciding what to test         | [Testing behaviour rather than state][behaviour_vs_state] |
 | Object Oriented Design        | [Encapsulation][encapsulation] |                   
+| Learn by building |           | [Build your own RSpec][rspec] |
+| Further TDD       |           | [TDD an encryption tool][encryption] |
 
 
+[encryption]: https://github.com/makersacademy/skills-workshops/tree/master/practicals/adventures/cipher-world
+[rspec]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md
 [debugging_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md
 [debug_fizzbuzz]: https://hackmd.io/s/S147x3Q3m
 [debugging_1]: https://github.com/makersacademy/skills-workshops/tree/master/week-1/debugging_1
