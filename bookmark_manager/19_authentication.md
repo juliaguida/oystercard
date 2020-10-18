@@ -37,5 +37,9 @@ In this challenge, you will implement sign in and out, which together are called
 
 ## [Walkthrough](walkthroughs/19.md)
 
+## Ed's Walkthrough
+Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_manager/pulls) that show the diff for each section I worked through.
+- branch [version6](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version6): Steps 18-19 | [recording](https://youtu.be/sV346p8zIkQ)
+
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/bookmark_manager/19_authentication.md)
