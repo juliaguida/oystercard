@@ -52,5 +52,10 @@ In this challenge, you will set up a **many to many relationship** between Bookm
 
 ## [Walkthrough](walkthroughs/17.md)
 
+## Ed's Walkthrough
+
+Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_manager/pulls) that show the diff for each section I worked through.
+- branch [version5](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version5): Steps 17 | [recording](https://youtu.be/lUgXzqBaDT4), [recording2](https://youtu.be/weFlLixdrBw)
+
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/bookmark_manager/17_many_to_many_relationships.md)
