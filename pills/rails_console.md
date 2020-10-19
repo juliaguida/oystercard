@@ -24,7 +24,7 @@ $ rails console
 > User.find(1) # gets user with id = 1
 ```
 
-### Manipulating database entries
+### Manipulating database entries
 
 Say you've filled your database with rubbish and want to wipe it.
 
