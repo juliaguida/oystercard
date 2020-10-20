@@ -209,9 +209,11 @@ The intention is that you should work through the core exercises in order, from 
 | Refactoring | Refactor one of your old codebases using OOD |
 |             | Refactor a peer's codebase, using OOD        |
 | Build with OOD | Build the game of life, battleships, tic-tac-toe or mastermind with strict application of SRP, your own double method |
-| Working with APIs| TDD an application that uses an [API][apis]. The tests should still pass when you're offline :)  |
+||Do the [bank] tech test with self assessment|
+| Working with APIs| TDD an application that uses an [API]. The tests should still pass when you're offline :)  |
 
-[apis]: https://rapidapi.com/collection/recommended-apis
+[bank]: https://github.com/makersacademy/course/blob/master/individual_challenges/bank_tech_test.md
+[API]: https://rapidapi.com/collection/recommended-apis
 [class]: https://www.lucidchart.com/pages/uml-class-diagram
 [sequence]: https://www.lucidchart.com/pages/uml-sequence-diagram
 [diagram]: https://www.diagram.codes/
@@ -221,7 +223,7 @@ The intention is that you should work through the core exercises in order, from 
 [refactoring_using_oo]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/refactoring.md
 [dependency_injection]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md
 
-If you would prefer to work on a single, larger project, take a look at the [Gilded Rose Design Project](https://github.com/makersacademy/gilded_rose_design_project). This is more involved and a wider scope than the more targeted exercises listed above, and is likely to take up most of your mornings this week.
+If you would prefer to work on a single, larger project, take a look at the [Gilded Rose Design Project](https://github.com/makersacademy/course/blob/master/individual_challenges/gilded_rose.md). This is more involved and a wider scope than the more targeted exercises listed above, and is likely to take up most of your mornings this week.
 
 ### Pairing challenge
 
