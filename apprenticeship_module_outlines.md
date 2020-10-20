@@ -165,7 +165,7 @@ If you need to spend more time working on these things, now is the time!
 
 ### This module's main goals
 
-By the end of the module all developers can:
+By the end of the module all developers who focus on OOD this wee can:
 * Review another person's code and learn from what they read
 * Review another person's code and give them meaningful feedback
 * Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
@@ -183,6 +183,11 @@ Stretch:
 
 And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md).
 
+### Resources
+* [POODR](https://www.poodr.com/), by Sandi Metz, is very highly regarded
+* [SOLID](https://rubygarage.org/blog/solid-principles-of-ood) principles with Ruby examples
+* [The 4 pilars of OOD](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
+
 ### Exercises for self-directed learning
 
 These exercises can be used for independent study, or enhanced by group discussion.
@@ -196,12 +201,20 @@ The intention is that you should work through the core exercises in order, from 
 | OOP 1: Encapsulation               | [Achieve high cohesion and low coupling][encapsulation]  |
 | OOP 2: Forwarding and polymorphism | [Refactor some code using forwarding and polymorphism][forwarding_polymorphism] |
 | OOP 3: Refactoring                 | [Extract some variables, methods and classes][refactoring_using_oo]       |
+| [Diagramming][diagram] | Do a [sequence] or [class] diagram of your Oystercard program             |
 
 | Stretch Skill                    | Core Exercise                                         |
 | -------------------------------- | ----------------------------------------------------- | 
 | OOP 4: Dependency injection      | [Inject some dependencies!][dependency_injection] |
+| Refactoring | Refactor one of your old codebases using OOD |
+|             | Refactor a peer's codebase, using OOD        |
+| Build with OOD | Build the game of life, battleships, tic-tac-toe or mastermind with strict application of SRP, your own double method |
+| Working with APIs| TDD an application that uses an [API][apis]. The tests should still pass when you're offline :)  |
 
-
+[apis]: https://rapidapi.com/collection/recommended-apis
+[class]: https://www.lucidchart.com/pages/uml-class-diagram
+[sequence]: https://www.lucidchart.com/pages/uml-sequence-diagram
+[diagram]: https://www.diagram.codes/
 [code_review]: https://github.com/makersacademy/skills-workshops/tree/master/week-2/code_review
 [encapsulation]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md
 [forwarding_polymorphism]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/oo_relationships.md
@@ -216,8 +229,10 @@ If you would prefer to work on a single, larger project, take a look at the [Gil
 
 ### Individual challenge options
 
-[Apply your new knowledge to the Airport challenge](https://github.com/makersacademy/airport_challenge)<br>
-[Do the office management challenge](https://github.com/makersacademy/office-management-challenge)
+This week you can choose your challenge...
+
+* [Apply your new knowledge to the Airport challenge](https://github.com/makersacademy/airport_challenge)<br>
+* [Do the office management challenge](https://github.com/makersacademy/office-management-challenge) or [the takeaway challenge](https://github.com/makersacademy/takeaway-challenge) if you want to try something new.
 
 
 ## Week 5: The Web
