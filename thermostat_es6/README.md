@@ -49,7 +49,7 @@ Return to these questions each day to check your understanding.
 
 * Can you follow the flow of control over the whole web app cycle? e.g. the interface of a thermostat is displayed in HTML/CSS, the "increase temperature" button is clicked, a JavaScript click event fires, JavaScript code runs to handle the event, an Ajax request is made, a Sinatra controller POST action handler is run, a Thermostat Ruby model is updated, the new temperature is saved to a Postgres database, the new temperature is returned as JSON by the Ruby controller, JavaScript code runs to update the temperature in the web page.
 
-## The Count project
+## The Count projects
 
 The [Count](https://github.com/maryrosecook/count) project is a tiny, model full stack web app.  It exemplifies:
 
@@ -57,7 +57,13 @@ The [Count](https://github.com/maryrosecook/count) project is a tiny, model full
 * Testing frontend code.
 * Separating frontend concerns into model, view and controller.
 
-It's very worthwhile spending time investigating and playing with the code in this project to understand how it works.
+Here's the simple [Count project rewritten in ES6](https://github.com/dearshrewdwit/count). It exemplifies:
+* Making Ajax requests using fetch.
+* Separating frontend concerns using a component approach
+* Testing frontend code.
+* Testing controller responses.
+
+It's very worthwhile spending time investigating and playing with the code in these projects to understand how they work.
 
 ## Challenges
 
