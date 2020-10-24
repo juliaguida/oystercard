@@ -23,6 +23,11 @@ var bark = function() {
 }
 
 bark();  //invoking the function will return 'Woof'
+
+// ES6
+let miaow = () => 'miaow'; // equivalent to `let miaow = () => { return 'Miaow' }`; ommitting the {} allows for an implicit return
+
+miaow()
 ```
 You must include the parentheses when invoking a function, even if there are no arguments.  Can you reason why?  What is `bark;` on its own with no parentheses?
 
@@ -33,6 +38,13 @@ var bark = function(name) {
 }
 
 bark('Barney');  //will return 'Barney says Woof'
+
+// ES6
+let miaow = (name) => {
+  return `${name} says miaow`;
+}
+
+miaow('Ed') // "Ed says Miaow"
 ```
 > If you want to return a value from a JavaScript function, you must explicitly use `return`, otherwise it will just return `undefined`.
 
@@ -52,6 +64,10 @@ In JavaScript, we can do a very similar thing by passing an **anonymous function
 ['one', 'two', 'three'].forEach(function(number) {
   console.log(number);
 });
+
+// ES6
+['one', 'two', 'three'].forEach(number => console.log(number)) // the parentheses for the anonymous arrow function argument are not needed. Note how much more readable this is!
+
 ```
 
 But don't allow the syntax to confuse you; what are we actually passing to the `forEach` function?  It's just a Function object.  The following is exactly the same:
@@ -60,7 +76,10 @@ var callback = function(arg) {
   console.log(arg);
 };
 
-['one', 'two', 'three'].forEach(callback);
+// ES6
+let callback = (arg) => console.log(arg);
+
+['one', 'two', 'three'].forEach(callback);  
 ```
 > It's common to refer to this use of a function as a **callback**.
 
