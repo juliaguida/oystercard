@@ -262,6 +262,10 @@ These really are stretch goals.  We've not created any exercises for them, so pa
 
 And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md).
 
+### Resources
+
+[Here](https://airtable.com/shrlqxQm2BeUDvFyp/tblokmw6yNUO75ge6), you'll find a whole bunch of resources tagged in various ways.
+
 ### Exercises for self-directed learning
 
 These exercises can be used for independent study, or enhanced by group discussion.  They will help you work towards this week's goals.  If you find that these tasks contain a lot of code that confuses you, you might be better off doing some exercises from a previous week to cement that learning.  If you're not sure what to do, reach out to a coach right now!  Don't hesitate :)
