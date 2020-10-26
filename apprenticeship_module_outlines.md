@@ -266,6 +266,8 @@ And you can remind yourself of the rest [here](https://github.com/makersacademy/
 
 These exercises can be used for independent study, or enhanced by group discussion.  They will help you work towards this week's goals.  If you find that these tasks contain a lot of code that confuses you, you might be better off doing some exercises from a previous week to cement that learning.  If you're not sure what to do, reach out to a coach right now!  Don't hesitate :)
 
+> WATCH OUT, REMOTE WORKERS!!  Some of these exercises ask you to collaborate with another learner and send messages from your machine to theirs. This will not work as described unless you're on the same network, so you won't be able to do those few parts whilst working remotely.
+
 | Key Skill             | Core Exercise                                        | Optional Exercises       |
 | --------------------- | ---------------------------------------------------- | ------------------------ |
 | Servers/Clients       | [Servers][servers]                                   |                          |
