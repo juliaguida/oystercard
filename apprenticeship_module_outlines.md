@@ -289,7 +289,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 [rest]: https://github.com/makersacademy/rest
 [comedy_api]: https://github.com/makersacademy/comedy_api_tech_test
 [to_do_list]: https://github.com/makersacademy/todo-list-web
-[birthday]: https://github.com/makersacademy/birthdays
+[birthday]: https://github.com/makersacademy/course/blob/master/intro_to_the_web/post_challenges/birthday_app.md
 
 ### Pairing challenge
 
