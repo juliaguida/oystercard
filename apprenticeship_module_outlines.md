@@ -264,7 +264,8 @@ And you can remind yourself of the rest [here](https://github.com/makersacademy/
 
 ### Resources
 
-[Here](https://airtable.com/shrlqxQm2BeUDvFyp/tblokmw6yNUO75ge6), you'll find a whole bunch of resources tagged in various ways.
+* [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) – you'll probably get asked about this in a job interview one day ;)
+* [History of the web](https://webfoundation.org/about/vision/history-of-the-web/?gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmJcknSPKlT1ckzH7grP8DX_Mxr1be9qlqv13OEC9aI7pYe0CJoAVKQaAikrEALw_wcB)
 
 ### Exercises for self-directed learning
 
@@ -277,9 +278,11 @@ These exercises can be used for independent study, or enhanced by group discussi
 | Servers/Clients       | [Servers][servers]                                   |                          |
 |                       | [Clients][clients]                                   |                          |
 |                       | [HTTP Severs][http_servers]                          |                          |
-| TDD Web App           | [Birthday][birthday]                                 |                          |
+| TDD                   | [Learn Capybara][capybara_workout]                   |                          |
+|                       | [Birthday][birthday]                                 |                          |
 | REST                  | [REST Game][rest]                                    | [Comedy API][comedy_api] |
 
+[capybara_workout]: https://capybaraworkout.herokuapp.com/
 [servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md
 [clients]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md
 [http_servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md
