@@ -6,7 +6,7 @@
 
 2. You'll get into your teams and run through the [project setup](#project-setup).
 
-3. We'll gather back in some time for a quick Q&A this morning.
+3. We'll either gather back in some time for a quick Q&A this morning or your coach will instruct you to post your questions in slack.
 
 4. You'll build Airbnb!
 
