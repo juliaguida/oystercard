@@ -324,6 +324,7 @@ If you have completed all of the above goals, you can move on to these.
 
 * Deploy an application to Heroku
 * Explain the difference between Postgres and MongoDB
+* Swap postgres DB for MongoDB in one of your existing applications
 
 #### The broader course goals relevent to this module are...
 
@@ -336,14 +337,15 @@ And you can remind yourself of the rest [here](https://github.com/makersacademy/
 
 These exercises can be used for independent study, or enhanced by pairing and group discussion.
 
-| Key Skill              | Core Exercise                                        | Optional Exercises       |
-| ---------------------- | ---------------------------------------------------- | ------------------------ |
-| Explain db relations   | [Entity Relationship Diagrams][ERD]                  |                          |
-| Use SQL                | [SQL Zoo][zoo]                                       |                          |
-| Connect an app to a DB | [Extend a DB backed app][ruby-db-queries]            | [Add a DB to an app][add-a-db] |
-|                        |                                                      | [Experiment with DataMapper][datamapper] |
+| Key Skill              | Core Exercise                                  | Optional Exercises             |
+| ---------------------- | -----------------------------------------------| ------------------------------ |
+| Explain db relations   | [Entity Relationship Diagrams][ERD]            |                                |
+| Use SQL                | [SQL Zoo][zoo]                                 |                                |
+| Connect an app to a DB | [Extend a DB backed app][ruby-db-queries]      | [Add a DB to an app][add-a-db] |
+| Build an app with a DB | [Message board][build-1]                       | [Daily diary app][build-1]     |
 
-[datamapper]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/diving_into_code.md
+[build-1]: https://github.com/makersacademy/skills-workshops/tree/master/practicals/databases/blog
+[build-2]: https://rom-rb.org/
 [add-a-db]: https://github.com/makersacademy/todo-list-web
 [ruby-db-queries]: https://github.com/makersacademy/makers-sql-session
 [zoo]: https://sqlzoo.net/
