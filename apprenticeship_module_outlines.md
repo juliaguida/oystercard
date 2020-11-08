@@ -415,7 +415,7 @@ How many of these can you tick off?
    [ ] We do not have to ask for clarity on tickets in the middle of a sprint\
    [ ] All of our code is peer reviewed\
    [ ] We are sharing knowledge within the team\
-   [ ] We all feel comfortable speaking openly in team retrospectives\
+   [ ] We all feel comfortable speaking openly in team retrospectives
 
 What would you add to the list?
 
