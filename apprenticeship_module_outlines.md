@@ -386,7 +386,8 @@ Some team meetings have been added to your schedule already:
 1. Team standups, where you'll quickly check in with each other and communicate your plans for the day.  Keep them brief. If you need time to discuss things in more detail, add specific meetings to your agenda for that.
 2. Team stand downs, where you'll quickly refelct on how your day has gone.  Again keep them brief.
 4. Sprint planning, where you'll aim to plan what work your team will take on in the next sprint.
-5. Sprint retrospectives, where you'll seek answers to the question "how can we be a better team?"
+5. Sprint review, where you look back on the work done in the current sprint. If you had clients, they'd be in the room for this one.
+5. Sprint retrospectives, where you'll seek answers to the question "how can we be a better team?".  You'll think about what you did well, what could be improved and what actions you'll take to realise those improvements.
 
 You might consider adding these to your shedule:
 
