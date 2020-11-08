@@ -411,11 +411,11 @@ As facilitator, your most important job is to create and maintain an friendly sp
 
 How many of these can you tick off?
 
-[] We all understand every ticket in the backlog
-[] We do not have to ask for clarit on tickets in the middle of a sprint
-[] All of our code is peer reviewed
-[] We are sharing knowledge within the team
-[] We all feel comfortable speaking openly in team retrospectives
+   [ ] We all understand every ticket in the backlog\
+   [ ] We do not have to ask for clarit on tickets in the middle of a sprint\
+   [ ] All of our code is peer reviewed\
+   [ ] We are sharing knowledge within the team\
+   [ ] We all feel comfortable speaking openly in team retrospectives\
 
 What would you add to the list?
 
