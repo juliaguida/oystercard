@@ -36,7 +36,7 @@ To complete this challenge you will need to have Firefox installed.
 
 - [Selenium](http://www.seleniumhq.org/)
 - [Capybara Cheat Sheet](https://thoughtbot.com/upcase/test-driven-rails-resources/capybara.pdf)
-- [geckodriver brew formula](http://brewformulas.org/geckodriver)
+- [geckodriver brew formula](hhttps://formulae.brew.sh/formula/geckodriver)
 - [mozilla geckodriver](http://brewformulas.org/geckodriver)
 
 ### [Walkthrough](walkthroughs/testing_with_capybara.md)
