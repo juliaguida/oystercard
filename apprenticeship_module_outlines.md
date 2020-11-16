@@ -443,12 +443,22 @@ By the end of the module all developers can:
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
-| Key Skill                 | Core Exercise                                                  | Optional Exercises                                          |
-| ------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------- |
-| Learn by translation      | [Learning a new language by translation][learn_by_translation] |                                                             |
-| Encapsulation             | [JS Objects][js_objects]               |                                                             |
-| Asynchronous control flow | [Following the flow in asynchronous JavaScript][js_async]      | [Callbacks and following the flow of control][js_callbacks] |
+| Key Skill                 | Core Exercise                                                  |
+| ------------------------- | -------------------------------------------------------------- |
+| Learn by translation      | [Learning a new language by translation][learn_by_translation] |
+| Encapsulation             | [JS Objects][js_objects]                                       |
+| Using events              | [Following the flow][events]                                   |
 
+| Stretch Skill             |                                                                |
+| ------------------------- | -------------------------------------------------------------- |
+| Consume an API            | [Chitter front end challenge][chitter_front_end]               |
+| Advanced Logic            | [Create a bowling scorecard][bowling]                          |
+| Learn another language    | [TDD the Takeaway challenge in a a new langauge][takeaway]     |
+
+[takeaway]: https://github.com/makersacademy/takeaway-challenge
+[bowling]: https://github.com/makersacademy/bowling-challenge
+[chitter_front_end]: https://github.com/makersacademy/frontend-api-challenge
+[events]: https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-events
 [learn_by_translation]: https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A
 [js_objects]: https://hackmd.io/LNOhghGETu2Mry0LYCGKwQ?view
 [js_async]: https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-following-the-flow-async
