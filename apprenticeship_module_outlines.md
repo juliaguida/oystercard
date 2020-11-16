@@ -424,6 +424,8 @@ What would you add to the list?
 
 In this module you'll focus on developing a great process for learning a new language.  From time to time you should ask yourself this question: what would my plan be if I were to start learning another new language tomorrow?  You might find that your answer to this question changes during the week.
 
+If you already know some Javascript, please keep an open mind and pay close attention to how the week is structured. If you can do this really well, you'll come away with some insights into how to learn new programming languages.
+
 ### This module's main goals
 
 By the end of the module all developers can:
