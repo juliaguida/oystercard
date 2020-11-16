@@ -24,7 +24,7 @@ All of these things are either optional for test code, or can be easily achieved
 ```js
 // circle-tests.js
 
-(function(exports) {
+(function() {
   function testCircleRadiusDefaultsTo10() {
     var circle = new Circle();
 
@@ -34,7 +34,7 @@ All of these things are either optional for test code, or can be easily achieved
   };
 
   testCircleRadiusDefaultsTo10();
-})(this);
+})();
 ```
 
 Here is the code for the implementation of `Circle`:

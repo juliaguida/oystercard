@@ -92,7 +92,7 @@ ID selectors use a `#` (hashtag) before the ID name.
 
 > There are other selectors available too, such as attribute selectors (like `[data-role="carousel"]`) and pseudoselectors (like `:nth-child`).
 
-####Combining selectors
+#### Combining selectors
 
 You can use selectors together to _cascade_ your styles to more specific elements. For example, you might want to make all images on your site square:
 
