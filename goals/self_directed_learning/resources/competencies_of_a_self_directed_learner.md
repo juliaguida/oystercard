@@ -5,10 +5,10 @@
   </tr>
   <tr>
     <th>Competencies of self-directed learning</th>
-    <td>None</td>
-    <td>Weak</td>
-    <td>Fair</td>
-    <td>Strong</td>
+    <td>Not started</td>
+    <td>Started</td>
+    <td>Improving</td>
+    <td>Excelling</td>
   </tr>
   <tr>
     <td>1. An understanding of the differences in assumptions about learners and the skills required for learning under teacher-directed learning and self-directed learning, and the ability to explain these differences to others.</td>
