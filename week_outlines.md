@@ -164,6 +164,26 @@ By the end of the week all developers can:
 
 ## Week 5
 
+If you haven't already, start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) or using [Reviews](https://www.youtube.com/watch?v=TqKG8j_tgbM) to focus on improving your developer process. Anyone from any cohort ever can use these resources!
+
+By the end of the week all developers can build tested, easy-to-change software in a team using these processes:
+
+* Break down projects into tasks and allocate them to pairs
+* Build to a specificiation (rather than challenges)
+* Run stand-ups and retrospectives
+* Use a branch/PR/merge git workflow
+* Give and receive meaningful code review
+
+### Challenges
+
+* [Weekdays - MakersBnB](https://github.com/makersacademy/course/tree/master/makersbnb)
+* [End of unit - Bowling](https://github.com/makersacademy/bowling-challenge-ruby)
+
+### Resources
+* [Technical Learning Resources](https://airtable.com/shrxLK3dcqRz9VssB/tblokmw6yNUO75ge6?blocks=hide)
+
+## Week 6
+
 By the end of the week all developers can:
 
 * Test drive a simple front-end web app with Javascript
@@ -172,7 +192,7 @@ By the end of the week all developers can:
 ### Challenges
 
 * [Afternoons - Thermostat](https://github.com/makersacademy/course/blob/master/thermostat_es6/README.md)
-* [End of unit - Bowling](https://github.com/makersacademy/bowling-challenge)
+* [End of unit - Bowling continuation in JS](https://github.com/makersacademy/bowling-challenge)
 
 ### Practicals
 
@@ -192,28 +212,6 @@ A tiny JavaScript/Sinatra app that mimics the architecture of the Thermostat app
 * [Following the flow and getting visibility](https://github.com/makersacademy/skills-workshops/tree/master/week-5/following_the_flow_and_getting_visibility_in_javascript_es6)
 * [Following the Ajax request/response cycle](https://github.com/makersacademy/skills-workshops/tree/master/week-5/following_ajax_request_response_cycle)
 * [Callbacks and following the flow of control](https://github.com/makersacademy/skills-workshops/tree/master/week-5/callbacks_following_the_flow_of_control)
-
-
-## Week 6
-
-If you haven't already, start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) or using [Reviews](https://www.youtube.com/watch?v=TqKG8j_tgbM) to focus on improving your developer process. Anyone from any cohort ever can use these resources!
-
-By the end of the week all developers can build tested, easy-to-change software in a team using these processes:
-
-* Break down projects into tasks and allocate them to pairs
-* Build to a specificiation (rather than challenges)
-* Run stand-ups and retrospectives
-* Use a branch/PR/merge git workflow
-* Give and receive meaningful code review
-
-### Challenges
-
-* [Weekdays - MakersBnB](https://github.com/makersacademy/course/tree/master/makersbnb)
-* [End of unit - Bowling again](https://github.com/makersacademy/bowling-challenge)
-
-### Resources
-* [Technical Learning Resources](https://airtable.com/shrxLK3dcqRz9VssB/tblokmw6yNUO75ge6?blocks=hide)
-
 
 ## Week 7
 
