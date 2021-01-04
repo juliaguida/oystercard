@@ -20,8 +20,6 @@
 
 * Use coaches to help unblock you
 
-* Careers sessions will begin either this week or next - someone from the careers team will reach out with more details!
-
 ## Goals for the week
 
 Ask yourself the same two questions:
