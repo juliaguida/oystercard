@@ -27,4 +27,4 @@ name, age, job_title = employee_data
 ````
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/parallel_assignment.md)
+

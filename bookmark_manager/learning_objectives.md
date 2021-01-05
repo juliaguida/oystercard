@@ -68,4 +68,4 @@ Under each objective is an example thing. If you can confidently do that example
   * Take a line of SQL written in a controller that reads bookmarks from the database. Encapsulate it in a method on a `Bookmark` model.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/bookmark_manager/learning_objectives.md)
+

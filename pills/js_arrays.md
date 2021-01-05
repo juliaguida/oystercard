@@ -48,4 +48,4 @@ if(animals.indexOf('cow') > -1) {
 }
 ~~~
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/js_arrays.md)
+

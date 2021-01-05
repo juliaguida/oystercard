@@ -64,4 +64,4 @@ At the end of the project, each team will present the great work done!  They wil
 - [guidelines](./presentation_guidelines.md) to follow when planning your presentation.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/engineering_projects/README.md)
+

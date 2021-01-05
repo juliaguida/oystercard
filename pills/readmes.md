@@ -67,4 +67,4 @@ If you do feel like making your README extra awesome, [here is a list of awesome
 Happy documentationing.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/readmes.md)
+

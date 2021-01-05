@@ -140,4 +140,4 @@ Exercises
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/walkthroughs/more_javascript.md)
+

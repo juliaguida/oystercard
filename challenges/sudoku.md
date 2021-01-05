@@ -381,4 +381,4 @@ end
 
 **Good luck!**
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/challenges/sudoku.md)
+

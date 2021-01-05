@@ -67,4 +67,4 @@ And remember, if all else fails, there's alwasy [xkcd](http://xkcd.com/) for con
 ![XKCD](http://imgs.xkcd.com/comics/computer_problems.png)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/resources.md)
+

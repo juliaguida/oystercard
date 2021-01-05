@@ -50,4 +50,4 @@ Notice how we described the **method** as a verb that "expresses the intention o
 ### [Walkthrough](walkthroughs/sinatra_posted_params.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/sinatra_posted_params.md)
+

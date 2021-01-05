@@ -32,4 +32,4 @@ FIRST AID
 If you have any questions related to fire safety, first aid, or general health & safety, please direct them to our health & safety officers Jess or Chloe.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/health_and_safety.md)
+

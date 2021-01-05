@@ -27,4 +27,4 @@ However, we don't want to print this return key on line 3. Otherwise the text wi
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/user_interaction.md)
+

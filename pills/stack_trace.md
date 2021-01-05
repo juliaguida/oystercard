@@ -41,4 +41,4 @@ This tells us that a line 1226 in the file `configuration.rb` that is inside a m
 The next line in the stack trace shows what was executed directly before `configuration.rb:1226` and so on. In this case the stack trace is showing the flow of execution through the underlying system code before the error was encountered.  In general you'll be hunting through stack traces to see if there are any parts of *your code* being hit and focusing on those.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/stack_trace.md)
+

@@ -842,4 +842,4 @@ Try to write small, reusable functions and make use of Clojure's [standard libra
 * [Atoms, Refs, Vars](http://programmers.stackexchange.com/questions/143361/clojure-vars-atoms-and-refs-oh-my)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/clojure.md)
+

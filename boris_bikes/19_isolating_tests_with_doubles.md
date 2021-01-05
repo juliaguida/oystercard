@@ -94,4 +94,4 @@ In the next challenge, we'll figure out how to get this test passing (i.e. how t
 
 [Previous Challenge](18_dealing_with_broken_bikes.md) | [Next Challenge](20_mocking_behaviour_on_doubles.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/19_isolating_tests_with_doubles.md)
+

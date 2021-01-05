@@ -32,4 +32,4 @@ For this app, you won't take that approach.  You'll focus on unit tests.  You'll
 - :pill: [JavaScript module pattern](https://github.com/makersacademy/course/blob/master/pills/javascript_module_pattern.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/further_javascript/01_note_model.md)
+

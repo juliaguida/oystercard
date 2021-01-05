@@ -77,4 +77,4 @@ Because you made a database with the same name as your computer, from now on you
 [Next Challenge](../05_creating_your_first_table.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/bookmark_manager/walkthroughs/04_mac.md)
+

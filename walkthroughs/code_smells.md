@@ -24,4 +24,4 @@ References
 * [http://sourcemaking.com/refactoring/bad-smells-in-code](http://sourcemaking.com/refactoring/bad-smells-in-code)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/walkthroughs/code_smells.md)
+

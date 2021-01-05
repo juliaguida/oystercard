@@ -23,4 +23,4 @@ In this challenge, you'll learn how to listen for the event triggered when a use
 - [`preventDefault()` on MDN](https://developer.mozilla.org/en/docs/Web/API/Event/preventDefault)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/further_javascript/11_intercept_submit_event.md)
+

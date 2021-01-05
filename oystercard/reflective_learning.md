@@ -39,4 +39,4 @@
 - I make time to research things I find interesting
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/reflective_learning.md)
+

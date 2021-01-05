@@ -47,4 +47,4 @@ Then find the next ticket in `To Do` to tackle. If there's nothing left, call an
 [1]: https://en.wikipedia.org/wiki/Scrum_(software_development)#Workflow
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/how-to/2_day_sprint.md)
+

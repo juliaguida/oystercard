@@ -31,4 +31,4 @@ You can use the approach below to collaborate with your pair on the weekly chall
 5. Bob adds Chetna as a collaborator. She can now clone and contribute to this new repo.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/github_collaboration.md)
+

@@ -16,4 +16,4 @@ but coming soon will be:
 * and lots more
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/refactoring.md)
+

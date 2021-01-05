@@ -20,4 +20,4 @@ This greets me. When I revisit the page, however, without passing a parameter, t
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/walkthroughs/http_parameters.md)
+

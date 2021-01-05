@@ -21,4 +21,4 @@ Play with the hash in irb (:pill:  [irb](https://github.com/makersacademy/course
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/hashes.md)
+

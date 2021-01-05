@@ -15,4 +15,4 @@ Instagram Marketplace
 * [OmniAuth](https://github.com/makersacademy/course/blob/master/walkthroughs/devise_omniauth.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/challenges/instagram-marketplace.md)
+

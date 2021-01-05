@@ -177,4 +177,4 @@ Everything passes, and we're done!
 [Next challenge](../killing_the_global_variable.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/walkthroughs/losing_and_winning.md)
+

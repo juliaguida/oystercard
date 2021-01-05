@@ -96,4 +96,4 @@ Remember to focus on getting to an MVP ASAP.
 * [Active Record Migrations](http://guides.rubyonrails.org/migrations.html)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/rails/README.md)
+

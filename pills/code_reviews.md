@@ -114,4 +114,4 @@ To consider how to build an app properly, generally you need to be just applying
 * [Principle of Least Astonishment](http://programmers.stackexchange.com/a/187462) - Does your code do what someone would expect it to? Are you finding there a lots of comments where you have to explain yourself? If so you need to refactor your code so it is self-evident what is going on wherever possible.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/code_reviews.md)
+

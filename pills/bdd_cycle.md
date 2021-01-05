@@ -76,4 +76,4 @@ Fortunately, we've written a highly-documented system (our tests act as our docu
 ![Changes](./images/bdd/8_changes.jpg)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/bdd_cycle.md)
+

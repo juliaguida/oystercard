@@ -42,4 +42,4 @@ One way of solving this error would be to define this class and link it to this 
 [Next challenge](../04_adding_balance.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/walkthroughs/03_debugging.md)
+

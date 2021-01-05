@@ -62,4 +62,4 @@ Your Oystercard should now only send messages to the JourneyLog. Although it doe
 [Next challenge](../16_fare_for_zones.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/walkthroughs/15_extracting_journey_log.md)
+

@@ -48,4 +48,4 @@ This Gruntfile will run `jshint` every time you type `grunt`.
 * Modify your default task to run both JSHint and Jasmine.  
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/grunt.md)
+

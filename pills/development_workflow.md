@@ -21,4 +21,4 @@
 10. Highfive someone/something.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/development_workflow.md)
+

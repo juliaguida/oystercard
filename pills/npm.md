@@ -85,4 +85,4 @@ Finally, add your node_modules folder to your .gitignore file, to avoid clogging
 * [npm-init documentation](https://www.npmjs.org/doc/cli/npm-init.html)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/npm.md)
+

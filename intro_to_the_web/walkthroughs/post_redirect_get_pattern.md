@@ -66,4 +66,4 @@ If we run `rspec` again, our feature test will pass. Congratulations, you have r
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/walkthroughs/post_redirect_get_pattern.md)
+

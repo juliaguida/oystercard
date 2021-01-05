@@ -32,4 +32,4 @@ Click **View downloads** under Xcode 5 section, enter your Apple ID ( _you use i
 
 ![finder](https://github.com/makersacademy/course/raw/master/day_one/images/command_line_tools.png)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/installing_xcode.md)
+

@@ -128,4 +128,4 @@ Since we're now firmly back in the land of OOD, let's refactor our code so far t
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/walkthroughs/implementing_hit_points.md)
+

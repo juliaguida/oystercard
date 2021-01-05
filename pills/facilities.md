@@ -48,4 +48,4 @@ There's a shower in the larger toilet on the second floor.  Please leave it clea
 * As far as possible, painting, internet downtime and smaller facilities construction projects that affect you will happen outside the core hours.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/facilities.md)
+

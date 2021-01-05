@@ -21,4 +21,4 @@ Write code that is capable of calculating each new generation, given a starter b
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/individual_challenges_with_reviews/game_of_life.md)
+

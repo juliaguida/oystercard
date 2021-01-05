@@ -226,4 +226,4 @@ The "case" is the value that we want to evaluate - in our case, the fruit variab
 
 Quite often, case statements are a [code smell](http://en.wikipedia.org/wiki/Code_smell) that indicates that the code can be refactored to make it simpler. However, they can be genuinely useful in some cases.
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/control_flow.md)
+

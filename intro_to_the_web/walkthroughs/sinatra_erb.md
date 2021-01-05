@@ -62,4 +62,4 @@ So, we've just learned how to evaluate Ruby expressions within our views, using 
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/walkthroughs/sinatra_erb.md)
+

@@ -79,4 +79,4 @@ What you've just done was to add the files individually (first `Gemfile`, then `
 [Next challenge](../02_initialize_rspec.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/walkthroughs/01_create_gemfile.md)
+

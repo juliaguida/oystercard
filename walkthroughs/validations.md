@@ -25,4 +25,4 @@ Validations
 * doing the check in update as well as new
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/walkthroughs/validations.md)
+

@@ -71,4 +71,4 @@ host    all             all             127.0.0.1/32            trust
 [Next Challenge](../05_creating_your_first_table.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/bookmark_manager/walkthroughs/04_linux.md)
+

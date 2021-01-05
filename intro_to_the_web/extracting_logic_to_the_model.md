@@ -56,4 +56,4 @@ This challenge introduces the use of a Global Variable (`$variable`). In Ruby, t
 ### [Walkthrough](walkthroughs/extracting_logic_to_the_model.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/extracting_logic_to_the_model.md)
+

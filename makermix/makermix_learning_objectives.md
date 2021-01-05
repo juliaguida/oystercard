@@ -22,4 +22,4 @@ Testing a complete application end to end
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/makermix/makermix_learning_objectives.md)
+

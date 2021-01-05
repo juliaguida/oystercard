@@ -30,4 +30,4 @@ In this challenge, you will implement a simple User Story driven by Capybara. Th
 ### [Walkthrough](walkthroughs/viewing_hit_points.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/viewing_hit_points.md)
+

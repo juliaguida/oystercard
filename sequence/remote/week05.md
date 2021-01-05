@@ -29,4 +29,4 @@ CHOOSE EITHER (or do both if you are keen!):
 - [Frontman Challenge](https://github.com/makersacademy/frontman-challenge) - this will help you develop your front end skills
 - [Bowling Challenge](https://github.com/makersacademy/bowling-challenge) - this will focus on business logic / OOD
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/remote/week05.md)
+

@@ -14,4 +14,4 @@ Databases are a major consideration: we don't want to use the same database in d
 
 That is why we check what environment we're in, and default to development.
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/development_environments.md)
+

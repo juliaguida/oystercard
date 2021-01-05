@@ -66,4 +66,4 @@ You may want to update the `Bookmark.all` method to return instances of the `Boo
 ## [Walkthrough](walkthroughs/11.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/bookmark_manager/11_wrapping_database_data_in_program_objects.md)
+

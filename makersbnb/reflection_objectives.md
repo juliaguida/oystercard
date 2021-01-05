@@ -32,4 +32,4 @@
   - I set my own direction
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/makersbnb/reflection_objectives.md)
+

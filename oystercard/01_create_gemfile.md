@@ -44,4 +44,4 @@ In this issue you will create a valid Gemfile for this project.
 
 [Next Challenge](02_initialize_rspec.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/01_create_gemfile.md)
+

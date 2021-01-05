@@ -30,4 +30,4 @@ Standups are student-organised.
 [Challenges Friday schedule](./challenges_friday_schedule.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/onsite/week04.md)
+

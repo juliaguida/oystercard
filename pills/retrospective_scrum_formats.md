@@ -35,4 +35,4 @@ Planning
 Planning meetings should focus on making plans of action for the next short time period, e.g. 1 week
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/retrospective_scrum_formats.md)
+

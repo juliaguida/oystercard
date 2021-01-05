@@ -17,4 +17,4 @@ This is a good project to start with to learn test driven development.
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/goals/recipes/testing_1.md)
+

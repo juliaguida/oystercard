@@ -29,4 +29,4 @@
 - 6.00: Announcements for the weekend
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/remote/week03.md)
+

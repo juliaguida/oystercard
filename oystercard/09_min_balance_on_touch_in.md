@@ -54,4 +54,4 @@ I need to have the minimum amount (£1) for a single journey.
 
 [Previous Challenge](08_touch_in_out.md) | [Next Challenge](10_charge_on_touch_out.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/09_min_balance_on_touch_in.md)
+

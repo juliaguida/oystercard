@@ -80,4 +80,4 @@ The team projects follow the same pattern but instead with
 At the end of each unit, you'll plan how to achieve your goals within the context of an end of unit challenge that we provide.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/goals/README.md)
+

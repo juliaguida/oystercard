@@ -60,4 +60,4 @@ The '/' part of the address is the last slash in `http://localhost:4567/`. Next 
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/walkthroughs/sinatra_defining_a_route.md)
+

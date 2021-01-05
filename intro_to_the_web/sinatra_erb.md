@@ -54,4 +54,4 @@ erb "Hi there, Visitor <% 2 + 2 %>!"
 ### [Walkthrough](walkthroughs/sinatra_erb.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/sinatra_erb.md)
+

@@ -66,4 +66,4 @@ I want money on my card
 
 [Previous Challenge](03_debugging.md) | [Next Challenge](05_top_up.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/04_adding_balance.md)
+

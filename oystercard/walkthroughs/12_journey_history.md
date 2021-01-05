@@ -52,4 +52,4 @@ Once your tests are green look at refactoring - do we still need the `@entry_sta
 [Next challenge](../13_create_station_class.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/walkthroughs/12_journey_history.md)
+

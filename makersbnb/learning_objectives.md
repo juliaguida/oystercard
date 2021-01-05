@@ -17,4 +17,4 @@
 - Create a repository containing the week's activity and retrospective notes
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/makersbnb/learning_objectives.md)
+

@@ -20,5 +20,3 @@
 
 - 16.00: Retro planning
 - 17.00: Individual group retros
-
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/remote/week06.md)

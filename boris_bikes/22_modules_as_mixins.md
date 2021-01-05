@@ -33,4 +33,4 @@ In this challenge, you will refactor your code to **compose** objects using mixi
 
 [Previous Challenge](21_men_with_ven.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/22_modules_as_mixins.md)
+

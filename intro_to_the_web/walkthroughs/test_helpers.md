@@ -77,4 +77,4 @@ OK, let's implement another user story.
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/walkthroughs/test_helpers.md)
+

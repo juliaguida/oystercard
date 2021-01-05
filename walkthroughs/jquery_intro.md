@@ -390,4 +390,4 @@ TODO
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/walkthroughs/jquery_intro.md)
+

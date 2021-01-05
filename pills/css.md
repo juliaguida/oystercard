@@ -164,4 +164,4 @@ Some things that are _very handy_ to know include:
 * http://heydonworks.com/practical_aria_examples/
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/css.md)
+

@@ -48,4 +48,4 @@ Images convey meaning to sighted users: they should do the same for those using 
 
 > Tip: 'interesting' doesn't just mean a statement of what the image is. Visually-impaired users will appreciate an entertaining description. `<img alt="people holding hands" />` is less fun than `<img alt="Two people holding hands. They are standing on a beach and watching the sea. Both people are wearing red and they are smiling." />`.
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/accessibility.md)
+

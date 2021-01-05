@@ -28,4 +28,4 @@
 - 16:00 - Cohort Retrospective
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/engineering_projects/week_schedule.md)
+

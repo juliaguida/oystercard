@@ -52,4 +52,4 @@ Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_man
 - branch [version4](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version4): Steps 16 | [recording](https://youtu.be/-FiN_820MEc)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/bookmark_manager/16_one_to_many_relations.md)
+

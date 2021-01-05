@@ -41,4 +41,4 @@ Have a look at [Prepare to Code](http://www.preparetocode.io/).  It has a guide 
 ⚠️Also make sure to sign up and install [Zoom](https://zoom.us/)!
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/remote/day_one.md)
+

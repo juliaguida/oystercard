@@ -45,4 +45,4 @@ I need to have the correct fare calculated
 
 [Previous Challenge](15_extracting_journey_log.md) 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/16_fare_for_zones.md)
+

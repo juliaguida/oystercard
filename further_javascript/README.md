@@ -51,4 +51,4 @@ Have a look at the materials for each track.  Choose which one you want to do.  
 It's going to be exciting!
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/further_javascript/README.md)
+

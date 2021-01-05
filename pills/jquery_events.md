@@ -137,4 +137,4 @@ See it in action here - http://jsfiddle.net/2yySD/
 * [Comparison between jQuery and simple JavaScript](http://youmightnotneedjquery.com/)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/jquery_events.md)
+

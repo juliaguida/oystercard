@@ -19,4 +19,4 @@
 * How will you make requests to external APIs? Maybe Ajax with raw XMLHttpRequest objects?
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/further_javascript/frontend_single_page_app_guidance.md)
+

@@ -28,4 +28,4 @@ Time: 30 minutes.
 * They let your coach gently guide you towards ways to improve your learning and developer skills.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/student_retrospective.md)
+

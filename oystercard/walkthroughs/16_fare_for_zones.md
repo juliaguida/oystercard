@@ -47,4 +47,4 @@ end
 [Back to README](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/walkthroughs/16_fare_for_zones.md)
+

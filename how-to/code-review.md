@@ -54,4 +54,4 @@ For inspiration, here are some example review rubrics for some of the end of uni
 * [Chitter Challenge](https://github.com/makersacademy/chitter-challenge/blob/master/docs/review.md)
 * [Bowling Challenge](https://github.com/makersacademy/bowling-challenge/blob/master/docs/review.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/how-to/code-review.md)
+

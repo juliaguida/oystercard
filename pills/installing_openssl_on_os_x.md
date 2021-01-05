@@ -47,4 +47,4 @@ rvm install 2.4.0
 ```
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/installing_openssl_on_os_x.md)
+

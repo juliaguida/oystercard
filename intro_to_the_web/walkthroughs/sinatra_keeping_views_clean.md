@@ -58,4 +58,4 @@ Next up, let's use _parameters_ to add some more sophistication to our kitten we
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/walkthroughs/sinatra_keeping_views_clean.md)
+

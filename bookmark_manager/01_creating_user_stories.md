@@ -42,4 +42,4 @@ Throughout this challenge we'll create User Stories based on the specification, 
 ## [Walkthrough](walkthroughs/01.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/bookmark_manager/01_creating_user_stories.md)
+

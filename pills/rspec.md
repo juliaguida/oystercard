@@ -214,4 +214,4 @@ Resources
 * http://betterspecs.org/
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/rspec.md)
+

@@ -18,4 +18,4 @@ Resources
 * [Django (Python's Rails)](https://docs.djangoproject.com/en/1.7/intro/tutorial01/)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/python.md)
+

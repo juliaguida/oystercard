@@ -39,4 +39,4 @@ In this challenge, you will implement two-player functionality.
 ### [Walkthrough](walkthroughs/multiplayer.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/multiplayer.md)
+

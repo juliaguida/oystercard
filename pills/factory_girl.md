@@ -108,4 +108,4 @@ Check out the [docs](http://www.rubydoc.info/gems/factory_girl/file/GETTING_STAR
 *(by Ptolemy, comments/questions about this pill to: ptolemy@makersacademy.com)*
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/factory_girl.md)
+

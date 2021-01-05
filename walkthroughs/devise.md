@@ -56,4 +56,4 @@ Warden.test_mode!
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/walkthroughs/devise.md)
+

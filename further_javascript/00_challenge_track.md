@@ -33,4 +33,4 @@ To get an idea of what you'll be building, here are some [user stories and a moc
 15. [Extract a standalone test library](15_extract_test_library.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/further_javascript/00_challenge_track.md)
+

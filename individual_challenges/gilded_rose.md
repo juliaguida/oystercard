@@ -28,4 +28,4 @@ Choose [legacy code](https://github.com/emilybache/GildedRose-Refactoring-Kata) 
 HINT: Test first FTW!
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/individual_challenges/gilded_rose.md)
+

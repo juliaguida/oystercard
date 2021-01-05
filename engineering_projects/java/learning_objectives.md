@@ -22,4 +22,4 @@
 10. I can build a basic react app with 2 components
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/engineering_projects/java/learning_objectives.md)
+

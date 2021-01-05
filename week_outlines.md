@@ -271,4 +271,4 @@ See [Final Project](./final_projects)
 
 * [Technical Learning Resources](https://airtable.com/shraRf6mlRUzf4oDS/tblokmw6yNUO75ge6?blocks=hide)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/week_outlines.md)
+

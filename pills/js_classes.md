@@ -115,4 +115,4 @@ fido.bark('Fido')
 This will print `Fido says Woof!` to the console.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/js_classes.md)
+

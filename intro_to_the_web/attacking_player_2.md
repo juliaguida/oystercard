@@ -28,4 +28,4 @@ In this challenge, you will implement this user story with little support. You s
 ### [Walkthrough](walkthroughs/attacking_player_2.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/attacking_player_2.md)
+

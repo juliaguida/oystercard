@@ -45,4 +45,4 @@ readThisFile().on('data', function(data) {
 2. Check for errors in the callback and handle it
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/node/alexyoung/node_best_practices.md)
+

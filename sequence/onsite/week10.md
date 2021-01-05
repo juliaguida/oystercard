@@ -34,5 +34,3 @@
 * 4.00pm: You'll review your code in pairs.
 * 4:30pm Group code review
 * 5pm: Retro
-
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/onsite/week10.md)

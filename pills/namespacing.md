@@ -52,4 +52,4 @@ git_client = Git::Client.new
 
 This approach significantly reduces the likelihood of class and constant clashes. Note the double-colon notation that is used to access a class/module inside another class/module.
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/namespacing.md)
+

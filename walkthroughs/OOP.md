@@ -22,4 +22,4 @@ http://nimblepros.com/media/36760/supermarket%20pricing%20kata.pdf
 https://github.com/kerryb/Supermarket-pricing-kata/blob/master/lib/checkout.rb
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/walkthroughs/OOP.md)
+

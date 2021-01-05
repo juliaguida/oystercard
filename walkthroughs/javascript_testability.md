@@ -239,4 +239,4 @@ Resources
 * [Writing Testable JavaScript](http://alistapart.com/article/writing-testable-javascript)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/walkthroughs/javascript_testability.md)
+

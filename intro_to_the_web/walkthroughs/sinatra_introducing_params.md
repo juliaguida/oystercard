@@ -65,4 +65,4 @@ It's a pain to interact with our app via the URL bar. Next up, let's allow our u
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/walkthroughs/sinatra_introducing_params.md)
+

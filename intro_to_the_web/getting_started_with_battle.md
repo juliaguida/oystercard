@@ -112,4 +112,4 @@ I want a sexy user interface
 ### [Walkthrough](walkthroughs/getting_started_with_battle.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/getting_started_with_battle.md)
+

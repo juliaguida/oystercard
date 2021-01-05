@@ -39,4 +39,4 @@ In this challenge, you will raise an exception when a user attempts to dock a bi
 
 [Previous Challenge](12_raising_exceptions.md) | [Next Challenge](14_complex_attributes.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/13_limiting_capacity.md)
+

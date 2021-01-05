@@ -14,4 +14,4 @@ This part of the course was inspired by [Chris Granger's post on the importance 
 * [Human Centred Design](https://www.ideo.com/work/human-centered-design-toolkit/) by OpenIDEO
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/design_thinking.md)
+

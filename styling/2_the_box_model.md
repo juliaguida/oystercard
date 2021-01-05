@@ -27,4 +27,4 @@ The best introduction to the CSS Box Model is [CSS-Tricks](https://css-tricks.co
 > Top tip: try out small CSS changes using the Developer tools, in the 'Styles' panel of the 'Elements' pane. You can nudge items, and test things out live.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/styling/2_the_box_model.md)
+

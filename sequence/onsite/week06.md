@@ -14,4 +14,4 @@
 - MakersBnb presentations to the whole cohort
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/onsite/week06.md)
+

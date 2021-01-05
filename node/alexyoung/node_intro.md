@@ -176,4 +176,4 @@ r.pipe(z).pipe(w);
   * You can add a property to the package.json file for the test script so you can run tests with npm test
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/node/alexyoung/node_intro.md)
+

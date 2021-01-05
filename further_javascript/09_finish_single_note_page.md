@@ -35,4 +35,4 @@ Don't worry if you need to jump around between the three parts of this challenge
 - [JavaScript string methods (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#Methods)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/further_javascript/09_finish_single_note_page.md)
+

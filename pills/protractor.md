@@ -249,4 +249,4 @@ $('create').click();
 - [Protractor API Reference](http://angular.github.io/protractor/#/api)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/protractor.md)
+

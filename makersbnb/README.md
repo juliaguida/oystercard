@@ -116,4 +116,4 @@ This week you might find it useful to expand your web development tool kit - [th
 #### Resources
 - User Registration & Auth with ActiveRecord | [YouTube](https://youtu.be/CS1jxw51ENE) | [GitHub](https://github.com/dearshrewdwit/demo_user_auth)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/makersbnb/README.md)
+

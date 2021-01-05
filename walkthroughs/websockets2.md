@@ -63,4 +63,4 @@ $(document).ready(function(){
 http://robots.thoughtbot.com/automatically-wait-for-ajax-with-capybara
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/walkthroughs/websockets2.md)
+

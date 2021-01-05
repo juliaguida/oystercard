@@ -30,4 +30,4 @@
   - I set my own direction
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/reflection_objectives.md)
+

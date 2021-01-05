@@ -113,4 +113,4 @@ end
 ```
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/dm_db_relationships.md)
+

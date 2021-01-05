@@ -31,4 +31,4 @@ In this challenge, you will use **views** to separate the Ruby and HTML code. Th
 ### [Walkthrough](walkthroughs/sinatra_views.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/sinatra_views.md)
+

@@ -73,4 +73,4 @@ Related Walkthoughs
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/github_report.md)
+

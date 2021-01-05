@@ -33,4 +33,4 @@
 * Testing: Mocha, Jasmine
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/node/alexyoung/node_jr_checklist.md)
+

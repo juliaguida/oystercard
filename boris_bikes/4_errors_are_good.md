@@ -42,4 +42,4 @@ In this challenge, you will dissect a Command Line error message.
 
 [Previous Challenge](3_from_domain_models_to_feature_tests.md) | [Next Challenge](5_from_feature_tests_to_unit_tests.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/4_errors_are_good.md)
+

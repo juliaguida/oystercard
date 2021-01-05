@@ -37,4 +37,4 @@ I need my fare deducted from my card
 
 [Previous Challenge](06_maximum_balance.md) | [Next Challenge](08_touch_in_out.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/07_deducting_money.md)
+

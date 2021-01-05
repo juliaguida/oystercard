@@ -63,4 +63,4 @@ end
 [Next challenge](../15_extracting_journey_log.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/walkthroughs/14_no_touch_in_or_out.md)
+

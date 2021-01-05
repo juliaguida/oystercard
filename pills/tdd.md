@@ -16,4 +16,4 @@ See Also
 * [Test Coverage Pill](test_coverage.md) :pill:
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/tdd.md)
+

@@ -15,4 +15,4 @@
 * Please demo a user using your app!
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/engineering_projects/presentation_guidelines.md)
+

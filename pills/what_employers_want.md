@@ -22,4 +22,4 @@ Junior Developers should:
 More coming soon!
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/what_employers_want.md)
+

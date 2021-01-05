@@ -31,4 +31,4 @@ Some things that are _very handy_ to know include:
 - CSS [Design Patterns](http://www.sitepoint.com/css-architectures-scalable-and-modular-approaches/)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/css_2.md)
+

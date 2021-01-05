@@ -62,4 +62,4 @@ The **SRP** is one of five principles that make up **SOLID** ( _Single responsib
 - [User interface design - Wikipedia](https://en.wikipedia.org/wiki/User_interface_design)
 - [UX Myths](http://uxmyths.com)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/challenges/tic_tac_toe.md)
+

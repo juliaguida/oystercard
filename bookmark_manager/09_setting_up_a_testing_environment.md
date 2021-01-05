@@ -83,4 +83,4 @@ Once your feature test is passing, your unit tests for `Bookmark.all` are probab
 ## [Walkthrough](walkthroughs/09.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/bookmark_manager/09_setting_up_a_testing_environment.md)
+

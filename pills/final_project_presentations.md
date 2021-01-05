@@ -24,4 +24,4 @@ Instead, you can talk about the main part of the project and maybe how informati
 ### Important instructions: [Remote](../sequence/remote/demo_day_presentations.md) | [Onsite](../sequence/onsite/demo_day_presentations.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/final_project_presentations.md)
+

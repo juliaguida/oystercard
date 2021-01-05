@@ -20,4 +20,4 @@ The questions will change each week to fit the part of the course you're in.
 * Reflect on how you could increase your confidence in areas you feel it could be improved.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/daily_confidence_survey.md)
+

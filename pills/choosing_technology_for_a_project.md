@@ -52,4 +52,4 @@ Resources
 * [Original Wiki Page](https://github.com/makersacademy/course/wiki/Choosing-Technology-For-a-Project)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/choosing_technology_for_a_project.md)
+

@@ -25,4 +25,4 @@ Note that others may be doing the same task at the same time, so the data may ch
 * [Postman](https://www.getpostman.com/) or [Insomnia](https://insomnia.rest/) for exploring the API.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/individual_challenges/chitter-api-front-end.md)
+

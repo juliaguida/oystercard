@@ -21,4 +21,4 @@
 * Your coach will give you feedback on your developer processes.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/coach_developer_observation.md)
+

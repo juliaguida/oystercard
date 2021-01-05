@@ -312,4 +312,4 @@ Note that if you like/prefer gherkin style 'given, when, then' syntax you can al
 - [Cucumber Home Page](http://cukes.info/)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/cucumber.md)
+

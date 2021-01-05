@@ -18,4 +18,4 @@ This is an integral part of Demo Day - a chance to talk, interact and share your
 * **8pm** - Close.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/project_fair.md)
+

@@ -73,4 +73,4 @@ Active Record also deals with migrations. (Is there *anything* it doesn't do?)
 * [Active Record Basics](http://guides.rubyonrails.org/active_record_basics.html) – RailsGuides
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/activerecord.md)
+

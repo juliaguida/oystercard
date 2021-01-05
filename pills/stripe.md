@@ -230,4 +230,4 @@ Exercises
 * Try to style the form to match your site style
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/stripe.md)
+

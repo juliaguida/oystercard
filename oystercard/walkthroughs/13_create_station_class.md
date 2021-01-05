@@ -24,4 +24,4 @@ end
 [Next challenge](../14_no_touch_in_or_out.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/walkthroughs/13_create_station_class.md)
+

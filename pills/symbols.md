@@ -65,4 +65,4 @@ You can verify that it's just an alternative syntax by trying it in the irb. Not
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/symbols.md)
+

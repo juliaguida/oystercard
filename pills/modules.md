@@ -33,4 +33,4 @@ We've just included the module Demo into the class Person. Why not include the m
 
 We've already seen one technique for reusing code: inheritance. Why not create a parent class for Person, put the method greet() there and then subclass from the parent as needed? The problem with this approach is that a class can have only one parent. Often it's desirable to include functionality from several different, unrelated files.
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/modules.md)
+

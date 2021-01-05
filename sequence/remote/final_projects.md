@@ -33,4 +33,4 @@ Project work.
 * 7.30pm: Close.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/remote/final_projects.md)
+

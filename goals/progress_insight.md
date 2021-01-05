@@ -59,4 +59,4 @@ In general you should start with weak evidence and move to strong evidence. Each
 * Go through a complex program involving these concepts with a coach and explain everything that is going on. Ask a coach "If I said this in an interview, would my interviewer think I understood what I was talking about?"
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/goals/progress_insight.md)
+

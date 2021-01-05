@@ -37,4 +37,4 @@ In this challenge, you will add a **form** to your view and observe how modifyin
 ### [Walkthrough](walkthroughs/sinatra_using_forms.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/sinatra_using_forms.md)
+

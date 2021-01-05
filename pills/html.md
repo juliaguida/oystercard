@@ -60,4 +60,4 @@ Once you have the developer pane open, you can hover over HTML 'elements' (repre
 :construction:
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/html.md)
+

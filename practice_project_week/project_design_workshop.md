@@ -44,4 +44,4 @@ Choose the next most important interaction of your MVP, design it and build it.
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/practice_project_week/project_design_workshop.md)
+

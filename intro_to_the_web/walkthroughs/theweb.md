@@ -16,4 +16,4 @@ The information we get back is in the form of text, marked up with HTML.
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/walkthroughs/theweb.md)
+

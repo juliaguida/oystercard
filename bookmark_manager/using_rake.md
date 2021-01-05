@@ -27,4 +27,4 @@ In this challenge, you will use **Rake**, a **task runner**, to automate the tas
 ## [Walkthrough](walkthroughs/using_rake.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/bookmark_manager/using_rake.md)
+

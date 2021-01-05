@@ -51,4 +51,4 @@ Resources:
 * [SQL in one page](http://www.cheat-sheets.org/sites/sql.su/)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/postgres.md)
+

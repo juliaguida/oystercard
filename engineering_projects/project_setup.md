@@ -83,4 +83,4 @@ To help, have a read through these pills. Writing smaller and better tickets wil
  - :pill: [Sprint retros](https://github.com/makersacademy/course/blob/master/pills/project_retrospective.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/engineering_projects/project_setup.md)
+

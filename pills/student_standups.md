@@ -35,4 +35,4 @@ Try to focus your reports on [skills and behaviours, rather than concretes and c
 * Normally, minutes aren't taken at a standup.  However, to support your learning, it will help to have a record of what people said.  Please allot someone to take brief notes on people's learning reports.  Add these notes to your learning documentation.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/student_standups.md)
+

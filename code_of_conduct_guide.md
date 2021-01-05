@@ -67,4 +67,4 @@ An illegal or trust-breaking act.
 The person will be told to leave Makers permanently.  If the transgressor is an apprentice, their employer will be informed.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/code_of_conduct_guide.md)
+

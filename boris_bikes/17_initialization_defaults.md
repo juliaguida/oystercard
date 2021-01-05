@@ -44,4 +44,4 @@ In this challenge, you will modify your `intialize` function to accept a `capaci
 
 [Previous Challenge](16_removing_magic_numbers.md) | [Next Challenge](18_dealing_with_broken_bikes.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/17_initialization_defaults.md)
+

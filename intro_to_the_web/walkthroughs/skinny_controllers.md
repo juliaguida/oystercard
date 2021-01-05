@@ -114,4 +114,4 @@ OK, our controller is much skinnier now! Refactoring complexity into the model i
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/walkthroughs/skinny_controllers.md)
+

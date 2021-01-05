@@ -33,4 +33,4 @@ In this challenge, you will further refactor your code, using a **constant**.
 
 [Previous Challenge](15_single_responsibility_principle.md) | [Next Challenge](17_initialization_defaults.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/16_removing_magic_numbers.md)
+

@@ -17,4 +17,4 @@ Resources
 * [Athletic Software Engineering Education: Initial Results](https://philipmjohnson.org/essays/ase-initial-results.html)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/athletic_coding.md)
+

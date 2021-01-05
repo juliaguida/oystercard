@@ -20,4 +20,4 @@ At Makers, we worked hard to figure out what needs to be learned in what order i
 
 **Are you ready?** [Go to the Week outlines!](https://github.com/makersacademy/course/blob/master/week_outlines.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/README.md)
+

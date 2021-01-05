@@ -15,4 +15,4 @@ Pick your own focus goal. Diagramming is helpful everywhere!
 * Diagram out how RSpec works internally by reading the source code.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/goals/recipes/diagramming_1.md)
+

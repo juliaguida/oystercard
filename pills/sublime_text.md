@@ -36,4 +36,4 @@ The website advises you to create a shortcut (symlink) in ~/bin but it may not w
 
 - [Sublime Text 2: OS X Command Line](https://www.sublimetext.com/docs/2/osx_command_line.html)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/sublime_text.md)
+

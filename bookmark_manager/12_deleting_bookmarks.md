@@ -58,4 +58,4 @@ Remember to maintain RESTful routing conventions.
 ## [Walkthrough](walkthroughs/12.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/bookmark_manager/12_deleting_bookmarks.md)
+

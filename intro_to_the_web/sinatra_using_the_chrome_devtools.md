@@ -25,4 +25,4 @@ In this challenge, you will use the **Chrome DevTools** to observe the flow of r
 ### [Walkthrough](walkthroughs/sinatra_using_the_chrome_devtools.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/sinatra_using_the_chrome_devtools.md)
+

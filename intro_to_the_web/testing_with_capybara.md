@@ -42,4 +42,4 @@ To complete this challenge you will need to have Firefox installed.
 ### [Walkthrough](walkthroughs/testing_with_capybara.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/testing_with_capybara.md)
+

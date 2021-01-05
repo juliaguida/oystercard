@@ -106,4 +106,4 @@ By using factories and services, your logic can be broken down into small chunks
 - [Official Angular docs](https://docs.angularjs.org/guide/providers)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/angular_factories_services.md)
+

@@ -75,4 +75,4 @@ Your request specs or feature tests should drive the creation of unit tests for 
 Remember to deploy to Heroku early and often.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/makermix/makermix.md)
+

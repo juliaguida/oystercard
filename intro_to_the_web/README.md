@@ -95,4 +95,4 @@ After the challenges, you can stretch yourself by increasing the complexity of B
 * [Post Challenge](post_challenges/post_challenge.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/README.md)
+

@@ -34,4 +34,4 @@ The `git push` command will sync the changed you made locally (that you staged a
 [Next challenge](../03_debugging.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/walkthroughs/02_initialize_rspec.md)
+

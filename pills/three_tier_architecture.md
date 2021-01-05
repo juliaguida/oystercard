@@ -20,4 +20,4 @@ Note, though, that there is far more complexity here than can be covered in 12 w
 The Three Tier Architecture is the Rosetta Stone of web development.  Makers wants you to become great programmers and great project managers, and great team members, but critically we are focused on helping you become web developers.  Understanding this architecture is key.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/three_tier_architecture.md)
+

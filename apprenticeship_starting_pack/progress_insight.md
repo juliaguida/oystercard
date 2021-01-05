@@ -67,4 +67,4 @@ In general you should start with weak evidence and move to strong evidence. Each
 * Share your screen recording with someone else and ask them for feedback.  Do they think you apply good process?
 * Is your team achieving their goals?
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/apprenticeships_starting_pack/progress_insight.md)
+

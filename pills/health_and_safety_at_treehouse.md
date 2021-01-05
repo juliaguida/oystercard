@@ -31,4 +31,4 @@ FIRST AID
   - In the GrantTree office (ground floor)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/health_and_safety_at_treehouse.md)
+

@@ -96,4 +96,4 @@ Resources
 * [Promises in Wicked Detail](http://www.mattgreer.org/articles/promises-in-wicked-detail/)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/js_promises.md)
+

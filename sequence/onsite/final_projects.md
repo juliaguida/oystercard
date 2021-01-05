@@ -39,4 +39,4 @@ There will be almost no structure for the next two weeks.  It will be down to yo
 This is a chance to interact and explain more deeply the journey and the processes you used to get to where you got in the two weeks of your project.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/onsite/final_projects.md)
+

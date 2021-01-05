@@ -69,4 +69,4 @@ You should now be ready to continue with the Postgres [pill](postgres.md#more-fu
 [Fedora Wiki](https://fedoraproject.org/wiki/PostgreSQL)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/postgres_linux.md)
+

@@ -79,4 +79,4 @@ Finally, let's focus on uploading images, and creating a better user experience.
 * Add the ability for users to add an image to a restaurant
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/rails/yelp_project_specification.md)
+

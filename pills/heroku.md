@@ -154,4 +154,4 @@ Note that heroku relies on whatever is visible in git.  Any time you make a chan
 https://devcenter.heroku.com/articles/gitignore
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/heroku.md)
+

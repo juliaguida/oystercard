@@ -90,4 +90,4 @@ You should see a Firefox browser window pop up and a website load. Now play arou
 * Fill in a form.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/capybara.md)
+

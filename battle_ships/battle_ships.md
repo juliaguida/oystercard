@@ -158,4 +158,4 @@ The idea of the _user interface_ (UI) is to provide our players with a good _use
 - [UX Myths](http://uxmyths.com)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/battle_ships/battle_ships.md)
+

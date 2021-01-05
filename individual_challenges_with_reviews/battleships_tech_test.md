@@ -67,4 +67,4 @@ I would like to play a two-player game
 ```
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/individual_challenges_with_reviews/battleships_tech_test.md)
+

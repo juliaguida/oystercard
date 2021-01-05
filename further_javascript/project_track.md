@@ -23,4 +23,4 @@ Make sure to look at this [guidance on building a frontend, single page app](fro
 Extract your own test library from your app.  See here for more [guidance on testing without a testing library and extracting your testing code into its own library](../pills/writing_tests_without_a_testing_library.md).
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/further_javascript/project_track.md)
+

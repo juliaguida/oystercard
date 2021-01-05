@@ -99,4 +99,4 @@ This way, you won't be able to initialise an instance of CarPark with negative n
 car_park = CarPark.new(-200) #=> ArgumentError: Negative number of parking spaces
 ````
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/exceptions.md)
+

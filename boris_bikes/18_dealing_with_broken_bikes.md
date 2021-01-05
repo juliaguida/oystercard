@@ -43,4 +43,4 @@ In this challenge, you will implement the above features using the skills you ha
 
 [Previous Challenge](17_initialization_defaults.md) | [Next Challenge](19_isolating_tests_with_doubles.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/18_dealing_with_broken_bikes.md)
+

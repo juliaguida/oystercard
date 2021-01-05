@@ -39,4 +39,4 @@ References
 * Vu, J. H., Frojd, N., Shenkel-Therolf, C., & Janzen, D. S. (2009). Evaluating test-driven development in an industry-sponsored capstone project. In Information Technology: New Generations, 2009. ITNG'09. Sixth International Conference on (pp. 229-234). IEEE.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/tdd_quality_discussion.md)
+

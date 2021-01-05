@@ -30,4 +30,4 @@
   
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/bookmark_manager/reflection_objectives.md)
+

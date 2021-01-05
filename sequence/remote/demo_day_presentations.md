@@ -14,4 +14,4 @@
   * A link to your demo video  
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/remote/demo_day_presentations.md)
+

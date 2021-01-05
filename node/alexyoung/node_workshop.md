@@ -106,4 +106,4 @@ Structure:
   * index.js -- define the routes, load express stuff
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/node/alexyoung/node_workshop.md)
+

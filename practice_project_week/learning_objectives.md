@@ -28,4 +28,4 @@
   * Have some!
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/practice_project_week/learning_objectives.md)
+

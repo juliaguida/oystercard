@@ -52,4 +52,4 @@ Enjoy these challenges - they are either adapted or directly copied from actual 
 * [The Coding Dojo Handbook (recommended reading post-course)](https://leanpub.com/codingdojohandbook)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/individual_challenges/README.md)
+

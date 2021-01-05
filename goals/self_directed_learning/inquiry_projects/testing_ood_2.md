@@ -9,4 +9,4 @@ More of an open structure today. Feel free to check on the previous recipes to f
 * [Testing OO Relationships](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/testing_relationships.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/goals/recipes/testing_ood_2.md)
+

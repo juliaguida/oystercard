@@ -19,4 +19,4 @@ The text in a note could be too long to be shown in full in the main note list. 
 - [JavaScript string methods (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#Methods)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/further_javascript/08_show_abbreviated_notes_in_note_list_view.md)
+

@@ -32,4 +32,4 @@ This challenge uses [httpie](https://github.com/jkbrzt/httpie), a command line t
 ### [Walkthrough](walkthroughs/theweb.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/theweb.md)
+

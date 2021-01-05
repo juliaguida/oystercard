@@ -55,4 +55,4 @@ In this challenge, you will build the entire feature of 'adding bookmarks to the
 Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_manager/pulls) that show the diff for each section I worked through.
 - branch [version1](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version1): Steps 1-10 | [recording](https://youtu.be/LHX1SqQ5F-g)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/bookmark_manager/10_creating_bookmarks.md)
+

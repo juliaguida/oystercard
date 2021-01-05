@@ -31,4 +31,4 @@ Let's look at removing the global variable `$game` from our code altogether.
 ### [Walkthrough](walkthroughs/killing_the_global_variable.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/killing_the_global_variable.md)
+

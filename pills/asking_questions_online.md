@@ -22,4 +22,4 @@
 * [Tansaku on 'Asking Questions in Person and Escalation'](https://www.youtube.com/watch?v=i_Pg5KVKQNI)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/asking_questions_online.md)
+

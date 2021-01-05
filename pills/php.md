@@ -145,4 +145,4 @@ You can follow [this video](https://vimeo.com/112265555) (from around 35 minutes
 * You need to make sure your terminal uses Homebrew's version of PHP, if you're having problems getting the Postgres driver working you need to add to your **.bash_profile** in your home directory the following line `export PATH="$(brew --prefix homebrew/php/php56)/bin:$PATH"`
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/php.md)
+

@@ -28,4 +28,4 @@ I'd like a recognized technique for capturing and defining requirements in plain
 2. This is geek humour.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/user_stories.md)
+

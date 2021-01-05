@@ -117,4 +117,4 @@ Resources
 * [underscore.js](http://underscorejs.org/)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/walkthroughs/jquery_animations.md)
+

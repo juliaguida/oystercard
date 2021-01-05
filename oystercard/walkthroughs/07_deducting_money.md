@@ -48,4 +48,4 @@ Now we should have a green test - it is very important that you high-five your p
 [Next challenge](../08_touch_in_out.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/walkthroughs/07_deducting_money.md)
+

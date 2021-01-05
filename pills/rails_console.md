@@ -62,4 +62,4 @@ $ rails console --sandbox
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/rails_console.md)
+

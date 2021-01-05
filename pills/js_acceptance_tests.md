@@ -119,4 +119,4 @@ $ grunt
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/js_acceptance_tests.md)
+

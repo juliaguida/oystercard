@@ -18,4 +18,4 @@ Table 1.1 How the current object (self) is determined
 
 - [Self in Ruby](http://www.jimmycuadra.com/posts/self-in-ruby)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/self.md)
+

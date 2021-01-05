@@ -34,5 +34,3 @@
 #### Tuesday and Thursday
 
 * 17.00 to 18.00 - Yoga
-
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/example_schedule.md)

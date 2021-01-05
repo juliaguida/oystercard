@@ -13,4 +13,4 @@ Monday is [Day one](./day_one.md)
 [Challenges Friday schedule](./challenges_friday_schedule.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/onsite/week01.md)
+

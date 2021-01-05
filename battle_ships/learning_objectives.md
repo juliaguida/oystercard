@@ -114,4 +114,4 @@ Weekly Challenge
 * Further OOD and OOP practice
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/battle_ships/learning_objectives.md)
+

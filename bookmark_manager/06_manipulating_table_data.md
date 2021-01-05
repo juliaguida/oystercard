@@ -35,4 +35,4 @@ In this challenge, you will use SQL to **c**reate, **r**ead (**query**), **u**pd
 ## [Walkthrough](walkthroughs/06.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/bookmark_manager/06_manipulating_table_data.md)
+

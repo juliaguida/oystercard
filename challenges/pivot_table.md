@@ -31,4 +31,4 @@ A number of other data files are available - for example, you can get the top 10
 - Try adding the option to view albums rather than songs. 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/challenges/pivot_table.md)
+

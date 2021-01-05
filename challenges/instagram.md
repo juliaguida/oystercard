@@ -90,4 +90,4 @@ We have various options for geocoding (turning an address into latitude/longitud
 * [More Tagging](https://github.com/makersacademy/course/blob/master/walkthroughs/more_tags.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/challenges/instagram.md)
+

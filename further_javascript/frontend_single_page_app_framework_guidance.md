@@ -44,4 +44,4 @@ When you decide on the API for your abstraction and feature, try to make it as t
 - :pill: [JavaScript module pattern](https://github.com/makersacademy/course/blob/master/pills/javascript_module_pattern.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/further_javascript/frontend_single_page_app_framework_guidance.md)
+

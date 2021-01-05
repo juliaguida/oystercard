@@ -9,4 +9,4 @@
   * A link to your demo video.  (This way I can have it downloaded on my machine in case the internet dies.)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/onsite/demo_day_presentations.md)
+

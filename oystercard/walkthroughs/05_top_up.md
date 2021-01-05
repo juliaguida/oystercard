@@ -83,4 +83,4 @@ Your test should now be green - can you think of a way to refactor? (hint: there
 [Next challenge](../06_maximum_balance.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/walkthroughs/05_top_up.md)
+

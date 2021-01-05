@@ -64,4 +64,4 @@ That separation keeps your code clean, makes it semantic and easy to understand,
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/mvc.md)
+

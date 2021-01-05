@@ -119,4 +119,4 @@ Weekly Challenge
 - Complete a project from scratch using Test-Driven Development (TDD)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/learning_objectives.md)
+

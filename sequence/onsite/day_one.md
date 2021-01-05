@@ -63,4 +63,4 @@ At 14.30 on the first day, go to the 3rd floor and ask for Jess, Jodi or Sarah. 
 Have a look at [Prepare to Code](http://www.preparetocode.io/). It has a guide for what software to install to prepare for the Makers course.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/onsite/day_one.md)
+

@@ -130,4 +130,4 @@ Let's check our feature tests - everything passes. Nice, we can switch turns! No
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/walkthroughs/switching_turns.md)
+

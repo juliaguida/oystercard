@@ -64,4 +64,4 @@ Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_man
 - branch [version2](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version2): Steps 11-13 | [recording](https://youtu.be/lfcUauCejx4)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/bookmark_manager/13_crud.md)
+

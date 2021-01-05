@@ -14,4 +14,4 @@ Resources
 * Jeff Raskin, [The Humane Interface](http://www.amazon.co.uk/Humane-Interface-Directions-Designing-Interactive/dp/0201379376)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/ux.md)
+

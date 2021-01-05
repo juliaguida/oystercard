@@ -37,4 +37,4 @@ Prepare your project for RSpec by creating a helper file and an empty test file.
 
 [Previous Challenge](01_create_gemfile.md) | [Next Challenge](03_debugging.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/02_initialize_rspec.md)
+

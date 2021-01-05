@@ -164,4 +164,4 @@ Run the server, and then open the browser console. We can now send messages to t
 [socket.io](http://socket.io/)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/walkthroughs/intro_to_websockets.md)
+

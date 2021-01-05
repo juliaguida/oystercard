@@ -13,4 +13,4 @@ True and false are also called [boolean values](http://en.wikipedia.org/wiki/Boo
 
 Try it for yourself in irb. Double equals in the example above means comparison, instead of assignment (single equals).
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/boolean.md)
+

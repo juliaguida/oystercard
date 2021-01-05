@@ -235,4 +235,4 @@ Related Videos
 * [April 2015 intro to Fizzbuzz](https://www.youtube.com/watch?v=OaDSK3G8474)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/fizzbuzz/fizzbuzz.md)
+

@@ -163,4 +163,4 @@ And with that, it's time for you to accept the keys and take Io for a spin. Be s
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/IoPill.md)
+

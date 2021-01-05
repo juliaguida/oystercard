@@ -21,4 +21,4 @@ To allow you the freedom to direct your own learning, this tutorial will not tak
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/makermix/intro_to_makermix.md)
+

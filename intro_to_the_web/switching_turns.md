@@ -34,4 +34,4 @@ In this challenge, we will implement a turn switcher on `Game`. This challenge c
 ### [Walkthrough](walkthroughs/switching_turns.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/switching_turns.md)
+

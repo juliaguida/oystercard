@@ -87,4 +87,4 @@ DELETE  /restaurants/:id       restaurants#destroy
 - Design a RESTful API schema for Gmail
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/rest.md)
+

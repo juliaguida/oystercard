@@ -88,4 +88,4 @@ end
 puts "i is now #{i}" # i is now 10
 ````
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/loops.md)
+

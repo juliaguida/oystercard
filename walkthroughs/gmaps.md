@@ -395,4 +395,4 @@ $(document).ready(function(){
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/walkthroughs/gmaps.md)
+

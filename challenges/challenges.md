@@ -9,4 +9,4 @@ These are some extra challenges you may want to take on to test your skills and 
 - [Version control](https://github.com/makersacademy/course/blob/master/challenges/git_challenge.md)
 - [Thermostat (JavaScript)](https://github.com/makersacademy/course/blob/master/challenges/thermostat.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/challenges/challenges.md)
+

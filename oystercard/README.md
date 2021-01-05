@@ -119,4 +119,4 @@ I need to have the correct fare calculated
 ## [Example Code](walkthroughs/example_code)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/README.md)
+

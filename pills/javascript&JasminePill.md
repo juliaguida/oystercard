@@ -538,4 +538,4 @@ In addition to the 5 JavaScript and JQuery pills we have supplied for you in the
 * [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - An Awesome repository of JavaScript resources.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/javascript&JasminePill.md)
+

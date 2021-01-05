@@ -33,4 +33,4 @@
 - 18.00 - [Daily feedback](../../pills/learning_at_makers.md#daily-feedback)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/onsite/week07.md)
+

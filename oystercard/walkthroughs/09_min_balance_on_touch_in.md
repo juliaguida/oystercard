@@ -31,4 +31,4 @@ Once all your tests are green, consider a refactor - currently there is a magic 
 [Next challenge](../10_charge_on_touch_out.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/walkthroughs/09_min_balance_on_touch_in.md)
+

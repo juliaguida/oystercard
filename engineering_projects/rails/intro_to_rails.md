@@ -53,4 +53,4 @@ In rspec, the `.to be()` matcher has the same syntax as `.to eq()`.  This conven
 * [Active Record Migrations](http://guides.rubyonrails.org/migrations.html)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/engineering_projects/rails/intro_to_rails.md)
+

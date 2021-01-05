@@ -28,4 +28,4 @@ In this challenge, you'll create a static HTML page and make it available for br
 - :pill: [http-server](../pills/http_server.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/further_javascript/04_index_page.md)
+

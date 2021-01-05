@@ -150,4 +150,4 @@ Pair Programming Videos
 * [More Remote Pair Programming](https://www.youtube.com/watch?v=f9ALSPlPQhg)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/pairing.md)
+

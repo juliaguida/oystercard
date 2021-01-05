@@ -22,4 +22,4 @@
 - *Now delete one of the files in the local repository and commit the change.*
 - *Push to Github and verify that you don't see the deleted file there.*
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/challenges/git_challenge.md)
+

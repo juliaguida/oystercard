@@ -11,4 +11,4 @@ This is a kind reminder that the laptops have to be returned by the last Friday 
 
 Thank you!
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/returning_your_makers_laptop.md)
+

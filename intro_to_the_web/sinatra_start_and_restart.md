@@ -29,4 +29,4 @@ Additionally, we will use **shotgun** to speed up our development process.
 ### [Walkthrough](walkthroughs/sinatra_start_and_restart.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/sinatra_start_and_restart.md)
+

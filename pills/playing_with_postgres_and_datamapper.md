@@ -257,4 +257,4 @@ Relational Database Overviews:
 * [Enrique on Whiteboard](https://www.youtube.com/watch?v=QlDE4kYzvjU)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/playing_with_postgres_and_datamapper.md)
+

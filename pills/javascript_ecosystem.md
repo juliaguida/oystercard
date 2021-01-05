@@ -46,4 +46,4 @@ You should learn how to write good, clean, test-driven code, leveraging the best
 - [AirBnB JavaScript style guide](https://github.com/airbnb/javascript) - just one of many respected styleguides
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/javascript_ecosystem.md)
+

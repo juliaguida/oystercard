@@ -41,4 +41,4 @@ In this challenge, you will write a unit test for the missing method, and make i
 
 [Previous Challenge](7_back_to_the_feature.md) | [Next Challenge](9_building_a_bike.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/8_back_to_the_unit.md)
+

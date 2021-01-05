@@ -62,4 +62,4 @@ Alternatively, we could use interpolation:
 This way the interpolated code will be converted to a string automatically.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/string_interpolation.md)
+

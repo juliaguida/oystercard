@@ -57,4 +57,4 @@ Coach Pair Scaffolding Workshops in Haskell
 * [Irina, Stefan and Jordan](https://www.youtube.com/watch?v=srSriMqNLqw)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/pair_scaffolding.md)
+

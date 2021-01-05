@@ -66,4 +66,4 @@ As you can see, when the server sends back a response to POST request, that resp
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/walkthroughs/http_verbs.md)
+

@@ -27,4 +27,4 @@ In this challenge you will look at the important elements of an HTTP request and
 ### [Walkthrough](walkthroughs/http.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/http.md)
+

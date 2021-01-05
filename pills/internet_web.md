@@ -191,4 +191,4 @@ To find out how to create your own web server look at the [Sinatra Pill](https:/
 * [Another one](https://www.youtube.com/watch?v=Xs9k0sPa27c)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/internet_web.md)
+

@@ -39,4 +39,4 @@ In the image below you can find some score examples:
 * [Wikipedia Article](http://en.wikipedia.org/wiki/Ten-pin_bowling)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/challenges/bowling_challenge.md)
+

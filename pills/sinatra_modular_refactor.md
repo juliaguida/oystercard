@@ -183,4 +183,4 @@ Note that we haven't touched our models or helpers. Go through the same process,
 (*by Ptolemy. Questions / comments to ptolemy@makersacademy.com, or raise an issue)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/sinatra_modular_refactor.md)
+

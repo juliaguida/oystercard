@@ -47,4 +47,4 @@ Related Resources
 * https://robots.thoughtbot.com/lets-not
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/rspec_subject.md)
+

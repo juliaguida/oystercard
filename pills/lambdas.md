@@ -13,4 +13,4 @@ Firstly, unlike [procs](https://github.com/makersacademy/course/blob/master/pill
 
 Secondly, if you use the return keyword inside a lambda, it will return from the lambda, whereas if you use it inside a proc, it will return from the calling context (a method where the proc or a block was defined) if it's available.
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/lambdas.md)
+

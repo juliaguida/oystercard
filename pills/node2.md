@@ -65,4 +65,4 @@ Resources:
 * [Ajax JQuery Spinners](https://github.com/makersacademy/course/blob/master/node/ajax_jquery_spinners.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/node2.md)
+

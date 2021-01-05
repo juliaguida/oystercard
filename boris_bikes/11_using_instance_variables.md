@@ -49,4 +49,4 @@ In this challenge, you will pass instances of the `Bike` class into a `DockingSt
 
 [Previous Challenge](10_making_stations_release_bikes.md) | [Next Challenge](12_raising_exceptions.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/11_using_instance_variables.md)
+

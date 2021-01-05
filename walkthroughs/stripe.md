@@ -383,4 +383,4 @@ Resources:
 * [Video of walkthrough](http://youtu.be/7sRsLgG75Gs)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/walkthroughs/stripe.md)
+

@@ -34,4 +34,4 @@ In this challenge, you will play with some tooling that gives you more insight i
 ## [Walkthrough](walkthroughs/08.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/bookmark_manager/08_upgrading_your_toolset.md)
+

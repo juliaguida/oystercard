@@ -73,4 +73,4 @@ Here’s where this gets exciting: pair programming involves mixing two people a
 (Edited version of an original document written by Samm.)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/blooms_taxonomy.md)
+

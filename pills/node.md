@@ -66,4 +66,4 @@ Node examples
 * [OS node project: ShareLatex](https://github.com/sharelatex/web-sharelatex)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/node.md)
+

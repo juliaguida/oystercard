@@ -88,4 +88,4 @@ end
 <notextile>*</notextile>https://github.com/thoughtbot/factory_girl
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/spec_helper_methods.md)
+

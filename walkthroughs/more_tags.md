@@ -190,4 +190,4 @@ end
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/walkthroughs/more_tags.md)
+

@@ -82,4 +82,4 @@ https://github.com/makersacademy/acebook-rails-template/blob/master/CONTRIBUTING
     - keep escalating the problem until you find the right un-blocker: use the coaches to help you!
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/engineering_projects/toolbox.md)
+

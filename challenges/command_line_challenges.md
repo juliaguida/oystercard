@@ -46,4 +46,4 @@ First download this [challenge file](https://dl.dropboxusercontent.com/u/1319685
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/challenges/command_line_challenges.md)
+

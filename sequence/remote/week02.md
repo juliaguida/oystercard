@@ -36,4 +36,4 @@
 - [Takeaway challenge](https://github.com/makersacademy/takeaway-challenge)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/remote/week02.md)
+

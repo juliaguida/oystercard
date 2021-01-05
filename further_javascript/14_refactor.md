@@ -15,4 +15,4 @@ In this challenge, you'll refactor your app.  Your aim will be to decompose it i
 - [ ] Refactor the code to make the tests pass.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/further_javascript/14_refactor.md)
+

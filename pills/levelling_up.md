@@ -70,4 +70,4 @@ Now keeping all of these best-practices in mind, you'll need to think of *someth
 If you're still really stuck ask a coach or your fellow alumni, and let us know when you're done so we can review how you got on!
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/levelling_up.md)
+

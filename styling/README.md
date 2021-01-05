@@ -23,4 +23,4 @@ In this module, we're going to introduce:
 Fork the [Styling Exercises solutions repository](https://github.com/makersacademy/styling_exercises), and follow the instructions there.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/styling/README.md)
+

@@ -158,4 +158,4 @@ Restart your server and run your test - it should go green!
 * [Video of Spike on Node Servers](https://www.youtube.com/watch?v=h5qyuyYIwt8) (slightly out of date, now that we use Selenium)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/node/basic_node_server.md)
+

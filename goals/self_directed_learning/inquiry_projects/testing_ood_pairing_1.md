@@ -12,4 +12,4 @@
 * Test drive student directory
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/goals/recipes/testing_ood_pairing_1.md)
+

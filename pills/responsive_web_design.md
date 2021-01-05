@@ -51,4 +51,4 @@ Having said that don't fall into a common trap - if you don't build a mobile sit
 * [mediaqueri.es](http://mediaqueri.es/)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/responsive_web_design.md)
+

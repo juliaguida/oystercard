@@ -41,4 +41,4 @@ Some setup you must do manually if you haven't yet:
 ```
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/devise.md)
+

@@ -150,4 +150,4 @@ What about if we have a list of animals that we want to show on separate "pages"
 * [`preventDefault()` on MDN](https://developer.mozilla.org/en/docs/Web/API/Event/preventDefault)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/frontend_single_page_app.md)
+

@@ -32,4 +32,4 @@ In this challenge, you will move the name-randomising logic from the view to the
 ### [Walkthrough](walkthroughs/sinatra_keeping_views_clean.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/sinatra_keeping_views_clean.md)
+

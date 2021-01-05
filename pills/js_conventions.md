@@ -101,4 +101,4 @@ Dog.prototype.NUMBER_OF_LEGS = 4;
 * [Airbnb's JS style guide](https://github.com/airbnb/javascript) - (very in-depth)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/js_conventions.md)
+

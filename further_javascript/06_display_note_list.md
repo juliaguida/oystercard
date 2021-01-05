@@ -41,4 +41,4 @@ Because you'll need to integrate several different elements to make the code wor
 - [getElementById on MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
 - [innerHTML on MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/further_javascript/06_display_note_list.md)
+

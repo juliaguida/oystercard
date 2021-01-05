@@ -64,4 +64,4 @@ See the [guidelines](../pills/final_project_presentations.md).
 * [Remote](../sequence/remote/final_projects.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/final_projects/README.md)
+

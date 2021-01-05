@@ -8,4 +8,4 @@ Some of the engineers employed at Makers worked on re-factoring the Unixoid Chal
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/engineering_unixoid_challenge.md)
+

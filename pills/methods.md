@@ -56,4 +56,4 @@ This technique of calling the methods directly on the return value of the previo
 
 All methods used above are part of the class String, so you can read about them in the documentation (do you remember how to find Ruby classes documentation by googling?).
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/methods.md)
+

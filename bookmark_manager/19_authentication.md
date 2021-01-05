@@ -42,4 +42,4 @@ Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_man
 - branch [version6](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version6): Steps 18-19 | [recording](https://youtu.be/sV346p8zIkQ)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/bookmark_manager/19_authentication.md)
+

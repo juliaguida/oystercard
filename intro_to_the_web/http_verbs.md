@@ -29,4 +29,4 @@ In this challenge you will learn the different use-cases for two of HTTP methods
 ### [Walkthrough](walkthroughs/http_verbs.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/http_verbs.md)
+

@@ -45,4 +45,4 @@ It's also a great idea for your team to keep some sort of record of your learnin
 - `master` is deployed into production.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/final_projects/project_criteria.md)
+

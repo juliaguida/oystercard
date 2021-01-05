@@ -36,4 +36,4 @@ In this challenge, you will allow players to enter their names and see them on-s
 ### [Walkthrough](walkthroughs/entering_players.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/entering_players.md)
+

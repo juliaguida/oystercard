@@ -335,4 +335,4 @@ Submarine
 ```
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/mvp.md)
+

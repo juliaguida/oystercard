@@ -27,5 +27,5 @@
 ---
 Find ways to gain insight on these goals using [this document](https://github.com/makersacademy/course/blob/master/apprenticeships_starting_pack/progress_insight.md).
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/apprenticeships_starting_pack/course_goals.md)
+
 

@@ -224,4 +224,4 @@ Other Resources
 * [Learning Java Resources](https://netbeans.org/kb/articles/learn-java.html)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/java.md)
+

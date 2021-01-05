@@ -55,4 +55,4 @@ In this challenge, you will deliver the completed feature from the first two use
 
 [Previous Challenge](9_building_a_bike.md) | [Next Challenge](11_using_instance_variables.md)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/boris_bikes/10_making_stations_release_bikes.md)
+

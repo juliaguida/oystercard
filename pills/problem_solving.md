@@ -31,4 +31,4 @@ Resources
   * [Parallelogram Kata](http://www.codewars.com/kata/complete-the-pattern-number-10-parallelogram/train/ruby) 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/problem_solving.md)
+

@@ -94,4 +94,4 @@ At its simplest, [string interpolation](https://github.com/makersacademy/course/
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/strings.md)
+

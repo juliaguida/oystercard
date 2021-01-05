@@ -38,4 +38,4 @@ Any tool that enables two or more people to view and contribute in realtime is w
 - [Retrium](https://www.retrium.com)
 - [FunRetro](https://funretro.io)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/collaboration-tools.md)
+

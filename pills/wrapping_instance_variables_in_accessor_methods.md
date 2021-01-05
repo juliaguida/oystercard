@@ -58,4 +58,4 @@ The second issue is more abstract. Because it’s possible to wrap every instanc
 Regardless of how far your thoughts move in this direction, you should hide data from yourself. Doing so protects the code from being affected by unexpected changes. Data very often has behavior that you don’t yet know about. Send messages to access variables, even if you think of them as data.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/wrapping_instance_variables_in_accessor_methods.md)
+

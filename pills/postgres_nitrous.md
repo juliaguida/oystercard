@@ -15,4 +15,4 @@ Suggestion from [here](https://github.com/datamapper/do/issues/66)
 If that doesn't work, try using Ruby 2.1.5 (2.1.1 is ideal, but Nitrous won't let you downgrade that far).
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/postgres_nitrous.md)
+

@@ -28,4 +28,4 @@ Time: 30 minutes.
 * They let Makers judge the quality of its education, so it can be improved.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/weekly_confidence_survey.md)
+

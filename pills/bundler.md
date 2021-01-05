@@ -28,4 +28,4 @@ Note also that when you run `bundle` that bundler creates a file called Gemfile.
 - [Rubygems.org](https://www.rubygems.org)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/bundler.md)
+

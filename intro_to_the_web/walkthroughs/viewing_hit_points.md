@@ -51,4 +51,4 @@ Ta-da! Our test passes. But our tests are starting to duplicate the same user ac
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/walkthroughs/viewing_hit_points.md)
+

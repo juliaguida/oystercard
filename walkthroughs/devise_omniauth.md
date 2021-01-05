@@ -144,4 +144,4 @@ localhost:3000
 
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/walkthroughs/devise_omniauth.md)
+

@@ -20,4 +20,4 @@ There is an example of how to approach this challenge [here](https://github.com/
 You'll be able to use a lot of the same techniques as the ones you used in week 4. Consider having a look at those walkthroughs if you get stuck.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/thermostat_es6/saving_state.md)
+

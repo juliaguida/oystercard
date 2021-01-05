@@ -13,4 +13,4 @@ This is a good project to start with to learn test driven development and start 
 * Go through every line of your code, leaving a comment explaining what it does. Ask someone to read it and discuss points where their understanding agrees or differs.
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/goals/recipes/objects_1.md)
+

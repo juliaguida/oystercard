@@ -153,4 +153,4 @@ Some programmes could be very time efficient, but allocate tons of memory.
   * https://github.com/PreetiSekhon2/algorithms (Python)
   * https://github.com/tomlightfoot/algorithm_complexity (JavaScript)
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/algorithmic_complexity/README.md)
+

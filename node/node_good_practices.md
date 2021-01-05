@@ -19,4 +19,4 @@ Many thanks to [Spike](http://github.com/Spike01) for the original design this c
 :pill: [jshint](https://github.com/makersacademy/course/blob/master/pills/jshint.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/node/node_good_practices.md)
+

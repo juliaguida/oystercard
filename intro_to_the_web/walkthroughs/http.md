@@ -44,4 +44,4 @@ Lastly, the *body* of the response. This is the information that motivated our r
 [Forward to the Challenge Map](../README.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/walkthroughs/http.md)
+

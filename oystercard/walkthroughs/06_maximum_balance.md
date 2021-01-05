@@ -94,4 +94,4 @@ This change should not make your test fail - so ensure that you immediately mirr
 [Next challenge](../07_deducting_money.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/oystercard/walkthroughs/06_maximum_balance.md)
+

@@ -37,4 +37,4 @@ Here's what you should end up with:
 ### [Walkthrough](walkthroughs/sinatra_defining_a_route.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/sinatra_defining_a_route.md)
+

@@ -35,4 +35,4 @@ Within HTTP, we call data sent from a client to a server a **parameter**. Just l
 ### [Walkthrough](walkthroughs/http_parameters.md)
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/intro_to_the_web/http_parameters.md)
+

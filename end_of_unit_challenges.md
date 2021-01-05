@@ -34,4 +34,4 @@
 [7]: https://github.com/makersacademy/instagram-challenge
 
 
-![Tracking pixel](https://githubanalytics.herokuapp.com/course/weekend_challenges.md)
+
