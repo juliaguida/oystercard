@@ -2,21 +2,20 @@
 
 #### Monday
 
-The careers team will be running sessions this week to help you with your preparation for the job hunt.
-
 * 10.00am: Your coach will introduce today's tech test: [Bank](../../individual_challenges/bank_tech_test.md)
 * 10.30am: You'll work solo on the tech test.
 * 5.00pm: You'll review your code in pairs.
 * 5.30pm: We'll review your code in a group.
 
 #### Tuesday
+
 * 10.00am: We'll do a mini retro on yesterday's work.
 * 10.15am: Your coach will introduce the next tech test: [Gilded rose](../../individual_challenges/gilded_rose.md)
 * 10.30am - onwards: You'll work solo on the tech test.
 * 4.30pm: We'll do a mini retro on today's work.
 
 #### Wednesday
-* 10am - 11am: Careers session: Practice Tech Interviews
+
 * 11am: You'll work solo on the tech test.
 * 5.00pm: You'll review your code in pairs.
 * 5.30pm: We'll review your code in a group.
@@ -26,7 +25,6 @@ The careers team will be running sessions this week to help you with your prepar
 * 10.00am: We'll do a mini retro on yesterday's work.
 * 10.15am: Your coach will introduce the next tech test: [tic-tac-toe](../../individual_challenges/tic_tac_toe.md)
 * 10.30am: You'll work solo on the tech test.
-* 3.00 - 4pm: Careers session: How to network.
 
 #### Friday
 
@@ -36,6 +34,5 @@ The careers team will be running sessions this week to help you with your prepar
 * 4.00pm: You'll review your code in pairs.
 * 4:30pm Group code review
 * 5pm: Retro
-
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/onsite/week10.md)

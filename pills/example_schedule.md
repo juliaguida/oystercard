@@ -35,9 +35,4 @@
 
 * 17.00 to 18.00 - Yoga
 
-### Careers
-
-* From week 6, there will be one careers session per week.
-
-
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/example_schedule.md)

@@ -11,6 +11,7 @@ This document is a high-level guide to how coaches can help graduates and how an
 All developers should continue their learning journey after graduation, don't assume that you are the finished article after 12 weeks - the best developers continue to learn throughout their career.
 
 Signs that you should reach out for some technical coaching:
+
 - You're not writing a lot of code
 - You don't feel like you're getting better as a developer
 - You've spent the last few weeks doing tutorials and haven't worked on any side projects of your own  
@@ -47,26 +48,26 @@ There are also recent and returning grads available for pairing work on occasion
 
 **Who:** Anybody still to find a job; recommended for grads who have been job-hunting for more than a month.
 
-
 ## How does this affect my chances of finding work?
 
 Coding more and committing to a regular working day following the course can only positively impact your ability to find work.
 
-When shortlisting for jobs, there partnerships team are trying to balance a number of factors, but ultimately the hiring partners want to see the strongest applicants. Those applicants are assess on a number of factors, explained in more detail in our [shortlisting pill](https://github.com/makersacademy/jobhunters/blob/master/careers/shortlisting.md).
+When shortlisting for jobs, there partnerships team are trying to balance a number of factors, but ultimately the hiring partners want to see the strongest applicants.
 
 In particular "How frequently are they committing code on github?", "Do they have a side project?" and "Is there proof that they have acted on technical feedback from previous applications?" are all things that you can demonstrate by maintaining a structure routine of development work after your graduate.
 
-Why do these things matter? They matter because this is what our hiring partners want to see - they're going to look at your Github and they're going to ask us for our technical recommendations. If you've got high quality side projects or you've requested a mock interview and done well, that tells us that you're a top quality candidate and you're more likely to be shortlisted. 
+Why do these things matter? They matter because this is what our hiring partners want to see - they're going to look at your Github and they're going to ask us for our technical recommendations. If you've got high quality side projects or you've requested a mock interview and done well, that tells us that you're a top quality candidate and you're more likely to be shortlisted.
 
 ## FAQs
 
 ### How often should I be coding?
+
 Ideally, most days! You should be aiming to make at least a few commits each week. After a careers fair you may have a number of job applications to make but you should still try and make time to write code at some point. And yes, tech tests count!
 
 ### How do I know when to focus on coding and when to focus on job-hunting?
+
 If you're making a lot of applications but not having a great deal of luck, then it's likely that there is an area where you could improve and you should consider making coding and learning your primary focus for a couple of weeks. Talk to a coach if you're unsure - start an ILP or book a Mock Technical Interview to get feedback on how your skills stack up.
 
 **Ultimately, if you're unsure about anything, please come talk to one of us!**
-
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/pills/post-course-technical-coaching.md)

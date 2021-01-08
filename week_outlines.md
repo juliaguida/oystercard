@@ -1,4 +1,4 @@
-**Crucial Omissions:** There are some cross-cutting strands that we fit in alongside other work. These include careers and code quality. They are not the topic of any one week, and you will miss them out unless you think of them regularly!
+**Crucial Omissions:** There are some cross-cutting strands that we fit in alongside other work. These code quality. They are not the topic of any one week, and you will miss them out unless you think of them regularly!
 
 **Remember: [Success at Makers](https://github.com/makersacademy/course/tree/master/goals)** means understanding how to [reflect on your learning](https://github.com/makersacademy/course/blob/master/goals/reflective_learning.md) throughout these three months in order to demonstrate to yourself you've achieved the course goals.
 
@@ -13,7 +13,7 @@ By the end of the week all developers can:
 * Follow an effective debugging process
 * Describe some basic OO principles like encapsulation, SRP
 
-#### Wider course goals this week should help with (see all [course goals here](https://github.com/makersacademy/course/blob/master/goals/course_goals.md)):
+#### Wider course goals this week should help with (see all [course goals here](https://github.com/makersacademy/course/blob/master/goals/course_goals.md))
 
 <dl>
   <dt>I can TDD anything</dt>
@@ -69,7 +69,7 @@ You may notice you are completing the work quicker and with more ease than your 
 
 Start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) to focus on your developer process. Anyone from any cohort ever can attend.
 
-Watch a [short video](https://www.youtube.com/watch?v=TqKG8j_tgbM) explaining what Reviews are and how to use this valuable resource - and then consider booking one! 
+Watch a [short video](https://www.youtube.com/watch?v=TqKG8j_tgbM) explaining what Reviews are and how to use this valuable resource - and then consider booking one!
 
 ### Challenges
 
@@ -90,8 +90,8 @@ Watch a [short video](https://www.youtube.com/watch?v=TqKG8j_tgbM) explaining wh
 * [OO Relationships (Forwarding, Polymorphism)](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/oo_relationships.md)
 * [Learning by building RSpec](https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md)
 
-
 ### Resources
+
 * [Technical Learning Resources](https://airtable.com/shrr9VqhGBzPyfa7E/tblokmw6yNUO75ge6?blocks=hide)
 
 ### Skills workshops
@@ -103,7 +103,6 @@ Watch a [short video](https://www.youtube.com/watch?v=TqKG8j_tgbM) explaining wh
 * [Mocking with RSpec](https://github.com/makersacademy/skills-workshops/tree/master/week-2/mocking_2)
 * [OOP 3: Delegate, Delegate, Delegate](https://github.com/makersacademy/skills-workshops/tree/master/week-2/oop_3)
 * [Making code simpler through polymorphism](https://github.com/makersacademy/skills-workshops/tree/master/week-2/making_code_simpler_through_polymorphism)
-
 
 ## Week 3
 
@@ -127,6 +126,7 @@ By the end of the week all developers can:
 * [Build a birthday greeter app (small project)](https://github.com/makersacademy/course/blob/master/intro_to_the_web/post_challenges/birthday_app.md)
 
 ### Resources
+
 * [Technical Learning Resources](https://airtable.com/shrlqxQm2BeUDvFyp/tblokmw6yNUO75ge6?blocks=hide)
 
 ### Skills workshops
@@ -155,6 +155,7 @@ By the end of the week all developers can:
 * [Build a diary app (small project)](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/daily_diary_app.md)
 
 ### Resources
+
 * [Technical Learning Resources](https://airtable.com/shrGPJMHNfr7p9iAo/tblokmw6yNUO75ge6?blocks=hide)
 
 ### Skills workshops
@@ -180,6 +181,7 @@ By the end of the week all developers can build tested, easy-to-change software 
 * [End of unit - Bowling](https://github.com/makersacademy/bowling-challenge-ruby)
 
 ### Resources
+
 * [Technical Learning Resources](https://airtable.com/shrxLK3dcqRz9VssB/tblokmw6yNUO75ge6?blocks=hide)
 
 ## Week 6
@@ -238,6 +240,7 @@ Note: they get the choice of morning goals / afternoon challenges vs all day pro
 * [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/master/week-5/async_JS.md)
 
 ### Resources
+
 * [Technical Learning Resources](https://airtable.com/shrfvOQf2zZNGUhk8/tblokmw6yNUO75ge6?blocks=hide)
 
 ### Skills workshops
@@ -249,6 +252,7 @@ Note: they get the choice of morning goals / afternoon challenges vs all day pro
 See: [Engineering project](./engineering_projects/README.md)
 
 ### Resources
+
 * [Technical Learning Resources](https://airtable.com/shr7fqpJ4ZbCOvvFO/tblokmw6yNUO75ge6?blocks=hide)
 
 ## Week 10
@@ -256,6 +260,7 @@ See: [Engineering project](./engineering_projects/README.md)
 See: [Individual challenges](./individual_challenges)
 
 ### Resources
+
 * [Technical Learning Resources](https://airtable.com/shrJ9tJJ6bC6solFb/tblokmw6yNUO75ge6?blocks=hide)
 
 ## Week 11-12
@@ -263,6 +268,7 @@ See: [Individual challenges](./individual_challenges)
 See [Final Project](./final_projects)
 
 ### Resources
+
 * [Technical Learning Resources](https://airtable.com/shraRf6mlRUzf4oDS/tblokmw6yNUO75ge6?blocks=hide)
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/week_outlines.md)

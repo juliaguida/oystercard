@@ -4,13 +4,14 @@ We’ll use trello to track our work. We have a bunch of tickets that need to be
 
 We’ll have a workshop on Tuesday to estimate and break up those epic tickets.
 
-Here is the trello board for next weeks project. : https://trello.com/b/sVi7yBEZ/acebook-remote-april-2017
- 
-You need this link to join the Trello board: https://trello.com/invite/b/sVi7yBEZ/ddcbb49a7bc6cad3bfc54b0e878995f0/acebook-remote-april-2017
+Here is the trello board for next weeks project. : <https://trello.com/b/sVi7yBEZ/acebook-remote-april-2017>
 
-Here is the project repo: https://github.com/makersacademy/acebook-remote-april-2017
+You need this link to join the Trello board: <https://trello.com/invite/b/sVi7yBEZ/ddcbb49a7bc6cad3bfc54b0e878995f0/acebook-remote-april-2017>
+
+Here is the project repo: <https://github.com/makersacademy/acebook-remote-april-2017>
 
 #### Monday
+
 - 9.30 Standups in your Array groups - assign 1 ticket per pair, work on ticket, make PR, QA, merge.
 
 #### Tuesday
@@ -18,16 +19,14 @@ Here is the project repo: https://github.com/makersacademy/acebook-remote-april-
 - 9.30: Peer-led code review
 - 10.00: Workshop - Estimating tickets
 
-- 17.00: Careers workshop
-
 #### Wednesday, Thursday
+
 - 9.30: Standups (Student organised)
 
-
 #### Friday
+
 - 5.00: Confidence Workshop
 - 5.30: [Retro](https://github.com/makersacademy/course/blob/master/pills/student_retrospective.md)
 - 6.00: Announcements for the weekend
-
 
 ![Tracking pixel](https://githubanalytics.herokuapp.com/course/sequence/remote/week08.md)
