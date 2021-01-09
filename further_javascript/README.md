@@ -36,19 +36,12 @@ Your diagram might include: model, view, controller, external API, browser page,
 * Frontend templating.
 * Frontend routing.
 
-## Tracks
+## Working Arrangement
 
-This week is composed of two separate tracks.  You'll choose one track and stay on it for the whole week.
-
-* In the [challenge track](00_challenge_track.md), you'll work in changing pairs as normal.  You'll implement an app using challenges to guide you (no walkthroughs). And you'll extract a test framework from your app.
-
-* In the [project track](project_track.md), you'll work in small teams for the whole week.  You'll implement the same app as the challenge track, except you'll only use user stories to guide you (no challenges, no walkthroughs). You'll extract a testing framework, too.
+This is a project week. You'll work in small teams for the whole week, using user stories to guide you (no challenges, no walkthroughs). Then you'll extract your own testing framework.
 
 ## Get started
 
-Have a look at the materials for each track.  Choose which one you want to do.  Once you get your pair or group assignment, you can get started.
+Once you get your group assignment, you can get started.
 
 It's going to be exciting!
-
-
-
