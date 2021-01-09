@@ -1,4 +1,4 @@
-**Crucial Omissions:** There are some cross-cutting strands that we fit in alongside other work. These code quality. They are not the topic of any one week, and you will miss them out unless you think of them regularly!
+**Crucial Omissions:** There are some cross-cutting strands that we fit in alongside other work. This includes code quality. They are not the topic of any one week, and you will miss them out unless you think of them regularly!
 
 **Remember: [Success at Makers](https://github.com/makersacademy/course/tree/master/goals)** means understanding how to [reflect on your learning](https://github.com/makersacademy/course/blob/master/goals/reflective_learning.md) throughout these three months in order to demonstrate to yourself you've achieved the course goals.
 
