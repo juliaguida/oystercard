@@ -2,7 +2,7 @@
 
 ## Learning objectives
 
-### Goals for the week
+### Course Goals
 
 Ask yourself the same two questions:
 
@@ -10,29 +10,21 @@ Ask yourself the same two questions:
 
 * Are you a better developer than you were yesterday?
 
-#### Primary goal
+#### Week Goals
 
-By the end of the week, the goal is to be able to answer "yes" to the week's primary question:
+By the end of the week your goal is to be able to say:
 
-* **Can you write a frontend, single page app using only pure JavaScript?**
+1. I can build a frontend single-page app using only pure Javascript.
+2. I can request and use data from an external API.
 
-* As part of this primary goal, a sub-goal should be that you are able to explain and give an example of asynchronous behaviour in Javascript
-
-#### Secondary goal
-
-To help you towards your primary goal, your secondary goal will be to produce a diagram of how all the parts of your notes app interact.
-
-* Draw the diagram on Tuesday.
-* Each morning, update the diagram with your latest understanding.
-
-Your diagram might include: model, view, controller, external API, browser page, unit tests, feature tests, static server, node, XMLHttpRequest, the DOM.
+That second goal may come later in the week or weekend.
 
 ### Concepts
 
-* Frontend, [single page](https://msdn.microsoft.com/en-gb/magazine/dn463786.aspx) web apps.
+* Frontend, [single page](https://developer.mozilla.org/en-US/docs/Glossary/SPA) web apps.
 * Events and event handlers.
 * Manipulating the [Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction).
-* Ajax.
+* Asynchronous requests.
 * Frontend templating.
 * Frontend routing.
 
