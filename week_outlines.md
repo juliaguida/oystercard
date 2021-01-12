@@ -219,15 +219,12 @@ A tiny JavaScript/Sinatra app that mimics the architecture of the Thermostat app
 
 By the end of the week all developers can:
 
-* Build a front-end app in Javascript
-* Work competently in Javascript *
-* Reason about asynchronous behaviour in Javascript
+* Build a frontend single-page app using only pure Javascript.
+* Request and use data from an external API.
 
 ### Challenges
 
-Note: they get the choice of morning goals / afternoon challenges vs all day project groups.
-
-* [Afternoons - Notes app](https://github.com/makersacademy/course/blob/master/further_javascript)
+* [All-day Group Project](https://github.com/makersacademy/course/blob/master/further_javascript)
 * End of unit, either of:
   * [News summary](https://github.com/makersacademy/news-summary-challenge)
   * [Chitter API Frontend Challenge](https://github.com/makersacademy/frontend-api-challenge)
@@ -270,5 +267,3 @@ See [Final Project](./final_projects)
 ### Resources
 
 * [Technical Learning Resources](https://airtable.com/shraRf6mlRUzf4oDS/tblokmw6yNUO75ge6?blocks=hide)
-
-
