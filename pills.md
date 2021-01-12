@@ -114,6 +114,8 @@ Knowledge pills are like little vitamin pills you can take in quickly to underst
 
 :pill: [Protractor](https://github.com/makersacademy/course/blob/master/pills/protractor.md)
 
+:pill: [Calling APIs](https://github.com/makersacademy/course/blob/master/pills/calling_apis_in_javascript.md)
+
 ## Database
 
 :pill: [Relationships between tables in a database](https://github.com/makersacademy/course/blob/master/pills/db_relationships.md)

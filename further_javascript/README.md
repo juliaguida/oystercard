@@ -2,7 +2,7 @@
 
 ## Learning objectives
 
-### Goals for the week
+### Course Goals
 
 Ask yourself the same two questions:
 
@@ -10,45 +10,50 @@ Ask yourself the same two questions:
 
 * Are you a better developer than you were yesterday?
 
-#### Primary goal
+#### Week Goals
 
-By the end of the week, the goal is to be able to answer "yes" to the week's primary question:
+By the end of the week your goal is to be able to say:
 
-* **Can you write a frontend, single page app using only pure JavaScript?**
+1. I can build a frontend single-page app using only pure Javascript.
+2. I can request and use data from an external API.
 
-* As part of this primary goal, a sub-goal should be that you are able to explain and give an example of asynchronous behaviour in Javascript
+That second goal may come later in the week or weekend.
 
-#### Secondary goal
+## Structure of the week
 
-To help you towards your primary goal, your secondary goal will be to produce a diagram of how all the parts of your notes app interact.
+You'll work in unchanging **teams of about four** for the whole week.
 
-* Draw the diagram on Tuesday.
-* Each morning, update the diagram with your latest understanding.
+You'll **implement user stories** for a note-taking app.  No challenges, no walkthroughs.
 
-Your diagram might include: model, view, controller, external API, browser page, unit tests, feature tests, static server, node, XMLHttpRequest, the DOM.
+Then, you'll **extract your own testing framework**.
 
-### Concepts
+### Notes app
 
-* Frontend, [single page](https://msdn.microsoft.com/en-gb/magazine/dn463786.aspx) web apps.
+Take [user stories for a notes app](notes_app_user_stories.md).  Use them to build a frontend, single page web app.
+
+You can't use existing web frameworks, libraries or even a test library (e.g. no Angular, React, Jasmine, jQuery etc.).
+
+No challenges.  No walkthroughs.
+
+#### Guidance
+
+Make sure to look at this [guidance on building a frontend, single page app](frontend_single_page_app_guidance.md)! It'll help you point yourself in the right direction when you're figuring out how to implement some of the trickier things.
+
+#### Test library
+
+Extract your own test library from your app.  See here for more [guidance on testing without a testing library and extracting your testing code into its own library](../pills/writing_tests_without_a_testing_library.md).
+
+#### Concepts
+
+* Frontend, [single page](https://developer.mozilla.org/en-US/docs/Glossary/SPA) web apps.
 * Events and event handlers.
 * Manipulating the [Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction).
-* Ajax.
+* Asynchronous requests.
 * Frontend templating.
 * Frontend routing.
 
-## Tracks
-
-This week is composed of two separate tracks.  You'll choose one track and stay on it for the whole week.
-
-* In the [challenge track](00_challenge_track.md), you'll work in changing pairs as normal.  You'll implement an app using challenges to guide you (no walkthroughs). And you'll extract a test framework from your app.
-
-* In the [project track](project_track.md), you'll work in small teams for the whole week.  You'll implement the same app as the challenge track, except you'll only use user stories to guide you (no challenges, no walkthroughs). You'll extract a testing framework, too.
-
 ## Get started
 
-Have a look at the materials for each track.  Choose which one you want to do.  Once you get your pair or group assignment, you can get started.
+Once you get your group assignment, you can get started.
 
 It's going to be exciting!
-
-
-

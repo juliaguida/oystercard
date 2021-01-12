@@ -21,7 +21,14 @@ I can see the full text of an individual note on its own page
 So I can see all the information in the note
 ```
 
+```
+As a programmer
+I can use shortcodes like `:fire:` that get converted into emojis like 🔥
+So I can record notes with fun little pictures
+```
+
+You should use [this service](https://makers-emojify.herokuapp.com) to convert
+shortcodes to emoji. In this way you will have the opportunity to learn how to
+[call external APIs](../pills/calling_apis_in_javascript.md) using pure Javascript.
+
 (NB: notes do not need to be permanently stored.  If the user refreshes their web page, they'll lose their notes, and that's fine.)
-
-
-
