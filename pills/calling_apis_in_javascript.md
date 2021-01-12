@@ -8,7 +8,12 @@ Let's consider an example API endpoint that gets information about one post
 in particular. I'll use the command-line tool `curl` to illustrate its usage:
 
 ```bash
-; curl https://jsonplaceholder.typicode.com/posts/1
+curl https://jsonplaceholder.typicode.com/posts/1
+```
+
+Which responds with:
+
+```json
 {
   "userId": 1,
   "id": 1,
@@ -119,6 +124,16 @@ It looks like this:
 
 ```javascript
 fetch("https://jsonplaceholder.typicode.com/posts/1").then(response => {
+  // We have the response!
+});
+```
+
+However, `fetch` is clever in that it tells you there's a response before all
+the data has been received in case that is useful to you. It's not useful to
+us though, so we actually need two layers of promises to get the data:
+
+```javascript
+fetch("https://jsonplaceholder.typicode.com/posts/1").then(response => {
   response.json().then(json => {
     // We have the JSON!
     console.log(json);
@@ -126,12 +141,9 @@ fetch("https://jsonplaceholder.typicode.com/posts/1").then(response => {
 });
 ```
 
-(There are two layers of promises here due to the way HTTP works, but don't
-worry about that too much for now).
-
 Try that out and you'll see in the console that we can get the data! Great.
 
-Now we just have to return it, right? Try that out.
+Now we just have to return it, right? Try that out before moving on.
 
 ## Promises... I promise
 
