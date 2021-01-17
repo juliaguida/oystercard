@@ -27,5 +27,12 @@ Choose [legacy code](https://github.com/emilybache/GildedRose-Refactoring-Kata) 
 
 HINT: Test first FTW!
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=individual_challenges_with_reviews/gilded_rose.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=individual_challenges_with_reviews/gilded_rose.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=individual_challenges_with_reviews/gilded_rose.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=individual_challenges_with_reviews/gilded_rose.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=individual_challenges_with_reviews/gilded_rose.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

@@ -10,3 +10,13 @@ Exercises and supporting material [here](https://github.com/makersacademy/skills
 ## Evidence Plan
 - How comfortable do you feel assessing how cohesive a class is?
 - Did you successfully break the SecretDiary class up into multiple cohesive classes?
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=tagging/encapsulation_cohesion.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=tagging/encapsulation_cohesion.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=tagging/encapsulation_cohesion.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=tagging/encapsulation_cohesion.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=tagging/encapsulation_cohesion.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

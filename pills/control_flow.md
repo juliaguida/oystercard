@@ -226,4 +226,12 @@ The "case" is the value that we want to evaluate - in our case, the fruit variab
 
 Quite often, case statements are a [code smell](http://en.wikipedia.org/wiki/Code_smell) that indicates that the code can be refactored to make it simpler. However, they can be genuinely useful in some cases.
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/control_flow.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/control_flow.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/control_flow.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/control_flow.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/control_flow.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

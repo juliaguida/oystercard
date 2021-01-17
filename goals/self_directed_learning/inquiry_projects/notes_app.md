@@ -20,3 +20,13 @@ You may find the following useful as preparatory materials:
 ## Evidence Plan
   - Did you manage to write all your tests before your code?
   - Did you achieve all your intended functionality?
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/notes_app.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/notes_app.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/notes_app.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/notes_app.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/notes_app.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

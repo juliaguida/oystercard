@@ -356,13 +356,12 @@ Average rating: <%= star_rating restaurant.average_rating%>
 
 All unit tests and feature tests should now pass, and this approach is very common, to jump between high level and low level tests.  We want to avoid too many slow running high level feature tests, and we respond to any situation where we find ourselves writing a series of repetitive feature tests we should consider switching to unit tests.  We can't work completely in unit-tests for everything as we do need to at least occasionally test that everything is working together correctly which invidiual unit tests cannot do.
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/helpers.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/helpers.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/helpers.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/helpers.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/helpers.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
 
-
-
-
-
-
-
-
+<!-- END GENERATED SECTION DO NOT EDIT -->

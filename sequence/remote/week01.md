@@ -33,3 +33,13 @@ Monday is [Day one](./day_one.md)
 - [Airport challenge](https://github.com/makersacademy/airport_challenge).
 - (optional) Make a video of fully TDD'd FizzBuzz. Can you do it in less than 5 minutes? (Record for a student is around 4mins, 30 secs, with well named methods, not taking any shortcuts)
 - (optional) Write a blog post about TDD - maybe an intro for someone new to it, or a particularly challenging problem you faced.
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=sequence/remote/week01.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=sequence/remote/week01.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=sequence/remote/week01.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=sequence/remote/week01.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=sequence/remote/week01.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

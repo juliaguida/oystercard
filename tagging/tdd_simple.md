@@ -37,3 +37,13 @@ Your focus here should be on adopting a rigorous TDD process - Red, Green, Refac
 - You will feel more comfortable in your ability to explain all stages of the TDD process. (emotional evidence)
 - You will document the process you followed in order to build the Dice object. (empirical evidence)
 - You will discuss and receive feedback on your process with a coach. (credible evidence)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=tagging/tdd_simple.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=tagging/tdd_simple.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=tagging/tdd_simple.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=tagging/tdd_simple.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=tagging/tdd_simple.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

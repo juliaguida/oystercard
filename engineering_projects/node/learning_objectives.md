@@ -21,3 +21,13 @@ Many of these have already been written up as tickets in the [corresponding trel
 3. I can use npm to manage dependencies
 4. I can TDD an Express app that shows 'hello, world' at `localhost:8080/`
 5. I can TDD a basic database-backed (CRUD) Notes App using Express
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=engineering_projects/node/learning_objectives.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=engineering_projects/node/learning_objectives.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=engineering_projects/node/learning_objectives.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=engineering_projects/node/learning_objectives.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=engineering_projects/node/learning_objectives.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

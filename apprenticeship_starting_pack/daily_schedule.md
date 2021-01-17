@@ -42,4 +42,12 @@ During these modules you'll work in teams. You'll organise yourselves into pairs
 and schedule your team meetings. You should discuss your individual goals as a
 team and find a path that allows you all to succeed.
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/daily_schedule.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/daily_schedule.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/daily_schedule.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/daily_schedule.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/daily_schedule.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

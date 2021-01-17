@@ -8,4 +8,12 @@ A good rule of thumb (or, scientifically called [Liskov substitution principle](
 
 If you have a **has-a (or uses-a)** relationship, then it's probably a use case for composition. For example, if project needs a set of methods to generate invoices for it, we can say that a Project has an Invoiceable property. Or, if an image can be resized, we can say that Image has a Resizeable property. Or, if an ElectricCar can use an ElectricMotor that can also be used by other vehicles.
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/composition_vs_inheritance.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/composition_vs_inheritance.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/composition_vs_inheritance.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/composition_vs_inheritance.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/composition_vs_inheritance.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

@@ -30,3 +30,13 @@ Here are other tools Makers Academy developers have used to track their learning
 
 * Looking at examples on this page, try to describe why people have tracked their learnings. What value does it bring?
 * Which methods are you most likely to use? Why?
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/self_directed_learning/resources/tracking_your_learning.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/self_directed_learning/resources/tracking_your_learning.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/self_directed_learning/resources/tracking_your_learning.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/self_directed_learning/resources/tracking_your_learning.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/self_directed_learning/resources/tracking_your_learning.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

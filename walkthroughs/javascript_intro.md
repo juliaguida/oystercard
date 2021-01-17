@@ -465,10 +465,12 @@ Exercises
 * Complete this code by adding the rest of the game logic so we are not hard coding a winner
 * Extend this code to support the Rock, Paper, Scissors, Lizard, Spock game
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/javascript_intro.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/javascript_intro.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/javascript_intro.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/javascript_intro.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/javascript_intro.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
 
-
-
-
-
+<!-- END GENERATED SECTION DO NOT EDIT -->

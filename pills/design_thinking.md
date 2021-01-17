@@ -13,5 +13,12 @@ This part of the course was inspired by [Chris Granger's post on the importance 
 * [Thoughtbot's Product Design Sprint](https://robots.thoughtbot.com/the-product-design-sprint), additional material on their [GitHub](https://github.com/thoughtbot/design-sprint)
 * [Human Centred Design](https://www.ideo.com/work/human-centered-design-toolkit/) by OpenIDEO
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/design_thinking.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/design_thinking.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/design_thinking.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/design_thinking.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/design_thinking.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

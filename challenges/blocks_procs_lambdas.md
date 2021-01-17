@@ -18,4 +18,12 @@ expect(result).to eq([2,4,6]) # make it pass
 
 - If you'd like a harder challenge, implement the [map()](http://www.ruby-doc.org/core-2.1.2/Array.html#method-i-map) method without iterations, using [recursion](https://github.com/makersacademy/course/blob/master/pills/recursion.md). You'll need a recursive helper function that will need to have a different signature than normal [map()](http://www.ruby-doc.org/core-2.1.2/Array.html#method-i-map). Don't forget that you may need to operate on a copy of the original array. Think about the base case when the recursion should stop. If you do this, the teachers will be seriously impressed because this is hard, even though you can write the solution in only two lines of code.
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=challenges/blocks_procs_lambdas.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=challenges/blocks_procs_lambdas.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=challenges/blocks_procs_lambdas.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=challenges/blocks_procs_lambdas.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=challenges/blocks_procs_lambdas.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

@@ -113,5 +113,12 @@ To consider how to build an app properly, generally you need to be just applying
 * [You Aren't Gonna Need It](http://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it) - Only add things to your code that you're actually doing and solve the problem at hand, don't add anything more than you need to, we are always looking for people who can KISS and build an MVP rather than build unneccesary things that don't solve anything.
 * [Principle of Least Astonishment](http://programmers.stackexchange.com/a/187462) - Does your code do what someone would expect it to? Are you finding there a lots of comments where you have to explain yourself? If so you need to refactor your code so it is self-evident what is going on wherever possible.
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/code_reviews.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/code_reviews.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/code_reviews.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/code_reviews.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/code_reviews.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

@@ -32,3 +32,13 @@ You main focus here should be to follow a rigorous TDD process: RED, GREEN, REFA
 - You'll be able to explain the approach you took to writing your code and justify some of the decisions you made (emotional)
 - You will have a well tested, working implementation of the system described above (empirical)
 - You will discuss your approach with a coach, describing your TDD process, and will receive feedback (credible)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=tagging/simple_checkout.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=tagging/simple_checkout.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=tagging/simple_checkout.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=tagging/simple_checkout.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=tagging/simple_checkout.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

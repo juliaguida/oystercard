@@ -14,5 +14,12 @@ We'll focus on debugging today, as a method of understanding more about a progra
 * Go through a program you've written and put a comment on every line explaining what it does. Go through it with someone and see if they agree.
 * As above, but with a program you haven't written. You won't understand it all immediately — that's okay! Try the [Geocoder](https://github.com/alexreisner/geocoder) gem.
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/understanding_language_1.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/understanding_language_1.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/understanding_language_1.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/understanding_language_1.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/understanding_language_1.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

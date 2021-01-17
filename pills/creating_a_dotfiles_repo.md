@@ -195,6 +195,12 @@ Additional tasks
 - Remember the set up for Makers? How much of that could you automate with a shell script?
 - Putting all of your code in one file violates SRP pretty hard, try creating separate files for aliases and functions and just using bash_profile as a runner to load those files.
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/creating_a_dotfiles_repo.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/creating_a_dotfiles_repo.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/creating_a_dotfiles_repo.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/creating_a_dotfiles_repo.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/creating_a_dotfiles_repo.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
 
+<!-- END GENERATED SECTION DO NOT EDIT -->

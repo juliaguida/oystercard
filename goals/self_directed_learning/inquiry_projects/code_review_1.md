@@ -19,5 +19,12 @@ You'll each be reviewing a colleague's code today. This morning the rule is: you
 
 * Fork your colleague's repository and refactor their code to improve it. Use small commit messages where the commit messages explain what you've done and why.
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/code_review_1.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/code_review_1.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/code_review_1.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/code_review_1.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/code_review_1.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

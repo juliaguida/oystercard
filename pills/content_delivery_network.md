@@ -40,5 +40,12 @@ Using CDNs does also introduce a dependency so that if a CDN goes down, so does 
 
 Note the 'min' in the jquery examples above.  This refers to minified javascript (or other asset, e.g. CSS), which is the same javascript, but with all the spaces taken out, and possibly all the variable names reduced to the minimum possible.  The idea is to simply shrink the file size to reduce the time it takes to load.  It also has the effect of making the file almost unreadable to humans.  If you are in development mode and may need to debug through the file prefer the non-minified versions of assets.  Prefer minified versions when going into production.
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/content_delivery_network.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/content_delivery_network.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/content_delivery_network.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/content_delivery_network.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/content_delivery_network.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

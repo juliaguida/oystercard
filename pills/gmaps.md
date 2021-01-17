@@ -104,10 +104,12 @@ http://stackoverflow.com/questions/12181253/changing-node-js-listening-port
 
 [TODO: add notes on node setup]
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
- 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/gmaps.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/gmaps.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/gmaps.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/gmaps.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/gmaps.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
 
-
-
-
+<!-- END GENERATED SECTION DO NOT EDIT -->

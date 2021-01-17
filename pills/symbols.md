@@ -63,6 +63,12 @@ Even though there's no colon in front of the symbol name, this is a perfectly va
 
 You can verify that it's just an alternative syntax by trying it in the irb. Note how irb uses the default syntax when it echoes the hash back to you.
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/symbols.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/symbols.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/symbols.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/symbols.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/symbols.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
 
+<!-- END GENERATED SECTION DO NOT EDIT -->

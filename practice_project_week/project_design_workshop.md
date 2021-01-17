@@ -42,6 +42,12 @@ Design a user flow, design a screen interface, sketch, draw flowcharts, whatever
 
 Choose the next most important interaction of your MVP, design it and build it.
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=practice_project_week/project_design_workshop.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=practice_project_week/project_design_workshop.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=practice_project_week/project_design_workshop.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=practice_project_week/project_design_workshop.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=practice_project_week/project_design_workshop.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
 
+<!-- END GENERATED SECTION DO NOT EDIT -->

@@ -54,4 +54,12 @@ Not everyone will come here knowing how to take control of their own journey —
 
 And then there's the matter of making the environment here as rich in opportunities to learn as possible. If you're not sure whether your code is readable or not, it should be easy to learn how to determine that, execute it, and then engage productively with the task of improving your code. Moreover, the atmosphere and people around you should inspire you to be better.
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/succeeding_at_makers_and_beyond.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/succeeding_at_makers_and_beyond.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/succeeding_at_makers_and_beyond.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/succeeding_at_makers_and_beyond.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/succeeding_at_makers_and_beyond.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

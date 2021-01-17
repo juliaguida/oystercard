@@ -58,5 +58,12 @@ In general you should start with weak evidence and move to strong evidence. Each
 * Go through a complex program involving these concepts and explain everything that is going on to someone else. Do they understand?
 * Go through a complex program involving these concepts with a coach and explain everything that is going on. Ask a coach "If I said this in an interview, would my interviewer think I understood what I was talking about?"
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/progress_insight.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/progress_insight.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/progress_insight.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/progress_insight.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/progress_insight.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

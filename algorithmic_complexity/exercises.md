@@ -56,3 +56,13 @@ For example:
 |`[10,3,1,7]`|`21`| should return `true` (because the sum of the whole array return 21) |
 |`[10,3,1,7]`|`22`| should return `false` (because you can't reach 22 by summing all numbers) |
 |`[10,3,1,7]`|`17`| should return `false` (because 10 and 7 are not next to each other) |
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=algorithmic_complexity/exercises.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=algorithmic_complexity/exercises.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=algorithmic_complexity/exercises.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=algorithmic_complexity/exercises.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=algorithmic_complexity/exercises.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

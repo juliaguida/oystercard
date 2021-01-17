@@ -67,4 +67,12 @@ In general you should start with weak evidence and move to strong evidence. Each
 * Share your screen recording with someone else and ask them for feedback.  Do they think you apply good process?
 * Is your team achieving their goals?
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/progress_insight.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/progress_insight.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/progress_insight.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/progress_insight.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=apprenticeship_starting_pack/progress_insight.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

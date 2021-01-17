@@ -849,12 +849,12 @@ Finally, to exit the shell, just type "exit" :)
 
 Before moving on to the next lesson, make sure that you're able to do each of the these [tasks](https://github.com/makersacademy/course/blob/master/challenges/command_line_challenges.md).
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/command_line.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/command_line.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/command_line.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/command_line.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=pills/command_line.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
 
-
-
-
-
-
-
+<!-- END GENERATED SECTION DO NOT EDIT -->

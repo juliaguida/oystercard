@@ -18,7 +18,12 @@ To allow you the freedom to direct your own learning, this tutorial will not tak
 * [modulus - create a REST api in NodeJS / Express](http://blog.modulus.io/nodejs-and-express-create-rest-api)
 * [TDD your node API with Mocha](http://webapplog.com/test-driven-development-in-node-js-with-mocha/)
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=makermix/intro_to_makermix.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=makermix/intro_to_makermix.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=makermix/intro_to_makermix.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=makermix/intro_to_makermix.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=makermix/intro_to_makermix.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
 
-
+<!-- END GENERATED SECTION DO NOT EDIT -->

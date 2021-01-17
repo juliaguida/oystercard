@@ -14,5 +14,12 @@ Pick your own focus goal. Diagramming is helpful everywhere!
 * [An introduction to UML](https://www.ibm.com/developerworks/rational/library/769.html)
 * Diagram out how RSpec works internally by reading the source code.
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/diagramming_1.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/diagramming_1.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/diagramming_1.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/diagramming_1.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/inquiry_projects/diagramming_1.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

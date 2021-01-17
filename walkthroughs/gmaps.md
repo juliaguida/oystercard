@@ -392,7 +392,12 @@ $(document).ready(function(){
 * note that we could have just put the address directly in as a data attribute and avoided the json call, but that leaves us with rather a lot of control in the html
 , and here we are opening up a generic channel for grabbing data about our posts via json
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/gmaps.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/gmaps.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/gmaps.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/gmaps.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/gmaps.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
 
-
+<!-- END GENERATED SECTION DO NOT EDIT -->

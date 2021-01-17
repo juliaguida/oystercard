@@ -24,3 +24,13 @@
 | Designing a learning plan | Content units, course syllabus, logical sequence | Learning projects, learning contracts, sequenced in terms of readiness
 | Learning activities | Transmittal techniques, assigned Readings | Inquiry projects, independent study, experiential techniques
 | Evaluation | Primarily by teacher | By mutual assessment of self-collected evidence
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/resources/comparison_of_teacher_directed_and_self_directed_learning.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/resources/comparison_of_teacher_directed_and_self_directed_learning.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/resources/comparison_of_teacher_directed_and_self_directed_learning.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/resources/comparison_of_teacher_directed_and_self_directed_learning.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=goals/self_directed_learning/resources/comparison_of_teacher_directed_and_self_directed_learning.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

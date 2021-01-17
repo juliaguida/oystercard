@@ -52,5 +52,12 @@ In rspec, the `.to be()` matcher has the same syntax as `.to eq()`.  This conven
 * [Layouts and Rendering](http://guides.rubyonrails.org/layouts_and_rendering.html)
 * [Active Record Migrations](http://guides.rubyonrails.org/migrations.html)
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=engineering_projects/rails/intro_to_rails.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=engineering_projects/rails/intro_to_rails.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=engineering_projects/rails/intro_to_rails.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=engineering_projects/rails/intro_to_rails.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=engineering_projects/rails/intro_to_rails.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

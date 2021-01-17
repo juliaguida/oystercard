@@ -132,16 +132,12 @@ localhost:3000
 
 * so restart rails and see if this works - with a bit of luck we can now log in via Facebook
 
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
+---
 
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/devise_omniauth.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/devise_omniauth.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/devise_omniauth.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/devise_omniauth.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=walkthroughs/devise_omniauth.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
 
-
-
-
-
-
-
-
-
-
-
+<!-- END GENERATED SECTION DO NOT EDIT -->
