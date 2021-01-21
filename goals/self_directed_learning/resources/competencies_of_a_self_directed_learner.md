@@ -5,8 +5,8 @@
   </tr>
   <tr>
     <th>Competencies of self-directed learning</th>
-    <td>Not started</td>
-    <td>Started</td>
+    <td>Not practiced</td>
+    <td>Consolidating</td>
     <td>Improving</td>
     <td>Excelling</td>
   </tr>
