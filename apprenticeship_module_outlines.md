@@ -123,7 +123,7 @@ If you're new to working with classes, start with *An intro to classes*.  If you
 [rspec]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md
 [debugging_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md
 [debug_fizzbuzz]: https://hackmd.io/s/S147x3Q3m
-[debugging_1]: https://github.com/makersacademy/skills-workshops/tree/master/week-1/debugging_1
+[debugging_1]: https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/debugging_1
 [state_and_behaviour]: https://github.com/makersacademy/skills-workshops/tree/master/ruby-fundamentals/class-syntax
 [writing_unit_tests]: https://github.com/makersacademy/skills-workshops/tree/c268bb78fdc4df644d0ed7b1fdd189de426895f8/week-1/writing_tests
 [testing_relationships_classes]: https://github.com/neoeno/testing_relationships_between_classes
@@ -217,7 +217,7 @@ The intention is that you should work through the core exercises in order, from 
 [class]: https://www.lucidchart.com/pages/uml-class-diagram
 [sequence]: https://www.lucidchart.com/pages/uml-sequence-diagram
 [diagram]: https://www.diagram.codes/
-[code_review]: https://github.com/makersacademy/skills-workshops/tree/master/week-2/code_review
+[code_review]: https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/code_review
 [encapsulation]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md
 [forwarding_polymorphism]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/oo_relationships.md
 [refactoring_using_oo]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/refactoring.md
@@ -464,7 +464,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 [learn_by_translation]: https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A
 [js_objects]: https://hackmd.io/LNOhghGETu2Mry0LYCGKwQ?view
 [js_async]: https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-following-the-flow-async
-[js_callbacks]: https://github.com/makersacademy/skills-workshops/tree/master/week-5/callbacks_following_the_flow_of_control
+[js_callbacks]: https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/callbacks_following_the_flow_of_control
 
 ### Resources
 

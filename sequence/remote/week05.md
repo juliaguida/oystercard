@@ -8,15 +8,15 @@
 - [Goals for the week](https://github.com/makersacademy/course/blob/master/thermostat/README.md#goals-for-the-week)
 
 #### Tuesday
-- 09.30: [Workshop - encapsulation](https://github.com/makersacademy/skills-workshops/tree/master/week-5/encapsulation_with_constructor_and_prototype_pattern)
+- 09.30: [Workshop - encapsulation](https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/encapsulation_with_constructor_and_prototype_pattern)
 - 10.30: Standups (Student organised)
 
 #### Wednesday 
-- 09.30: [Workshop - following the flow](https://github.com/makersacademy/skills-workshops/tree/master/week-5/following_the_flow_and_getting_visibility_in_javascript)
+- 09.30: [Workshop - following the flow](https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/following_the_flow_and_getting_visibility_in_javascript)
 - 10.30: Standups (Student organised)
 
 #### Thursday
-- 09.30: [Workshop - Following asynchronous flow of control](https://github.com/makersacademy/skills-workshops/tree/master/week-5/callbacks_following_the_flow_of_control)
+- 09.30: [Workshop - Following asynchronous flow of control](https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/callbacks_following_the_flow_of_control)
 - 10.30: Standups (Student organised)
 #### Friday
 - 9.30: [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
