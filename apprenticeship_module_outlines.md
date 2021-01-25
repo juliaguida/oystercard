@@ -86,7 +86,7 @@ Remind yourself of the rest [here](https://github.com/makersacademy/course/blob/
 * [Encapsulation on Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_%28computer_programming%29)
 * [Technical Learning Resources](https://airtable.com/shrIlMSX4PrGxuSfT/tblokmw6yNUO75ge6?blocks=hide)
 
-### Exercises andfor self-directed learning
+### Exercises for self-directed learning
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
