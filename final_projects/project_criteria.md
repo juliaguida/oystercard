@@ -40,9 +40,9 @@ It's also a great idea for your team to keep some sort of record of your learnin
 
 ## Additional Criteria – Weeks 8 and 9 (Engineering Projects)
 
-- Merging any branch into `master` automatically deploys after passing automated tests.
-- All code on `master` is containerized.
-- `master` is deployed into production.
+- [ ] Merging any branch into `main` automatically deploys after passing automated tests.
+- [ ] All code on `main` is containerized.
+- [ ] `main` is deployed into production.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
