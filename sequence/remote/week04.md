@@ -15,13 +15,13 @@
 
 #### Thursday
 
-- 9.30: [Workshop](https://github.com/makersacademy/skills-workshops/tree/master/week-4/databases_1)
+- 9.30: [Workshop](https://github.com/makersacademy/skills-workshops/tree/master/how_databases_work/databases_1)
 - 10.30: Standups (Student organised)
 
 
 #### Friday
 
-- 9.30: [Workshop](https://github.com/makersacademy/skills-workshops/tree/master/week-4/databases_2)
+- 9.30: [Workshop](https://github.com/makersacademy/skills-workshops/tree/master/how_databases_work/databases_2)
 - 5.00: Confidence Workshop
 - 5.30: [Retro](https://github.com/makersacademy/course/blob/master/pills/student_retrospective.md)
 - 6.00: Announcements for the weekend

@@ -9,11 +9,11 @@
 
 #### Tuesday
 - 09.30: Standups (Student organised) 
-- 10.00: [Workshop](https://github.com/makersacademy/skills-workshops/tree/master/week-7/javascript-module-pattern-workshop)
+- 10.00: [Workshop](https://github.com/makersacademy/skills-workshops/tree/master/further_javascript/javascript-module-pattern-workshop)
 
 #### Wednesday
 - 9.30: Standups (Student organised)
-- 10.00: [Workshop](https://github.com/makersacademy/skills-workshops/tree/master/week-7/isolating-units-with-mocks)
+- 10.00: [Workshop](https://github.com/makersacademy/skills-workshops/tree/master/further_javascript/isolating-units-with-mocks)
 
 #### Thursday
 - 9.30: Standups (Student organised)

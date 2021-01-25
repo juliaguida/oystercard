@@ -49,11 +49,11 @@ These can be used by the devs independently, or enhanced by a coach delivering a
 
 ### Skills workshops
 
-* [Git](https://github.com/makersacademy/skills-workshops/tree/master/week-1/git_and_research)
-* [Introduction to Debugging](https://github.com/makersacademy/skills-workshops/tree/master/week-1/debugging_1)
-* [Encapsulation](https://github.com/makersacademy/skills-workshops/tree/master/week-1/oop_1)
-* [Mocking](https://github.com/makersacademy/skills-workshops/tree/master/week-1/mocking_1)
-* [TDD a simple program](https://github.com/makersacademy/skills-workshops/blob/master/week-1/TDD_process.md)
+* [Git](https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/git_and_research)
+* [Introduction to Debugging](https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/debugging_1)
+* [Encapsulation](https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/oop_1)
+* [Mocking](https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/mocking_1)
+* [TDD a simple program](https://github.com/makersacademy/skills-workshops/blob/master/test_driven_development/TDD_process.md)
 
 ## Week 2
 
@@ -96,13 +96,13 @@ Watch a [short video](https://www.youtube.com/watch?v=TqKG8j_tgbM) explaining wh
 
 ### Skills workshops
 
-* [Code Review](https://github.com/makersacademy/skills-workshops/tree/master/week-2/code_review)
-* [Domain modelling](https://github.com/makersacademy/skills-workshops/tree/master/week-2/domain_model_diagramming)
-* [Domain modelling alternative](https://github.com/makersacademy/skills-workshops/blob/master/week-2/domain_modelling_alternative)
+* [Code Review](https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/code_review)
+* [Domain modelling](https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/domain_model_diagramming)
+* [Domain modelling alternative](https://github.com/makersacademy/skills-workshops/blob/master/object_oriented_programming/domain_modelling_alternative)
 * [Mocking](https://github.com/makersacademy/skills-workshops/tree/master/student-mocking-workshop)
-* [Mocking with RSpec](https://github.com/makersacademy/skills-workshops/tree/master/week-2/mocking_2)
-* [OOP 3: Delegate, Delegate, Delegate](https://github.com/makersacademy/skills-workshops/tree/master/week-2/oop_3)
-* [Making code simpler through polymorphism](https://github.com/makersacademy/skills-workshops/tree/master/week-2/making_code_simpler_through_polymorphism)
+* [Mocking with RSpec](https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/mocking_2)
+* [OOP 3: Delegate, Delegate, Delegate](https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/oop_3)
+* [Making code simpler through polymorphism](https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/making_code_simpler_through_polymorphism)
 
 ## Week 3
 
@@ -131,8 +131,8 @@ By the end of the week all developers can:
 
 ### Skills workshops
 
-* [Modelling the request/response cycle](https://github.com/makersacademy/skills-workshops/tree/master/week-3/process_modelling)
-* [Debugging 2](https://github.com/makersacademy/skills-workshops/tree/master/week-3/debugging_2)
+* [Modelling the request/response cycle](https://github.com/makersacademy/skills-workshops/tree/master/how_the_web_works/process_modelling)
+* [Debugging 2](https://github.com/makersacademy/skills-workshops/tree/master/how_the_web_works/debugging_2)
 
 ## Week 4
 
@@ -160,7 +160,7 @@ By the end of the week all developers can:
 
 ### Skills workshops
 
-* [CRC Cards](https://github.com/makersacademy/skills-workshops/tree/master/week-4/domain_modelling_student_directory_using_crc_cards)
+* [CRC Cards](https://github.com/makersacademy/skills-workshops/tree/master/how_databases_work/domain_modelling_student_directory_using_crc_cards)
 * [REST](https://github.com/sjmog/rest)
 
 ## Week 5
@@ -199,7 +199,7 @@ By the end of the week all developers can:
 ### Practicals
 
 * [Learning a new language by translation](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A)
-* [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/master/week-5/async_JS.md)
+* [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/master/javascript_fundamentals/async_JS.md)
 * [Closures](https://hackmd.io/cIFsMAqISHqVHN_-p9hY0Q)
 
 ### Resources
@@ -210,10 +210,10 @@ A tiny JavaScript/Sinatra app that mimics the architecture of the Thermostat app
 
 ### Skills workshops
 
-* [Encapsulation with the constructor & prototype pattern](https://github.com/makersacademy/skills-workshops/tree/master/week-5/encapsulation_with_constructor_and_prototype_pattern)
-* [Following the flow and getting visibility](https://github.com/makersacademy/skills-workshops/tree/master/week-5/following_the_flow_and_getting_visibility_in_javascript_es6)
-* [Following the Ajax request/response cycle](https://github.com/makersacademy/skills-workshops/tree/master/week-5/following_ajax_request_response_cycle)
-* [Callbacks and following the flow of control](https://github.com/makersacademy/skills-workshops/tree/master/week-5/callbacks_following_the_flow_of_control)
+* [Encapsulation with the constructor & prototype pattern](https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/encapsulation_with_constructor_and_prototype_pattern)
+* [Following the flow and getting visibility](https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/following_the_flow_and_getting_visibility_in_javascript_es6)
+* [Following the Ajax request/response cycle](https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/following_ajax_request_response_cycle)
+* [Callbacks and following the flow of control](https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/callbacks_following_the_flow_of_control)
 
 ## Week 7
 
@@ -231,10 +231,10 @@ By the end of the week all developers can:
 
 ### Practicals
 
-* [Explore Closures in JS](https://github.com/makersacademy/skills-workshops/blob/master/week-7/explore_closures.md)
+* [Explore Closures in JS](https://github.com/makersacademy/skills-workshops/blob/master/further_javascript/explore_closures.md)
 * [Reading beyond your level](https://hackmd.io/F-pmnp3hRhePddmf3mnKGw)
-* [Modelling the flow of JS requests to an API](https://github.com/makersacademy/skills-workshops/tree/master/week-7/process-modelling-js-api/process_modelling)
-* [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/master/week-5/async_JS.md)
+* [Modelling the flow of JS requests to an API](https://github.com/makersacademy/skills-workshops/tree/master/further_javascript/process-modelling-js-api/process_modelling)
+* [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/master/javascript_fundamentals/async_JS.md)
 
 ### Resources
 
@@ -242,7 +242,7 @@ By the end of the week all developers can:
 
 ### Skills workshops
 
-* [Javascript module pattern](https://github.com/makersacademy/skills-workshops/tree/master/week-7/javascript-module-pattern-workshop)
+* [Javascript module pattern](https://github.com/makersacademy/skills-workshops/tree/master/further_javascript/javascript-module-pattern-workshop)
 
 ## Week 8-9
 

@@ -397,7 +397,7 @@ However, while using a build tool can solve this problem, it adds another layer 
 
 ## Resources
 
-- [JavaScript module pattern workshop](https://github.com/makersacademy/skills-workshops/tree/master/week-7/javascript-module-pattern-workshop). Includes a whole app example of using the module pattern.
+- [JavaScript module pattern workshop](https://github.com/makersacademy/skills-workshops/tree/master/further_javascript/javascript-module-pattern-workshop). Includes a whole app example of using the module pattern.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

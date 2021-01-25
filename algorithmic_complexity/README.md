@@ -55,7 +55,7 @@ Once you have written a few, compare the shapes of different curves.
 - [ ] Which algorithms are more efficient?
 
 **Resources**:
-* [A workshop about algorithm design](https://github.com/makersacademy/skills-workshops/tree/master/week-10-apprs/writing-algorithms)
+* [A workshop about algorithm design](https://github.com/makersacademy/skills-workshops/tree/master/algorithmic_complexity/writing-algorithms)
 
 ### Making algorithms more efficient
 
