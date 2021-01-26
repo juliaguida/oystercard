@@ -12,9 +12,9 @@
 
 * How will you implement the domain model? Maybe [Javascript Classes](https://github.com/makersacademy/course/blob/master/pills/js_classes.md)?
 
-* How will you construct your HTML content? You could write a view module.  Maybe it will concatenate strings? Maybe it will use a tiny tiny templating framework that you write.
+* How will you construct your HTML content? You could write some display functions. Maybe they will create elements using `document.createElement()`? Maybe they will concatenate strings? Maybe they will use a tiny tiny templating framework that you write. 
 
-* How will you map URLs to resources? How will you render HTML to the page? How will you let your HTML interface interact with your models in a clean way? Maybe a controller or two?
+* How will you map URLs to resources? How will you render HTML to the page? How will you let your HTML interface interact with your models in a clean way?
 
 * How will you make requests to external APIs? Maybe [fetch](../pills/calling_apis_in_javascript.md)?
 

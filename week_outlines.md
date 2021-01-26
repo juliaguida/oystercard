@@ -224,25 +224,21 @@ By the end of the week all developers can:
 
 ### Challenges
 
-* [All-day Group Project](https://github.com/makersacademy/course/blob/master/further_javascript)
+* [Afternoon Group Project](https://github.com/makersacademy/course/blob/master/further_javascript)
 * End of unit, either of:
   * [News summary](https://github.com/makersacademy/news-summary-challenge)
   * [Chitter API Frontend Challenge](https://github.com/makersacademy/frontend-api-challenge)
 
 ### Practicals
 
-* [Explore Closures in JS](https://github.com/makersacademy/skills-workshops/blob/master/further_javascript/explore_closures.md)
+* [Modelling the flow of API calls with JS](https://github.com/makersacademy/skills-workshops/tree/master/further_javascript/process-modelling-js-api/process_modelling)
 * [Reading beyond your level](https://hackmd.io/F-pmnp3hRhePddmf3mnKGw)
-* [Modelling the flow of JS requests to an API](https://github.com/makersacademy/skills-workshops/tree/master/further_javascript/process-modelling-js-api/process_modelling)
+* [Explore Closures in JS](https://github.com/makersacademy/skills-workshops/blob/master/further_javascript/explore_closures.md)
 * [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/master/javascript_fundamentals/async_JS.md)
 
 ### Resources
 
 * [Technical Learning Resources](https://airtable.com/shrfvOQf2zZNGUhk8/tblokmw6yNUO75ge6?blocks=hide)
-
-### Skills workshops
-
-* [Javascript module pattern](https://github.com/makersacademy/skills-workshops/tree/master/further_javascript/javascript-module-pattern-workshop)
 
 ## Week 8-9
 
