@@ -16,7 +16,7 @@
 
 * You'll organise your own work.
 
-* There won't be any workshops or an end-of-week retrospective.
+* There won't be any technical workshops.
 
 * Use coaches to help unblock you
 
