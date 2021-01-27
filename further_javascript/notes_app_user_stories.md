@@ -43,7 +43,7 @@ Check `LocalStorage` to learn about how to save data in your browser.
 
 Finally, why not deploy your app?
 
-Deploying static applications like this one (application with no server side logic) is extremely easy, as it only needs a server to serve files. Look into [GitHub Pages](https://pages.github.com/) or [Surge](https://surge.sh/) to deploy this app.
+Deploying static applications like this one (application with no server side logic) is simple, as it only needs a server to serve files. Look into [GitHub Pages](https://pages.github.com/) or [Surge](https://surge.sh/) to deploy this app.
 
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
