@@ -84,7 +84,7 @@ Remind yourself of the rest [here](https://github.com/makersacademy/course/blob/
 * [The 4 phases of a test](https://robots.thoughtbot.com/four-phase-test)
 * [The three rules of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
 * [Encapsulation on Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_%28computer_programming%29)
-* [Technical Learning Resources](https://airtable.com/shrIlMSX4PrGxuSfT/tblokmw6yNUO75ge6?blocks=hide)
+* [Technical Learning Resources](https://airtable.com/shrtZmDUTQmQFdaZV/tblokmw6yNUO75ge6)
 
 ### Exercises for self-directed learning
 
@@ -187,6 +187,7 @@ And you can remind yourself of the rest [here](https://github.com/makersacademy/
 * [POODR](https://www.poodr.com/), by Sandi Metz, is very highly regarded
 * [SOLID](https://rubygarage.org/blog/solid-principles-of-ood) principles with Ruby examples
 * [The 4 pilars of OOD](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
+* [Technical learning resources](https://airtable.com/shrtZmDUTQmQFdaZV/tblokmw6yNUO75ge6)
 
 ### Exercises for self-directed learning
 
@@ -266,6 +267,7 @@ And you can remind yourself of the rest [here](https://github.com/makersacademy/
 
 * [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) – you'll probably get asked about this in a job interview one day ;)
 * [History of the web](https://webfoundation.org/about/vision/history-of-the-web/?gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmJcknSPKlT1ckzH7grP8DX_Mxr1be9qlqv13OEC9aI7pYe0CJoAVKQaAikrEALw_wcB)
+* [Technical learning resources](https://airtable.com/shrtZmDUTQmQFdaZV/tblokmw6yNUO75ge6)
 
 ### Exercises for self-directed learning
 
@@ -356,6 +358,7 @@ These exercises can be used for independent study, or enhanced by pairing and gr
 * [The REST test](https://github.com/sjmog/rest)
 * [Explain DBs like I'm 5](https://www.reddit.com/r/explainlikeimfive/comments/3qqm9h/eli5_relational_databases/)
 * [A Shelfish Starter Guide to Databases](https://illustrated.dev/databases)
+* [Technical learning resources](https://airtable.com/shrtZmDUTQmQFdaZV/tblokmw6yNUO75ge6)
 
 ### Pairing challenge
 
@@ -472,6 +475,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 * [You Don't Know JS – a free book series](https://github.com/getify/You-Dont-Know-JS)
 * Here's a great tool to deploy pure html/js sites: [surge.sh](https://surge.sh)
 * [Codepen](https://codepen.io/) is a really great tool for playing with HTML, CSS and JS
+* [Technical learning resources](https://airtable.com/shrtZmDUTQmQFdaZV/tblokmw6yNUO75ge6)
 
 ### Pairing challenge
 
