@@ -54,10 +54,10 @@ Let's translate our user actions into a Capybara feature test:
 feature 'Enter names' do
   scenario 'submitting names' do
     visit('/')
-    fill_in :player_1_name, with: 'Dave'
+    fill_in :player_1_name, with: 'Charlotte'
     fill_in :player_2_name, with: 'Mittens'
     click_button 'Submit'
-    expect(page).to have_content 'Dave vs. Mittens'
+    expect(page).to have_content 'Charlotte vs. Mittens'
   end
 end
 ```
@@ -70,7 +70,7 @@ Running `rspec` from the root directory gives us an error:
 Failures:
 
   1) Enter names submitting names
-     Failure/Error: fill_in :player_1_name, with: 'Dave'
+     Failure/Error: fill_in :player_1_name, with: 'Charlotte'
      Capybara::ElementNotFound:
        Unable to find field :player_1_name
      # /Users/Sam/.rvm/gems/ruby-2.2.2/gems/capybara-2.5.0/lib/capybara/node/finders.rb:43:in `block in find'

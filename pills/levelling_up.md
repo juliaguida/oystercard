@@ -25,7 +25,7 @@ OOP is almost as fundamental as TDD, and you should make sure you are always bui
 As well, don't forget that your objects should be encapsulating inside themselves all the internal logic that relates to an object. This means that rather than doing something like:
 
 ```ruby
-user = User.find('dave')
+user = User.find('charlotte')
 user.credit += 5
 user.status = :in_credit
 user.save!
@@ -34,7 +34,7 @@ user.save!
 you should **encapsulate** all of that logic inside of the user object where it belongs:
 
 ```ruby
-user = User.find('dave')
+user = User.find('charlotte')
 user.add_credit!(5)
 ```
 

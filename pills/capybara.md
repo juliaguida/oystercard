@@ -38,7 +38,7 @@ Capybara methods can be broadly broken down into categories as follows:
 
 1. Navigation - methods that navigate to a page, i.e. `visit '/'`
 2. Clicking - methods that click something on a page, i.e. `click_button 'Submit'`
-3. Interacting - methods that mimic the user entering form data, i.e. `fill_in('name', with: 'dave')`
+3. Interacting - methods that mimic the user entering form data, i.e. `fill_in('name', with: 'charlotte')`
 4. Matching - methods that test expectations, i.e. `expect('#blog-post').to have_content('News')`
 5. Scoping - methods that target a specific area of the page, i.e. `within('#blog-post') do`
 6. Other - Other user actions such as checking check boxes, selecting select options or attaching files.

@@ -36,7 +36,7 @@ Let's say we want to give our kitten a name. We aren't sure what the name actual
 
 ````ruby
 get '/' do
-  @name = %w(Amigo Oscar Viking).sample
+  @name = %w(Amigo Misty Almond).sample
   erb :index
 end
 ````

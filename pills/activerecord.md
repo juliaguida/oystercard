@@ -32,14 +32,14 @@ Let's say we have a User model that we're working with at the moment (so a CREAT
 | Action | Command |
 | ------ | ------- |
 | CREATE | `User.create`, `User.new` |
-| READ | `User.first`, `User.all`, `User.find_by(name: 'Dave')` |
+| READ | `User.first`, `User.all`, `User.find_by(name: 'Charlotte')` |
 | UPDATE | `user.update(name: 'Spike')` (where 'user' has been defined) |
 | DELETE | `user.destroy` (where 'user' has been defined) |
 
 **Create** is a funny one. You can either give the user some properties and create it in a single step with `User.create`:
 
 ```ruby
-User.create(name: "Dave", occupation: "Philosopher/Ruby legend")
+User.create(name: "Charlotte", occupation: "Philosopher/Ruby legend")
 ```
 
 Or in two steps with `User.new` and then `User.save`:

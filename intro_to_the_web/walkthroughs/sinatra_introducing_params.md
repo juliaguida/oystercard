@@ -15,11 +15,11 @@ end
 
 The code here calls `params[:name]`, but where does that come from?  `params`, also known as the **params hash**, is provided by Sinatra; you don't have to declare it anywhere.  The params hash is a collection of all the parameters from the HTTP request.  One way to pass params to the HTTP request is to use the _query string_ portion of the URL.  For example:
 
-http://localhost:4567/named-cat?name=James
+http://localhost:4567/named-cat?name=Ashley
 
-The part that comes after `?` is the query string; `name=James`.  So, if we pass the parameter `name=James` as part of the URL, then "James" will be in `params[:name]`. If necessary, you can specify multiple parameters separated by ampersands:
+The part that comes after `?` is the query string; `name=Ashley`.  So, if we pass the parameter `name=Ashley` as part of the URL, then "Ashley" will be in `params[:name]`. If necessary, you can specify multiple parameters separated by ampersands:
 
-http://localhost:4567/named-cat?name=James&last_name=Cameron
+http://localhost:4567/named-cat?name=Ashley&last_name=Cameron
 
 Now, if you modify your erb template to expect this value, you'll see a welcome message if a name is provided:
 
@@ -34,7 +34,7 @@ Now, if you modify your erb template to expect this value, you'll see a welcome 
 
 Notice that we're not just printing the name of the visitor on the screen, we're printing `My name is #{@name}` only if the visitor is defined. This way it won't be printed when we open the root url ("/") that displays the same template. To achieve this we're using a usual `if` statement, embedding it inside `<% %>` tags. Because we don't want to output the results of the `if` statement, that is, line 2 into the HTML, we don't put `=` after the opening tag or the closing tag.
 
-Now, if we go to http://localhost:4567/named-cat?name=James, we can change the name of our cat.
+Now, if we go to http://localhost:4567/named-cat?name=Ashley, we can change the name of our cat.
 
 By playing with the query string, we can learn more about how it works. So we can better understand the link between the query string and `params`, let's print our `params` to the server logs on each visit to the `/named-cat` route:
 

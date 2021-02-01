@@ -19,7 +19,7 @@ In this challenge, you will use `params` to extract extra information from a cli
 - [ ] Instead of setting the `@name` instance variable equal to a sampled array, set it equal to `params[:name]`
 - [ ] Visit your route from a browser
 - [ ] Explain to your pair partner what you see
-- [ ] In the browser URL, add the following **query string** after the `/named-cat` path: `?name=James`, and visit that page
+- [ ] In the browser URL, add the following **query string** after the `/named-cat` path: `?name=Ashley`, and visit that page
 - [ ] Explain to your pair partner what you see
 - [ ] In the line before you assign your `@name` variable, print (`p`) the `params` of the request
 - [ ] Restart your server and refresh the page. Check the terminal (**server logs**) and explain to your pair partner what you see
