@@ -27,7 +27,7 @@ feature 'Game over' do
 
     scenario 'Player 1 loses' do
       click_button 'Attack'
-      expect(page).to have_content 'Dave loses!'
+      expect(page).to have_content 'Charlotte loses!'
     end
   end
 end

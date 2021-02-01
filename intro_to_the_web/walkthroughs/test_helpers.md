@@ -38,7 +38,7 @@ Which lines of code can we extract from our tests? These ones:
 # and in spec/features/hit_points_spec.rb
 
 visit('/')
-fill_in :player_1_name, with: 'Dave'
+fill_in :player_1_name, with: 'Charlotte'
 fill_in :player_2_name, with: 'Mittens'
 click_button 'Submit'
 ```
@@ -50,7 +50,7 @@ Let's extract these lines to a method in `web_helpers.rb`:
 
 def sign_in_and_play
   visit('/')
-  fill_in :player_1_name, with: 'Dave'
+  fill_in :player_1_name, with: 'Charlotte'
   fill_in :player_2_name, with: 'Mittens'
   click_button 'Submit'
 end
@@ -63,7 +63,7 @@ Now we can replace those repeated lines in our tests. Here's `enter_names_spec.r
 feature 'Enter names' do
   scenario 'submitting names' do
     sign_in_and_play
-    expect(page).to have_content 'Dave vs. Mittens'
+    expect(page).to have_content 'Charlotte vs. Mittens'
   end
 end
 ```

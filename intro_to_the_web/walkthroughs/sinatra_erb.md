@@ -36,13 +36,13 @@ We need to remember to include the `=` after the first tag, otherwise the expres
 Now let's add an expression that samples some names from an array:
 
 ```erb
-<h1>My name is <%= ["Amigo", "Oscar", "Viking"].sample %></h1>
+<h1>My name is <%= ["Amigo", "Misty", "Almond"].sample %></h1>
 <div style='border: 3px dashed red'>
   <img src='http://bit.ly/1eze8aE'>
 </div>
 ```
 
-> We could refactor the expression to use `%w(Amigo Oscar Viking)` if we were feeling snazzy.
+> We could refactor the expression to use `%w(Amigo Misty Almond)` if we were feeling snazzy.
 
 When the page is rendered using `erb`, we should wind up with an HTML document that looks like this:
 

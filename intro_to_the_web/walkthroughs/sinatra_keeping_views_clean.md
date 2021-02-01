@@ -7,7 +7,7 @@ Let's refactor our code to push the 'heavy logical lifting' of random name gener
 Before we refactor, our view looks something like this:
 
 ```erb
-<h1>My name is <%= ["Amigo", "Oscar", "Viking"].sample %></h1>
+<h1>My name is <%= ["Amigo", "Misty", "Almond"].sample %></h1>
 <div style='border: 3px dashed red'>
   <img src='http://bit.ly/1eze8aE'>
 </div>
@@ -29,7 +29,7 @@ First, let's move the complex randomisation into the route. We'll assign it to a
 # in app.rb
 
 get '/cat' do
-  @name = ["Amigo", "Oscar", "Viking"].sample
+  @name = ["Amigo", "Misty", "Almond"].sample
   erb :index
 end
 ```

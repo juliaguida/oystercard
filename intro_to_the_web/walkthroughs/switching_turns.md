@@ -19,7 +19,7 @@ When writing Capybara feature tests, you shouldn't be testing the 'state' of the
 ```ruby
 scenario 'switching turns' do
   sign_in_and_play
-  expect($game.current_turn.name).to eq "Dave"
+  expect($game.current_turn.name).to eq "Charlotte"
 end
 ```
 
@@ -36,14 +36,14 @@ scenario 'Switch turns' do
   context 'seeing the current turn' do
     scenario 'at the start of the game' do
       sign_in_and_play
-      expect(page).to have_content "Dave's turn"
+      expect(page).to have_content "Charlotte's turn"
     end
 
     scenario 'after player 1 attacks' do
       sign_in_and_play
       click_button 'Attack'
       click_link 'OK'
-      expect(page).not_to have_content "Dave's turn"
+      expect(page).not_to have_content "Charlotte's turn"
       expect(page).to have_content "Mittens's turn"
     end
   end

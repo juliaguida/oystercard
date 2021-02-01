@@ -43,11 +43,11 @@ Now, let's implement a `Player` class that responds to `#name` in a Test-First m
 require 'player'
 
 describe Player do
-  subject(:dave) { Player.new('Dave') }
+  subject(:charlotte) { Player.new('Charlotte') }
 
   describe '#name' do
     it 'returns the name' do
-      expect(dave.name).to eq 'Dave'
+      expect(charlotte.name).to eq 'Charlotte'
     end
   end
 end

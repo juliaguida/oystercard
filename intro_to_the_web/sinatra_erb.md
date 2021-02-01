@@ -42,7 +42,7 @@ erb "Hi there, Visitor <% 2 + 2 %>!"
 
 - [ ] Add an `h1` tag to your `index.erb` view file, with the words 'My name is ' inside it.
 - [ ] At the end of the `h1` tag (before it closes), append an empty interpolated Ruby Expression using `<%= %>` ('ERB tags')
-- [ ] Inside these ERB tags, write an expression that `sample`s a random name from the following array: `["Amigo", "Oscar", "Viking"]`
+- [ ] Inside these ERB tags, write an expression that `sample`s a random name from the following array: `["Amigo", "Misty", "Almond"]`
 - [ ] Restart your server and visit the path associated with the cat route.
 
 ### Resources
