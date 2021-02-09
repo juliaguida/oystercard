@@ -31,7 +31,20 @@ You should use [this service](https://makers-emojify.herokuapp.com) to convert
 shortcodes to emoji. In this way you will have the opportunity to learn how to
 [call external APIs](../pills/calling_apis_in_javascript.md) using pure Javascript.
 
-(NB: notes do not need to be permanently stored.  If the user refreshes their web page, they'll lose their notes, and that's fine.)
+Need more challenge? Here's an additional user story:
+
+```
+As a programmer
+I can refresh the page and still see my notes
+So I can remember what I took down
+```
+
+Check `LocalStorage` to learn about how to save data in your browser.
+
+Finally, why not deploy your app?
+
+Deploying static applications like this one (application with no server side logic) is simple, as it only needs a server to serve files. Look into [GitHub Pages](https://pages.github.com/) or [Surge](https://surge.sh/) to deploy this app.
+
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

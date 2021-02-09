@@ -22,7 +22,7 @@ To decide, Sinatra looks at the HTTP verb (`GET`) and the URL (`/hello`).  These
 
 Maybe Sinatra could have used another abstraction.  It could have expected HTTP requests to name a function to run (like `sayHello`), and then respond to the request with the value returned by the function.  That would significantly change the way a user uses Sinatra.
 
-## A nice API
+## A nice interface
 
 This is closely related to a good abstraction.  Sinatra has a very nice syntax for defining routes and their handler functions.  The following would work just as well, but wouldn't be as elegant:
 
@@ -34,7 +34,7 @@ end
 sinatra.add_route("/hello", hello_action)
 ```
 
-When you decide on the API for your abstraction and feature, try to make it as terse and readable as you can.
+When you decide on the interface for your abstraction and feature, try to make it as terse and readable as you can.
 
 ## Resources
 

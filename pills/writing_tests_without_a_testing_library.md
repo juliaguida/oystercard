@@ -2,20 +2,22 @@
 
 ## What is a test?
 
-A test does two things:
+A test does three things:
 
 1. Sets some conditions up.
-2. Checks that some things are true.
+1. Checks that some things are true.
+1. Outputs the test result to the user.
 
 ## What are testing libraries for?
 
 A testing library supplies:
 
+1. Assertion functions that help check that specific things are true.
+1. A standard way to describe what a test or group of tests is doing.
 1. Mocking functions to help isolate the part of the code being tested.
-2. Assertion functions that help check that specific things are true.
-3. A standard way to describe what a test or group of tests is doing.
-4. A way to organise tests.
-5. An easy way to run lots of tests.
+1. A user-friendly way for the user to see all test results.
+1. A way to organise tests.
+1. An easy way to run lots of tests.
 
 ## Writing tests without a testing library
 
@@ -23,18 +25,15 @@ All of these things are either optional for test code, or can be easily achieved
 
 ```js
 // circle-tests.js
+function testCircleRadiusDefaultsTo10() {
+  var circle = new Circle();
 
-(function() {
-  function testCircleRadiusDefaultsTo10() {
-    var circle = new Circle();
+  if (circle.radius !== 10) {
+    throw new Error("Circle size is not 10");
+  }
+};
 
-    if (circle.radius !== 10) {
-      throw new Error("Circle size is not 10");
-    }
-  };
-
-  testCircleRadiusDefaultsTo10();
-})();
+testCircleRadiusDefaultsTo10();
 ```
 
 Here is the code for the implementation of `Circle`:
@@ -113,9 +112,13 @@ Here are some things to consider:
 
 * How can you write tests for your test library? (!)
 
-* What API should your test library have?
+* What interface should your test library have?
 
 * How will you publish your library? npm?
+
+## Go further
+
+Once you have made some progress on you testing framework, [here's a video](https://www.youtube.com/watch?v=HyGnxxKJmeQ) you can watch that could give you an idea of how to implement an interface closer to what jasmine has, for example.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

@@ -15,13 +15,12 @@ Ask yourself the same two questions:
 By the end of the week your goal is to be able to say:
 
 1. I can build a frontend single-page app using only pure Javascript.
-2. I can request and use data from an external API.
-
-That second goal may come later in the week or weekend.
+1. I can request and use data from an external API.
+1. I can explain that libraries are made of ordinary code that I could write myself if I needed to.
 
 ## Structure of the week
 
-You'll work in unchanging **teams of about four** for the whole week.
+You'll work in unchanging **teams of about four** every afternoon for the whole week. Mornings will be focused on self-directed learning.
 
 You'll **implement user stories** for a note-taking app.  No challenges, no walkthroughs.
 
