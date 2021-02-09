@@ -732,7 +732,7 @@ In Ruby the ability to call sample on an array means we can have a more readable
 
 Exercise of the interested reader - add a capacity to the airport that when exceeded prevents planes from landing.
 
-Full code for above available at: https://github.com/tansaku/airport_js
+Full code for above (but in ES5 syntax) available at: https://github.com/tansaku/airport_js
 
 
 
