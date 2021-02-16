@@ -221,6 +221,7 @@ By the end of the week all developers can:
 
 * Build a frontend single-page app using only pure Javascript.
 * Request and use data from an external API.
+* Explain that libraries are made of ordinary code that I could write myself if I needed to.
 
 ### Challenges
 
