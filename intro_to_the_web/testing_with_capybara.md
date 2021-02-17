@@ -41,6 +41,8 @@ To complete this challenge you will need to have Firefox installed.
 
 ### [Walkthrough](walkthroughs/testing_with_capybara.md)
 
+[Previous challenge](sinatra_using_the_chrome_devtools.md) - [Next challenge](getting_started_with_battle.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

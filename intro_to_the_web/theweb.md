@@ -31,6 +31,8 @@ This challenge uses [httpie](https://github.com/jkbrzt/httpie), a command line t
 
 ### [Walkthrough](walkthroughs/theweb.md)
 
+[Next challenge](http.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

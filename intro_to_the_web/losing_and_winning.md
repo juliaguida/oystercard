@@ -30,6 +30,8 @@ In this challenge, you will implement losing.
 
 ### [Walkthrough](walkthroughs/losing_and_winning.md)
 
+[Previous challenge](multiplayer.md) - [Next challenge](killing_the_global_variable.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

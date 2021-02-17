@@ -26,6 +26,7 @@ In this challenge you will look at the important elements of an HTTP request and
 
 ### [Walkthrough](walkthroughs/http.md)
 
+[Previous challenge](theweb.md) - [Next challenge](http_parameters.md)
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

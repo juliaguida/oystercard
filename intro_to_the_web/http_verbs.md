@@ -27,7 +27,7 @@ In this challenge you will learn the different use-cases for two of HTTP methods
 - [GET vs. Post](http://blog.teamtreehouse.com/the-definitive-guide-to-get-vs-post)
 
 ### [Walkthrough](walkthroughs/http_verbs.md)
-
+[Previous challenge](http_parameters.md) - [Next challenge](sinatra_getting_started.md)
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

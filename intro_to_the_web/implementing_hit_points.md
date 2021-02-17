@@ -29,6 +29,8 @@ In this challenge, you will implement a feature that meets this User Story. You 
 
 ### [Walkthrough](walkthroughs/implementing_hit_points.md)
 
+[Previous challenge](extracting_logic_to_the_model.md) - [Next challenge](srp_anyone.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

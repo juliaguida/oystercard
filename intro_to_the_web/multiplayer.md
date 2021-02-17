@@ -38,6 +38,8 @@ In this challenge, you will implement two-player functionality.
 
 ### [Walkthrough](walkthroughs/multiplayer.md)
 
+[Previous challenge](switching_turns.md) - [Next challenge](losing_and_winning.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

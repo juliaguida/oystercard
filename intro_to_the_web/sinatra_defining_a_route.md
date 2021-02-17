@@ -36,6 +36,8 @@ Here's what you should end up with:
 
 ### [Walkthrough](walkthroughs/sinatra_defining_a_route.md)
 
+[Previous challenge](sinatra_getting_started.md) - [Next challenge](sinatra_start_and_restart.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

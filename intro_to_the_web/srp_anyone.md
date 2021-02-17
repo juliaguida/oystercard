@@ -23,6 +23,8 @@ In this challenge, you will extract a model capable of performing attacks from t
 
 ### [Walkthrough](walkthroughs/srp_anyone.md)
 
+[Previous challenge](implementing_hit_points.md) - [Next challenge](skinny_controllers.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

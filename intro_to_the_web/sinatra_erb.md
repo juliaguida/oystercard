@@ -53,6 +53,7 @@ erb "Hi there, Visitor <% 2 + 2 %>!"
 
 ### [Walkthrough](walkthroughs/sinatra_erb.md)
 
+[Previous challenge](sinatra_views.md) - [Next challenge](sinatra_keeping_views_clean.md)
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

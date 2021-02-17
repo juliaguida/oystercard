@@ -33,6 +33,8 @@ In this challenge, you will use `params` to extract extra information from a cli
 
 ### [Walkthrough](walkthroughs/sinatra_introducing_params.md)
 
+[Previous challenge](sinatra_keeping_views_clean.md) - [Next challenge](sinatra_using_forms.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

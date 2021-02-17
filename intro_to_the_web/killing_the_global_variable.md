@@ -30,6 +30,8 @@ Let's look at removing the global variable `$game` from our code altogether.
 
 ### [Walkthrough](walkthroughs/killing_the_global_variable.md)
 
+[Previous challenge](losing_and_winning.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

@@ -24,6 +24,8 @@ In this challenge, you will use the **Chrome DevTools** to observe the flow of r
 
 ### [Walkthrough](walkthroughs/sinatra_using_the_chrome_devtools.md)
 
+[Previous challenge](sinatra_posted_params.md) - [Next challenge](testing_with_capybara.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

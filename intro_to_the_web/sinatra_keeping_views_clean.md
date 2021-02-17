@@ -31,6 +31,8 @@ In this challenge, you will move the name-randomising logic from the view to the
 
 ### [Walkthrough](walkthroughs/sinatra_keeping_views_clean.md)
 
+[Previous challenge](sinatra_erb.md) - [Next challenge](sinatra_introducing_params.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

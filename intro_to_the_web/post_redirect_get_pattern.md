@@ -43,6 +43,7 @@ First, we are extracting parameters to state. Then, we are rendering a view. But
 
 ### [Walkthrough](walkthroughs/post_redirect_get_pattern.md)
 
+[Previous challenge](entering_players.md) - [Next challenge](viewing_hit_points.md)
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

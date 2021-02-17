@@ -111,6 +111,8 @@ I want a sexy user interface
 
 ### [Walkthrough](walkthroughs/getting_started_with_battle.md)
 
+[Previous challenge](testing_with_capybara.md) - [Next challenge](getting_test_infrastructure_set_up.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

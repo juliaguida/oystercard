@@ -33,6 +33,8 @@ In this challenge, we will implement a turn switcher on `Game`. This challenge c
 
 ### [Walkthrough](walkthroughs/switching_turns.md)
 
+[Previous challenge](skinny_controllers.md) - [Next challenge](multiplayer.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

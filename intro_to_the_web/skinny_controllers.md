@@ -28,6 +28,8 @@ In this challenge, you will refactor your controller to make it more 'skinny'. Y
 
 ### [Walkthrough](walkthroughs/skinny_controllers.md)
 
+[Previous challenge](srp_anyone.md) - [Next challenge](switching_turns.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

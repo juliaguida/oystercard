@@ -28,6 +28,7 @@ Additionally, we will use **shotgun** to speed up our development process.
 
 ### [Walkthrough](walkthroughs/sinatra_start_and_restart.md)
 
+[Previous challenge](sinatra_defining_a_route.md) - [Next challenge](sinatra_returning_html.md)
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

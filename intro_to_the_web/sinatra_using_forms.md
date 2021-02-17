@@ -36,6 +36,8 @@ In this challenge, you will add a **form** to your view and observe how modifyin
 
 ### [Walkthrough](walkthroughs/sinatra_using_forms.md)
 
+[Previous challenge](sinatra_introducing_params.md) - [Next challenge](sinatra_posted_params.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

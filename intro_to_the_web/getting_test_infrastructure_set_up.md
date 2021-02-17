@@ -29,6 +29,9 @@ We have a basic project structure. Let's get our testing infrastructure glued to
 
 ### [Walkthrough](walkthroughs/getting_test_infrastructure_set_up.md)
 
+
+[Previous challenge](getting_started_with_battle.md) - [Next challenge](entering_players.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

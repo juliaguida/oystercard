@@ -35,6 +35,7 @@ In this challenge, you will allow players to enter their names and see them on-s
 
 ### [Walkthrough](walkthroughs/entering_players.md)
 
+[Previous challenge](getting_test_infrastructure_set_up.md) - [Next challenge](post_redirect_get_pattern.md)
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

@@ -49,6 +49,7 @@ Notice how we described the **method** as a verb that "expresses the intention o
 
 ### [Walkthrough](walkthroughs/sinatra_posted_params.md)
 
+[Previous challenge](sinatra_using_forms.md) - [Next challenge](sinatra_using_the_chrome_devtools.md)
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

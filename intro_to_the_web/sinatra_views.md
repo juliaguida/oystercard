@@ -30,6 +30,7 @@ In this challenge, you will use **views** to separate the Ruby and HTML code. Th
 
 ### [Walkthrough](walkthroughs/sinatra_views.md)
 
+[Previous challenge](sinatra_returning_html.md) - [Next challenge](sinatra_erb.md)
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

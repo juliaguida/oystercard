@@ -27,6 +27,7 @@ In this challenge, you will implement this user story with little support. You s
 
 ### [Walkthrough](walkthroughs/attacking_player_2.md)
 
+[Previous challenge](test_helpers.md) - [Next challenge](extracting_logic_to_the_model.md)
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

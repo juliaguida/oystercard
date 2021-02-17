@@ -29,6 +29,8 @@ By the end of this challenge, you should see (in your browser) something like th
 
 ### [Walkthrough](walkthroughs/sinatra_returning_html.md)
 
+[Previous challenge](sinatra_start_and_restart.md) - [Next challenge](sinatra_views.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

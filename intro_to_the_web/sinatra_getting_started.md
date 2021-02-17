@@ -35,6 +35,8 @@ For this challenge you will need a Gemfile listing Sinatra as a dependency.
 
 ### [Walkthrough](walkthroughs/sinatra_getting_started.md)
 
+[Previous challenge](http_verbs.md) - [Next challenge](sinatra_defining_a_route.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

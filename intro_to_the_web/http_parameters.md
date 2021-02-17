@@ -34,6 +34,7 @@ Within HTTP, we call data sent from a client to a server a **parameter**. Just l
 
 ### [Walkthrough](walkthroughs/http_parameters.md)
 
+[Previous challenge](http.md) - [Next challenge](http_verbs.md)
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

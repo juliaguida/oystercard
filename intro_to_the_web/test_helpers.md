@@ -33,6 +33,7 @@ In this challenge, we will DRY up our tests using a **helper**.
 
 ### [Walkthrough](walkthroughs/test_helpers.md)
 
+[Previous challenge](viewing_hit_points.md) - [Next challenge](attacking_player_2.md)
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

@@ -29,6 +29,8 @@ In this challenge, you will implement a simple User Story driven by Capybara. Th
 
 ### [Walkthrough](walkthroughs/viewing_hit_points.md)
 
+[Previous challenge](post_redirect_get_pattern.md) - [Next challenge](test_helpers.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

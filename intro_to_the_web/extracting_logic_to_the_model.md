@@ -55,6 +55,8 @@ This challenge introduces the use of a Global Variable (`$variable`). In Ruby, t
 
 ### [Walkthrough](walkthroughs/extracting_logic_to_the_model.md)
 
+[Previous challenge](attacking_player_2.md) - [Next challenge](implementing_hit_points.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---
