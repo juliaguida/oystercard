@@ -451,6 +451,9 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 | Key Skill                 | Core Exercise                                                  |
 | ------------------------- | -------------------------------------------------------------- |
+| Using functions           | [Introduction to Javascript functions][js_functions]           |
+| OOP                       | [Introduction to Javascript class syntax][js_classes]          |
+| TDD                       | [Introduction to Javasctipt and Jasmine][js_and_jasmine]       |
 | Learn by translation      | [Learning a new language by translation][learn_by_translation] |
 | Encapsulation             | [JS Objects][js_objects]                                       |
 | Using events              | [Following the flow][events]                                   |
@@ -459,8 +462,11 @@ These exercises can be used for independent study, or enhanced by group discussi
 | ------------------------- | -------------------------------------------------------------- |
 | Consume an API            | [Chitter front end challenge][chitter_front_end]               |
 | Advanced Logic            | [Create a bowling scorecard][bowling]                          |
-| Learn another language    | [TDD the Takeaway challenge in a a new langauge][takeaway]     |
+| Learn another language    | [TDD the Takeaway challenge in a new langauge][takeaway]       |
 
+[js_functions]: https://github.com/makersacademy/course/blob/master/pills/js_functions.md
+[js_classes]: https://github.com/makersacademy/course/blob/master/pills/js_classes.md
+[js_and_jasmine]: https://github.com/makersacademy/course/blob/master/pills/javascript%26JasminePill.md
 [takeaway]: https://github.com/makersacademy/takeaway-challenge
 [bowling]: https://github.com/makersacademy/bowling-challenge
 [chitter_front_end]: https://github.com/makersacademy/frontend-api-challenge
