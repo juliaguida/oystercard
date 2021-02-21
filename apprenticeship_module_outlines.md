@@ -43,6 +43,11 @@ By the end of modules 1 & 2 all developers can:
     * [Free code camp (2 hr 15 - 3hr 05)](https://youtu.be/t_ispmWmdjY?t=8126)
     * [Codecademy (loops iterators)](https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators)
 
+ - [ ] I can write my own classes and methods
+    * [Mastery Quizzes, Chapter 9](https://mastery-curriculum.makers.tech/chapter9/)
+    * [Mastery Quizzes, Chapter 10](https://mastery-curriculum.makers.tech/chapter10/)
+    * [How to write your own classes in Ruby](https://www.rubyguides.com/2019/02/ruby-class/)
+
  - [ ] I can write programs using arrays and hashmaps
     * [Mastery Quizzes, Chapter 7](https://mastery-curriculum.makers.tech/chapter7/)
     * [Mastery Quizzes, Chapter 8](https://mastery-curriculum.makers.tech/chapter8/)
