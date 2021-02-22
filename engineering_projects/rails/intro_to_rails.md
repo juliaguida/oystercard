@@ -16,7 +16,7 @@ For this project, you'll use Rails. Rails is a web application framework that pr
 #### Advantages
 
 * You have to write less code, because you don't need to tell Rails the things it has already assumed.
-* Your code is automatically structured is a half-decent way.
+* Your code is automatically structured in a half-decent way.
 * You can learn the Rails API quite quickly by following its patterns.
 
 #### Disadvantages
