@@ -12,8 +12,10 @@ Any tool that enables two or more people to view and contribute in realtime is w
 
 ## Video conferencing & screen sharing
 - [Zoom](https://zoom.us)
-- [Slack video conferencing](https://slack.com/intl/en-gb/video-conferencing)
+- [VS Code Live Share](https://visualstudio.microsoft.com/services/live-share/)
+- [Screen](https://screen.so/)
 - [CoScreen](https://www.coscreen.co/)
+- [Slack video conferencing](https://slack.com/intl/en-gb/video-conferencing)
 
 ## Card walls
 - [Trello](https://trello.com)
@@ -37,6 +39,7 @@ Any tool that enables two or more people to view and contribute in realtime is w
     - Your coach can create a retro board for your cohort or team: `https://makers-postfacto.herokuapp.com/retros/BOARD-NAME`
 - [Retrium](https://www.retrium.com)
 - [FunRetro](https://funretro.io)
+- [Miro](https://miro.com)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
