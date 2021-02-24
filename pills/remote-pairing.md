@@ -35,9 +35,12 @@ We will use GitHub throughout the course to host and collaborate on projects.
 
 Add your pairs as collaborators on all the GitHub repos you pair on. See :pill: [GitHub collaboration](./github_collaboration.md).
 
+### VS Code Live Share
+You can use VS Code's Live Share feature to take your pair programming to the next level. Install the extension within VS Code in the Marketplace, or [follow this link](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack). This will add a 'Live Share' button to the left-hand menu bar. After logging in the first time, you'll be able to create a link to share with others which will enable you to see each others cursors, highlights, type collaboratively, share terminal windows, etc. Have a Zoom call running (see below) or use the VS Code Live Share Audio extension to talk with your pair.
+
 ### Zoom
 
-We recommend Zoom for video conferencing and remote pairing because it has a good reputation for meeting quality. Free accounts can have unlimited 1 to 1 meetings with no time limit.
+Alternatively, Makers often use Zoom for video conferencing and remote pairing because it has a good reputation for meeting quality. Free accounts can have unlimited 1 to 1 meetings with no time limit.
 
 **Features**
 - video conferencing
@@ -58,9 +61,7 @@ We recommend Zoom for video conferencing and remote pairing because it has a goo
 
 ### Others
 
-There are many other collaboration tools available.
-
-Any tool that enables you and your pair to edit in realtime is worth trying:
+There are many other collaboration tools available. Any tool that enables you and your pair to edit in realtime is worth trying:
 
 - :pill: [Collaboration tools](./collaboration-tools.md)
 
