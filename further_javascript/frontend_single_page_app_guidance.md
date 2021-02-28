@@ -1,6 +1,6 @@
 # Frontend, single page app guidance
 
-* How will you serve your app? Maybe a very simple node library like :pill: [http-server](../pills/http_server.md)? (This is exempt from the "no frameworks, no libraries" rule.)
+* How will you serve your app? Maybe a very simple node library like :pill: [`http-server`](../pills/http_server.md)? (This is exempt from the "no frameworks, no libraries" rule.)
 
 * How will you write and run unit tests? Have a look at :pill: [writing tests without a testing library](../pills/writing_tests_without_a_testing_library.md).
 
@@ -12,7 +12,7 @@
 
 * How will you implement the domain model? Maybe [Javascript Classes](https://github.com/makersacademy/course/blob/master/pills/js_classes.md)?
 
-* How will you construct your HTML content? You could write some display functions. Maybe they will create elements using `document.createElement()`? Maybe they will concatenate strings? Maybe they will use a tiny tiny templating framework that you write. 
+* How will you construct your HTML content? You could write some display functions. Maybe they will create elements using `document.createElement()`? Maybe they will concatenate strings? Maybe they will use a tiny templating framework that you write. 
 
 * How will you map URLs to resources? How will you render HTML to the page? How will you let your HTML interface interact with your models in a clean way?
 

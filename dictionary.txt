@@ -190,3 +190,13 @@ PRs
 matcher
 repo's
 unblocker
+kata
+Fizzbuzz
+linter
+mockup
+shortcodes
+frontend
+Frontend
+XP
+MakersBnB
+standup

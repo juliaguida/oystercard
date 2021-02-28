@@ -1,6 +1,6 @@
 ## Final Project Goals
 
-It's time to get started on your final projects! Over the course of your time at Makers you've learned a bunch of of useful skills and it's really important that you keep working on them for the next two weeks.  
+It's time to get started on your final projects! Over the course of your time at Makers you've learned a bunch of useful skills and it's really important that you keep working on them for the next two weeks.  
 
 Even if your final project looks awesome, if your team's process was poor then it's not going to have been a great outcome for you, and your time spent working on it is likely to be far less enjoyable.
 
@@ -26,22 +26,22 @@ With this in mind, coaches will be looking for a few things from you as a measur
 - [ ] Commit messages are clear and composed of:
   - [ ] a single line describing the changes made.
   - [ ] a description of the problem it solves, with reference to the user.
-- [ ] The Linter passes on all commits.
+- [ ] The linter passes on all commits.
 - [ ] All commits have a low complexity score.
-- [ ] All pull requests are peer reviewed. 
+- [ ] All pull requests are peer reviewed.
 
 ### Documentation
-- [ ] There is up-to-date documentation: 
+- [ ] There is up-to-date documentation:
   - [ ] a project description.
   - [ ] how to install and run it.
   - [ ] how to run tests.
-  
+
 It's also a great idea for your team to keep some sort of record of your learning process.  This could take the form of a blog, a wiki or any other format you like.
 
 ## Additional Criteria – Weeks 8 and 9 (Engineering Projects)
 
 - [ ] Merging any branch into `main` automatically deploys after passing automated tests.
-- [ ] All code on `main` is containerized.
+- [ ] All code on `main` is containerised.
 - [ ] `main` is deployed into production.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

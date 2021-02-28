@@ -38,7 +38,7 @@ It's highly recommended that you spend time designing your project.  To guide yo
 
 ## Development workflow
 
-Remember to use a [development workflow](https://github.com/makersacademy/course/blob/master/pills/development_workflow.md) similar to the one you used for Makersbnb and practice projects.
+Remember to use a [development workflow](https://github.com/makersacademy/course/blob/master/pills/development_workflow.md) similar to the one you used for MakersBnB and practice projects.
 
 ## MVP
 

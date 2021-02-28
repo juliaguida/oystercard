@@ -90,7 +90,7 @@ Next, have a look at the options RSpec provides:
 ```sh
 $ rspec --h
 ```
-RSpec provides a convenient command-line option to initialize your project.  Type the following:
+RSpec provides a convenient command-line option to initialise your project.  Type the following:
 ```sh
 $ rspec --init
 ```
@@ -167,7 +167,7 @@ Now run RSpec again.  Have we changed the message?  Do all three of the above al
 
 It's important to question scenarios like the one above and not simply accept that they work 'by magic'.  Do some research online - try to understand what's happening behind the scenes.  In this case, RSpec actually adds `lib` to its `LOAD_PATH` by default.  This means that it will look for required files in `lib` automatically, which is why we can simply `require 'fizzbuzz'`.  Ruby will infer the `.rb` extension if it is omitted, so this is optional too.
 
-You should be seeing the message `wrong number of arguments (1 for 0)`.  We have not specified the arguments in our method definition.  When doing TDD for real, you would probably not stoop to this level unless you were practicing 'One-undermanship'.  Nevertheless, let's fix the message:
+You should be seeing the message `wrong number of arguments (1 for 0)`.  We have not specified the arguments in our method definition.  When doing TDD for real, you would probably not stoop to this level unless you were practising 'One-undermanship'.  Nevertheless, let's fix the message:
 ```ruby
 def fizzbuzz(number)
 
@@ -199,7 +199,7 @@ We strongly recommend that you regularly check the functionality of your code in
 It should be clear now that we have two objectives in TDD:
 
 1. Write production code that fully meets the expectation of our tests.
-2. **Write tests that fully meet the specification of the progam**.
+2. **Write tests that fully meet the specification of the program**.
 
 Once we have achieved both of those objectives, we know with absolute confidence that we are 'code complete' and that our program works exactly as it should.  And what's more, as an added and incredibly valuable bonus, anyone new to our codebase does not need to trawl through our production code trying to understand what it does.  They can simply read our tests and (assuming the tests all pass) know exactly what the code *should* do and also that *it does*.
 
@@ -213,7 +213,7 @@ Use `irb` to run further manual tests.  Are there any edge cases that you have m
 Try running Fizzbuzz for all numbers from 1 to 100 in `irb`.  Discuss with your pair partner different ways to do this.  Can you use Ruby to do this in one line of code (N.B. it must be elegant and readable)?
 
 ## Further exercises :running_shirt_with_sash:
-Once you have completed Fizzbuzz, please delete your `fizzbuzz` directory and start over from scratch with opposite roles.  (You read that correctly - please delete the entire directory and start again.)  Do as much of it as you can from memory.  Practicing repeatedly this way will accelerate your learning.
+Once you have completed Fizzbuzz, please delete your `fizzbuzz` directory and start over from scratch with opposite roles.  (You read that correctly - please delete the entire directory and start again.)  Do as much of it as you can from memory.  Practising repeatedly this way will accelerate your learning.
 
 To make it more interesting, try to solve the Fizzbuzz problem in different ways.  For example, here's an alternate version of the first test:
 ```ruby
