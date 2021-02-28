@@ -67,7 +67,7 @@ We have various options for geocoding (turning an address into latitude/longitud
 
 * Users can enter an address when creating a post
 * Posts with addresses display a link to "View Map"
-* When a visitor views the map a call is made to Google server's to geocode the address, then a map is rendered, centered on the resulting location
+* When a visitor views the map a call is made to Google server's to geocode the address, then a map is rendered, centred on the resulting location
 * *Optional* - A clickable marker should be pinned at the location of the photo. Clicking it displays the photo's title and `created_at` date.
 * *Optional* - Use the Geolocation API to prefill the address field with the user's current address.
 

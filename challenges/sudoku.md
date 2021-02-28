@@ -132,7 +132,7 @@ This implies that the cell may be aware of what values are possible. Whether the
 ````ruby
 class Cell
   def candidates
-    
+
   end
 end
 ````
@@ -172,7 +172,7 @@ But we surely will need to read the cell value as well? For example, to print th
 ````ruby
 class Cell
   #attr_accessor is short for :attr_reader :value; attr_writer :value
-  attr_accessor :value 
+  attr_accessor :value
 end
 ````
 
@@ -182,7 +182,7 @@ Another good question is where this logic belongs. Surely if the cell is respons
 class Cell
   def solve
     # do nothing if solved
-    # request the list of candidates and 
+    # request the list of candidates and
     # get a new value if there's only one possible candidate
   end
 end
@@ -203,7 +203,7 @@ class Grid
       outstanding         = @cells.count {|c| c.solved? }
       looping             = outstanding_before == outstanding       
       outstanding_before  = outstanding     
-    end 
+    end
   end
 end
 ````
@@ -223,7 +223,7 @@ end
 
 **If the grid if filled out, you found the solution, break out of the cycle**
 
-Ok, so if the grid is filled out, we found the solution. What next? There's a pretty good chance that we'll want to print it on the screen. To do this, it may be a good idea to override the `inspect()` method.
+OK, so if the grid is filled out, we found the solution. What next? There's a pretty good chance that we'll want to print it on the screen. To do this, it may be a good idea to override the `inspect()` method.
 
 ````ruby
 class Grid
@@ -252,7 +252,7 @@ By now you have a good idea of what classes and methods you'll have in your code
 describe Grid do
   context "initialization" do
     # it's an easy sudoku puzzle, row by row
-    let(:puzzle) { '015003002000100906270068430490002017501040380003905000900081040860070025037204600' } 
+    let(:puzzle) { '015003002000100906270068430490002017501040380003905000900081040860070025037204600' }
     let(:grid) { Grid.new(puzzle) }
     it 'should have 81 cells' do
     end
@@ -318,7 +318,7 @@ If you have written an algorithm to solve simple sudoku and would like an extra 
 '0' * 81
 ````
 
-On a macbook the algorithm for solving an empty sudoku takes about 4 seconds (it tries a very large number of possible options).
+On a MacBook the algorithm for solving an empty sudoku takes about 4 seconds (it tries a very large number of possible options).
 
 So, how do we update our algorithm to solve a really hard sudoku? First, make sure you're familiar with recursion (:pill: [Recursion](https://github.com/makersacademy/course/blob/master/pills/recursion.md)). This is a classic case of recursion: a hard problem can be broken down into two simpler problems until a base case that is trivial to solve is reached.
 
@@ -335,7 +335,7 @@ class Grid
       outstanding         = @cells.count {|c| c.solved? }
       looping             = outstanding_before == outstanding       
       outstanding_before  = outstanding     
-    end 
+    end
   end
   try_harder unless solved?
 end
@@ -352,14 +352,14 @@ If you would like to get a general idea of what the method should be, read the c
 ````ruby
 def try_harder
   blank_cell = # select the first unsolved cell
-  # by definition, this unsolved cell will have 
+  # by definition, this unsolved cell will have
   # several possible candidate values
   # Let's explore all of them
   blank_cell.candidates.each do |candidate|
     # let this cell assume this value (we're guessing)
     blank_cell.assume(candidate)
     # the key part: we're replicating the board to create
-    # the same board but with the value in the 
+    # the same board but with the value in the
     # blank_cell fixed
     # It should be a new instance of the Grid class
     # that will be initialised with the current grid

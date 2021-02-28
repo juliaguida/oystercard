@@ -1,6 +1,6 @@
 # More advanced OO with games: Tic Tac Toe
 
-Tic Tac Toe (or Naughts and Crosses) is a game where each player takes a turn on a 3X3 grid. The winner is the first person to fill a row, column or diagonal with their O or X marker.
+Tic Tac Toe (or Noughts and Crosses) is a game where each player takes a turn on a 3X3 grid. The winner is the first person to fill a row, column or diagonal with their O or X marker.
 
 The focus of building Tic Tac Toe is build your skills of TDD, have multiple classes which work together, introduce **Encapsulation** and to make you think about the Single Responsibility Principle **SRP**. Although the game is quite small it can be crafted in a way which touches upon some advanced principles which will help you with larger applications later.
 
@@ -11,14 +11,14 @@ The focus of building Tic Tac Toe is build your skills of TDD, have multiple cla
 
 Your first task is to spend some time researching the domain of the Tic Tac Toe game and discovering the objects that you will need for this application to work (think back to what we did with [boris bikes](/boris_bikes.md) in Version 0).
 
-Research Encapsulation but don't try to build it too complicated from the start. Remember KISS (Keep it simple stupid). No application is coded perfectly straight away, let yourself break the rules and go back to refactoring afterwards onces the tests pass.
+Research Encapsulation but don't try to build it too complicated from the start. Remember KISS (Keep it simple stupid). No application is coded perfectly straight away, let yourself break the rules and go back to refactoring afterwards once the tests pass.
 
 One of the things you have to keep in mind is to simplify as much as you can when you are creating the model of your game. Think of what you need to build first and what you will have to consider, don't try to get everything nailed down ( _and designed perfectly_ ) to begin with, you will learn more about the game as you go.
 
 **Tasks**:
 
 1. Create the **CRC** model of the classes involved in the game.
-2. Create your **tic_tac_toe** repository (use the name _tic_tac_toe_) in Github.
+2. Create your `tic_tac_toe` repository (use the name `tic_tac_toe`) in Github.
 3. Add a description of your project into the `README.md` file.
 4. Add the domain model ( _the explanation of the classes and the interactions_ ) into the `README.md` file.
 
@@ -40,7 +40,7 @@ The **SRP** is one of five principles that make up **SOLID** ( _Single responsib
 1. Code the classes and their interactions ( _Test First!, and swap driver/navigator roles frequently :twisted_rightwards_arrows:._)
 2. Think about the classes you have created. Are they following the **SRP** ?
 3. Play with your code in `irb` ( _if you prefer `pry` go with it_ )
-4. With Tic Tac Toe it's quite easy to build it all using 1 class (crazy I know). Once you've decided on your classes this can always be changed. If inside hypethtical tic tac toe class you have a lot of methods refering to a board or a grid this is a huge indication that a class is screaming ** make me, make me **.
+4. With Tic Tac Toe it's quite easy to build it all using 1 class (crazy I know). Once you've decided on your classes this can always be changed. If inside hypothetical tic tac toe class you have a lot of methods referring to a board or a grid this is a huge indication that a class is screaming ** make me, make me **.
 
 ## Supporting Material
 

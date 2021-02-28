@@ -2,7 +2,7 @@
 
 First download this [challenge file](https://dl.dropboxusercontent.com/u/13196858/Challenge%201.zip). Make sure that you're able to do each of the following tasks:
 
-- *Show the name of your home directory.* 
+- *Show the name of your home directory.*
 - *Navigate to the "Challenge 1" folder.*
 - *Create a new directory titled "New".*
 - *Create an empty file named "newFile".*
@@ -11,7 +11,7 @@ First download this [challenge file](https://dl.dropboxusercontent.com/u/1319685
 - *Change into the "Text Files" directory.*
 - *Change into the current directory (pointless in real life, only as an exercise).*
 - *Change into a directory one level above (the parent directory).*
-- *Create a hierarchy of directories at /Foo/Bar/folders in one command (read the man page on mkdir to find out how).*
+- *Create a hierarchy of directories at /Foo/Bar/folders in one command (read the man page on `mkdir` to find out how).*
 - *List a directory in a short format.*
 - *List a directory in a long format.*
 - *Remove the "Empty Folder" directory.*
@@ -41,7 +41,7 @@ First download this [challenge file](https://dl.dropboxusercontent.com/u/1319685
 - *Use the 'echo' command to print "hello, world!" on the screen.*
 - *Create a file "Challenge 1/hello.rb" and add the line "puts 'hello, world!'" into it using command line only. Run it by passing its name as an argument to ruby. Make sure it doesn't throw an error.*
 - *Now execute it by running it directly (hint: you'll need a ruby shebang + specific permissions).*
-- *List all processes on the system ("ps" command with some extra flags), find out how many processes of Google Chrome are running using grep and wc. Save this number to a file "Challenge 1/chrome.list" using command-line only (redirect the output stream to a file).*
+- *List all processes on the system (`ps` command with some extra flags), find out how many processes of Google Chrome are running using `grep` and `wc`. Save this number to a file "Challenge 1/chrome.list" using command-line only (redirect the output stream to a file).*
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

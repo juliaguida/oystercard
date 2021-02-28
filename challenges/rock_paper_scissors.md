@@ -38,7 +38,7 @@ Build a simple web interface using HTML and CSS for your Rock-Paper-Scissors gam
 
 For the initial version, the computer opponent can always choose the same thing - e.g. always picks rock.
 
-Once the player has picked something, the result ("Alex's rock crushes Tony's scissors") should be appended as a HTML snippet to the bottom of the page. Additionally, try using jQuery animations or [CSS transitions](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions) to animate the message appearing.
+Once the player has picked something, the result ("Alex's rock crushes Tony's scissors") should be appended as an HTML snippet to the bottom of the page. Additionally, try using jQuery animations or [CSS transitions](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions) to animate the message appearing.
 
 Some previous students' apps, to inspire you:
 
