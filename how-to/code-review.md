@@ -9,7 +9,7 @@ The goal of code review is to provide an opportunity to receive feedback and sug
   you prefer, and reach a resolution quickly.
 * Ask good questions; don't make demands. ("What do you think about naming this
   `:user_id`?")
-* Good questions avoid judgment and avoid assumptions about the author's
+* Good questions avoid judgement and avoid assumptions about the author's
   perspective.
 * Ask for clarification. ("I didn't understand. Can you clarify?")
 * Avoid selective ownership of code. ("mine", "not mine", "yours")

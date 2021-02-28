@@ -22,11 +22,11 @@
 
 * **Did you write most of the code independently without having to rely heavily on videos or other examples of this end of unit work?**
 
-  If you answered **<em>"yes"</em>** to the above questions it sounds like you made some really great progress! You can still follow the steps below if you'd like to continue improving on these vital dev processes. 
+  If you answered **<em>"yes"</em>** to the above questions it sounds like you made some really great progress! You can still follow the steps below if you'd like to continue improving on these vital dev processes.
 
-  If you answered **<em>"no"</em>** to 1 or more of these questions, it’s likely there are coding processes you need more practice with and that is common. 
+  If you answered **<em>"no"</em>** to 1 or more of these questions, it’s likely there are coding processes you need more practice with and that is common.
 
-  We recommend that you find 45 mins (15 minutes one day for your plan and 30 minutes another day for the exercise) during the coming week to do the following steps from 1 - 6 below:
+  We recommend that you find 45 minutes (15 minutes one day for your plan and 30 minutes another day for the exercise) during the coming week to do the following steps from 1 - 6 below:
 <br>
 
 ####   What you should do next to make sure you can improve on with coding processes:
