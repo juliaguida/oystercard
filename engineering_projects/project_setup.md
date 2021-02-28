@@ -41,7 +41,7 @@
 - Rotate team members to create posts: keep a record of what you learn and get blocked on
 
 #### A wiki
-- Document your stand-ups, retrospectives, knowledge-share sessions. The github project wiki could be a good place to start
+- Document your stand-ups, retrospectives, knowledge-share sessions. The Github project wiki could be a good place to start
 
 #### Another tool
 - If you like using another tool, use it!
@@ -52,13 +52,13 @@
 
 #### GitHub Project Board
 
-- Got to your github repo, then to the Projects tab and click "Create a Project"
-- Copy across the tasks from the trello board (Check the pathway for details)
-- Update your GitHub project `README.md` to say you are using a github project board.
+- Got to your Github repo, then to the Projects tab and click "Create a Project"
+- Copy across the tasks from the Trello board (Check the pathway for details)
+- Update your Github project `README.md` to say you are using a Github project board.
 
 #### Trello
 
-- Duplicate the trello board (Check the pathway for details)
+- Duplicate the Trello board (Check the pathway for details)
 - Rename the board with your team name `acebook-<Team Name>`
 - Add your team members and project coaches
 - Update your GitHub project `README.md` with the URL of the Trello board

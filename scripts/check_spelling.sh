@@ -7,7 +7,7 @@ fi
 
 export PROJECT_ROOT="$(git rev-parse --show-toplevel)"
 
-export RANGE_DONE="a-c"
+export RANGE_DONE="a-e"
 
 (
   cd $PROJECT_ROOT

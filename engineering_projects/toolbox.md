@@ -46,17 +46,17 @@ https://github.com/makersacademy/acebook-rails-template/blob/master/CONTRIBUTING
   - facilitate a feedback session in every retrospective
     - first theme can be about pairing expectations
 - set timers for role switching, and timers for pairing sessions.
-  - 1hr pairing in 15 min sessions before switching roles.
+  - 1 hour pairing in 15 min sessions before switching roles.
 
 #### We're not sure we're learning much without a tutorial
 
-- Focus on giving yourself a clear objective and a way to test that you've achieved it, eg:
-  - Objective: I can follow the flow of data in a req/res cycle
+- Focus on giving yourself a clear objective and a way to test that you've achieved it, e.g.:
+  - Objective: I can follow the flow of data in a request/response cycle
     - Test: diagram the flow of data using boxes and arrows for a process like going to the homepage/submitting a form
   - Objective: I can do some rails by myself
     - Test: build a small rails app without a tutorial
-  - Objective: I understand how http requests map to Rails routes
-    - Test: Explain to someone how config/routes.rb relates to controllers
+  - Objective: I understand how HTTP requests map to Rails routes
+    - Test: Explain to someone how `config/routes.rb` relates to controllers
 
 - take notes on your understanding
 - explain your learning to someone else
@@ -79,7 +79,7 @@ https://github.com/makersacademy/acebook-rails-template/blob/master/CONTRIBUTING
     - do you need a specific kind of information?
     - from who or where can you get that information?
 2. Improve your problem solving process
-    - keep escalating the problem until you find the right un-blocker: use the coaches to help you!
+    - keep escalating the problem until you find the right unblocker: use the coaches to help you!
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

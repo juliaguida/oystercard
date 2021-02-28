@@ -10,7 +10,7 @@ These [assessment criteria](https://github.com/makersacademy/course/blob/master/
 
 ### Your First Steps on the C# pathway
 
-If C# is new to your team, you'll need to spend the first week learning the basics.  Make your own copy of [this trello board](https://trello.com/b/EjkmVb5N/learn-c-sharp-and-dotnet) and use it to guide you.
+If C# is new to your team, you'll need to spend the first week learning the basics.  Make your own copy of [this Trello board](https://trello.com/b/EjkmVb5N/learn-c-sharp-and-dotnet) and use it to guide you.
 
 You can then assess yourselves using the [learning triangle](https://github.com/makersacademy/course/blob/master/pills/blooms_taxonomy.md).
 

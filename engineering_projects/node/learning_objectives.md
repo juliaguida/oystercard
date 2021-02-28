@@ -1,6 +1,6 @@
 # Node / Express - Learning Objectives
 
-Many of these have already been written up as tickets in the [corresponding trello template](https://trello.com/b/9IJTM4kw/acebook-node-template)
+Many of these have already been written up as tickets in the [corresponding Trello template](https://trello.com/b/9IJTM4kw/acebook-node-template)
 
 ### High Level
 * Diagram a high-level view of the MVC architecture

@@ -76,7 +76,7 @@ jQuery is a JavaScript framework used extensively for:
   * making AJAX calls. (more about that later)
 All of these tasks can be written in native Javascript, but jQuery makes it much simpler by handling browser compatibility issues and providing a standardized interface.  As the jQuery strapline says: write less, do more!
 
-Use the resources below to get familiar with jQuery then amend your HTML and JavaScript to utilize jQuery.
+Use the resources below to get familiar with jQuery then amend your HTML and JavaScript to utilise jQuery.
   * To use jQuery you either need to download it and reference the local copy from your HTML, or reference jQuery from a CDN.  There are advantages and disadvantages is both approaches.
   * There are other installation options such as [bower](http://bower.io/), if you are feeling adventurous!
 

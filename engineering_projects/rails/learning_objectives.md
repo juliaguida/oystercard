@@ -8,7 +8,7 @@
 
 ### Concepts
 * Evaluate the benefits and drawbacks of convention over configuration.
-* Describe the primary aspects of Rails that utilize this idiom.
+* Describe the primary aspects of Rails that utilise this idiom.
 * Describe the asset pipeline.
 * Discuss the meaning of skinny controllers over fat controllers and skinny models over fat models and mechanisms to address these.
 
@@ -47,7 +47,7 @@
 * Test a rails app with Capybara, RSpec, Cucumber, MiniTest
 
 ### Tools
-* Identify and utilize the main Rails Rake tasks and generators.
+* Identify and utilise the main Rails Rake tasks and generators.
 * Discuss the advantages of using Rails console.
 
 ### Community

@@ -1,6 +1,6 @@
 # Python / Django - Learning Objectives
 
-Many of these have already been written up as tickets in the [corresponding trello template](https://trello.com/b/5sA44Of3/acebook-python-template)
+Many of these have already been written up as tickets in the [corresponding Trello template](https://trello.com/b/5sA44Of3/acebook-python-template)
 
 ### High Level
 * Diagram a high-level view of the MVC architecture
