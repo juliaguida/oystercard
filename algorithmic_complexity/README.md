@@ -19,7 +19,7 @@ By the end of this course, the goal is to be able to answer "yes" to these quest
 * You'll write your own algorithms, trying to be as efficient as possible
 * There are workshops throughout to unblock parts of the problem and help you get further.
 
-The workshops have all been recorded and can be found in this [youtube playlist](https://www.youtube.com/playlist?list=PLc4BYny7PXeSNl4uAOiDIbgX6GumDDqPC). It's best to only watch the next one once you've started the work, so I'll detail which one to watch and when underneath.
+The workshops have all been recorded and can be found in this [YouTube playlist](https://www.youtube.com/playlist?list=PLc4BYny7PXeSNl4uAOiDIbgX6GumDDqPC). It's best to only watch the next one once you've started the work, so I'll detail which one to watch and when underneath.
 
 ## Sequence
 
@@ -83,7 +83,7 @@ Common operations might be more expensive than you think. By checking how differ
 
 There are two workshops supporting this topic.
 * Watch the first one once you have written some algorithms for shuffle and reverse: https://www.youtube.com/watch?v=Vc8kuSBouPA&list=PLc4BYny7PXeSNl4uAOiDIbgX6GumDDqPC&index=3
-* Watch the second one once you have improved your initial algorithsm and written some code for find duplicates: https://www.youtube.com/watch?v=osPEozXe4JY&list=PLc4BYny7PXeSNl4uAOiDIbgX6GumDDqPC&index=4
+* Watch the second one once you have improved your initial algorithms and written some code for find duplicates: https://www.youtube.com/watch?v=osPEozXe4JY&list=PLc4BYny7PXeSNl4uAOiDIbgX6GumDDqPC&index=4
 
 **Resources**:
 * [Here’s a table that shows the cost of operations on different data structures](https://en.wikipedia.org/wiki/Dynamic_array#Performance)
