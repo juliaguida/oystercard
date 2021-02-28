@@ -1,25 +1,31 @@
 # Algorithmic Complexity
 
-This week will focus on an aspect of Computer Science that is relished by many developers, called algorithmic complexity.
+This course focuses on an aspect of Computer Science that is relished by many developers, called algorithmic complexity.
 
 This is the part of computer science that deals with how efficient programmes are. We will also take a deeper look at how programmes interact with memory, and how to use that to make our own programmes faster.
 
 ## Learning objectives
 
-By the end of this week, the goal is to be able to answer "yes" to these questions:
+By the end of this course, the goal is to be able to answer "yes" to these questions:
 
 * **Can you mention efficiency as one of the dimension of a good piece of code**
 * **Can you join a conversation about algorithms and their complexity?**
 
-## Overview of the week
+## Overview of the course
 
 * You'll work either individually or in teams of 2 and 3.
 * You can use any programming language.
 * You'll create a framework to time different algorithms and compare their efficiency
 * You'll write your own algorithms, trying to be as efficient as possible
-* There will be workshops throughout the week to unblock parts of the problem and help you get further.
+* There are workshops throughout to unblock parts of the problem and help you get further.
+
+The workshops have all been recorded and can be found in this [youtube playlist](https://www.youtube.com/playlist?list=PLc4BYny7PXeSNl4uAOiDIbgX6GumDDqPC). It's best to only watch the next one once you've started the work, so I'll detail which one to watch and when underneath.
 
 ## Sequence
+
+### Intro to algorithmic complexity
+
+Watch the video here: https://www.youtube.com/watch?v=riIds-Ggvak&list=PLc4BYny7PXeSNl4uAOiDIbgX6GumDDqPC&index=1
 
 ### Timing code
 
@@ -44,6 +50,10 @@ For more pointers on how to time code, here's a more [detailed document](./timin
 Now, let's look at efficiency for our own algorithms.
 Here is [a list of algorithms](./exercises.md) for you to implement.
 
+**It is strongly encouraged here to try to come up with your own take on these algorithms, and not simply research how to write them online.**
+
+For now, we are not concerned with making them efficient.
+
 For each algorithm you write, you should:
 - [ ] Write a few tests (covering different cases)
 - [ ] Implement them
@@ -55,7 +65,9 @@ Once you have written a few, compare the shapes of different curves.
 - [ ] Which algorithms are more efficient?
 
 **Resources**:
+
 * [A workshop about algorithm design](https://github.com/makersacademy/skills-workshops/tree/master/algorithmic_complexity/writing-algorithms)
+* Watch the video recording of the workshop here: https://www.youtube.com/watch?v=uclAQBy1Epc&list=PLc4BYny7PXeSNl4uAOiDIbgX6GumDDqPC&index=2
 
 ### Making algorithms more efficient
 
@@ -68,6 +80,10 @@ Here are two leads to start reducing the number of steps:
 #### 1. Know your data structures.
 
 Common operations might be more expensive than you think. By checking how different structures (arrays, hashtables…)  work in memory, you’ll be able to save on simple operations.
+
+There are two workshops supporting this topic.
+* Watch the first one once you have written some algorithms for shuffle and reverse: https://www.youtube.com/watch?v=Vc8kuSBouPA&list=PLc4BYny7PXeSNl4uAOiDIbgX6GumDDqPC&index=3
+* Watch the second one once you have improved your initial algorithsm and written some code for find duplicates: https://www.youtube.com/watch?v=osPEozXe4JY&list=PLc4BYny7PXeSNl4uAOiDIbgX6GumDDqPC&index=4
 
 **Resources**:
 * [Here’s a table that shows the cost of operations on different data structures](https://en.wikipedia.org/wiki/Dynamic_array#Performance)
@@ -90,6 +106,8 @@ Notice parts of your algorithm that repeat the same operations on the same eleme
 There are as many ways to do this as there are problems. However, one common technique which is useful to know about is **divide & conquer**. This is a technique by which you reduce a problem to several smaller problems, which in turn can be reduced to several smaller problems and so on, until the problems are so small they become trivial to solve. Implementing this will often include recursion - but that is not necessary.
 
 Efficient sorting algorithm will usually use this principle to be made faster.
+
+The last workshop of the playlist touches on these topics. Watch here: https://www.youtube.com/watch?v=ObkYFDoIKwI&list=PLc4BYny7PXeSNl4uAOiDIbgX6GumDDqPC&index=5
 
 **Resources**:
 * [Divide and conquer algorithm](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm) on Wikipedia
