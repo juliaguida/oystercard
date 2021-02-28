@@ -39,7 +39,7 @@ C   C
 
 #### 99 Green Bottles
 
-Print the lycrics of the 10 Green Bottles song, using numbers e.g. 
+Print the lyrics of the 10 Green Bottles song, using numbers e.g. 
 
 ```
 99 green bottles hanging on the wall,

@@ -5,7 +5,7 @@ In self-directed learning, one of the important aspects is to keep track of your
 ## Tools
 
 * The [Portfolio Template](https://docs.google.com/document/d/1o8uTAyPSSyD8eMAUOdMsAK9pDgBA2jVXc5-p3PS29lQ/edit#heading=h.bwbqjdsvw2lz) is one tool you can use to set goals for yourself and keep track of the evidences of having achieved said goals.
-* Here's a trello board you can copy to manage your goal tracking. It has a few example goals. https://trello.com/b/lBHn6hIt/student-goal-tracking
+* Here's a Trello board you can copy to manage your goal tracking. It has a few example goals. https://trello.com/b/lBHn6hIt/student-goal-tracking
 
 * Dan (August 2019) records his reflections and learning in a [Github repo](https://github.com/DanGyi23/MyPortfolio)
 
