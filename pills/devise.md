@@ -1,10 +1,6 @@
 Devise
 =======
 
-:construction: UNDER CONSTRUCTION :construction:
-
-
-
 ```
 Some setup you must do manually if you haven't yet:
 

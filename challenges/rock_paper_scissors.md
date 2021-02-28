@@ -3,8 +3,6 @@ Rock Paper Scissors Lizard Spock in JavaScript on Heroku
 
 This project involves implementing the Rock Paper Scissors Lizard Spock game in client side JavaScript and deploying it to Heroku so that anyone in the world can play it.
 
-***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
-
 *Many thanks to [Alex Peattie](https://github.com/alexpeattie) for the original design of this material*
 
 ## Version 1 - Ruby -> JavaScript
@@ -98,8 +96,8 @@ git push heroku master
   * [JavaScript Intro](https://github.com/makersacademy/course/blob/master/walkthroughs/javascript_intro.md)
   * [More JavaScript](https://github.com/makersacademy/course/blob/master/walkthroughs/more_javascript.md)
 * Part 2: JQuery
-  * [jQuery Intro](https://github.com/makersacademy/course/blob/master/walkthroughs/jquery_intro.md) 
-  * [jQuery animations](https://github.com/makersacademy/course/blob/master/walkthroughs/jquery_animations.md) 
+  * [jQuery Intro](https://github.com/makersacademy/course/blob/master/walkthroughs/jquery_intro.md)
+  * [jQuery animations](https://github.com/makersacademy/course/blob/master/walkthroughs/jquery_animations.md)
 * Part 3: JS Templating
   * [Mustache](https://github.com/makersacademy/course/blob/master/walkthroughs/mustache.md)
   * [Heroku](https://github.com/makersacademy/course/blob/master/walkthroughs/heroku_sinatra_javascript.md)
@@ -153,7 +151,7 @@ These are starting to be a little dated, but they are awesome!  And they contain
 ### CSS transitions
 
 * https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions
- 
+
 ### Refactor for UI testing
 
 * https://github.com/makersacademy/rpsls-javascript-jquery/tree/ui-testing-refactor

@@ -1,7 +1,5 @@
 # More advanced OO with games: Tic Tac Toe
 
-***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
-
 Tic Tac Toe (or Naughts and Crosses) is a game where each player takes a turn on a 3X3 grid. The winner is the first person to fill a row, column or diagonal with their O or X marker.
 
 The focus of building Tic Tac Toe is build your skills of TDD, have multiple classes which work together, introduce **Encapsulation** and to make you think about the Single Responsibility Principle **SRP**. Although the game is quite small it can be crafted in a way which touches upon some advanced principles which will help you with larger applications later.

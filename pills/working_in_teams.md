@@ -1,10 +1,8 @@
 Working in Teams
 ===============
 
-:construction: UNDER CONSTRUCTION :construction:
-
 * Planning
-* Scrums 
+* Scrums
 * Reflection
 * Working around interfaces
 * Handling merge conflicts

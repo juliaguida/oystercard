@@ -1,17 +1,9 @@
 CSS
 ====
 
-:construction: UNDER CONSTRUCTION :construction:
-
-[TODO: SUMMARY OF KEY CONCEPTS AT BEGINNING AND END OF ALL WALKTHROUGHS/PILLS]
-[TODO: MORE IMAGES/VIDEOS FOR THIS WALKTHROUGH]
-
 [Video of Session](https://www.youtube.com/watch?v=TgdlgJeHRv8)
 
-***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
-
 *Many thanks to [Alex Peattie](https://github.com/alexpeattie) for the design of this walkthrough*
-
 
 Let's try and recreate the Github home page with CSS styles:
 
@@ -140,7 +132,7 @@ Purely thinking about HTML at the moment, not thinking about styling at all.  No
          <input type='text' name='username'>
          <input type='text' name='email'>
          <input type='text' name='password'>
-        
+
          <p>Use at least one lowercase letter, one numeral, and seven characters.</p>
 
          <button type='submit'>Sign up for Github</button>
@@ -260,7 +252,7 @@ One of the trickiest things in CSS is getting things to be next to each other. H
          <input type='text' name='username'>
          <input type='text' name='email'>
          <input type='text' name='password'>
-        
+
          <p>Use at least one lowercase letter, one numeral, and seven characters.</p>
 
          <button type='submit'>Sign up for Github</button>
@@ -527,7 +519,7 @@ We can inspect and see the precise margin, particularly using the 'computed' vie
 
 ```css
 * {
-  box-sizing:border-box 
+  box-sizing:border-box
 }
 ```
 
@@ -627,7 +619,7 @@ To follow best practices here we should set this transition to operate only on t
 This animation now matches the Github site reasonably well.  Now let's adjust the nav bar a bit
 
 
-Note the Chrome allows us to write new rule to affect whatever we like.  The '+' button will create a blank style for us to insert, e.g. 
+Note the Chrome allows us to write new rule to affect whatever we like.  The '+' button will create a blank style for us to insert, e.g.
 
 ```css
 nav a {

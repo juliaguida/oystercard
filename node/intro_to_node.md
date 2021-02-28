@@ -16,9 +16,7 @@ If you haven't heard of Node, here is a short list of what Node is and what Node
 BUT
 
 * Node is a lot of fun  
-* Node is a different way to think about programming, so even if you don't find it fun, you will hopefully learn something!  
-
-**Please note, as with all Makers materials, there may be subtle errors in the following materials. Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.**
+* Node is a different way to think about programming, so even if you don't find it fun, you will hopefully learn something!
 
 Before we start, you should definitely read [Roi's introduction to Node](https://github.com/makersacademy/course/blob/master/pills/node.md), which explains the concepts behind non-blocking I/O and callbacks. Also, [Why the hell would I use Node?](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js) and [Convincing the boss](http://nodeguide.com/convincing_the_boss.html) are great articles on what Node is good for.
 
@@ -50,7 +48,7 @@ Please install Node with `brew install node` and follow any additional instructi
 
 
 
-Create a new directory for the project - for this example, let's call it '/starting-node'. 
+Create a new directory for the project - for this example, let's call it '/starting-node'.
 
 Navigate into the directory and run `npm init` and follow the on-screen instructions, hitting enter every time. You should generate the following package.json:  
 

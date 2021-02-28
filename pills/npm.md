@@ -1,7 +1,5 @@
 #npm
 
-:construction: UNDER CONSTRUCTION :construction:
-
 npm is a node based package manager, that will help you to organise and version control Node Packages on your machine and in your projects.
 
 npm is the equivalent of [Bundler](http://bundler.io/) from the Ruby world.  Node packages function in a similar way to Ruby's Gems. Check out the [npm web site](https://www.npmjs.com/) to see the trending node modules - there are now [more node modules than Ruby gems](http://www.modulecounts.com/)!
@@ -49,7 +47,7 @@ Error: no test specified
 npm ERR! Test failed.  See above for more details.
 ```
 
-To install a package into your project, for instance if you wanted to use a package called hapi in your application, you would use ``` npm install hapi --save ```. The --save option tells npm to install the package into the project inside a folder called node_modules, and will also update your package.json. 
+To install a package into your project, for instance if you wanted to use a package called hapi in your application, you would use ``` npm install hapi --save ```. The --save option tells npm to install the package into the project inside a folder called node_modules, and will also update your package.json.
 
 If you want to install a package that is needed by anyone developing your app, but is not needed to run the app, then you have another option. For example, if you wanted to use the test framework 'jasmine-node', you would enter ``` npm install jasmine-node --save-dev ```. The --save-dev option will save the files to your node_modules and update the package.json with the new dev-only dependencies.
 

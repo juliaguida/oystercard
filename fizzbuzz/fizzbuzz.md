@@ -4,8 +4,6 @@ The goal of Fizzbuzz is to introduce you to Test Driven Development (TDD) and Pa
 
 ***Please work through this walkthrough with a pair partner. Please take turns on the keyboard as the driver as described in the [pairing pill :pill:](../pills/pairing.md). Please swap driver/navigator roles following one of the protocols described in the pill ('change the message' is probably best), ensuring that the maximum time one person is driving is 15 minutes.***
 
-***Finally, please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
-
 ## What is Fizzbuzz?
 Fizzbuzz is a simple coding challenge, often described as a [code kata](http://codekata.com/).  The objective of Fizzbuzz is to create a program with the following specification:
 

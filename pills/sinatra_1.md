@@ -7,8 +7,6 @@
 
 As with every pill and project please do type in the code examples instead of copy-pasting them, it will help you to memorize and understand what you're doing.
 
-***As always there may be subtle errors in the following materials.  Please try to approach any of these as challenges on which to polish your debugging skills - pull requests very welcome.***
-
 ## What you will learn
 
 * How to set-up and use Sinatra

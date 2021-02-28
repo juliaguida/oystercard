@@ -1,7 +1,5 @@
-Refactoring 
+Refactoring
 ==========
-
-:construction: UNDER CONSTRUCTION :construction:
 
 Refactoring is the process of adjusting code to remove code smells.  It is about keeping the functionality the same but adjusting the code to be more readable, maintainable, and flexible.
 

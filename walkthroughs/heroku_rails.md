@@ -1,8 +1,6 @@
 Heroku
 ========
 
-***UNDER CONSTRUCTION***
-
 To deploy to a Rails app to heroku (a service that provides online hosting of Rails and Sinatra apps, amongst other things)
 
 * add everything into git and commit
@@ -28,7 +26,7 @@ git push heroku master
   * in config/initializers/devise.rb activate the secret key
   * use bin/rake secret to generate a secret key
 
-It's good to do that for production secret base key (could just be a random string), however still have the problem of not wanting keys pushed to heroku via git - official solution is to use environment variables, but that can get tedious so let's use this gem which we should add to our gem file. 
+It's good to do that for production secret base key (could just be a random string), however still have the problem of not wanting keys pushed to heroku via git - official solution is to use environment variables, but that can get tedious so let's use this gem which we should add to our gem file.
 
 ```ruby
 gem 'heroku_secrets', github: 'alexpeattie/heroku_secrets'
@@ -55,7 +53,7 @@ heroku logs
 
 set this value in config/secrets.yml, and then the following will set the environment variables on heroku without going through git
 
-```bin/rake heroku:secrets RAILS_ENV=production``` 
+```bin/rake heroku:secrets RAILS_ENV=production```
 
 * now `heroku open` will give a different error
 
@@ -68,7 +66,7 @@ set this value in config/secrets.yml, and then the following will set the enviro
 ```ruby
 group :production
   gem 'rails12_factor'
-end 
+end
 ```
 
 * add to git and then push to heroku
@@ -80,7 +78,7 @@ end
 
 * run `bin/rake heroku:secrets RAILS_ENV=production` to deploy again as necessary
 
-* note fingerprints to application.js - which ensures that we always fetch the latest version of application.js since fingerprint changes when code changes	
+* note fingerprints to application.js - which ensures that we always fetch the latest version of application.js since fingerprint changes when code changes
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

@@ -1,8 +1,6 @@
 Getters and Setters
 ===================
 
-:construction: UNDER CONSTRUCTION :construction:
-
 'Getters' and 'Setters' are a common term in object oriented programming that refer to object instance methods that 'get' and 'set' the values of object instance variables.  For example, in the simple Ruby class below:
 
 ```ruby

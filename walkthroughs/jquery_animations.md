@@ -3,8 +3,6 @@ JQuery Animations
 
 [Video of session](https://www.youtube.com/watch?v=SJe72uTUuII)
 
-***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
-
 *Many thanks to [Alex Peattie](https://github.com/alexpeattie) for the design of these walkthroughs*
 
 So we want to add some more fun animations to our RPSLS game.  Let's start off by making the results list items invisible to start with:
@@ -29,7 +27,7 @@ Then let's use some jQuery animations to get things to appear.  We could try the
           sam.picks($(this).data('pick'));
           henry.picks('lizard');
           $('#results').prepend('<li>'+game.winningMessage()+'</li>').fadeIn();
-        }); 
+        });
 ```
 
 but unfortunately that won't work - can you work out why? [fadeIn](http://api.jquery.com/fadeIn/) is a valid jQuery method. However it won't do anything in the current location …
@@ -42,7 +40,7 @@ The problem is that this way round our fadeIn is being called on the `$('#result
           sam.picks($(this).data('pick'));
           henry.picks('lizard');
           $('<li>'+game.winningMessage()+'</li>').prependTo('#results').fadeIn();
-        }); 
+        });
 ```
 
 We can in fact use any of a number of [effects from the jQuery api](http://api.jquery.com/category/effects/); such as:
@@ -97,12 +95,12 @@ Another interesting thing to consider is what happens if we put a console.log st
             $(this).remove();
           })
           console.log('Hello world')
-        }); 
+        });
 
       });
 ```
 
-This will work, but at what point will see these console messages?  The interesting difference here with Ruby is that the console log operation will run before the remove statement.  This makes dealing with JavaScript more complex to deal with.  You need to write it in such a way that when things are ready they just run.  This makes sense if we think about how things work on complex websites like Facebook where different elements of the site will get started and run independently. 
+This will work, but at what point will see these console messages?  The interesting difference here with Ruby is that the console log operation will run before the remove statement.  This makes dealing with JavaScript more complex to deal with.  You need to write it in such a way that when things are ready they just run.  This makes sense if we think about how things work on complex websites like Facebook where different elements of the site will get started and run independently.
 
 
 Exercises

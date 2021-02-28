@@ -1,10 +1,6 @@
 #Node guide
 
-**[UNDER CONSTRUCTION]**
-
 Welcome to Node!
-
-**Please note, as with all Makers materials, there may be subtle errors in the following materials. Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.**
 
 * [Introduction to Node](/node/intro_to_node.md)
 * [A basic Node server](/node/basic_node_server.md)

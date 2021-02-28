@@ -3,8 +3,6 @@ Pushing a Single JavaScript Page to Heroku Using Sinatra
 
 [Video from session](https://www.youtube.com/watch?v=uoSfB2yEogM)
 
-***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
-
 We don't need a cloud hosting service as complex as Heroku to host a simple one page JavaScript app, but Heroku has a free tier and it gives us a path to scale up to much larger apps so it's great to get really familiar with it.
 
 Note that we can deploy a static site without sinatra using simply the rack gem, but the walkthrough below shows how to do this for Sinatra.  See [this Heroku article](https://devcenter.heroku.com/articles/static-sites-ruby) to deploy a static site simply with rack.

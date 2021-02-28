@@ -2,15 +2,13 @@
 
 Many thanks to [Spike](http://github.com/Spike01) for the original design this component
 
-**As with all Makers materials, there may be subtle errors in the following materials. Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.**
-
 We now have a tested server running, but we're only sending strings directly to our routes. Obviously, this is not ideal - what would be perfect is something like an `erb` file. Enter `ejs` - [embedded JavaScript](http://www.embeddedjs.com/).
 
 ##`ejs`
 
 `ejs` works almost exactly like `erb`, even down to the use of `<% %>` tags. However, unlike `.erb` and like all things Node, it doesn't come preinstalled with Express. As always, run `npm install --save ejs` to install and add it to your dependencies. You will also need to specify that you are using `ejs` as your templating engine, otherwise Express will not be able to render. While we're here, we can also specify a public folder, otherwise Express will not be able to serve any static content.
 
-###Don't forget to always write a test first - while it may seem trivial for small changes in your views, as the complexity of your app increases, those tests will make sure that everything is behaving correctly. 
+###Don't forget to always write a test first - while it may seem trivial for small changes in your views, as the complexity of your app increases, those tests will make sure that everything is behaving correctly.
 
 `server.js`
 ```javascript
@@ -49,7 +47,7 @@ app.get('/greetings', function(request, response){
 <% } %>
 ```
 
-Since everything is being passed around as JavaScript objects, this means that we can pass whole objects to our views, and specify what information within the object we want to display. 
+Since everything is being passed around as JavaScript objects, this means that we can pass whole objects to our views, and specify what information within the object we want to display.
 
 ##Tasks
 * Get set up with https://github.com/ericclemmons/grunt-express-server to auto-reload your server

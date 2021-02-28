@@ -3,8 +3,6 @@ Introduction to JQuery
 
 [Video of session](https://www.youtube.com/watch?v=wQqzJo97cIU)
 
-***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
-
 *Many thanks to [Alex Peattie](https://github.com/alexpeattie) for the design of these walkthroughs*
 
 Let's look at one possible solution to the RPSLS problem - note that this is just one possible solution.  We've split the player and game into their own files. [Note the starting code shell for the below is available in [this repo](https://github.com/makersacademy/rpsls-javascript-jquery)]
@@ -17,7 +15,7 @@ function Player(name) {
 Player.prototype.picks = function(pick) {
   this.pick = pick;
 }
-```	
+```
 
 ```javascript
 function Game(player1, player2) {
@@ -231,7 +229,7 @@ Now when we reload index.html and click on the images we should see the 'Click r
 ```javascript
 $(document).ready(function(){
   var sam = new Player('Sam');
-  var tony = new Player('Tony'); 
+  var tony = new Player('Tony');
   var game = new Game(sam, tony);
   $('.choices img').on('click', function(){
     sam.picks('Paper');
@@ -253,7 +251,7 @@ and the problem here is that our lookup hash of winning combinations is using al
 ```javascript
 $(document).ready(function(){
   var sam = new Player('Sam');
-  var tony = new Player('Tony'); 
+  var tony = new Player('Tony');
   var game = new Game(alex, tony);
   $('.choices img').on('click', function(){
     sam.picks('paper');
@@ -290,7 +288,7 @@ BTW, note that one really useful functionality here is the ability to log things
 ```javascript
 $(document).ready(function(){
   var sam = new Player('Sam');
-  var tony = new Player('Tony'); 
+  var tony = new Player('Tony');
   var game = new Game(alex, tony);
   $('.choices img').on('click', function(){
     console.log('Image clicked')
@@ -310,7 +308,7 @@ If we reload index.html and look at the console while we are clicking the images
 ```javascript
 $(document).ready(function(){
   var sam = new Player('Sam');
-  var tony = new Player('Tony'); 
+  var tony = new Player('Tony');
   var game = new Game(alex, tony);
   $('.choices img').on('click', function(){
     alert($(this).data('pick'))
@@ -326,7 +324,7 @@ Note that here we are using the more obnoxious 'alert' here to check what is bei
 ```javascript
 $(document).ready(function(){
   var sam = new Player('Sam');
-  var tony = new Player('Tony'); 
+  var tony = new Player('Tony');
   var game = new Game(alex, tony);
   $('.choices img').on('click', function(){
     sam.picks($(this).data('pick'));
@@ -350,7 +348,7 @@ and refreshing index.html we should see that the system is now working.  Clearly
 ```javascript
 $(document).ready(function(){
   var sam = new Player('Sam');
-  var tony = new Player('Tony'); 
+  var tony = new Player('Tony');
   var game = new Game(alex, tony);
   $('.choices img').on('click', function(){
     sam.picks($(this).data('pick'));

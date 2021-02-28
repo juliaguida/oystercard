@@ -1,7 +1,5 @@
 # Apprenticeship course outline
 
-***Please note, we're constantly iterating on aspects of the course so there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
-
 ## Bootcamp
 
 During the first 12 weeks of your apprenticeship, you'll work through 10 modules of learning to acquire the skills and behaviours described in the [18 standard points](https://airtable.com/shrTRRuegEe7fQ49t).

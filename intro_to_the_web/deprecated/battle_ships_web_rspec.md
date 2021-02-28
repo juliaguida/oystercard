@@ -1,7 +1,5 @@
 # Playing Battleships in the browser
 
-***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
-
 In this project we are going to take our battleships game to the next level. In [the last project](../battle_ships/battle_ships.md) we implemented the battleships game for the terminal.  Please refer to the [learning objectives](learning_objectives.md) for a list of everything we're hoping to cover this week.
 
 Whilst interacting with the computer on the terminal is an essential skill for us developer types, it is far from the preferred way to interact with computers for people in general. Before you even knew there was a terminal you likely did almost everything on a computer via a graphical interface of some sort; either through a dedicated desktop application or through a browser.

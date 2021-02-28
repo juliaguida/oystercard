@@ -1,8 +1,6 @@
 Content Delivery Network
 =======================
 
-:construction: UNDER CONSTRUCTION :construction:
-
 In web development a content delivery network ([CDN](https://en.wikipedia.org/wiki/Content_delivery_network)) is an server that is designed specifically for quickly serving static assets such as javascript libraries and CSS files.  For example:
 
 * https://code.jquery.com/

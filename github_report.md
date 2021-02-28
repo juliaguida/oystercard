@@ -5,8 +5,6 @@ This week's project involves using JavaScript to consume data available from thi
 
 ![Gundam Cat](https://developer.github.com/images/gundamcat.png)
 
-***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
-
 *Many thanks to [Alex Peattie](https://github.com/alexpeattie) for the original design of the Ajax material and [Antony Denyer](https://github.com/antonydenyer) for the Angular material*
 
 Version 1 - Ajax
@@ -68,7 +66,7 @@ Related Walkthoughs
 
 #### AngularJS
 
-* http://campus.codeschool.com/courses/shaping-up-with-angular-js/contents 
+* http://campus.codeschool.com/courses/shaping-up-with-angular-js/contents
 * https://docs.angularjs.org/tutorial
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

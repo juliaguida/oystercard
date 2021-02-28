@@ -2,8 +2,6 @@
 
 Many thanks to [Spike](http://github.com/spike01) for the original design of this component
 
-**As with all Makers materials, there may be subtle errors in the following materials. Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.**
-
 **There is a very, very condensed version of this walkthrough in the :pill:[JS Acceptance test pill](https://github.com/makersacademy/course/blob/master/pills/js_acceptance_tests.md), for ye of little patience**
 
 So, now that we can write unit tests and automate various tasks, it's time to take Node out on to the web. For this, we will be using the [Express framework](http://expressjs.com/), which has the same lightweight design philosophy as Sinatra. However, as Makers, we'll be wanting to write some tests first.  
@@ -22,7 +20,7 @@ First of all: set up a new project with `npm init` (or adapt an exisiting one). 
 ```shell
 npm install --save-dev mocha
 npm install --save-dev chai
-npm install --save-dev selenium-standalone 
+npm install --save-dev selenium-standalone
 npm install --save-dev webdriverio
 ```
 
@@ -88,7 +86,7 @@ Uncaught AssertionError: expected 'This webpage is not available\nERR_CONNECTION
 > __"Wait a second, where do you `require('webdriverio)`?"__  
 > Good point. One thing that hasn't been mentioned is that `grunt-webdriver` contains quite a bit of magic, which is great for moving quickly, but maybe not for understanding. If we were to write these tests without the Grunt task, we would have to require and configure Webdriver manually in our test file - check the `webdriverio` documentation to see how to do this
 
-At this stage, this test will be red for a little while, as we will need to set up Express. 
+At this stage, this test will be red for a little while, as we will need to set up Express.
 
 ##Express
 
@@ -115,7 +113,7 @@ module.exports = server;
 
 Check that everything is "working" (in other words, giving an expected error) by running `npm start` and pointing your browser at [http://localhost:3000](http://localhost:3000) - You should see something the lines of "Cannot GET /", which means that Express is up and running.
 
-At this point, start a new Terminal/iTerm window - your server doesn't start automagically, so you will have to manually run it in the background to run tests (or maybe find a way to use Grunt...?) 
+At this point, start a new Terminal/iTerm window - your server doesn't start automagically, so you will have to manually run it in the background to run tests (or maybe find a way to use Grunt...?)
 
 The test should still fail as we aren't sending anything to the browser - let's fix that:
 

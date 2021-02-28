@@ -1,8 +1,6 @@
 More Rails
 ========
 
-Under Construction ...
-
 1. demonstrate that hard coding breaks 
 
 2. raise error in create (show debugging info in browser, what is the session, hash data is just what we need for create)
@@ -13,7 +11,7 @@ Under Construction ...
 
 5. fix hard coding breaks
 
-6. formatting for restaurants 
+6. formatting for restaurants
 
 7. create editing test
 

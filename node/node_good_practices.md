@@ -1,14 +1,12 @@
-#Node good practices 
+#Node good practices
 
 Many thanks to [Spike](http://github.com/Spike01) for the original design this component
-
-**As with all Makers materials, there may be subtle errors in the following materials. Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.**
 
 ##`npm`, `grunt` and JavaScript linters
 
 ## npm
 
-:pill: [npm](https://github.com/makersacademy/course/blob/master/pills/npm.md) 
+:pill: [npm](https://github.com/makersacademy/course/blob/master/pills/npm.md)
 
 ##Grunt
 

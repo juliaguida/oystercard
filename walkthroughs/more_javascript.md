@@ -3,8 +3,6 @@ More JavaScript
 
 [Video of the walkthrough](https://www.youtube.com/watch?v=xx3CB-ozO98)
 
-***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
-
 *Many thanks to [Alex Peattie](https://github.com/alexpeattie) for the design of these walkthroughs*
 
 So carrying on from our earlier half finished JavaScript RPS game, we have several tests that are still failing.  We know how to handle the game logic in ruby:
@@ -21,12 +19,12 @@ Let's convert that to JavaScript:
 
 ```javascript
 Game.prototype.winner = function() {
-  
+
   if(PAIRS[this.player1.pick]['beats'] === this.player2.pick){
     return this.player1;
-  } 
+  }
   else {
-    return this.player2; 
+    return this.player2;
   }
 
 };
@@ -67,12 +65,12 @@ This then requires us to refer to PAIRS using 'this.'
 
 ```javascript
 Game.prototype.winner = function() {
-  
+
   if(this.PAIRS[this.player1.pick]['beats'] === this.player2.pick){
     return this.player1;
-  } 
+  }
   else {
-    return this.player2; 
+    return this.player2;
   }
 
 };
@@ -103,9 +101,9 @@ Game.prototype.winner = function() {
 
   if(this.PAIRS[this.player1.pick]['beats'] === this.player2.pick){
     return this.player1;
-  } 
+  }
   else {
-    return this.player2; 
+    return this.player2;
   }
 
 };

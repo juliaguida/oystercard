@@ -1,8 +1,6 @@
 Retrospective and Scrum formats
 ===============================
 
-:construction: UNDER CONSTRUCTION :construction:
-
 Scrum
 -----
 

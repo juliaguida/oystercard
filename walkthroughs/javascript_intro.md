@@ -3,8 +3,6 @@ JavaScript Intro
 
 [Video from this session](https://www.youtube.com/watch?v=ghrFsfIHzkg)
 
-***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
-
 *Many thanks to [Alex Peattie](https://github.com/alexpeattie) for the design of these walkthroughs*
 
 [Note also that the initial code for this walkthrough is available in https://github.com/makersacademy/rps-ruby-javascript]
@@ -194,7 +192,7 @@ describe("Rock-Paper-Scissors", function() {
 
 Let's reflect on the differences with between the JavaScript and the Ruby code.  
 
-* In the JavaScript code there are lots of curly braces, i.e. '{' and '}''s.  This is what we use to define a begining and an end block of code. Notice how it's looks the same as an inline block in ruby. 
+* In the JavaScript code there are lots of curly braces, i.e. '{' and '}''s.  This is what we use to define a begining and an end block of code. Notice how it's looks the same as an inline block in ruby.
 * In JavaScript we instantiate objects using terminology like 'new Player', and methods are in CamelCase rather than snake_case.  
 * Also note that we require '()' in order to call methods; we don't have 'poetry mode' as we do in Ruby.  There are also semi-colons at end of the lines and the word 'function' spread all over the place.
 * Also note the nested describe, this a bit like context in rspec
@@ -214,7 +212,7 @@ Which allows you to explore some JavaScript oddities from the comfort of your ow
 > {} + []
 0
 ```
-Javascript was written by Netscape for the web, as such there are a lot of hangovers from thiss lineage. 
+Javascript was written by Netscape for the web, as such there are a lot of hangovers from thiss lineage.
 Things like running tests are normally done in the browser using something like this SpecRunner.html:
 
 ```html
@@ -228,7 +226,7 @@ Things like running tests are normally done in the browser using something like 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/2.0.0/jasmine.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/2.0.0/jasmine-html.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/2.0.0/boot.js"></script>
-    
+
     <script type="text/javascript" src="lib/RockPaperScissors.js"></script>
     <script type="text/javascript" src="spec/RockPaperScissorsSpec.js"></script>
   </head>
@@ -273,7 +271,7 @@ In Ruby we might start off by creating a 'class Player'.  In JavaScript we inste
 
 ```javascript
 function Player(){
-  
+
 }
 ```
 
@@ -288,7 +286,7 @@ So we can fix that by declaring a Game function.  Note that we use the keyword '
 
 ```javascript
 function Game(){
-  
+
 }
 ```
 
@@ -303,13 +301,13 @@ on line 17 of the spec RockPaperScissorsSpec.js.  This is indicating that we hav
 
 ```javascript
 function Player(){
-  
+
 }
 
 Player.prototype.picks = function(){
   // blah blah
 }
-``` 
+```
 
 You might note some useful tab completion of the prototype function if you are using the Sublime editor. Note that the 'function' keyword is used to define 'classes' as well as methods, but also the equivalent of Ruby 'blocks' (look at Jasmine spec).
 
@@ -317,11 +315,11 @@ This changes the error to line 19, which we can fix in a similar fashion:
 
 ```javascript
 function Game(){
-  
+
 }
 
 Game.prototype.winner = function(){
-  
+
 }
 ```
 
@@ -354,9 +352,9 @@ Usually we would use an initialise method, but we don't have those in JavaScript
 
 ```javascript
 function Player(){
-  
+
 }
-``` 
+```
 
 The answer is to pass an argument in like so:
 
@@ -364,7 +362,7 @@ The answer is to pass an argument in like so:
 function Player(name){
   this.name = name;
 }
-``` 
+```
 
 Hre 'this.' replaces the familiar '@' from Ruby to indicate an instance variable.  In coffee script we'll see a version of JavaScript that looks more similar to Ruby, but for the moment let's stick with plain old JavaScript.  That improves our error message like so:
 
@@ -385,12 +383,12 @@ Game.prototype.winner = function(){
 
 What would you expect to happen? To get "undefined method player1" or something?  Actually a whole set of our tests start passing … but why?
 
-So this is a very common mistake in javascript - it's actually that code from the spec is leaking into the main code, which is very bad.  We want to ensure that all the variables created in our spec are local variables, by preceding them with 'var' in the appropriate place, e.g. 
+So this is a very common mistake in javascript - it's actually that code from the spec is leaking into the main code, which is very bad.  We want to ensure that all the variables created in our spec are local variables, by preceding them with 'var' in the appropriate place, e.g.
 
 ```javascript
 describe("Rock-Paper-Scissors", function() {
   var player1, player2, game;
-  
+
   beforeEach(function() {
 
     player1 = new Player('Sam');
@@ -436,7 +434,7 @@ Game.prototype.winner = function(){
 }
 ```
 
-unlike Ruby, this won't work - we must explicitly return at the end of the function.  Also, we are going to have trouble if there are syntax errors, the error messages are not very helpful - will have to use console to find errors in particular places. 
+unlike Ruby, this won't work - we must explicitly return at the end of the function.  Also, we are going to have trouble if there are syntax errors, the error messages are not very helpful - will have to use console to find errors in particular places.
 Some other things to note about JavaScript compared to Ruby are:
 
 * thre are no symbols in javascript, only strings

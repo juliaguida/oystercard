@@ -1,8 +1,6 @@
 Google Maps
 ================
 
-:construction: UNDER CONSTRUCTION :construction:
-
 [Video](https://www.youtube.com/watch?v=rAH78ga58_c)
 
 Google Maps is a JavaScript library that makes use of a Google API to display an interactive map in the browser.  You can embed a Google Map in a simple static web page:
@@ -17,7 +15,7 @@ rails g scaffold Charity title:string description:text address:string latitude:f
 
 In Gemfile
 
-```ruby 
+```ruby
 gem ‘geocoder’
 ```
 
@@ -38,7 +36,7 @@ gem 'gmaps4rails'
 
 restart the server and run bundle install
 
-Add a div to bear your map, e.g. 
+Add a div to bear your map, e.g.
 
 ```html
 <div style='width: 800px;'>

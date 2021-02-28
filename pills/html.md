@@ -2,8 +2,6 @@
 
 **HyperText Markup Language** (HTML) is the foundation of the entire World Wide Web. It defines the **structure** of web pages through a series of _tags_. These tags are used to hold information.
 
-This page is under construction. :construction:
-
 ## Getting Started
 
 ###### Semantic Structure and Tags

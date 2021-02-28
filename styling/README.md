@@ -1,6 +1,6 @@
 # Styling
 
-CSS (Cascading Style Sheets) is a bit weird, but it's perfectly understandable once you've got the basics down. After that, it's a matter of: 
+CSS (Cascading Style Sheets) is a bit weird, but it's perfectly understandable once you've got the basics down. After that, it's a matter of:
 
 1. Remembering a bunch of properties and how to use them.
 2. Knowing how to work with text and positioning.

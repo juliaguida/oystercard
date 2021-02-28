@@ -1,8 +1,6 @@
 Dependency Injection
 ====================
 
-:construction: UNDER CONSTRUCTION :construction:
-
 In the Boris Bikes walkthrough there is a point we get to in the code where the DockingStation becomes very tightly coupled to the Bike class:
 
 ```ruby

@@ -1,7 +1,5 @@
 # Course Outline
 
-***Please note, as with all Makers materials, there may be subtle errors in the following materials.  Please try to approach those as challenges on which to polish your debugging skills - pull requests always welcome.***
-
 * Week 1: [Object Oriented Design (OOD): Boris Bikes](boris_bikes/0_challenge_map.md)
 * Week 2: [Further OOD: Oystercard](oystercard/README.md)
 * Week 3: [Welcome to the web: Battle in the browser](intro_to_the_web)

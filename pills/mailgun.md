@@ -1,7 +1,5 @@
 # Mailgun
 
-:construction: This pill is under construction :construction:
-
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---
