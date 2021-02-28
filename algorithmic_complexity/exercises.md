@@ -21,7 +21,7 @@ Given an array containing only 0s and 1s, sort it.
 Implement your own algorithm for sorting an array (you cannot use `.sort`).
 
 ## Fibonacci
-Create a function that takes a number N and returns an array of the first N numbers in the [fibonacci sequence](https://www.mathsisfun.com/numbers/fibonacci-sequence.html).
+Create a function that takes a number N and returns an array of the first N numbers in the [Fibonacci sequence](https://www.mathsisfun.com/numbers/fibonacci-sequence.html).
 
 For example:
 

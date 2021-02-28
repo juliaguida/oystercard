@@ -43,7 +43,7 @@ The JDK installer should work fine with all the default settings. Run this now.
 
 Working with Clojure is a lot more pleasant if you have great text editor integration.
 
-This walkthough will assume you are using the [Light Table](http://lighttable.com/) text editor. Take a look at [http://docs.lighttable.com/tutorials/full/](http://docs.lighttable.com/tutorials/full/) to get started.
+This walkthrough will assume you are using the [Light Table](http://lighttable.com/) text editor. Take a look at [http://docs.lighttable.com/tutorials/full/](http://docs.lighttable.com/tutorials/full/) to get started.
 
 It is **strongly recommended** that you use Light Table for the walkthrough since Clojure integration is provided out of the box. Once you are comfortable with the basics of the language you can choose to follow these instructions for [Sublime Text](http://dev.clojure.org/display/doc/Getting+Started+With+Sublime+Text+2), [Atom](https://github.com/lsegal/atom-runner#configuring) or [Emacs](http://www.gnu.org/software/emacs/).
 

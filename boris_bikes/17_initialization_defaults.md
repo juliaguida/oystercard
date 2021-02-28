@@ -1,4 +1,4 @@
-# Initialization defaults
+# Initialisation defaults
 
 [Back to the Challenge Map](0_challenge_map.md)
 
@@ -18,7 +18,7 @@ In this challenge, you will modify your `intialize` function to accept a `capaci
 
 ### Learning Objectives covered
 - Set an initial attribute value using `initialize`
-- Set a default initialization value
+- Set a default initialisation value
 
 ### To complete this challenge, you will need to:
 

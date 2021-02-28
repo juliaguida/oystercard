@@ -20,7 +20,7 @@ Here's what a user story might look like if it were used to describe a user stor
 ```
 As a conscientious software developer
 So that I can understand the needs of the user and communicate effectively with my client
-I'd like a recognized technique for capturing and defining requirements in plain English
+I'd like a recognised technique for capturing and defining requirements in plain English
 ```
 
 ## Footnote

@@ -2,7 +2,7 @@
 
 [Back to Challenge](../04_setting_up_a_database.md)
 
-Setting up Postgres on GNU/Linux systems requires a slightly different approach to Macs. On most Linux systems, postgres is not installed by default. This means you will need to install it, along with its server and libraries:
+Setting up Postgres on GNU/Linux systems requires a slightly different approach to Macs. On most Linux systems, Postgres is not installed by default. This means you will need to install it, along with its server and libraries:
 
 On Ubuntu/Mint:
 

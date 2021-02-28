@@ -26,7 +26,7 @@ When pair programming, at any one time, one person should be the **driver**, i.e
 The **navigator's** role is to try and think more broadly about where the code is going; to act as a sounding board to the driver and to offer suggestions on architectural design or to be looking up documentation related to the task at hand. The navigator should avoid constantly mentioning spelling mistakes and other typos unless the driver is really stuck.
 
 #### Swap often
-It's absolutely critical that you swap driver and navigator roles frequently - probably at least once every 15 minutes (and much more frequently in some specialized protocols - see below).  If one person carries on driving for the whole session both parties learning and code quality will be impaired.
+It's absolutely critical that you swap driver and navigator roles frequently - probably at least once every 15 minutes (and much more frequently in some specialised protocols - see below).  If one person carries on driving for the whole session both parties learning and code quality will be impaired.
 
 Whether you are extrovert or introvert, driver or navigator it is the responsibility of both of you to rotate roles.
 
@@ -91,7 +91,7 @@ attributed to Sam Livingston Gray
 
 ### Style Summary
 
-In review there are a lot of ways that you can approach pairing and a lot of ways that a pairing session can end up.  As an advanced pair programmer you are not absolutist about what particular style you are using moment to moment; it is all about compromise, 'give and take', with your current partner.  Professional pair programmers may swap backwards and forwards through a number of the above styles during the course of a single days work.  As a novice programmer we recommend that you initially strive for the 'Shared Head Space' pattern.  Once you feel you are achieving that on a semi-regular basis you can loosen up a bit; but the most important thing in the first instance is to recognize the pros and cons of the different styles and have an open discussion with your pair partner about which styles you are finding yourself in and how to push yourself towards a 'shared head space'.
+In review there are a lot of ways that you can approach pairing and a lot of ways that a pairing session can end up.  As an advanced pair programmer you are not absolutist about what particular style you are using moment to moment; it is all about compromise, 'give and take', with your current partner.  Professional pair programmers may swap backwards and forwards through a number of the above styles during the course of a single days work.  As a novice programmer we recommend that you initially strive for the 'Shared Head Space' pattern.  Once you feel you are achieving that on a semi-regular basis you can loosen up a bit; but the most important thing in the first instance is to recognise the pros and cons of the different styles and have an open discussion with your pair partner about which styles you are finding yourself in and how to push yourself towards a 'shared head space'.
 
 If you'd like help mastering the different pairing styles please do see the [pair_scaffolding](pair_scaffolding.md) :pill: pill for how someone can help 'scaffold' a pairing session for you.
 

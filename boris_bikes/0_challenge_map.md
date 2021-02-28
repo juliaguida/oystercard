@@ -26,7 +26,7 @@ To help structure your work, here are 22 challenges. They all build on one anoth
 14. [Using Complex Attributes](14_complex_attributes.md)
 15. [The Single Responsibility Principle](15_single_responsibility_principle.md)
 16. [Removing Magic Numbers](16_removing_magic_numbers.md)
-17. [Initialization Defaults](17_initialization_defaults.md)
+17. [Initialisation Defaults](17_initialization_defaults.md)
 18. [Dealing with Broken Bikes](18_dealing_with_broken_bikes.md)
 19. [Isolating Tests with Doubles](19_isolating_tests_with_doubles.md)
 20. [Mocking Behaviour on Doubles](20_mocking_behaviour_on_doubles.md)

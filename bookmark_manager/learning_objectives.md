@@ -25,7 +25,7 @@ Under each objective is an example thing. If you can confidently do that example
   * Create, Read, Update, and Delete bookmark records in a database from a user-clickable web interface.
 * :yellow_heart: Implement a RESTful routing convention.
   * Turn routes like this: `GET /show-bookmark-1` into routes like this: `GET /bookmarks/1`.
-* :green_heart: Wrap an adapter object.
+* :green_heart: Wrap an adaptor object.
   * Call `Bookmark.create` and get back an instance of the `Bookmark` class with all the attributes you passed to `.create`, and an `id` attribute.
 * :green_heart: Validate in the model layer.
   * Stop `Bookmark.create` from creating a bookmark record in the database if its URL is invalid.
@@ -56,13 +56,13 @@ Under each objective is an example thing. If you can confidently do that example
 ### Tooling
 
 * :yellow_heart: Set up a test environment.
-  * When you run your tests, your application only writes and reads data from a 'test database'. The test database is emptied between tests. 
+  * When you run your tests, your application only writes and reads data from a 'test database'. The test database is emptied between tests.
 * :green_heart: Use database GUIs to interact with databases.
   * Use TablePlus to read and write from and to your database.
 
 ## Skills
 
-* :yellow_heart: Test-Drive advanced Objects in Ruby, including adapter, wrapper, and service objects.
+* :yellow_heart: Test-Drive advanced Objects in Ruby, including adaptor, wrapper, and service objects.
   * Write a test for a `Bookmark.create` method that takes properties as arguments, and gives you back an object which exposes all those properties as attributes, and has an `id` attribute.
 * :heart: Use a step-by-step approach to pull out logic from concretes to abstractions.
   * Take a line of SQL written in a controller that reads bookmarks from the database. Encapsulate it in a method on a `Bookmark` model.

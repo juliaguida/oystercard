@@ -24,7 +24,7 @@ In this stage you'll make a first step towards making your own ORM!
 ## Learning Objectives
 
 * Separate application behaviour from database behaviour.
-* Wrap an adapter object.
+* Wrap an adaptor object.
 
 ## To complete this challenge, you will need to
 
@@ -36,8 +36,8 @@ In this stage you'll make a first step towards making your own ORM!
 
 ## Resources
 
-- [class instance variables1](http://thoughts.codegram.com/understanding-class-instance-variables-in-ruby/)
-- [class instance variables2](http://maximomussini.com/posts/ruby-class-variables/)
+- [class instance variables 1](http://thoughts.codegram.com/understanding-class-instance-variables-in-ruby/)
+- [class instance variables 2](http://maximomussini.com/posts/ruby-class-variables/)
 - [variable scope](https://www.sitepoint.com/understanding-scope-in-ruby/)
 - [What is an ORM?](https://stackoverflow.com/questions/1279613/what-is-an-orm-and-where-can-i-learn-more-about-it)
 

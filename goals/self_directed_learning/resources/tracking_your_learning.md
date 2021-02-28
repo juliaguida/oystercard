@@ -7,9 +7,9 @@ In self-directed learning, one of the important aspects is to keep track of your
 * The [Portfolio Template](https://docs.google.com/document/d/1o8uTAyPSSyD8eMAUOdMsAK9pDgBA2jVXc5-p3PS29lQ/edit#heading=h.bwbqjdsvw2lz) is one tool you can use to set goals for yourself and keep track of the evidences of having achieved said goals.
 * Here's a trello board you can copy to manage your goal tracking. It has a few example goals. https://trello.com/b/lBHn6hIt/student-goal-tracking
 
-* Dan (August 2019) records his reflections and learning in a [github repo](https://github.com/DanGyi23/MyPortfolio)
+* Dan (August 2019) records his reflections and learning in a [Github repo](https://github.com/DanGyi23/MyPortfolio)
 
-* Matt (March 2019) records all his notes/learning/feedback in a [github repo](https://github.com/mattTea/Portfolio)
+* Matt (March 2019) records all his notes/learning/feedback in a [Github repo](https://github.com/mattTea/Portfolio)
 > It includes the goals, but also has all my projects, process, weekly goals (and in there my raw weekly notes), etc
 
 * Kim (March 2019) uses a custom tool:
@@ -27,7 +27,7 @@ In self-directed learning, one of the important aspects is to keep track of your
 
 * Masha (March 2019) has been using [Bear](https://bear.app/):
 > For tracking my learning I’ve been using Bear notes extensively, marking every language (ruby, shell, JavaScript etc) and or topics (debugging, Tdd, modelling etc) with hashtags (extremely helpful feature of the app). I also created hashtags for each week and was putting corresponding stuff there. I’ve copied course outline file there as bear works perfectly with markdown
-> Somewhere in the middle of the course I’ve upgraded to the pro version (less than 2 pounds I think a month) to sync it between all the devices plus there are other nice add ons.
+> Somewhere in the middle of the course I’ve upgraded to the pro version (less than 2 pounds I think a month) to sync it between all the devices plus there are other nice add-ons.
 
 * Russell wrote a [blog post for almost every single day at Makers](https://medium.com/@russell.wind).
 

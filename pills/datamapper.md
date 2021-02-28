@@ -10,7 +10,7 @@ So now we have a database running on our machine, how do we talk to it from Ruby
 
 We'll be using an ORM called [DataMapper](../pills/datamapper.md).  DataMapper serves as a bridge between our Ruby classes and the database.  It allows us to define mappings between our classes and tables declaratively using a DSL.  Datamapper then handles all the necessary communication with the database to create, read, update and delete our data.
 
-DataMapper can be used with a variety of database engines, including postgres.  For each database, there is an **adapter**. We'll need to install the adapter to work with postgres. Add these gems to your Gemfile:
+DataMapper can be used with a variety of database engines, including postgres.  For each database, there is an **adaptor**. We'll need to install the adaptor to work with postgres. Add these gems to your Gemfile:
 
 
 ```ruby

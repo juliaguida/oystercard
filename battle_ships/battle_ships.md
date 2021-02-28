@@ -18,7 +18,7 @@ We will encounter a number of more advanced OO concepts this week, referencing t
 * *Class methods*:  creating different types of ship
 * *Dependency inversion*: dealing with the weather in Airport Challenge.
 * *Composition over inheritance*:  docking stations, vans and garages.
-* *Implementing blocks*:  initializing a grid with cells.
+* *Implementing blocks*:  initialising a grid with cells.
 
 ## Version 0: The User Stories
 
@@ -67,9 +67,9 @@ I would like to play a two-player game
 ```
 
 
-## Version 1: Modeling the domain
+## Version 1: Modelling the domain
 
-It is a good idea to spend some time researching the domain of the battleships game and discovering the objects that you will need for this application to work (think back to what we did with [boris bikes](/boris_bikes/boris_bikes.md) in Version 0).
+It is a good idea to spend some time researching the domain of the battleships game and discovering the objects that you will need for this application to work (think back to what we did with [Boris Bikes](/boris_bikes/boris_bikes.md) in Version 0).
 
 One of the things you have to keep in mind is to simplify as much as you can when you are creating the model of your game. Think of what you need to build first and what you will have to consider in future, don't try to get everything nailed down ( _and designed perfectly_ ) to begin with, you will learn more about the game as you go.
 
@@ -84,9 +84,9 @@ Consider also that you could build simple versions of the game first.  You could
 
 ## Version 2: Building a prototype to explore in IRB
 
-We have recognized the objects that make up the domain of the game. Let's implement them! Don't try to implement the game yet though ( _that is the logic that will make the players take a turn at a time until one of the players wins_ ), we are going to leave that for a later version.
+We have recognised the objects that make up the domain of the game. Let's implement them! Don't try to implement the game yet though ( _that is the logic that will make the players take a turn at a time until one of the players wins_ ), we are going to leave that for a later version.
 
-The important thing here is that once we have recognized the objects that make up the battleship game, we start implementing them with the desired functionality ( _How does a ship register a shot? How do you place ships on a board? What does the board look like? etc._ ). If we make sure that every object has its responsibilities clearly defined we will be able to implement them in a turn-based game very easily.
+The important thing here is that once we have recognised the objects that make up the battleship game, we start implementing them with the desired functionality ( _How does a ship register a shot? How do you place ships on a board? What does the board look like? etc._ ). If we make sure that every object has its responsibilities clearly defined we will be able to implement them in a turn-based game very easily.
 
 When you model your domain, make sure that your objects follow the [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle) ( **SRP** from now on ).
 
@@ -112,7 +112,7 @@ How will we go about implementing the game engine? What do we need?
 
 **Here is a list of things your game must be able to do**:
 
-- Initialize a new game with two players
+- Initialise a new game with two players
 - Allow a player to place ships on their own board
 - Allow a player to shoot at their opponent's board
 - Allow a player to see where on their opponent's board they have hit and missed ( _but not see his opponent's ships_).  Is there a rudimentary way to do this in 'irb'?

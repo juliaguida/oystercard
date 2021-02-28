@@ -52,8 +52,8 @@ Remember to maintain RESTful routing conventions.
 * [CRUD (Wikipedia)](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
 * [:pill: REST](../pills/rest.md)
 * [Difference between TRUNCATE and DROP TABLE](https://stackoverflow.com/questions/135653/difference-between-drop-table-and-truncate-table)
-* [Sinatra Configuation for method override](http://sinatrarb.com/configuration.html)
-* [REST-ful routes in Sinatra](https://learn.co/lessons/sinatra-restful-routes-readme)
+* [Sinatra Configuration for method override](http://sinatrarb.com/configuration.html)
+* [RESTful routes in Sinatra](https://learn.co/lessons/sinatra-restful-routes-readme)
 * [PostgreSQL Cheat Sheet](http://www.postgresqltutorial.com/postgresql-cheat-sheet/)
 * [Capybara Cheat Sheet](https://gist.github.com/cmkoller/0d3b048b3c4b48ee4955)
 
@@ -61,7 +61,7 @@ Remember to maintain RESTful routing conventions.
 
 ## Ed's Walkthrough
 Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_manager/pulls) that show the diff for each section I worked through.
-- branch [version2](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version2): Steps 11-13 | [recording](https://youtu.be/lfcUauCejx4)
+- branch [`version2`](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version2): Steps 11-13 | [recording](https://youtu.be/lfcUauCejx4)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

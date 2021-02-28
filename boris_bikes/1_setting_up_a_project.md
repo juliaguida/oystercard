@@ -7,12 +7,12 @@ Every good code project starts with a git repository. To get started with Boris 
 ### Learning Objectives covered
 - Set up a simple project
 - Explain why a complete README is important
-- Initialize and push a git project
+- Initialise and push a git project
 
 ### To complete this challenge, you will need to:
 
 - [ ] Create a directory from the command line
-- [ ] Initialize a git repository within that directory
+- [ ] Initialise a git repository within that directory
 - [ ] Create a README.md file from the command line
 - [ ] Write a clear README
 - [ ] Add the README.md to the staging area

@@ -43,7 +43,7 @@ To start, let's look at how fast some standard library functions run. Here are f
   - Print the size and corresponding time.
 - [ ] From there, you should use a spreadsheet utility to plot the results into a curve (time spent over input size).
 
-For more pointers on how to time code, here's a more [detailed document](./timing_code.md). It also addresses a few of the the common problems you may experience.
+For more pointers on how to time code, here's a more [detailed document](./timing_code.md). It also addresses a few of the common problems you may experience.
 
 ### Build your own algorithms
 
@@ -119,7 +119,7 @@ The last workshop of the playlist touches on these topics. Watch here: https://w
 
 Optimising is trying to make algorithms more efficient in some specific cases. If you know something about your input, you could apply an algorithm that uses that knowledge to its advantage (for example in the case of sorting only 0s and 1s).
 
-Some other times, you do not know things about about the specific input, but you know things about the typical inputs that you are given. For example, you might approach _Most frequent words_ differently if you know the text will be in English or if you have no idea which language it will be in.
+Some other times, you do not know things about the specific input, but you know things about the typical inputs that you are given. For example, you might approach _Most frequent words_ differently if you know the text will be in English or if you have no idea which language it will be in.
 
 Lastly, optimising storage means using a data-structure that will be most efficient for the most frequent usage you'll make of it. A real life example would be to place the kitchen utensils you use most in the top drawer and the ones you only use a few times a year hidden on the top shelve.
 In software, your usage of memory can be optimised in the same way if you know which elements you'll need to access most often.

@@ -6,7 +6,7 @@ You should now understand that our error happened because Ruby doesn't know what
 
 Ruby errors are quite helpful, but they don't tell you exactly how to solve them. For that, you need a testing framework.
 
-In this challenge, you will initialize a testing framework, **RSpec**, and plan your DockingStation with a **Unit Test**.
+In this challenge, you will initialise a testing framework, **RSpec**, and plan your DockingStation with a **Unit Test**.
 
 ### Learning Objectives covered
 - Define RSpec as a testing framework
@@ -16,7 +16,7 @@ In this challenge, you will initialize a testing framework, **RSpec**, and plan 
 
 ### To complete this challenge, you will need to:
 
-- [ ] Initialize RSpec within your project
+- [ ] Initialise RSpec within your project
 - [ ] Create a new spec file for your DockingStation object
 - [ ] Set up the spec file to `describe` a DockingStation
 - [ ] Run RSpec from the Command Line

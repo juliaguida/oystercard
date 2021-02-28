@@ -12,7 +12,7 @@ So that I can plan the distribution of bikes,
 I want a docking station to have a default capacity of 20 bikes.
 ```
 
-In this challenge, you will convert your instance variable `@bike` to reference a **collection**, allowing the docking and releasing of more than one bike. You should keep raising errors when `dock`ing a bike if the docking station is full, and when `release_bike`ing if the docking station is empty.
+In this challenge, you will convert your instance variable `@bike` to reference a **collection**, allowing the docking and releasing of more than one bike. You should keep raising errors when docking a bike if the docking station is full, and when calling `release_bike` if the docking station is empty.
 
 ### Learning Objectives covered
 - Wrap a collection in a class

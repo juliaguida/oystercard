@@ -127,7 +127,7 @@ var encoded = buf.toString('base64');
 * Inherit from EventEmitter to make  your own event handling classes
 * Several important objects are based on EventEmitter for networking and file system operations
 * Idiom: Event names are written in camelCase
-* Idiom: Emitting 'error' events causes an exception to be raised if there's no listener 
+* Idiom: Emitting 'error' events causes an exception to be raised if there's no listener
 * Idiom: Lots of things use events which is useful for architecture: for example, the Express "app" object
 
 ```javascript
@@ -145,7 +145,7 @@ messageBus.emit('notify');
 ## Streams
 
 * An object that represents a stream of values
-* Can be readable, writeable, or both
+* Can be readable, writable, or both
 * They're best learned by practicing
   * Try Stream Adventure https://github.com/substack/stream-adventure
 * All stream objects inherit from EventEmitter

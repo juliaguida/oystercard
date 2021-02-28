@@ -4,7 +4,7 @@
 
 - Set up a simple project
 - Explain why a complete README is important
-- Intialize and push a git project
+- Initialise and push a git project
 
 ### [Challenge 2](2_working_with_user_stories.md)
 
@@ -82,7 +82,7 @@
 
 ### [Challenge 17](17_initialization_defaults.md)
 - Set an initial attribute value using `initialize`
-- Set a default initialization value
+- Set a default initialisation value
 
 ### [Challenge 18](18_dealing_with_broken_bikes.md)
 - Implement a feature from scratch

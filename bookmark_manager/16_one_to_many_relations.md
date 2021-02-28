@@ -49,7 +49,7 @@ In this challenge, you will set up a [one to many relationship](http://www.datab
 
 ## Ed's Walkthrough
 Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_manager/pulls) that show the diff for each section I worked through.
-- branch [version4](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version4): Steps 16 | [recording](https://youtu.be/-FiN_820MEc)
+- branch [`version4`](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version4): Steps 16 | [recording](https://youtu.be/-FiN_820MEc)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

@@ -22,7 +22,7 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 
 By the end of the week all developers can:
 
-* Build a simple web app with a database (this pirmary goal breaks down into the two sub-goals below)
+* Build a simple web app with a database (this primary goal breaks down into the two sub-goals below)
 * Follow an effective debugging process for database applications
 * Explain the basics of how databases work (e.g. tables, SQL, basic relationships)
 

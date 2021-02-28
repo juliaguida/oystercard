@@ -14,7 +14,7 @@ Similarly, end the timer just after the code you are timing.
 
 For graphs, make sure you use linear scales. That is, the numbers on each axis should grow regularly, with spacing between numbers accurately representing the difference between them.
 
-The easiest way to do this is to use sample sizes that increase in regular steps (eg: 5000, 10000, 15000, 20000, 25000, ...).
+The easiest way to do this is to use sample sizes that increase in regular steps (e.g. 5000, 10000, 15000, 20000, 25000, ...).
 
 ### Is your first result always very high?
 
@@ -52,7 +52,8 @@ A good practice when averaging is to throw away the 5% top and bottom results. Y
 
 #### Time the worst case
 
-When timing a function to study its complexity, you want to use the worst case input, to know how your algorithm will work in the worst conditions. That may mean adapting your input to make it more specific to the function you are running. For example, if you are timing a function that finds out whether an array contains duplicates, and the input array is only made up of numbers from one to ten, then as long as the array is more than 10 numbers, th function will always return true. Which means it could take constant time, even for huge arrays. But this is not representative of how many steps or operation the function would take in the worst case.
+When timing a function to study its complexity, you want to use the worst case input, to know how your algorithm will work in the worst conditions. That may mean adapting your input to make it more specific to the function you are running. For example, if you are timing a function that finds out whether an array contains duplicates, and the input array is only made up of numbers from one to ten, then as long as the array is more than 10 numbers, the function will always return true. Which means it could take constant time, even for huge arrays. But this is not representative of how many steps or operation the function would take in the worst case.
+
 So if you ever find yourself with a constant time graph, when the code looks like it should be linear, think about whether you are giving it the worst case.
 
 #### Adapt the number of results

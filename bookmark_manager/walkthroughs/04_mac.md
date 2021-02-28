@@ -5,7 +5,7 @@
 There are two ways of installing PostgreSQL:
 
 1. (not recommended) Download the PostgreSQL app, [Postgres.app](https://postgresapp.com/).
-2. (yes recommended) Use a package manager, like [Homebrew](https://brew.sh/).
+2. (yes recommended) Use a package manager, like [Homebrew.](https://brew.sh/)
 
 > Postgres.app can sometimes be problematic, and actually leave you with a non-working PostgreSQL installation.
 
