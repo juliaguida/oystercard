@@ -4,7 +4,7 @@
 
 In this challenge we introduced the idea that there are different kinds of HTTP requests, namely *GET* and *POST*. Further along you will see that there are 2 further kinds of HTTP requests. By following the challenge steps we hope to understand how the server knows whether an incoming request is *GET* or *POST*.
 
-The first two steps are review of the previous of the previous challenge. Making the http request: `http -v http://getpostworkout.herokuapp.com/`, we should see:
+The first two steps are review of the previous of the previous challenge. Making the HTTP request: `http -v http://getpostworkout.herokuapp.com/`, we should see:
 
 ```sh
 GET / HTTP/1.1
@@ -61,7 +61,7 @@ Your name, Ptolemy has been saved!
 
 As you can see, when the server sends back a response to POST request, that response also has content. In this case, a string.
 
-> A note on browsers: while HTTPie is a client that provides a means of making POST requests to a server, browsers by default make GET requests. When you type in the url "https://getpostworkout.herokuapp.com/" and press enter, your browser is making a GET request to the named server. This is important because when building a web application we want to carefully control our data. By ensuring that our server only responds to GET requests with information, and do not create or manipulate any data as a result, we can be confident users casually browsing our site won't accidentally make unintended changes. In short, the distinction between the HTTP methods, or verbs, is relevant to the control of data.
+> A note on browsers: while HTTPie is a client that provides a means of making POST requests to a server, browsers by default make GET requests. When you type in the URL "https://getpostworkout.herokuapp.com/" and press enter, your browser is making a GET request to the named server. This is important because when building a web application we want to carefully control our data. By ensuring that our server only responds to GET requests with information, and do not create or manipulate any data as a result, we can be confident users casually browsing our site won't accidentally make unintended changes. In short, the distinction between the HTTP methods, or verbs, is relevant to the control of data.
 
 [Forward to the Challenge Map](../README.md)
 

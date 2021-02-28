@@ -32,7 +32,7 @@ To stop the server, head to the terminal tab in which the server is running and 
 
 `$ ruby app.rb`
 
-Head back to _http://localhost:4567/secret_: it now works! But restarting the server manually every time we change the code is going to get very painful.
+Head back to `http://localhost:4567/secret`: it now works! But restarting the server manually every time we change the code is going to get very painful.
 
 ## Automatic code reloading
 
@@ -46,7 +46,7 @@ Secondly, load your application like this:
 
 The `-p` switch tells shotgun what port to use. Use this switch to keep the port consistent with the default Sinatra port. By default shotgun will use port 9393.
 
-If you see a "Boot Error" when you're starting the application using shotgun, double check that you have required the _sinatra_ gem in the `Gemfile`, and have run `bundle install` afterwards.
+If you see a "Boot Error" when you're starting the application using shotgun, double check that you have required the _Sinatra_ gem in the `Gemfile`, and have run `bundle install` afterwards.
 
 > What does `bundle install` do? Are there any other uses for `bundle`?
 

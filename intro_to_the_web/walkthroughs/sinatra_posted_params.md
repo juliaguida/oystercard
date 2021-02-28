@@ -11,7 +11,7 @@ Most relevant to us now is the **method**. There are two main HTTP methods (also
 - **GET**: retrieve information
 - **POST**: modify a resource
 
-> There are [8 methods in total](http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html). Based on that link, why do you think we are focussing on these two only (for now)?
+> There are [8 methods in total](http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html). Based on that link, why do you think we are focusing on these two only (for now)?
 
 Since our form submission intends to change the name of our cat, we're (sort of) 'modifying' a resource, rather than retrieving information.
 

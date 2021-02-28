@@ -11,7 +11,7 @@ In this challenge you will look at the important elements of an HTTP request and
 
 ### To complete this challenge, you will need to:
 
-- [ ] Use httpie's "-v" flag and make a request to 'http://makersipsum.herokuapp.com/'.
+- [ ] Use HTTPie's "-v" flag and make a request to 'http://makersipsum.herokuapp.com/'.
 - [ ] Divide what you see into three sections:
   - [ ] The request.
   - [ ] The response headers.

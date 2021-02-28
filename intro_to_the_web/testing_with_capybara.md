@@ -23,21 +23,21 @@ To complete this challenge you will need to have Firefox installed.
 
 - [ ] Make sure you have installed Firefox browser on your machine (you can use `brew cask install firefox` if you haven't).
 - [ ] List `capybara` and `selenium-webdriver` in a Gemfile.
-- [ ] make sure bundle install works - you may need to manually install xcode if you haven't already.
-- [ ] install Firefox GeckoDriver, `brew install geckodriver`. If firefox does not work for you after installing geckodriver, it is also possible to use [gem 'chromedriver-helper'](https://github.com/flavorjones/chromedriver-helper).
+- [ ] make sure bundle install works - you may need to manually install Xcode if you haven't already.
+- [ ] install Firefox GeckoDriver, `brew install geckodriver`. If Firefox does not work for you after installing GeckoDriver, it is also possible to use [gem 'chromedriver-helper'](https://github.com/flavorjones/chromedriver-helper).
 - [ ] Open up *PRY* and require both `capybara/dsl` and `selenium-webdriver`.
 - [ ] Within the REPL, `$ include Capybara::DSL`.
 - [ ] [Set Capybara's default driver](https://github.com/jnicklas/capybara#selecting-the-driver) to be selenium.
 - [ ] Use Capybara's `visit` command to take the automated browser to [http://capybaraworkout.herokuapp.com/](http://capybaraworkout.herokuapp.com/), and use the `click_link` command to click 'Start Workout!'
-- [ ] Refer to a [capybara cheat sheet](https://thoughtbot.com/upcase/test-driven-rails-resources/capybara.pdf) and complete the capybara workout.
+- [ ] Refer to a [Capybara cheat sheet](https://thoughtbot.com/upcase/test-driven-rails-resources/capybara.pdf) and complete the Capybara workout.
 - [ ] Explain to your pair partner what jobs `capybara` and `selenium-webdriver` do.
 
 ### Resources
 
 - [Selenium](http://www.seleniumhq.org/)
 - [Capybara Cheat Sheet](https://thoughtbot.com/upcase/test-driven-rails-resources/capybara.pdf)
-- [geckodriver brew formula](https://formulae.brew.sh/formula/geckodriver)
-- [mozilla geckodriver](http://brewformulas.org/geckodriver)
+- [GeckoDriver brew formula](https://formulae.brew.sh/formula/geckodriver)
+- [Mozilla GeckoDriver](http://brewformulas.org/geckodriver)
 
 ### [Walkthrough](walkthroughs/testing_with_capybara.md)
 

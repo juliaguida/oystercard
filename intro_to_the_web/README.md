@@ -66,7 +66,7 @@ By the end of the week all developers can:
 * [Sinatra: Introducing `params`](sinatra_introducing_params.md)
 * [Sinatra: Using forms](sinatra_using_forms.md)
 * [Sinatra: `POST`ed `params`](sinatra_posted_params.md)
-* [Sinatra: using the Chrome Devtools](sinatra_using_the_chrome_devtools.md)
+* [Sinatra: using the Chrome DevTools](sinatra_using_the_chrome_devtools.md)
 * [Testing with an Automated Browser and Capybara](testing_with_capybara.md)
 * [Getting Started with Battle](getting_started_with_battle.md)
 * [Getting test infrastructure set up](getting_test_infrastructure_set_up.md)

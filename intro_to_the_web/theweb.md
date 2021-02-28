@@ -12,11 +12,11 @@ In this challenge you will use your command line as a client to interact with a 
 - Understand the client-server relationship.
 
 ### Challenge setup
-This challenge uses [httpie](https://github.com/jkbrzt/httpie), a command line tool useful for making HTTP requests. Install it from the command line with: `brew install httpie`.
+This challenge uses [HTTPie](https://github.com/jkbrzt/httpie), a command line tool useful for making HTTP requests. Install it from the command line with: `brew install httpie`.
 
 ### To complete this challenge, you will need to:
 
-- [ ] From the command line, use httpie to make a request to 'http://makersipsum.herokuapp.com'
+- [ ] From the command line, use HTTPie to make a request to 'http://makersipsum.herokuapp.com'
 - [ ] Explain to your partner what you see.
 - [ ] Explain to your partner:
   - [ ] what the "client" is in this situation.
@@ -25,8 +25,8 @@ This challenge uses [httpie](https://github.com/jkbrzt/httpie), a command line t
 
 ### Resources
 
-- [httpie usage](https://github.com/jkbrzt/httpie#usage)
-- httpie manual: type `man http` from the command line
+- [HTTPie usage](https://github.com/jkbrzt/httpie#usage)
+- HTTPie manual: type `man http` from the command line
 - [Client-server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
 
 ### [Walkthrough](walkthroughs/theweb.md)

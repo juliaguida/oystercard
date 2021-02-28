@@ -69,7 +69,7 @@ end
 
 Now we need to look at our controller file `app.rb` and replace cases where we are using the `session` with cases where we could use a `Player` instance.
 
-> You should use the `session` as far as possible. Only when it becomes untenable (i.e. too many large things, or complex objects) should you refactor to the Model layer. In this case, we are pre-emptively refactoring to avoid running into problems when we try to introduce Hit Points (which you might guess now should probably be a method `#hit_points` on instances of the `Player` class).
+> You should use the `session` as far as possible. Only when it becomes untenable (i.e. too many large things, or complex objects) should you refactor to the Model layer. In this case, we are preemptively refactoring to avoid running into problems when we try to introduce Hit Points (which you might guess now should probably be a method `#hit_points` on instances of the `Player` class).
 
 Let's update our controller, using global variables to replace the session.
 

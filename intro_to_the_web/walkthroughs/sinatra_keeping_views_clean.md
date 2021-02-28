@@ -47,9 +47,9 @@ That's much easier to read! Also, we've pushed the 'heavy lifting' of name rando
 
 > Although you are used to instance variables being accessible throughout an instance of a class, the `@name` instance variable is _only accessible within the scope of the route in which is was defined_. In other words, you cannot visit `/cat` to set `@name`, and then visit another route that uses that same `@name`. **The instance variable cannot be accessed by any other routes.**
 
-Let's dive a bit more into the `erb` method. Technically, the **erb()** method reads the input file, processes Ruby that is inside and returns resulting HTML. This HTML is then returned by the block passed to the **get()** method:
+Let's dive a bit more into the `erb` method. Technically, the `erb()` method reads the input file, processes Ruby that is inside and returns resulting HTML. This HTML is then returned by the block passed to the `get()` method:
 
-![Rendering erb in Sinatra](../images/sinatra_rendering_erb_diagram.jpg)
+![Rendering ERB in Sinatra](../images/sinatra_rendering_erb_diagram.jpg)
 
 Before proceeding, you'll want to commit the code, push it to Github and switch Driver/Navigator Roles &nbsp;:twisted_rightwards_arrows:.
 

@@ -4,7 +4,7 @@ This is a very common tech test as it demonstrates a candidate's knowledge of ba
 
 ## The brief
 
-The rules of tic-tac-toe are as follows:
+The rules of tic tac toe are as follows:
 
 * There are two players in the game (X and O)
 * Players take turns until the game is over
@@ -14,7 +14,7 @@ The rules of tic-tac-toe are as follows:
 * A game is over if a player wins
 * A game is over when all fields are taken
 
-Build the business logic for a game of tic tac toe. It should be easy to implement a working game of tic tac toe by combining your code with any user interface, whether web or command line. 
+Build the business logic for a game of tic tac toe. It should be easy to implement a working game of tic tac toe by combining your code with any user interface, whether web or command line.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

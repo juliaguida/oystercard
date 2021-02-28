@@ -13,7 +13,7 @@
 
 ### HTTP
 * Recall that 'HTTP' means 'HyperText Transfer Protocol'
-* Recall that HTTP is the _de facto_ way of getting and sending information across the web
+* Recall that HTTP is the most common way of getting and sending information across the web
 * Remember some common HTTP status codes: 403, 404, 200, 500.
 
 ### REST
@@ -63,7 +63,7 @@
 * Discuss why Capybara is a useful extension to RSpec's testing abilities
 
 ### Parameters
-* Know that parameters are are way to query a server for specific information
+* Know that parameters are way to query a server for specific information
 * Explain how to access parameters from a server environment in Ruby (using Sinatra)
 * Construct parameters within a URL, using `?x=y` and `&`
 * Build a Sinatra application that uses parameters

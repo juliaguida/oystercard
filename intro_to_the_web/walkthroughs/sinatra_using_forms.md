@@ -2,7 +2,7 @@
 
 [Back to the Challenge](../sinatra_defining_a_route.md)
 
-It's inconvenient to enter the cat's name directly in the URL. Let's create a form to ask for the cat's name. Modify your erb template:
+It's inconvenient to enter the cat's name directly in the URL. Let's create a form to ask for the cat's name. Modify your ERB template:
 
 ```erb
 <% if @name %>

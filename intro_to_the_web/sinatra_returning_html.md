@@ -4,7 +4,7 @@
 
 We've created a web application that returns basic strings as responses to client requests.
 
-Most web applications don't return basic strings: they return advanced HTML documents, along with CSS (for styling), JavaScripts (for interaction effects), and other assets (like images, videos, and audio).
+Most web applications don't return basic strings: they return advanced HTML documents, along with CSS (for styling), Javascript (for interaction effects), and other assets (like images, videos, and audio).
 
 In this challenge, you will substitute your basic response strings with some HTML.
 

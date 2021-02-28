@@ -59,7 +59,7 @@ end
 @game = Game.instance
 ```
 
-However, where does `@game` get assigned?  Perhaps we could use lazy initialization:
+However, where does `@game` get assigned?  Perhaps we could use lazy initialisation:
 
 ```ruby
 def self.instance
