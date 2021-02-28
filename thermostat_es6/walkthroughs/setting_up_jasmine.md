@@ -23,16 +23,16 @@ And your folder structure should look like this:
 ├── MIT.LICENSE
 ├── SpecRunner.html
 ├── lib
-│   └── jasmine-2.3.4
-│       ├── boot.js
-│       ├── console.js
-│       ├── jasmine-html.js
-│       ├── jasmine.css
-│       ├── jasmine.js
-│       └── jasmine_favicon.png
+│   └── jasmine-2.3.4
+│       ├── boot.js
+│       ├── console.js
+│       ├── jasmine-html.js
+│       ├── jasmine.css
+│       ├── jasmine.js
+│       └── jasmine_favicon.png
 ├── spec
-│   ├── PlayerSpec.js
-│   └── SpecHelper.js
+│   ├── PlayerSpec.js
+│   └── SpecHelper.js
 └── src
     ├── Player.js
     └── Song.js
@@ -115,15 +115,15 @@ Finally, delete all the files in `spec` and `src` that are not needed - your fol
 ├── MIT.LICENSE
 ├── SpecRunner.html
 ├── lib
-│   └── jasmine-2.3.4
-│       ├── boot.js
-│       ├── console.js
-│       ├── jasmine-html.js
-│       ├── jasmine.css
-│       ├── jasmine.js
-│       └── jasmine_favicon.png
+│   └── jasmine-2.3.4
+│       ├── boot.js
+│       ├── console.js
+│       ├── jasmine-html.js
+│       ├── jasmine.css
+│       ├── jasmine.js
+│       └── jasmine_favicon.png
 ├── spec
-│   └── fizzBuzzSpec.js
+│   └── fizzBuzzSpec.js
 └── src
     └── fizzBuzz.js
 

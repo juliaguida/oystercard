@@ -132,7 +132,7 @@ def create
 
   customer = Stripe::Customer.create(
     :email => params[:stripeEmail], 
-    :card  => params[:stripeToken] # encrypted version of their credit card
+    :card  => params[:stripeToken] # encrypted version of their credit card
   )
 
   charge = Stripe::Charge.create(
@@ -185,7 +185,7 @@ def create
 
   customer = Stripe::Customer.create(
     :email => params[:stripeEmail], 
-    :card  => params[:stripeToken] # encrypted version of their credit card
+    :card  => params[:stripeToken] # encrypted version of their credit card
   )
 
   charge = Stripe::Charge.create(

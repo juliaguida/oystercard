@@ -93,27 +93,27 @@ But what if we are evaluating something that is not a boolean?
 if :france
   puts "will this be printed?"
 end
-		 
+		 
 if 7
   puts "and this?"
 end
-		 
+		 
 if nil
   puts "and this too?"
 end
-		 
+		 
 if false
   puts "but surely not this?"
 end
-		 
+		 
 if {:pi => 3.14.15.926}
   puts "what about a hash?"
 end
-		 
+		 
 if ""
   puts "or an empty string"?
 end
-		 
+		 
 if 0
   puts "and even zero!"
 end
@@ -129,7 +129,7 @@ A very common Ruby trick is to write if-statements on one line if they are short
 if hungry
   puts "let's go out"
 end
-		 
+		 
 puts "let's go out" if hungry
 ````
 
@@ -148,7 +148,7 @@ size <= 22 # true if size is less or equal to 22
 30 != 15 # true
 ````
 
-Let's go through each of these line by line. The first one you know, it's evaluating equality. If hungry is assigned a value of true, the entire comparison will evaluate to true. 
+Let's go through each of these line by line. The first one you know, it's evaluating equality. If hungry is assigned a value of true, the entire comparison will evaluate to true. 
 
 Why does equality use two "=" instead of one? Because one "=" is what we use for assignment operators such as when we change the value of a variable.
 

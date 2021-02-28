@@ -9,10 +9,10 @@ Let's make a new file, `web_helpers.rb`. We can use this file to store actions w
 └── battle
     ├── spec
     │   ├── features
-    │   │   ├── enter_names_spec.rb
-    │   │   ├── hit_points_spec.rb
-    │   │   └── web_helpers.rb
-    │   └── spec_helper.rb
+    │   │   ├── enter_names_spec.rb
+    │   │   ├── hit_points_spec.rb
+    │   │   └── web_helpers.rb
+    │   └── spec_helper.rb
     ├── .rspec
     ├── Gemfile
     ├── Gemfile.lock

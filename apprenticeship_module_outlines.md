@@ -304,7 +304,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 ## Week 6: Databases
 
-This week, you'll learn how to build database-backed web applications.  Along the way, you'll build your own [Object Relational Mapper](https://en.wikipedia.org/wiki/DataMapper). Bear in mind that you'll probably never have to do this again – you'd use an existing tool like [Active Record](https://github.com/rails/rails/tree/master/activerecord) or [Ruby Object Mapper](https://rom-rb.org/) instead – but building your own tools is a great way to learn how tools of that type work.
+This week, you'll learn how to build database-backed web applications.  Along the way, you'll build your own [Object Relational Mapper](https://en.wikipedia.org/wiki/DataMapper). Bear in mind that you'll probably never have to do this again – you'd use an existing tool like [Active Record](https://github.com/rails/rails/tree/master/activerecord) or [Ruby Object Mapper](https://rom-rb.org/) instead – but building your own tools is a great way to learn how tools of that type work.
 
 ### This module's main goals
 
@@ -396,7 +396,7 @@ Some team meetings have been added to your schedule already:
 You might consider adding these to your shedule:
 
 1. Independent learning.  Make sure you strictly time box this and always include time for sharing what has been learned.  I'd recommend that you keep these to 45 mins plus 15 mins for sharing.
-2. Mobbing.  This is where you all 'gather around' one machine and write code together. It can be useful to have 3+ brains and pairs of eyes on a problem but these sessions can become tiresome.  Again, you should strictly time box these sessions.  You should also watch out for signs of disengagement – if you see them, it's time to mix things up.
+2. Mobbing.  This is where you all 'gather around' one machine and write code together. It can be useful to have 3+ brains and pairs of eyes on a problem but these sessions can become tiresome.  Again, you should strictly time box these sessions.  You should also watch out for signs of disengagement – if you see them, it's time to mix things up.
 
 ### Why so many meetings??
 

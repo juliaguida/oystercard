@@ -75,15 +75,15 @@ Our directory structure now looks like this:
 .
 ├── SpecRunner.html
 ├── lib
-│   └── jasmine-2.0.2
-│       ├── boot.js
-│       ├── console.js
-│       ├── jasmine-html.js
-│       ├── jasmine.css
-│       ├── jasmine.js
-│       └── jasmine_favicon.png
+│   └── jasmine-2.0.2
+│       ├── boot.js
+│       ├── console.js
+│       ├── jasmine-html.js
+│       ├── jasmine.css
+│       ├── jasmine.js
+│       └── jasmine_favicon.png
 ├── spec
-│   └── JavabuzzSpec.js
+│   └── JavabuzzSpec.js
 └── src
     └── Javabuzz.js
 

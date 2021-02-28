@@ -24,10 +24,10 @@ Let's create a `lib` directory to store our model layer. Our project directory w
     ├── lib
     ├── spec
     │   ├── features
-    │   │   ├── enter_names_spec.rb
-    │   │   ├── hit_points_spec.rb
-    │   │   └── web_helpers.rb
-    │   └── spec_helper.rb
+    │   │   ├── enter_names_spec.rb
+    │   │   ├── hit_points_spec.rb
+    │   │   └── web_helpers.rb
+    │   └── spec_helper.rb
     ├── .rspec
     ├── Gemfile
     ├── Gemfile.lock

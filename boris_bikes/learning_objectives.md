@@ -64,7 +64,7 @@
 - Use `fail` or `raise` to raise an error
 - Use a 'guard condition'
 
-### [Challenge 13](13_limiting_capacity.md)
+### [Challenge 13](13_limiting_capacity.md)
 - Write RSpec tests that `expect` errors
 - Use `fail` or `raise` to raise an error
 - Use a 'guard condition'

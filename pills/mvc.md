@@ -26,7 +26,7 @@ Hang on, aren't those examples the same as above? Not quite – note that they'r
 
 In the case of Comments, we'll want to be able to create them, delete them, update them, view all of them as a list, view a single one of them in detail... Those methods are kept in a controller.
 
-If we changed the way in which we interacted with Comments – say, we now want to get them using an API – we can just modify the controller to output JSON instead. We don't need to modify the model layer at all.
+If we changed the way in which we interacted with Comments – say, we now want to get them using an API – we can just modify the controller to output JSON instead. We don't need to modify the model layer at all.
 
 ### Views
 
@@ -50,7 +50,7 @@ For example:
 * it looks up the corresponding controller – `restaurants_controller.rb`
 * inside the controller it looks for the `index` method
 * that method refers to pulling in `Restaurant.all`
-* your `restaurant.rb` model is consulted – which triggers a database lookup to get those records and hand them back to the controller
+* your `restaurant.rb` model is consulted – which triggers a database lookup to get those records and hand them back to the controller
 * the controller hands the records to the view, which renders them
 * the list of restaurants is displayed to the user.
 

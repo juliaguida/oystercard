@@ -47,16 +47,16 @@ and we need to move our image files and javascript into the public directory.  Y
 ├── app.rb
 ├── config.ru
 ├── public
-│   ├── images
-│   │   ├── lizard.png
-│   │   ├── paper.png
-│   │   ├── rock.png
-│   │   ├── scissors.png
-│   │   └── spock.png
-│   └── javascript
-│       ├── Game.js
-│       ├── Player.js
-│       └── app.js
+│   ├── images
+│   │   ├── lizard.png
+│   │   ├── paper.png
+│   │   ├── rock.png
+│   │   ├── scissors.png
+│   │   └── spock.png
+│   └── javascript
+│       ├── Game.js
+│       ├── Player.js
+│       └── app.js
 └── views
     └── index.erb
 

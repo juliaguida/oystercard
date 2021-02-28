@@ -14,7 +14,7 @@ This User Story is more complex than previous ones. It requires us to track HP, 
 
 In this challenge, you will create a `Player` class in the Model layer. It will interact with your existing controller code.
 
-### Challenge Setup
+### Challenge Setup
 
 We can imagine the layers of our program to be something like this:
 

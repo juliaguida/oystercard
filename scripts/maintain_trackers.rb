@@ -1,5 +1,5 @@
 #!/usr/bin/ruby
-# This script maintains all the generated endmatter.
+# This script maintains all the generated endmatter.
 # Like feedback links, etc.
 
 require "find"

@@ -69,7 +69,7 @@ Our project directory now looks like this:
 .
 └── battle
     ├── spec
-    │   └── spec_helper.rb
+    │   └── spec_helper.rb
     ├── .rspec
     ├── Gemfile
     ├── Gemfile.lock

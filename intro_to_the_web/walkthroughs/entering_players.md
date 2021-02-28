@@ -19,8 +19,8 @@ Let's add our first feature test within that directory:
 └── battle
     ├── spec
     │   ├── features
-    │   │   └── enter_names_spec.rb
-    │   └── spec_helper.rb
+    │   │   └── enter_names_spec.rb
+    │   └── spec_helper.rb
     ├── .rspec
     ├── Gemfile
     ├── Gemfile.lock

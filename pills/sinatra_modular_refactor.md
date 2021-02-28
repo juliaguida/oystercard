@@ -50,11 +50,11 @@ We would be better off splitting out our routes into separate ["controllers"](ht
 ```bash
 ├── app.rb
 ├── models
-│   └── # etc
+│   └── # etc
 ├── controllers
-│   ├── link.rb
-│   ├── session.rb
-│   └── user.rb
+│   ├── link.rb
+│   ├── session.rb
+│   └── user.rb
 └── views
     └── # etc
 

@@ -185,7 +185,7 @@ When working on a project though you will not have your specs side by side with 
 
 ````
       ├── lib
-      │   └── greeter.rb
+      │   └── greeter.rb
       └── spec
           └── greeter_spec.rb
 ````

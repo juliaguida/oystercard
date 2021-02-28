@@ -24,7 +24,7 @@
 
 #### Friday
 - 09:30 - Peer group check ins
-- 10:00 – End of unit challenge
+- 10:00 – End of unit challenge
 - 16:00 - Cohort Retrospective
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

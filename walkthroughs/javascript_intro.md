@@ -242,17 +242,17 @@ Given the above code laid out on the file system like so:
 ```sh
 .
 ├── javascript
-│   ├── SpecRunner.html
-│   ├── lib
-│   │   └── RockPaperScissors.js
-│   └── spec
-│       └── RockPaperScissorsSpec.js
+│   ├── SpecRunner.html
+│   ├── lib
+│   │   └── RockPaperScissors.js
+│   └── spec
+│       └── RockPaperScissorsSpec.js
 └── ruby
     ├── Gemfile
     ├── Gemfile.lock
     ├── demo.rb
     ├── lib
-    │   └── rock_paper_scissors.rb
+    │   └── rock_paper_scissors.rb
     └── spec
         └── rock_paper_scissors_spec.rb
 ```

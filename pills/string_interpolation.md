@@ -42,9 +42,9 @@ Ruby will throw an error:
 
 ````ruby
 		TypeError: no implicit conversion of Fixnum into String
-		        from (irb):2:in `+'
-		        from (irb):2
-		        from /Users/shadchnev/.rvm/rubies/ruby-2.0.0-p0/bin/irb:16:in `<main>'
+		        from (irb):2:in `+'
+		        from (irb):2
+		        from /Users/shadchnev/.rvm/rubies/ruby-2.0.0-p0/bin/irb:16:in `<main>'
 ````
 
 The reason is that Ruby can only combine strings, not strings and numbers. We could have got around it by converting the number into a string

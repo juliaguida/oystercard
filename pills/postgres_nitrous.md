@@ -2,7 +2,7 @@
 
 For the most part, you can follow the regular tutorial. If you run into issues, try the following:
 
-### Issues installing the `do_postgres` gem
+### Issues installing the `do_postgres` gem
 
 Try installing the Postgres 9.3 server development headers like this:
 

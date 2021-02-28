@@ -16,7 +16,7 @@ body {
 }
 ```
 
-Why was CSS designed type-first? At the time, desktop publishing was all about digital typesetting. HTML derives from structure-defining languages used for earlier digital typesetting in the 70s. CSS – designed to style HTML – therefore focussed first on type, fonts, colours: the written word.
+Why was CSS designed type-first? At the time, desktop publishing was all about digital typesetting. HTML derives from structure-defining languages used for earlier digital typesetting in the 70s. CSS – designed to style HTML – therefore focussed first on type, fonts, colours: the written word.
 
 Even though CSS now works with loads of different things – animations, responsive interfaces, image filters – its roots are in typography. When surprised by a peculiar design choice in CSS, the root is often "it works like it works because CSS is principally designed to work with text".
 
