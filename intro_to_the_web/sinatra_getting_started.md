@@ -20,7 +20,7 @@ For this challenge you will need a Gemfile listing Sinatra as a dependency.
 
 ### To complete this challenge, you will need to:
 
-- [ ] Create a project directory with the `sinatra` gem installed via a Gemfile
+- [ ] Create a project directory with the `sinatra` gem installed via a Gemfile (if you use Ruby > 3.0, make sure the gem `webrick` is also installed globally)
 - [ ] Create a file for your application, `app.rb`.
 - [ ] Require `sinatra` at the top of the file.
 - [ ] Run the app from the command line: `ruby app.rb`.
