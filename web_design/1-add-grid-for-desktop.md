@@ -10,7 +10,8 @@
 
 ## Requirements
 
-* Your code is practically pixel perfect compared to the design provided
+* Your code is practically pixel perfect compared to the design provided.
+* Everything, other than the lightest grey box, should be a fixed width.
 * All your styling is in a separate file to the html.
 
 ## Possible resources
