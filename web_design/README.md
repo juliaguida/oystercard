@@ -2,7 +2,7 @@
 
 ## Learning objectives
 
-* I can you build a fully styled responsive web page
+* I can build a fully styled responsive web page
 * I can pass design task tech tests
 
 ## Overview
