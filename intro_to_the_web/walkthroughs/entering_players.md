@@ -157,7 +157,30 @@ post '/names' do
 end
 ```
 
-Our tests pass! Now to refactor. Although our Ruby code is slim enough, our form kind of sucks: a user would have no way of knowing what to fill in. Let's add some `label` and `h1` elements to give a visiting user some more information:
+Our tests pass! RSpec is now happy, but maybe we'd also like to *see with our own eyes* the page displaying the players names. We can use Capybara's helper  `save_and_open_page`. It will take a "snapshot" of what the page looked like when running the test, so we can have a look at it inside the browser. Let's add `save_and_open_page` at the end of our test:
+
+```ruby
+# in spec/features/enter_names_spec.rb
+
+feature 'Enter names' do
+  scenario 'submitting names' do
+    visit('/')
+    fill_in :player_1_name, with: 'Charlotte'
+    fill_in :player_2_name, with: 'Mittens'
+    click_button 'Submit'
+    
+    save_and_open_page # will save the web page and open the browser to display it
+    
+    expect(page).to have_content 'Charlotte vs. Mittens'
+  end
+end
+```
+
+(We will also need to add the gem `launchy` to the project's Gemfile, and run `bundle install` to install it.)
+
+If we now run our test again, Capybara should automatically open the browser to display the snapshot of the page showing the player names - now, not only our tests pass, but we can also double check with our human eyes that the page correspond to what we expect!
+
+Now to refactor. Although our Ruby code is slim enough, our form kind of sucks: a user would have no way of knowing what to fill in. Let's add some `label` and `h1` elements to give a visiting user some more information:
 
 ```erb
 <!-- in index.erb -->
