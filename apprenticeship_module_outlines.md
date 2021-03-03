@@ -66,7 +66,7 @@ By the end of the module all developers can:
 Not everyone will get onto these and that's OK – there will be plenty more time to work on them.
 
 * Test drive a more complex application, with several classes that work together
-* Use doubles and stubs to isloate your unit tests
+* Use doubles and stubs to isolate your unit tests
 * Use static code analysis tools to gain insight into the quality of your code
 
 
