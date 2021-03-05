@@ -239,3 +239,7 @@ insta-rage
 Bache
 FTW
 visitable
+STIS
+Spectrograph
+superclass
+Mihai
