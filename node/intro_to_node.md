@@ -40,7 +40,7 @@ Here is a broad outline of what we hope to cover this week:
 * Feature testing with `webdriver-io`
 * Starting a web server with Express
 * Building an API with node
-* Consuming that API with JQuery
+* Consuming that API with jQuery
 
 ## Setting up your Node environment/starting a project
 

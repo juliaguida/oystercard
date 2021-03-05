@@ -1,4 +1,4 @@
-Introduction to JQuery
+Introduction to jQuery
 =====================
 
 [Video of session](https://www.youtube.com/watch?v=wQqzJo97cIU)

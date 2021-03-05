@@ -21,7 +21,7 @@
 * Use Jasmine to Test-Drive Development of a web page with JavaScript functionality
 * Use Jasmine in conjunction with jQuery
 
-## JQuery
+## jQuery
 * Know that jQuery is a JavaScript framework for working with the web
 * Explain some benefits of using jQuery above 'raw' JavaScript
 * Explain some common jQuery idioms, such as `$(document)ready();`

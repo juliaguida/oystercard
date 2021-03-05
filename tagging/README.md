@@ -1568,7 +1568,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
               </li>
               <li>
                 <a href="#c9ae424c-2d9f-43bd-af56-d0729c97e6e0">
-                  JQuery - handling events
+                  jQuery - handling events
                 </a>
               </li>
           </ul>
@@ -1590,7 +1590,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
         </td>
       </tr>
       <tr id="c9ae424c-2d9f-43bd-af56-d0729c97e6e0">
-        <td>JQuery - handling events</td>
+        <td>jQuery - handling events</td>
         <td>practical</td>
         <td>https://github.com/makersacademy/course/blob/master/pills/jquery_events.md</td>
         <td>16</td>
