@@ -8,14 +8,14 @@ So, now that we can write unit tests and automate various tasks, it's time to ta
 
 ##Testing with `webdriverio`
 
-To test, we will need some kind of programmable browser. These fall into two categories: browsers without a visual interface (headless, such as Capybara in Ruby) and with (head..ful? ...in most cases, this will be Selenium). For this walkthrough, we will be using `webdriverio`, which is based on Selenium (much like Protractor) and provides us with the ability to automate page navigation in a real browser.  
+To test, we will need some kind of programmable browser. These fall into two categories: browsers without a visual interface (headless, such as Capybara in Ruby) and with (headed, in most cases this will be Selenium). For this walkthrough, we will be using `webdriverio`, which is based on Selenium (much like Protractor) and provides us with the ability to automate page navigation in a real browser.  
 
 We will also be using Mocha (Node's most popular test harness) and Chai (an expectation library).  
 
 > __Why so many different packages?__    
-> As stated before, part of the Node philosophy is to have lots of small modules that do one thing well, and that can be easily combined and recombined. In this case, Mocha is a test harness/test runner, meaning that it only provides the ability to run tests, nothing more. Chai only provides expectations, such as "should", "assert" or "expect". You should already have a Selenium standalone server available from the Angular tutorial, but otherwise we can use a different package to acheive the same result: selenium-standalone. Webdriver, as stated above, simply provides more user-friendly bindings to write your tests with.
+> As stated before, part of the Node philosophy is to have lots of small modules that do one thing well, and that can be easily combined and recombined. In this case, Mocha is a test harness/test runner, meaning that it only provides the ability to run tests, nothing more. Chai only provides expectations, such as "should", "assert" or "expect". You should already have a Selenium standalone server available from the Angular tutorial, but otherwise we can use a different package to achieve the same result: selenium-standalone. Webdriver, as stated above, simply provides more user-friendly bindings to write your tests with.
 
-First of all: set up a new project with `npm init` (or adapt an exisiting one). Get Grunt set up with as much or little configuration as wanted - JSHint and watch are definitely recommended to speed up development. Then, we will need to install quite a few packages:
+First of all: set up a new project with `npm init` (or adapt an existing one). Get Grunt set up with as much or little configuration as wanted - JSHint and watch are definitely recommended to speed up development. Then, we will need to install quite a few packages:
 
 ```shell
 npm install --save-dev mocha
@@ -32,7 +32,7 @@ And finally, for Grunt:
 npm install --save-dev grunt-webdriver
 ```
 
-Configure your Gruntfile (the code below omits any other tasks you may have set up, make sure your syntax is valid when adding the `grunt-webdriver` task.
+Configure your `Gruntfile` (the code below omits any other tasks you may have set up, make sure your syntax is valid when adding the `grunt-webdriver` task.
 
 `Gruntfile.js`
 ```javascript
@@ -111,7 +111,7 @@ server.listen(3000, function(){
 module.exports = server;
 ```
 
-Check that everything is "working" (in other words, giving an expected error) by running `npm start` and pointing your browser at [http://localhost:3000](http://localhost:3000) - You should see something the lines of "Cannot GET /", which means that Express is up and running.
+Check that everything is "working" (in other words, giving an expected error) by running `npm start` and pointing your browser at [`http://localhost:3000`](http://localhost:3000) - You should see something the lines of "Cannot GET /", which means that Express is up and running.
 
 At this point, start a new Terminal/iTerm window - your server doesn't start automagically, so you will have to manually run it in the background to run tests (or maybe find a way to use Grunt...?)
 
@@ -152,7 +152,7 @@ Restart your server and run your test - it should go green!
 * [Chai](http://chaijs.com/)  
 * [Selenium](http://www.seleniumhq.org/)
 * [Webdriver](https://github.com/webdriverio/webdriverio)
-* [grunt-webdriver](https://github.com/webdriverio/grunt-webdriver)
+* [`grunt-webdriver`](https://github.com/webdriverio/grunt-webdriver)
 * [Video of Spike on Node Servers](https://www.youtube.com/watch?v=h5qyuyYIwt8) (slightly out of date, now that we use Selenium)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

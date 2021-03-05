@@ -49,7 +49,7 @@ Here's an overview of the schedule for talks this week:
 
 To get started learning test-driven JavaScript please work through the [Javascript & Jasmine Pill](../pills/javascript&JasminePill.md).
 
-Spend some time practicing more with the JavaScript syntax.  Use [Node](https://nodejs.org/) or the Google Chrome console as a [REPL](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) to create some objects and give them functions.  There are lots of 'learn JavaScript' resources out there, but the best way is to start writing your own code rather than just stepping through endless tutorials.
+Spend some time practising more with the JavaScript syntax.  Use [Node](https://nodejs.org/) or the Google Chrome console as a [REPL](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) to create some objects and give them functions.  There are lots of 'learn JavaScript' resources out there, but the best way is to start writing your own code rather than just stepping through endless tutorials.
 
 
 ## Stage 2 - Using Javascript to build the thermostat

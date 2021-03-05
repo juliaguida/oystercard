@@ -17,17 +17,17 @@
   * Bootstrapping the Node process
   * Handling for processes, OS streams, TTY
 * Core modules:
-  * Found in the lib/ folder
+  * Found in the `lib/` folder
   * Written in JavaScript, uses some native bindings through process.binding
-  * Includes: assert, buffer, dns, http and https, net, stream, timers
+  * Includes: `assert`, `buffer`, `dns`, `http` and `https`, `net`, `stream`, `timers`
 
 
 ## The module system
 
-* Load a file with var example = require('./example.js');
-  * The extension can be omitted: Node will try .js, .json, and then .node
+* Load a file with `var example = require('./example.js')`;
+  * The extension can be omitted: Node will try `.js`, `.json`, and then `.node`
   * This means you can load data from JSON files very easily, which is ideal for configuration files in web development
-* Modules are cached, so repeatedly requiring require('app.js') will return the same exported object
+* Modules are cached, so repeatedly requiring `require('app.js')` will return the same exported object
 * Modules have their own scope, so even though functions have global scope in JavaScript they'll only be available in the current file unless exported
 * Useful technique: folders as modules
 
@@ -103,16 +103,16 @@ $ node
 
 ### Globals
 
-* Log messages with console (console.log, console.error, console.trace)
-* Command-line arguments are in the process.argv array
-* Process object: process.exit(code), process.on('SIGHUP', cb)
+* Log messages with console (`console.log`, `console.error`, `console.trace`)
+* Command-line arguments are in the `process.argv` array
+* Process object: `process.exit(code)`, `process.on('SIGHUP', cb)`
 
 ### Buffers
 
 * Handle binary data
 * A Buffer is a bit like an array of integers but uses raw memory outside the V8 heap
 * Convert between different encodings
-* ascii, utf8, utf16le, base64, hex
+* `ascii`, `utf8`, `utf16le`, `base64`, `hex`
 
 Example:
 
@@ -122,10 +122,10 @@ var encoded = buf.toString('base64');
 ```
 ### Events
 
-* The 'events' module provides the EventEmitter class
-* Create instances of EventEmitter to act as message buses
-* Inherit from EventEmitter to make  your own event handling classes
-* Several important objects are based on EventEmitter for networking and file system operations
+* The 'events' module provides the `EventEmitter` class
+* Create instances of `EventEmitter` to act as message buses
+* Inherit from `EventEmitter` to make  your own event handling classes
+* Several important objects are based on `EventEmitter` for networking and file system operations
 * Idiom: Event names are written in camelCase
 * Idiom: Emitting 'error' events causes an exception to be raised if there's no listener
 * Idiom: Lots of things use events which is useful for architecture: for example, the Express "app" object
@@ -146,9 +146,9 @@ messageBus.emit('notify');
 
 * An object that represents a stream of values
 * Can be readable, writable, or both
-* They're best learned by practicing
+* They're best learned by practising
   * Try Stream Adventure https://github.com/substack/stream-adventure
-* All stream objects inherit from EventEmitter
+* All stream objects inherit from `EventEmitter`
 * You'll find them in the networking API, HTTP API, and file system
 * In Express, the request object is a stream, which means you can stream POST data (from forms, file uploads, etc.)
 * The stream API is simple to use, but it's hard to actually write stream classes yourself

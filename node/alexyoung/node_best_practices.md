@@ -2,11 +2,11 @@
 
 * When creating your own asynchronous functions...
   * Error first callback interface
-    * module.exports = function(err, cb) {};
+    * `module.exports = function(err, cb) {};`
 * When using asynchronous functions
   * Check for errors in your callbacks!
     * if (err) console.error('Error in X:', err); // and return early, etc.
-* Wrap asynchronous operations in process.nextTick when returning EventEmitters
+* Wrap asynchronous operations in `process.nextTick` when returning `EventEmitters`
 * For teams:
   * Stick to a style guide. We used the Google JavaScript style guide for Node.js in Practice
 * Small modules
@@ -41,7 +41,7 @@ readThisFile().on('data', function(data) {
 }
 ```
 
-1. Use process.nextTick to execute something on the next cycle of the event loop. This allows the asynchronous code to run after you've returned the EventEmitter instance
+1. Use `process.nextTick` to execute something on the next cycle of the event loop. This allows the asynchronous code to run after you've returned the `EventEmitter` instance
 2. Check for errors in the callback and handle it
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

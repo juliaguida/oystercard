@@ -9,7 +9,7 @@ There are 3 main reasons for having a smaller Review halfway through the course.
 
 1. Feedback from students indicated that it was tough to start and finish aportfolio all at the end of the course - so spreading this reflective work over the course makes sense, and has the advantage that it should push you even more to think of your goals when you're prioritising what to learn.
 
-2. By starting the portfolio early and then practicing a Review, you're more likely to be confident and practiced for the Review you'll take when you feel you've achieved the course goals.
+2. By starting the portfolio early and then practising a Review, you're more likely to be confident and practiced for the Review you'll take when you feel you've achieved the course goals.
 
 3. You are responsible for having an answer to the question 'Am I on track to passing my Review at the end of the course?' The W6 Review should be a high-quality data point you can use to assess and/or improve your learning process.
 
