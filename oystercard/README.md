@@ -99,7 +99,7 @@ I need to have the correct fare calculated
 
 ## Add touch in/out functionality:
   8. [Add touch in/out support](08_touch_in_out.md)
-  9. [Checking mininum balance on touch in](09_min_balance_on_touch_in.md)
+  9. [Checking minimum balance on touch in](09_min_balance_on_touch_in.md)
   10. [Charging for the journey](10_charge_on_touch_out.md)
 
 ## Record the journeys

@@ -2,7 +2,7 @@ This challenge is concerned with updating an object's internal state in a contro
 
 - [ ] Write a test for the `top_up` method
 
-As always, let's start off in the 'Red' phase of our tdd cycle, and write a failing test:
+As always, let's start off in the 'Red' phase of our TDD cycle, and write a failing test:
 
 ``` ruby
 describe Oystercard do
@@ -30,7 +30,7 @@ Failures:
        expected #<Oystercard:0x007f8bf29fd8e8 @balance=0> to respond to :top_up with 1 argument
      # ./spec/oystercard_spec.rb:10:in `block (3 levels) in <top (required)>'
 ```
-In oder to make this test pass we need a method by the name of `top_up` that accepts 1 argument:
+In order to make this test pass we need a method by the name of `top_up` that accepts 1 argument:
 
 ```
 class Oystercard

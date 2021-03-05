@@ -23,7 +23,7 @@ When you try to run RSpec without having the class, you should get this error:
   from /Users/shadchnev/.rvm/gems/ruby-2.2.2/bin/ruby_executable_hooks:15:in `<main>'
 ```
 
-This is called a `stack trace`. It may look intimidating but actually it's very helpful. It shows all the files Ruby was running before it encountered an error. This usually helps you to understand what was happenening before the error occurred.
+This is called a `stack trace`. It may look intimidating but actually it's very helpful. It shows all the files Ruby was running before it encountered an error. This usually helps you to understand what was happening before the error occurred.
 
 Read it from top to the bottom. The first line
 
@@ -31,9 +31,9 @@ Read it from top to the bottom. The first line
 /Users/shadchnev/dev/oystercard/spec/oystercard_spec.rb:1:in `<top (required)>': uninitialized constant Oystercard (NameError)
 ```
 
-tells us the name of the file including the path (/Users/shadchnev/dev/oystercard/spec/oystercard_spec.rb), the line number (1), the type of the error (NameError) and a more specific message (uninitialized constant Oystercard). Ignore the `<top (required)>` bit for a moment.
+tells us the name of the file including the path (`/Users/shadchnev/dev/oystercard/spec/oystercard_spec.rb`), the line number (1), the type of the error (NameError) and a more specific message (uninitialised constant Oystercard). Ignore the `<top (required)>` bit for a moment.
 
-NameError basically means that Ruby encountered a name of something it doesn't recognise. The specific message tells us that the problem is that the constant `Oystercard` is not initialized. Although Ruby refers to it as a constant, you know that Oystercard should be a class (there's a longer story here but let's keep it simple for now). So, by now you know that the code on the first line of `oystercard_spec.rb` referenced the Oystercard class but Ruby has no idea where to find it.
+NameError basically means that Ruby encountered a name of something it doesn't recognise. The specific message tells us that the problem is that the constant `Oystercard` is not initialised. Although Ruby refers to it as a constant, you know that Oystercard should be a class (there's a longer story here but let's keep it simple for now). So, by now you know that the code on the first line of `oystercard_spec.rb` referenced the Oystercard class but Ruby has no idea where to find it.
 
 The other lines in the stack trace show how Ruby got to the `oystercard_spec.rb`. You can tell from the paths (`/Users/shadchnev/.rvm/gems/ruby-2.2.2/gems/rspec-core-3.3.2`) that Ruby was in files outside your project, specifically inside RSpec files themselves. In case of really tricky errors this may be useful – you have the option of going inside RSpec (and other gems) to see what's going on under the hood but don't do it just yet. For now, just ignore all files that don't belong to your project.
 

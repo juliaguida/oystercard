@@ -4,7 +4,7 @@
 
 So that was fun - we now have a simple station class that can hold information about a station's zone, and a journey class holding the state of each individual journey. We also saw how to extract 1 class into 2 classes, using our tests as a scaffold. Now let's have another look at our Oystercard class and make some improvements. Currently our Oystercard has two responsibilities: maintaining a balance through touch in/out and recording a journey history. We should be following Single Responsibility Principle, so we still have some refactoring to do.
 
-Let's extract a JourneyLog class. It should be responsible for starting a journey, ending a journey and returning a list of journeys.
+Let's extract a `JourneyLog` class. It should be responsible for starting a journey, ending a journey and returning a list of journeys.
 
 ## Learning Objectives covered
 - [ ] Define Dependency Inversion as one of the SOLID principles.
@@ -13,7 +13,7 @@ Let's extract a JourneyLog class. It should be responsible for starting a journe
 - [ ] Describe one of the SOLID principles.
 
 ## To complete this challenge:
-- [ ] Write up a plan for how you will interact with your code and manually test in IRB.
+- [ ] Write up a plan for how you will interact with your code and manually test in `IRB`.
 - [ ] test drive the development of `JourneyLog` class
 - [ ] Initialise the `JourneyLog` with a `journey_class` parameter (hint: `journey_class` expects an object that knows how to create `Journey`s.  Can you think of an object that already does this?)
 - [ ] `#start` should start a new journey with an entry station

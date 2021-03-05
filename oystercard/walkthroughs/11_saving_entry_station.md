@@ -22,7 +22,7 @@ end
 - [ ] Update existing tests to pass a station to the `touch_in` method - you may need to declare your double in a `let` statement at the top of your describe block
 - [ ] Expose `entry_station` instance variable using an attribute reader
 
-Some of your tests will fail - go through them and fix them one-by-one, then continue writing code to get 'stores the entry station' test to pass - you will need to update the `@entry_station` variable, and add a public attr_reader.
+Some of your tests will fail - go through them and fix them one-by-one, then continue writing code to get 'stores the entry station' test to pass - you will need to update the `@entry_station` variable, and add a public `attr_reader`.
 
 - [ ] when your tests are all green, refactor to remove the `in_journey` variable. Rewrite the `in_journey?` method to infer its status based on whether or not there is an entry station
 

@@ -83,9 +83,9 @@ We are now in the second phase of the `Red Green Refactor` cycle. This is often 
 
 ## Phase 3 - Refactor
 
-- [ ] Remove the balance method entirely and replace with an attr_reader
+- [ ] Remove the balance method entirely and replace with an `attr_reader`
 
-So we have solved the problem of the initial balance - however the issue is asking for more. It is looking for an attr_reader to allow access to the instance variable. Note that conventionally an attr_reader/writer/accessor is placed at the top of the class:
+So we have solved the problem of the initial balance - however the issue is asking for more. It is looking for an `attr_reader` to allow access to the instance variable. Note that conventionally an `attr_reader`/`attr_writer`/`attr_accessor` is placed at the top of the class:
 
 ``` ruby
 class Oystercard
@@ -95,7 +95,7 @@ class Oystercard
 end
 
 ```
-That's fine, but if we run RSpec, our test is broken again. This is the reason we get a green test before we refactor - we now need to ensure that the test stays green as we make changes. The test becomes a scaffold for our refactor. Let's fix the test by initializing an oyster card with a balance of zero:
+That's fine, but if we run RSpec, our test is broken again. This is the reason we get a green test before we refactor - we now need to ensure that the test stays green as we make changes. The test becomes a scaffold for our refactor. Let's fix the test by initialising an oyster card with a balance of zero:
 
 ``` ruby
 class Oystercard

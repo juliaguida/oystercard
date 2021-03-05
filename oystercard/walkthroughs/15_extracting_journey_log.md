@@ -1,4 +1,4 @@
-- [ ] test drive the development of JourneyLog class
+- [ ] test drive the development of `JourneyLog` class
 - [ ] use dependency injection to inject a journey_class
 ```ruby
 class JourneyLog
@@ -48,7 +48,7 @@ end
 - [ ] `#finish` should add an exit station to the `current_journey`.  It should also set the current_journey to `nil` - can you reason why?  Discuss this with your pair partner.
 - [ ] `#journeys` should return a list of all previous journeys without exposing the internal array to external modification
 
-The issue with using attr_reader to access an instance variable that is an Array (or other more complex type), is that the attr_reader _returns the actual object_.  Once you have the actual object, you can call any of its methods and potentially change its state in a way that is not consistent with the rules of your domain.  This is very bad.  In the case of an array, you can prevent this by returning a _copy_ of the object using `.dup` like so:
+The issue with using `attr_reader` to access an instance variable that is an Array (or other more complex type), is that the `attr_reader` _returns the actual object_.  Once you have the actual object, you can call any of its methods and potentially change its state in a way that is not consistent with the rules of your domain.  This is very bad.  In the case of an array, you can prevent this by returning a _copy_ of the object using `.dup` like so:
 ```ruby
 def journeys
   @journeys.dup
@@ -57,7 +57,7 @@ end
 
 - [ ] remove redundant code from OysterCard class
 
-Your Oystercard should now only send messages to the JourneyLog. Although it does pass instances of station around, station is never aware of OysterCard's existence. OysterCard should never communicate directly with Journey.
+Your Oystercard should now only send messages to the `JourneyLog`. Although it does pass instances of station around, station is never aware of OysterCard's existence. OysterCard should never communicate directly with Journey.
 
 [Next challenge](../16_fare_for_zones.md)
 

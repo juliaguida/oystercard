@@ -35,7 +35,7 @@ Failures:
 
 - [ ] Implement the method, see the test pass
 
-Now we are being driven to actually implement our functionality. This is very similar to the the top_up method:
+Now we are being driven to actually implement our functionality. This is very similar to the top_up method:
 
 ```ruby
 def deduct(amount)
