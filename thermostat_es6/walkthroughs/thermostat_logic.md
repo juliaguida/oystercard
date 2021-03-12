@@ -382,10 +382,14 @@ If I were a fortune teller, I would gaze into my crystal ball and tell you that 
 
 'use strict';
 
-function Thermostat() {
-  // Other properties omitted for brevity
-  this.MAX_LIMIT_PSM_ON = 25;
-  this.MAX_LIMIT_PSM_OFF = 32;
+class Thermostat {
+  constructor() {
+    // Other properties omitted for brevity
+    this.MAX_LIMIT_PSM_ON = 25;
+    this.MAX_LIMIT_PSM_OFF = 32;
+  }
+
+  // ...
 }
 ```
 
@@ -460,10 +464,16 @@ Besides that, in terms of maintenance, if we decide the default temperature is g
 ```javascript
 // src/thermostat.js
 
-constructor {
-  // Other properties omitted for brevity
-  this.DEFAULT_TEMPERATURE = 20;
-  this.temperature = this.DEFAULT_TEMPERATURE;
+'use strict';
+
+class Thermostat {
+  constructor() {
+    // Other properties omitted for brevity
+    this.DEFAULT_TEMPERATURE = 20;
+    this.temperature = this.DEFAULT_TEMPERATURE;
+  }
+
+  // ...
 }
 ```
 
@@ -524,10 +534,14 @@ Bearing in mind that we're saying 'anything else' temperature-wise is going to c
 ```javascript
 // src/thermostat.js
 
-constructor {
-  // Other properties omitted for brevity
-  this.MEDIUM_ENERGY_USAGE_LIMIT = 18;
-  this.HIGH_ENERGY_USAGE_LIMIT = 25;
+class Thermostat {
+  constructor() {
+    // Other properties omitted for brevity
+    this.MEDIUM_ENERGY_USAGE_LIMIT = 18;
+    this.HIGH_ENERGY_USAGE_LIMIT = 25;
+  }
+
+  // ...
 }
 ```
 
