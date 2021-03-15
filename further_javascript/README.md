@@ -20,7 +20,7 @@ By the end of the week your goal is to be able to say:
 
 ## Structure of the week
 
-You'll work in unchanging **teams of about four** every afternoon for the whole week. Mornings will be focused on self-directed learning.
+You'll work in unchanging **teams of about four** every afternoon for the whole week.
 
 You'll **implement user stories** for a note-taking app.  No challenges, no walkthroughs.
 
