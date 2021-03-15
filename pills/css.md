@@ -25,7 +25,7 @@ CSS proposed splitting the presentation layer from the HTML structure. Nowadays,
 
 ```html
 <head>
-   <link rel="stylesheet" src="stylesheets/desktop_styles.css" />
+   <link rel="stylesheet" href="stylesheets/desktop_styles.css" />
 </head>
 ```
 > What does 'rel' stand for? Why is it used here? Can it be used anywhere else in HTML?
