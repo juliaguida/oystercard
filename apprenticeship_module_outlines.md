@@ -165,7 +165,7 @@ If you need to spend more time working on these things, now is the time!
 
 ### This module's main goals
 
-By the end of the module all developers who focus on OOD this wee can:
+By the end of the module all developers who focus on OOD this week can:
 * Review another person's code and learn from what they read
 * Review another person's code and give them meaningful feedback
 * Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
