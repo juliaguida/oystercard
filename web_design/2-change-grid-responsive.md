@@ -5,8 +5,9 @@
 ## Steps
 
 1. In html and css only, recreate the above design for a mobile viewport.
-2. Deploy it.
-3. [Complete review request form](https://airtable.com/shrPYZwx2GoE4h3Um).
+2. Also ensure the design works gracefully for a tablet sized viewport (design not provided).
+3. Deploy it.
+4. [Complete review request form](https://airtable.com/shrPYZwx2GoE4h3Um).
 
 ## Requirements
 
