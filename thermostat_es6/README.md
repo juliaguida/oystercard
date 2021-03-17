@@ -51,19 +51,19 @@ Return to these questions each day to check your understanding.
 
 ## The Count projects
 
-The [Count](https://github.com/maryrosecook/count) project is a tiny, model full stack web app.  It exemplifies:
+The [Count](https://github.com/alicelieutier/count) project is a tiny, model full stack web app.  It exemplifies:
 
 * Making Ajax requests.
 * Testing frontend code.
 * Separating frontend concerns into model, view and controller.
 
-Here's the simple [Count project rewritten in ES6](https://github.com/dearshrewdwit/count). It exemplifies:
+Here's a different [Count project](https://github.com/dearshrewdwit/count). It exemplifies:
 * Making Ajax requests using fetch.
 * Separating frontend concerns using a component approach
 * Testing frontend code.
 * Testing controller responses.
 
-It's very worthwhile spending time investigating and playing with the code in these projects to understand how they work.
+It's worthwhile spending time investigating and playing with the code in these projects to understand how they work.
 
 ## Challenges
 
