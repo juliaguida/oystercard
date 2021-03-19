@@ -38,21 +38,16 @@ Head back to `http://localhost:4567/secret`: it now works! But restarting the se
 
 What we've been doing is restarting our server every time we made a change to the files because Sinatra needed to reload them. There's a way to reload the files without restarting the entire process.
 
-Firstly, install a gem called **Shotgun** within this project. You already know how to require and install gems.
+Firstly, install a gem called `sinatra-contrib` within this project. You already know how to require and install gems. Next, ensure you begin your file like this:
 
-Secondly, load your application like this:
+```
+require "sinatra"
+require "sinatra/reloader" if development?
+```
 
-`$ shotgun app.rb -p 4567`
+The `if development?` ensures that the auto-reloading only happens in development mode. This is important for real projects, because auto-reloading makes the server slower.
 
-The `-p` switch tells shotgun what port to use. Use this switch to keep the port consistent with the default Sinatra port. By default shotgun will use port 9393.
-
-If you see a "Boot Error" when you're starting the application using shotgun, double check that you have required the _Sinatra_ gem in the `Gemfile`, and have run `bundle install` afterwards.
-
-> What does `bundle install` do? Are there any other uses for `bundle`?
-
-Assuming that you get Shotgun working you can now make changes to your `app.rb` file and see the changes with a simple browser refresh.  Try adjusting the strings in the `do ... end` blocks and reload the browser.
-
-Shotgun works by reloading your entire application on every request. While this is very convenient for our development process, it might cause problems down the line with the way Sinatra secures session data (you will learn about this in a later challenge). To avoid this pitfall, we should add the line `set :session_secret, 'super secret'` to our `app.rb` file. What this is doing is beyond the scope of this challenge, but go [here](https://groups.google.com/forum/#!topic/sinatrarb/pUFSoyQXyQs) if you're interested.
+You can now make changes to your `app.rb` file and see the changes with a simple browser refresh.  Try adjusting the strings in the `do ... end` blocks and reload the browser.
 
 Webpages that return strings are kind of boring. Next up, let's add some [HTML](pills/html.md) to the mix.
 

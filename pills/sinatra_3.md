@@ -35,21 +35,18 @@ Head back to _http://localhost:4567/secret_: it now works! But restarting the se
 
 What we've been doing is restarting our server every time we made a change to the files because Sinatra needed to reload them. There's a way to reload the files without restarting the entire process.
 
-Firstly, install a gem called **Shotgun** within this project. You already know how to require and install gems.
+Firstly, install a gem called `sinatra-contrib` within this project. You already know how to require and install gems. Next, ensure you begin your file like this:
 
-Secondly, load your application like this:
+```
+require "sinatra"
+require "sinatra/reloader" if development?
+```
 
-`$ shotgun hello.rb -p 4567`
+The `if development?` ensures that the autoreloading only happens in development mode. This is important for real projects, because it makes the server slower.
 
-The `-p` switch tells shotgun what port to use. Use this switch to keep the port consistent with the default Sinatra port. By default shotgun will use port 9393.
+You can now make changes to your `app.rb` file and see the changes with a simple browser refresh.  Try adjusting the strings in the `do ... end` blocks and reload the browser.
 
-If you see a "Boot Error" when you're starting the application using shotgun, double check that you have required the _sinatra_ gem in the `Gemfile`, and have run `bundle install` afterwards.
-
-> What does `bundle install` do? Are there any other uses for `bundle`?
-
-Assuming that you get Shotgun working you can now make changes to your `hello.rb` file and see the changes with a simple browser refresh.  Try adjusting the strings in the `do ... end` blocks and reload the browser.
-
-Next up, let's add some [HTML](html.md) to the mix.
+Webpages that return strings are kind of boring. Next up, let's add some [HTML](pills/html.md) to the mix.
 
 [Go to part 4](sinatra_4.md)
 

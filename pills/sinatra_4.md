@@ -6,6 +6,7 @@ Behind the scenes, Sinatra was actually sending "hello" as an [HTML](html.md) fi
 
 ````ruby
 require 'sinatra'
+require 'sinatra/reloader' if development?
 
 get '/' do
   "<div>
@@ -14,7 +15,7 @@ get '/' do
 end
 ````
 
-Now go to the webpage at the `localhost` address and check out the fruits of your labour. If the page isn't showing as you expect - are you using Shotgun?
+Now go to the webpage at the `localhost` address and check out the fruits of your labour. If the page isn't showing as you expect - are you using `Sinatra::Reloader`?
 
 ![alt text](images/sinatra/sinatra_basic_4.png)
 
@@ -26,6 +27,8 @@ CSS stands for Cascading Style Sheets. It's a language that describes what HTML 
 
 ````ruby
 require 'sinatra'
+require 'sinatra/reloader' if development?
+
 get '/' do
   "<div style='border: 3px dashed red'>
      <img src='http://bit.ly/1eze8aE'>
