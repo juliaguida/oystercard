@@ -1,7 +1,11 @@
 require 'sinatra/base'
+require 'sinatra/reloader'
 require_relative './lib/player'
 
 class SessionsExample < Sinatra::Base
+  configure :development do
+    register Sinatra::Reloader
+  end
 
   game = Game.new
 

@@ -8,28 +8,28 @@ __Sources:__
 
 ###General Notes
 
-* This walkthrough describes the steps for deployment of simple client-side 
-apps on [Github](https://github.com) using the [Github-io](https://pages.github.com) 
+* This walkthrough describes the steps for deployment of simple client-side
+apps on [Github](https://github.com) using the [Github-io](https://pages.github.com)
 (aka [Github-Pages](https://pages.github.com)) server system.
 
 * If your project requires only [HTML](http://en.wikipedia.org/wiki/HTML) pages,
-  [CSS](http://www.w3schools.com/css/css3_intro.asp), 
-  [Javascript](http://en.wikipedia.org/wiki/JavaScript), and it's various derivatives 
+  [CSS](http://www.w3schools.com/css/css3_intro.asp),
+  [Javascript](http://en.wikipedia.org/wiki/JavaScript), and it's various derivatives
   like [jQuery](http://jquery.com), this is a great (and free!) way to deploy it.
 
-* One main advantages of using Github's deployment platform is that 
-  the process is much less opeque and debugging in case 
-  of a faliure is much easier. Another advantage is upload speed since Github pages 
-  typically become available fairly quickly 
+* One main advantages of using Github's deployment platform is that
+  the process is much less opeque and debugging in case
+  of a faliure is much easier. Another advantage is upload speed since Github pages
+  typically become available fairly quickly
   (unlike Heroku which tends to be somewhat slow in this respect).  
 
-* Text in ALL_CAPITALS_AND_UNDERSCORES indicated a __placeholder__ for your own text 
+* Text in ALL_CAPITALS_AND_UNDERSCORES indicated a __placeholder__ for your own text
 
 
 ###Initial Preparation
 
-If you want to keep things really simple, you can create a single, `HTML` file 
-that will combine the content of the entire project, that is: `HTML` content, 
+If you want to keep things really simple, you can create a single, `HTML` file
+that will combine the content of the entire project, that is: `HTML` content,
 `CSS` styling &amp; `JavaScript` scripts, like so:
 
 ```html
@@ -51,10 +51,10 @@ that will combine the content of the entire project, that is: `HTML` content,
 </html>
 ```
 
-Alternatively, you can use separate `HTML`, `CSS` &amp; `JavaScript` files 
+Alternatively, you can use separate `HTML`, `CSS` &amp; `JavaScript` files
 as usual and without any alternation.
 
-Either way, before moving forward, check that all the content is there working 
+Either way, before moving forward, check that all the content is there working
 as it should by opening the app's `HTML` file in the browser:
 
 ```bash
@@ -64,10 +64,10 @@ $> open ./APP_NAME.html
 
 ###Cloning the Remote Repo
 
-Make sure your remote repo is syncronized with the local one, and then 
+Make sure your remote repo is syncronized with the local one, and then
 __clone the remote repo to a new location in your file system__
-(this is a safety measure to make sure the original 
-local repo remains untouched in case something goes wrong during the deployment 
+(this is a safety measure to make sure the original
+local repo remains untouched in case something goes wrong during the deployment
 process):
 
 ```bash
@@ -90,31 +90,30 @@ $> git checkout --orphan gh-pages
 => Switched to a new branch 'gh-pages'
 ```
 
-Note that at this point the new branch, `gh-pages`, will not show on the 
-branches list when running 'git branch'. Even so, notice that `master` no longer 
+Note that at this point the new branch, `gh-pages`, will not show on the
+branches list when running 'git branch'. Even so, notice that `master` no longer
 shows as the active branch (i.e. neither marked with an * nor coloured green).
 
 
 ###Editing the New Branch
 
-If you've been using a [Sinatra](http://www.sinatrarb.com/) server, 
-the [shotgun](https://github.com/rtomayko/shotgun) gem and all the files 
-typically used for development (`config.ru`, `Gemfile`, etc.), they all need to 
-be removed (that's the main reason why we __cloned__ our original 
+If you've been using a [Sinatra](http://www.sinatrarb.com/) server, all the files
+typically used for development (`config.ru`, `Gemfile`, etc.), they all need to
+be removed (that's the main reason why we __cloned__ our original
 repo to the new location).
 
-In the new branch, leave only your `HTML`, `CSS` &amp; `JavaScript` files 
+In the new branch, leave only your `HTML`, `CSS` &amp; `JavaScript` files
 (or just the single `HTML` file if that's what you're using).
 
 Once again, check that everything works locally.
 
-It is also a good idea to keep your `README.md` file (this will 
+It is also a good idea to keep your `README.md` file (this will
 make no difference to the diployment process).
 
 
 ###Pushing the Project Page
 
-Once the cleanup is done, stage, commit and push the new branch 
+Once the cleanup is done, stage, commit and push the new branch
 to the Github remote:
 
 Take care to push to the __`gh-pages`__ branch and not to `master`!
@@ -125,7 +124,7 @@ $> git commit -m "First gh-pages commit"
 $> git push origin gh-pages
 ```
 
-After the first push, it may take up to ten minutes before the new GitHub page 
+After the first push, it may take up to ten minutes before the new GitHub page
 becomes available.
 
 
@@ -146,7 +145,7 @@ Go back to the original local repo and pull the new branch:
 $> git fetch origin gh-pages:gh-pages
 ```
 
-If everything went well, delete the folder containing the cloned repo and 
+If everything went well, delete the folder containing the cloned repo and
 you're done.
 
 That's it :-)

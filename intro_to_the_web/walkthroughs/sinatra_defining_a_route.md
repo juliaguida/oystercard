@@ -10,6 +10,7 @@ Now, let's make it happen. Create a new file `app.rb` and type the following:
 
 ````ruby
 require 'sinatra'
+require "sinatra/reloader" if development?
 
 get '/' do
   'hello!'
@@ -40,6 +41,7 @@ Let's take a look at our code again.
 
 ````ruby
 require 'sinatra'
+require "sinatra/reloader" if development?
 
 get '/' do
   'hello!'

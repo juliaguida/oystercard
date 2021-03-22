@@ -43,7 +43,7 @@ and install using [bundler](bundler.md) :pill::
 
 `$ bundle install`
 
-There are two advantages to this approach. Firstly, you'll be keeping a record of what gems are used in the project for other developers to see. Secondly, it will help Shotgun (we'll discuss it in a minute) to load Sinatra.
+In this way you'll be keeping a record of what gems are used in the project for other developers to see. This is important when there are hundreds!
 
 Once you have installed Sinatra, you are ready to create a web-accessible _Hello World_ application. Let's do that now.
 
