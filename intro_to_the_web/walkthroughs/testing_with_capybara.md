@@ -2,7 +2,7 @@
 
 ### Setup
 
-As instructed on the [Capybara Workout site](https://capybaraworkout.herokuapp.com/),
+As instructed on the [Capybara Workout site](https://capybara-workout.herokuapp.com/),
 create a Gemfile listing the following dependencies:
 
 ```ruby
