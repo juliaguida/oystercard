@@ -19,14 +19,11 @@
 * Use Jasmine to Test-Drive Development
 * Use Jasmine to Test-Drive Development of a thermostat
 * Use Jasmine to Test-Drive Development of a web page with JavaScript functionality
-* Use Jasmine in conjunction with jQuery
+* Use Jasmine in conjunction with the DOM
 
-## JQuery
-* Know that jQuery is a JavaScript framework for working with the web
-* Explain some benefits of using jQuery above 'raw' JavaScript
-* Explain some common jQuery idioms, such as `$(document)ready();`
-* Use jQuery to build interactive functionality into a webpage
-* Use jQuery to interact with an API via AJAX
+## DOM and Fetch APIs
+* Use DOM functions to build interactive functionality into a webpage
+* Use Fetch to interact with an API
 
 ## CSS
 * Use some more advanced CSS
@@ -40,7 +37,7 @@
 ## APIs
 * Define 'API' as 'Application Programming Interface'
 * Link the concept of 'routes' and 'API endpoints'
-* Use jQuery and AJAX to communicate with an API
+* Use Fetch and AJAX to communicate with an API
 * Build a simple API
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

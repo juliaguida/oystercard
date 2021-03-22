@@ -73,7 +73,7 @@ You'll revisit some familiar exercises to map the knowledge you learnt in the fi
 
 ### Thermostat
 
-You'll then build the business logic to model a simple thermostat, and learn to hook it up to a dynamic visual interface using jQuery - all within the browser. Finally, you'll use JavaScript to fetch data from external sources and display that on the page - again, all right from the page. Underpinning all this will be a new testing framework to help you test-drive your JavaScript code - Jasmine.
+You'll then build the business logic to model a simple thermostat, and learn to hook it up to a dynamic visual interface using the browser's DOM functions - all within the browser. Finally, you'll use JavaScript to fetch data from external sources and display that on the page - again, all right from the page. Underpinning all this will be a new testing framework to help you test-drive your JavaScript code - Jasmine.
 
 ## Challenges
 
@@ -83,7 +83,7 @@ You'll then build the business logic to model a simple thermostat, and learn to 
 * [Airport in JavaScript](airport_challenge_js.md)
 * [Thermostat: business logic](thermostat_logic.md)
 * [Thermostat: interface](interface.md)
-* [Thermostat: jQuery](jquery.md)
+* [Thermostat: The DOM](dom.md)
 * [Thermostat: APIs](apis.md)
 * [Thermostat: styling](styling.md)
 * [Thermostat: saving state](saving_state.md)

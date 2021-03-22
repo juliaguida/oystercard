@@ -14,15 +14,15 @@ Add a feature to display the weather in a city selected by the user.
 
 ### To complete this challenge, you will need to:
 
-- [ ] Use a jQuery AJAX call to get the weather information for London from a weather API.  Display the weather information to the user.
+- [ ] Use the Fetch API to get the weather information for London from a weather API. Display the weather information to the user.
 - [ ] Add further functionality so that the user can select their current city and the weather provided is for the selected city.
 
 ### Resources
 
 - [Open Weather Map API](https://openweathermap.org/api)
-- [Learn jQuery: AJAX](https://learn.jquery.com/ajax/)
-- [MDN documentation on AJAX](https://developer.mozilla.org/en-US/docs/AJAX)
-- [jQuery shortcut methods](http://api.jquery.com/category/ajax/shorthand-methods/)
+- [Learn about AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+- [MDN documentation on Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+- [Learn about Fetch on javascript.info](https://javascript.info/fetch)
 
 ### [Walkthrough](walkthroughs/apis.md)
 
