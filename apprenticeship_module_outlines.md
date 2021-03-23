@@ -284,7 +284,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 |                       | [Birthday][birthday]                                 |                          |
 | REST                  | [REST Game][rest]                                    | [Comedy API][comedy_api] |
 
-[capybara_workout]: https://capybaraworkout.herokuapp.com/
+[capybara_workout]: https://capybara-workout.herokuapp.com/
 [servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md
 [clients]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md
 [http_servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md
