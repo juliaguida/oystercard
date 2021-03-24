@@ -20,7 +20,7 @@ By the end of this challenge, you should see (in your browser) something like th
 ### To complete this challenge, you will need to:
 
 - [ ] Define a new route, called `get '/cat'`.
-- [ ] Using this image: https://imgur.com/a/McEaXNF, return an HTML string from the route that displays a cat photograph surrounded by a red dashed border.
+- [ ] Using this image: https://i.imgur.com/jFaSxym.png, return an HTML string from the route that displays a cat photograph surrounded by a red dashed border.
 
 ### Resources
 
