@@ -76,10 +76,6 @@ Watch a [short video](https://www.youtube.com/watch?v=TqKG8j_tgbM) explaining wh
 * [Afternoons - Oystercard](https://github.com/makersacademy/course/tree/master/oystercard)
 * [End of unit - Takeaway](https://github.com/makersacademy/takeaway-challenge)
 
-### Projects
-
-* [Gilded Rose Design Project](https://github.com/makersacademy/gilded_rose_design_project) — your coach will introduce this if you'll be doing it in your cohort.
-
 ### Practicals
 
 * [Testing behaviour over testing state](https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/behaviour_not_state.md)
