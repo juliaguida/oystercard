@@ -32,7 +32,7 @@ class Greeting {
 And to use it:
 
 ```javascript
-var greeting = new Greeting();
+const greeting = new Greeting();
 greeting.hello('Maker'); // 'Hello, Maker!'
 
 /*
@@ -72,6 +72,17 @@ And to use it:
 hi('Jenny'); // 'Hi, Jenny!'
 ```
 
+There's also a shorter syntax for declaring functions, called "arrow functions". The following code does exactly the same thing as the previous one - it creates a function taking one argument `person`, returning the string `'Hi, ' + person + '!'`, and stores this function in a value named `hi` (which is the same to say the function is named `hi`).
+
+```javascript
+const hi = (person) => {
+  return 'Hi, ' + person + '!'
+}
+
+// and since we only need to return a value (and not do anything else), this is even shorter:
+const hi = (person) => 'Hi, ' + person + '!'
+```
+
 While you are here, take a minute with your pair partner to take a glance at the different parts of Chrome's DevTools, especially the "Elements" tab - you will be using these a lot in the future.
 
 ### Experimenting with basic JavaScript language features
@@ -94,7 +105,7 @@ Another thing to be aware of is `NaN`, which means "not a number", as well as Ja
 Arrays are very much like their Ruby counterparts:
 
 ```javascript
-var array = [1, 2, 3, 4]
+const array = [1, 2, 3, 4]
 array[0] // 1
 array.length // 4
 array.pop() // 4
@@ -107,8 +118,8 @@ array.push(5) // array is now [1, 2, 3, 5]
 Most things in JavaScript (other than [primitives](https://developer.mozilla.org/en-US/docs/Glossary/Primitive)) are objects. Objects are used like hashes in Ruby:
 
 ```javascript
-var myObject = {} // you can make empty objects
-var myOtherObject = {
+const myObject = {} // you can make empty objects
+const myOtherObject = {
                       some: 'stuff',
                       goes: 'in',
                       here: 123,

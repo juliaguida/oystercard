@@ -25,15 +25,15 @@ When given a new project, sometimes it's tough to know where to begin. However, 
 
 'use strict';
 
-describe('Thermostat', function() {
+describe('Thermostat', () => {
 
-  var thermostat;
+  let thermostat;
 
-  beforeEach(function() {
+  beforeEach(() => {
     thermostat = new Thermostat();
   });
 
-  it('starts at 20 degrees', function() {
+  it('starts at 20 degrees', () => {
     expect(thermostat.temperature).toEqual(20);
   });
 });
@@ -80,7 +80,7 @@ At this point you might be asking why we are allowing access directly to a varia
 ```javascript
 // spec/thermostatSpec.js
 
-  it('starts at 20 degrees', function() {
+  it('starts at 20 degrees', () => {
     expect(thermostat.getCurrentTemperature()).toEqual(20);
   });
 ```
@@ -138,7 +138,7 @@ So the only sensible thing to do now is to turn the temperature up! Let's write 
 ```javascript
 // spec/thermostatSpec.js
 
-  it('increases in temperature with up()', function() {
+  it('increases in temperature with up()', () => {
     thermostat.up();
     expect(thermostat.getCurrentTemperature()).toEqual(21);
   });
@@ -165,7 +165,7 @@ And so by that logic, decreasing the temperature should be a snip!
 ```javascript
 // spec/thermostatSpec.js
 
-it('decreases in temperature with down()', function() {
+it('decreases in temperature with down()', () => {
   thermostat.down();
   expect(thermostat.getCurrentTemperature()).toEqual(19);
 });
@@ -203,8 +203,8 @@ Our client has chosen 10 degrees as the minimum temperature our users should be 
 ```javascript
 // spec/thermostatSpec.js
 
-it('has a minimum of 10 degrees', function() {
-  for (var i = 0; i < 11; i++) {
+it('has a minimum of 10 degrees', () => {
+  for (let i = 0; i < 11; i++) {
     thermostat.down();
   }
   expect(thermostat.getCurrentTemperature()).toEqual(10);
@@ -265,7 +265,7 @@ Now our spec says that PSM should be activated by default, so let's go ahead and
 ```javascript
 // spec/thermostatSpec.js
 
-it('has power saving mode on by default', function() {
+it('has power saving mode on by default', () => {
   expect(thermostat.isPowerSavingModeOn()).toBe(true);
 });
 ```
@@ -297,7 +297,7 @@ Great! Now in order to make this PSM business a viable proposition, we need the 
 ```javascript
 // spec/thermostatSpec.js
 
-it('can switch PSM off', function() {
+it('can switch PSM off', () => {
   thermostat.switchPowerSavingModeOff();
   expect(thermostat.isPowerSavingModeOn()).toBe(false);
 });
@@ -318,7 +318,7 @@ Which is super-easy to reverse for our `switchPowerSavingModeOn` method (which y
 ```javascript
 // spec/thermostatSpec.js
 
-it('can switch PSM back on', function() {
+it('can switch PSM back on', () => {
   thermostat.switchPowerSavingModeOff();
   expect(thermostat.isPowerSavingModeOn()).toBe(false);
   thermostat.switchPowerSavingModeOn();
@@ -350,9 +350,9 @@ So we are going to revisit our incremental function `up()`. But not before we wr
 ```javascript
 // spec/thermostatSpec.js
 
-describe('when power saving mode is on', function() {
-  it('has a maximum temperature of 25 degrees', function() {
-    for (var i = 0; i < 6; i++) {
+describe('when power saving mode is on', () => {
+  it('has a maximum temperature of 25 degrees', () => {
+    for (let i = 0; i < 6; i++) {
       thermostat.up();
     }
     expect(thermostat.getCurrentTemperature()).toEqual(25);
@@ -418,10 +418,10 @@ To make sure our logic is sound, let us write a counter test to make doubley-sur
 ```javascript
 // spec/thermostatSpec.js
 
-describe('when power saving mode is off', function() {
-  it('has a maximum temperature of 32 degrees', function() {
+describe('when power saving mode is off', () => {
+  it('has a maximum temperature of 32 degrees', () => {
     thermostat.switchPowerSavingModeOff();
-    for (var i = 0; i < 13; i++) {
+    for (let i = 0; i < 13; i++) {
       thermostat.up();
     }
     expect(thermostat.getCurrentTemperature()).toEqual(32);
@@ -438,8 +438,8 @@ Oh yes, that's right! Le Client wanted us to have a reset method to bring us bac
 ```javascript
 // spec/thermostatSpec.js
 
-it('can be reset to the default temperature', function() {
-  for (var i = 0; i < 6; i++) {
+it('can be reset to the default temperature', () => {
+  for (let i = 0; i < 6; i++) {
     thermostat.up();
   }
   thermostat.resetTemperature();
@@ -498,26 +498,26 @@ With that, let's write our final tests:
 ```javascript
 // spec/thermostatSpec.js
 
-describe('displaying usage levels', function() {
-  describe('when the temperature is below 18 degrees', function() {
-    it('it is considered low-usage', function() {
-      for (var i = 0; i < 3; i++) {
+describe('displaying usage levels', () => {
+  describe('when the temperature is below 18 degrees', () => {
+    it('it is considered low-usage', () => {
+      for (let i = 0; i < 3; i++) {
         thermostat.down();
       }
       expect(thermostat.energyUsage()).toEqual('low-usage');
     });
   });
 
-  describe('when the temperature is between 18 and 25 degrees', function() {
-    it('it is considered medium-usage', function() {
+  describe('when the temperature is between 18 and 25 degrees', () => {
+    it('it is considered medium-usage', () => {
       expect(thermostat.energyUsage()).toEqual('medium-usage');
     });
   });
 
-  describe('when the temperature is anything else', function() {
-    it('it is considered high-usage', function() {
+  describe('when the temperature is anything else', () => {
+    it('it is considered high-usage', () => {
       thermostat.powerSavingMode = false;
-      for (var i = 0; i < 6; i++) {
+      for (let i = 0; i < 6; i++) {
         thermostat.up();
       }
       expect(thermostat.energyUsage()).toEqual('high-usage');

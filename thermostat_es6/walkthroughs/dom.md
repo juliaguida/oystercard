@@ -2,7 +2,7 @@
 
 [Back to the Challenge](../dom.md)
 
-You don't need to include anything to use the browser's DOM functions - there'll built right into the browser!
+You don't need to include anything to use the browser's DOM functions - they're built right into the browser!
 
 Before you address the thermostat, make sure that you understand some basic DOM concepts: `document.querySelector`, `document.querySelectorAll`, event listeners (`.addEventListener`), and callbacks.
 
@@ -11,7 +11,7 @@ Before you address the thermostat, make sure that you understand some basic DOM 
 This utility function translates to "only execute the function when the document is ready", i.e. when the DOM is loaded. This is a good idea because it's difficult (but not impossible!) to attach an event listener to something that isn't there. Forgetting to wrap code in this is a common source of bugs.
 
 ```javascript
-document.addEventListener("DOMContentLoaded", function(){
+document.addEventListener("DOMContentLoaded", () => {
   // Execute this code when the page is fully loaded
 });
 ```
@@ -31,7 +31,7 @@ where `element` is a CSS selector, or a tag name. Chrome Dev Tools actually come
 In longhand, these usually look like
 
 ```javascript
-document.querySelector('element').addEventListener('event', function() {
+document.querySelector('element').addEventListener('some event name', () => {
   // do something
 })
 ```
@@ -43,7 +43,7 @@ where `event` is an action you would like to listen for on the page. Popular eve
 Callback are generally a source of massive confusion, so this explanation will be a simplistic explanation suitable for understanding what role they play in event listeners. You've actually been using them in Jasmine without even knowing! The callback is the anonymous function passed as last argument to the event handler:
 
 ```javascript
-document.querySelector('#some-heading').addEventListener('event', function() {
+document.querySelector('#some-heading').addEventListener('event', () => {
   // this function is the callback!
 })
 ```
@@ -75,7 +75,7 @@ Success! We want to set this to the thermostat's temperature, so we'll need a ne
 
 ```javascript
 // console
-var thermostat = new Thermostat();
+let thermostat = new Thermostat();
 
 // we can shorten the two lines of the previous example in one:
 document.querySelector('#temperature').innerText = "Hello DOM world!"
@@ -86,7 +86,7 @@ Now we can put this in our actual interface file, wrapped in a `document.addEven
 ```javascript
 // interface.js
 document.addEventListener("DOMContentLoaded", function () {
-  var thermostat = new Thermostat();
+  let thermostat = new Thermostat();
   document.querySelector('#temperature').innerText = thermostat.temperature
 })
 ```
@@ -100,7 +100,7 @@ Take a second to think about the flow of what happens when a user interaction ha
 In code:
 
 ```javascript
-document.querySelector('#temperature-up').addEventListener('click', function() { // event listener
+document.querySelector('#temperature-up').addEventListener('click', () => { // event listener
   thermostat.up(); // update model
   document.querySelector('#temperature').innerText = thermostat.temperature; // update view
 })
@@ -109,7 +109,7 @@ document.querySelector('#temperature-up').addEventListener('click', function() {
 And the same again for decreasing the temperature:
 
 ```javascript
-document.querySelector('#temperature-down').addEventListener('click', function() {
+document.querySelector('#temperature-down').addEventListener('click', () => {
   thermostat.down();
   document.querySelector('#temperature').innerText = thermostat.temperature;
 })
@@ -127,32 +127,32 @@ Hooking the other buttons up should be relatively straightforward, resulting in 
 
 ```javascript
 // interface.js
-document.addEventListener("DOMContentLoaded", function() {
-  var thermostat = new Thermostat();
+document.addEventListener("DOMContentLoaded", () => {
+  let thermostat = new Thermostat();
   updateTemperature();
 
-  document.querySelector('#temperature-up').addEventListener('click', function() {
+  document.querySelector('#temperature-up').addEventListener('click', () => {
     thermostat.up();
     updateTemperature();
   });
 
-  document.querySelector('#temperature-down').addEventListener('click', function() {
+  document.querySelector('#temperature-down').addEventListener('click', () => {
     thermostat.down();
     updateTemperature();
   });
 
-  document.querySelector('#temperature-reset').addEventListener('click', function() {
+  document.querySelector('#temperature-reset').addEventListener('click', () => {
     thermostat.resetTemperature();
     updateTemperature();
   });
 
-  document.querySelector('#powersaving-on').addEventListener('click', function() {
+  document.querySelector('#powersaving-on').addEventListener('click', () => {
     thermostat.switchPowerSavingModeOn();
     document.querySelector('#power-saving-status').innerText = 'on';
     updateTemperature();
   })
 
-  document.querySelector('#powersaving-off').addEventListener('click', function() {
+  document.querySelector('#powersaving-off').addEventListener('click', () => {
     thermostat.switchPowerSavingModeOff();
     document.querySelector('#power-saving-status').innerText = 'off';
     updateTemperature();
