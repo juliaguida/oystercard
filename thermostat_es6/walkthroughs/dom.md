@@ -67,7 +67,7 @@ Now build up what you're trying to do. We want to manipulate the text of this `h
 
 ```javascript
 // console
-let temperatureEl = document.querySelector('#temperature')
+const temperatureEl = document.querySelector('#temperature')
 temperatureEl.innerText = "Hello DOM world!"
 ```
 
@@ -75,7 +75,7 @@ Success! We want to set this to the thermostat's temperature, so we'll need a ne
 
 ```javascript
 // console
-let thermostat = new Thermostat();
+const thermostat = new Thermostat();
 
 // we can shorten the two lines of the previous example in one:
 document.querySelector('#temperature').innerText = "Hello DOM world!"
@@ -85,8 +85,8 @@ Now we can put this in our actual interface file, wrapped in a `document.addEven
 
 ```javascript
 // interface.js
-document.addEventListener("DOMContentLoaded", function () {
-  let thermostat = new Thermostat();
+document.addEventListener("DOMContentLoaded", () => {
+  const thermostat = new Thermostat();
   document.querySelector('#temperature').innerText = thermostat.temperature
 })
 ```
@@ -118,7 +118,7 @@ document.querySelector('#temperature-down').addEventListener('click', () => {
 Looks like there's something repeated 3 times, so it's probably time to refactor updating the temperature to its own clearly-named function:
 
 ```javascript
-function updateTemperature() {
+const updateTemperature() = () => {
   document.querySelector('#temperature').innerText = thermostat.temperature;
 }
 ```
@@ -128,7 +128,11 @@ Hooking the other buttons up should be relatively straightforward, resulting in 
 ```javascript
 // interface.js
 document.addEventListener("DOMContentLoaded", () => {
-  let thermostat = new Thermostat();
+  const updateTemperature() = () => {
+    document.querySelector('#temperature').innerText = thermostat.temperature;
+  }
+
+  const thermostat = new Thermostat();
   updateTemperature();
 
   document.querySelector('#temperature-up').addEventListener('click', () => {
@@ -157,17 +161,13 @@ document.addEventListener("DOMContentLoaded", () => {
     document.querySelector('#power-saving-status').innerText = 'off';
     updateTemperature();
   })
-
-  function updateTemperature() {
-    document.querySelector('#temperature').innerText = thermostat.temperature;
-  };
 });
 ```
 
 The last piece of the puzzle is to colour the display according to the energy usage. As you saw when building the business logic, the JavaScript code wasn't responsible for presentation. It might be tempting to do something like this:
 
 ```javascript
-function updateTemperature() {
+const updateTemperature = () => {
   document.querySelector('#temperature').innerText = thermostat.temperature;
   if (thermostat.energyUsage() === 'low-usage') {
     document.querySelector('#temperature').style.color = 'green';
@@ -182,7 +182,7 @@ function updateTemperature() {
 What's wrong with this code? Firstly, there's a big `if/else if/else` statement, which is usually a code smell. Secondly, there's subtle duplication - this is just a repeat of the logic within the thermostat itself. Thirdly, you can see that the code is very interested in CSS - so, why not delegate to the CSS itself, and just change the class so that the CSS can decide how to handle colour?
 
 ```javascript
-function updateTemperature() {
+const updateTemperature = () => {
   document.querySelector('#temperature').innerText = thermostat.temperature;
   document.querySelector('#temperature').className = thermostat.energyUsage();
 }

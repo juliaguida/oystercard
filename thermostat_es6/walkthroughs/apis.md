@@ -39,6 +39,8 @@ fetch('http://api.openweathermap.org/data/2.5/weather?q=London,uk&appid=a3d9eb01
   });
 ```
 
+(If you want to read more about using `fetch`, you can read the relevant section in the pill [Calling APIs in Javascript](https://github.com/makersacademy/course/blob/master/pills/calling_apis_in_javascript.md#using-fetch) )
+
 Now that you have the information that you need, you can put it on the page. Add some HTML to hold the result:
 
 ```html
@@ -126,7 +128,7 @@ Either way, that `fetch` part is looking a bit messy - you can extract it to a f
 
 ```javascript
 // interface.js
-function displayWeather(city) {
+const displayWeather = (city) => {
   const url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=a3d9eb01d4de82b9b8d0849ef604dbed&units=metric`
 
   fetch(url)
