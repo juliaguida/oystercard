@@ -1,14 +1,14 @@
 # Your first day at Makers
 
-Day one starts with an informal social at 09.00 - this will also be a good opportunity to make sure you are set-up correctly to join zoom meetings and debug anything that comes up before the actual start. Grab a coffee, bring your breakfast, and say hi!
+Day one starts with an informal social - this will also be a good opportunity to make sure you are set-up correctly to join zoom meetings and debug anything that comes up before the actual start. Grab a coffee, bring your breakfast, and say hi!
 
-Look out for a zoom link in your cohort channel on slack at 9am!
+Look out for a zoom link in your cohort channel on slack!
 
 ## Schedule for the first day
 
 | Time | What |
 | --- | --- |
-| 09.00 - 09.30 | Coffee social! This is an informal session to say hi to each other. |
+| 09.15 - 09.30 | Coffee social! This is an informal session to say hi to each other. |
 | 09.30 - 10.45 | Welcome to Makers - Your first real workshop! |
 | 10:45 - 11.00 | **BREAK** |
 | 11.00 - 12.30 | Life at Makers by Dana, our Chief Joy Officer |

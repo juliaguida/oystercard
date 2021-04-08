@@ -6,7 +6,7 @@ By now you have an empty project with a Gemfile and RSpec infrastructure, so you
 
 A card that cannot carry a balance is just a piece of plastic (or an empty file, in our case). Let's enable our card to have a balance as the very first step.
 
-Write an RSpec test for the Oystercard class that will test that a freshly initialized card has a `balance` of 0 by default, see it fail, then write an implementation (Oystercard class code) that will make the test pass.
+Write an RSpec test for the Oystercard class that will test that a freshly initialised card has a `balance` of 0 by default, see it fail, then write an implementation (Oystercard class code) that will make the test pass.
 
 
 ```
@@ -24,7 +24,7 @@ I want money on my card
 - Use RSpec's expect method to set an expectation
 - Use attribute accessors to read an instance variable
 - Use `subject` keyword to create a variable to reference the object under test
-- Create an Ruby class with an initialize method
+- Create an Ruby class with an `initialize` method
 - Set an instance variable
 - Expose an instance variable using an attribute reader
 
@@ -42,8 +42,8 @@ I want money on my card
 - [ ] Create a unit test for the `Oystercard` class
 - [ ] Write a failing test that checks that a new card has a `balance`
 - [ ] Write code that will make this test pass
-- [ ] Now refactor by setting the balance in initialize using an instance variable
-- [ ] Remove the balance method entirely and replace with an attr_reader
+- [ ] Now refactor by setting the balance in `initialize` using an instance variable
+- [ ] Remove the balance method entirely and replace with an `attr_reader`
 
 ### Hints
 <details><summary>CLICK ME</summary>

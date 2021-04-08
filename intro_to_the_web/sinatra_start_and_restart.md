@@ -6,11 +6,11 @@ So far we've defined a single route, '/', that responds with a HTTP message cont
 
 In this challenge you will add a second route. By adding a second route we will see that routes, distinct entry points to an application, activate different server actions and so return different responses.
 
-Additionally, we will use **shotgun** to speed up our development process.
+Additionally, we will use `Sinatra::Reloader` to speed up our development process.
 
 ### Learning Objectives covered
 - Define a route in Sinatra
-- Use Shotgun
+- Use `Sinatra::Reloader` to automatically reload the server.
 
 ### To complete this challenge, you will need to:
 
@@ -18,12 +18,12 @@ Additionally, we will use **shotgun** to speed up our development process.
 - [ ] Visit the new route in the browser. Do you see the message you wrote? If not, move on.
 - [ ] Kill the app on the command line with `ctrl-c` and run it again.
 - [ ] Visit the new route in the browser again. Do you see the message you wrote this time?
-- [ ] Manually restarting the server every time you change your code is going to get painful. Install and run your server using the `shotgun` gem instead. **BEWARE**, when you are using `shotgun` with Sinatra, each time your server restarts your sessions will be lost, to solve this problem you need to follow these [instructions](https://groups.google.com/forum/#!topic/sinatrarb/pUFSoyQXyQs). You can also find these in the [Shotgun Documentation](https://github.com/rtomayko/shotgun) under **Caveats**.
+- [ ] Manually restarting the server every time you change your code is going to get painful. Use the `Sinatra::Reloader` extension to fix that.
 - [ ] Define a few more routes. Without killing the server, check if the routes are visitable.
 
 ### Resources
 
-- [Shotgun (Github)](https://github.com/rtomayko/shotgun)
+- [Sinatra Reloader](http://sinatrarb.com/contrib/reloader)
 - [Sinatra Main Intro Documentation](http://www.sinatrarb.com/intro.html)
 
 ### [Walkthrough](walkthroughs/sinatra_start_and_restart.md)

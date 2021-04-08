@@ -4,6 +4,7 @@ So, we've got a kitten inside a box with a red border. The code looks like this
 
 ````ruby
 require 'sinatra'
+require 'sinatra/reloader' if development?
 
 get '/' do
   "<div style='border: 3px dashed red'>
@@ -22,6 +23,7 @@ In our _hello.rb_ file we'll just put this instead:
 
 ````ruby
 require 'sinatra'
+require 'sinatra/reloader' if development?
 
 get '/' do
   erb :index

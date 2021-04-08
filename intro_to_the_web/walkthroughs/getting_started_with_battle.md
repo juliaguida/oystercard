@@ -37,8 +37,13 @@ We create an `app.rb` file in the root of our project.  Inside our `app.rb`, we 
 # in app.rb
 
 require 'sinatra/base'
+require 'sinatra/reloader'
 
 class Battle < Sinatra::Base
+  configure :development do
+    register Sinatra::Reloader
+  end
+
   get '/' do
     'Hello Battle!'
   end

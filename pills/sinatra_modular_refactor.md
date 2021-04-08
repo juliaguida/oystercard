@@ -11,6 +11,7 @@ This pill will take you through the process of refactoring your routes. Consider
 ``` ruby
 # /app/app.rb
 require 'sinatra'
+require 'sinatra/reloader' if development?
 
 get '/links' do
   # etc
@@ -78,6 +79,7 @@ And our app.rb just looks like the following:
 ```ruby
 # /app/app.rb
 require 'sinatra'
+require 'sinatra/reloader' if development?
 require './app/controllers/link'
 require './app/controllers/user'
 require './app/controllers/session'
@@ -104,12 +106,18 @@ Firstly, we need to `require sinatra/base` instead of just `sinatra`. Rather tha
 ```ruby
 # /app/app.rb
 require 'sinatra/base'
+require 'sinatra/reloader'
 require './app/controllers/link'
 require './app/controllers/user'
 require './app/controllers/session'
 
 class MyApp < Sinatra::Base
+  # This next bit sets up autoreloading
+  configure :development do
+    register Sinatra::Reloader
+  end
 
+  # Your controller code here
 
 end
 ```
@@ -119,6 +127,9 @@ Secondly, let's [namespace](https://rubymonk.com/learning/books/1-ruby-primer/ch
 ```ruby
 module Armadillo # totally arbitrary Armadillo
   class MyApp < Sinatra::Base
+    configure :development do
+      register Sinatra::Reloader
+    end
 
   end
 end
@@ -133,6 +144,10 @@ To get started on `Routes`, create a file `./app/controllers/base.rb`, containin
 module Armadillo
   module Routes
     class Base < Sinatra::Base
+      configure :development do
+        register Sinatra::Reloader
+      end
+
       # within here we can have configuration common to all our route subclasses.
     end
   end
@@ -143,8 +158,12 @@ Then, for example, `./app/controllers/link.rb` should look like this:
 ```ruby
 module Armadillo
   module Routes
-    class Link < Base # thus making available both Sinatra's DSL
+    class Link < Sinatra::Base # thus making available both Sinatra's DSL
       # and the configuration common to all route sub-classes.
+
+      configure :development do
+        register Sinatra::Reloader
+      end
 
       get '/links' do
         # etc

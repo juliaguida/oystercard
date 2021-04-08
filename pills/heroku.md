@@ -40,7 +40,7 @@ Once you have verified that you have heroku and git locally, we need to start pr
 
 ### Prepare the project for deployment
 
-Taking a Sinatra app as an example, here's a few things we need to ensure to deploy to Heroku. 
+Taking a Sinatra app as an example, here's a few things we need to ensure to deploy to Heroku.
 
 First up we must have a Gemfile to specify the dependencies our project requires. Ensure that it has at least the following:
 
@@ -67,7 +67,7 @@ Then, retry running
 bundle install
 ````
 
-This will create a Gemfile.lock file that locks downs the versions of your gems (libraries) that will be installed on the remote server. 
+This will create a Gemfile.lock file that locks downs the versions of your gems (libraries) that will be installed on the remote server.
 
 The second file we'll need will tell Heroku how to start our website. Create a file called config.ru (all lowercase) and put the following two lines inside:
 
@@ -97,7 +97,7 @@ heroku login
 Heroku then will ask you for your username and password (the one that you've set when you registered on the website). It will also ask you if you want to generate a public key (say that you do). After you enter the username and password, you'll be able to create your new website at Heroku. Type this
 
 ````
-heroku create 
+heroku create
 ````
 
 Finally, we're ready to deploy. Type this command into the terminal. At this point your website will actually be sent to the web server and become live.
@@ -121,7 +121,6 @@ Total 7 (delta 4), reused 0 (delta 0)
        Running: bundle install --without development:test --path vendor/bundle --binstubs vendor/bundle/bin --deployment
        Using rack (1.5.2)
        Using rack-protection (1.5.0)
-       Using shotgun (0.9)
        Using tilt (1.4.1)
        Using sinatra (1.4.3)
        Using bundler (1.3.2)

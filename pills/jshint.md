@@ -5,7 +5,7 @@ JavaScript can be extremely temperamental, as you may have noticed(!!). Also, a 
 Resources:
 
 * [JSHint](http://jshint.com/)  
-* [JavaScript’s Strict Mode and Why You Should Use It](http://cjihrig.com/blog/javascripts-strict-mode-and-why-you-should-use-it/)  
+* [JavaScript’s Strict Mode and Why You Should Use It](https://gomakethings.com/javascript-strict-mode-and-why-you-should-always-use-it/)  
 * [Node style](https://github.com/felixge/node-style-guide)
 * [npm Packages](https://www.npmjs.com/)
 * [Spike on Node Good Practices](https://www.youtube.com/watch?v=-EaT-6rGNqI)

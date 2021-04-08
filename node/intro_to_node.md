@@ -40,11 +40,11 @@ Here is a broad outline of what we hope to cover this week:
 * Feature testing with `webdriver-io`
 * Starting a web server with Express
 * Building an API with node
-* Consuming that API with JQuery
+* Consuming that API with jQuery
 
 ## Setting up your Node environment/starting a project
 
-Please install Node with `brew install node` and follow any additional instructions.  Note that this can cause problems if you already have a node version manager (e.g. n, nvm, nodenv) installed.  Please contact a coach or alumni helper if you are having trouble with your node install. Please refer to :pill: [npm](https://github.com/makersacademy/course/blob/master/pills/npm.md) :pill: when setting up your project.
+Please install Node with `brew install node` and follow any additional instructions.  Note that this can cause problems if you already have a node version manager (e.g. n, nvm, `nodenv`) installed.  Please contact a coach or alumni helper if you are having trouble with your node install. Please refer to :pill: [npm](https://github.com/makersacademy/course/blob/master/pills/npm.md) :pill: when setting up your project.
 
 
 
@@ -73,7 +73,7 @@ Interesting, but not very useful. Let's start adding some testing tools so we ca
 
 At this point, it's a good idea to create a `.gitignore` file and add `node_modules` to it, as we don't want to add our local dependencies to Git, and ultimately to Github.
 
-Next, install `jasmine-node` (which is exactly what you think it is!), first locally to your dev-dependencies (`npm install --save-dev jasmine-node`), then, if you want, install it globally (`npm install -g jasmine-node`).
+Next, install `jasmine-node` (which is exactly what you think it is!), first locally to your `dev-dependencies` (`npm install --save-dev jasmine-node`), then, if you want, install it globally (`npm install -g jasmine-node`).
 
 Now we can start doing TDD in Node. Modify the `scripts` section of your `package.json` as follows:
 
@@ -176,7 +176,7 @@ function Game(){
 }
 ```
 
-...and we should finally have a passing test! Highfive your pairing partner and celebrate how fun, obvious and easy testing in Node is*.
+...and we should finally have a passing test! High-five your pairing partner and celebrate how fun, obvious and easy testing in Node is*.
 
 _*compared to wrestling a lion._
 

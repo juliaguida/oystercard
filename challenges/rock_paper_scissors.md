@@ -95,7 +95,7 @@ git push heroku master
 * Part 1: JavaScript and Jasmine
   * [JavaScript Intro](https://github.com/makersacademy/course/blob/master/walkthroughs/javascript_intro.md)
   * [More JavaScript](https://github.com/makersacademy/course/blob/master/walkthroughs/more_javascript.md)
-* Part 2: JQuery
+* Part 2: jQuery
   * [jQuery Intro](https://github.com/makersacademy/course/blob/master/walkthroughs/jquery_intro.md)
   * [jQuery animations](https://github.com/makersacademy/course/blob/master/walkthroughs/jquery_animations.md)
 * Part 3: JS Templating

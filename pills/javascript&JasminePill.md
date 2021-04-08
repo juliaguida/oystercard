@@ -527,13 +527,13 @@ Here endeth the lesson. Hope you had as much fun as I did - enjoy Javascript and
 * [js_functions pill](js_functions.md)
 * [js_arrays pill](js_arrays.md)
 * [js_conventions pill](js_conventions.md)
-* [JQuery events pill](jquery_events.md)
+* [jQuery events pill](jquery_events.md)
 
 ### External Resources
 
-In addition to the 5 JavaScript and JQuery pills we have supplied for you in the course materials, you will also find the following external resources helpful:
+In addition to the 5 JavaScript and jQuery pills we have supplied for you in the course materials, you will also find the following external resources helpful:
 
-* [Codecademy - Javascript Track](http://www.codecademy.com/tracks/javascript) - They also have a JQuery track that is worth working through.
+* [Codecademy - Javascript Track](http://www.codecademy.com/tracks/javascript) - They also have a jQuery track that is worth working through.
 * [JavaScript for Cats](http://jsforcats.com/) - An introduction for new Programmers.
 * [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - An Awesome repository of JavaScript resources.
 

@@ -2,7 +2,7 @@
 
 [Back to the Challenge Map](README.md)
 
-Awesome! Now you are able to test one object in JavaScript - let's try testing a few objects together, and keep practicing basic JavaScript syntax.
+Awesome! Now you are able to test one object in JavaScript - let's try testing a few objects together, and keep practising basic JavaScript syntax.
 
 In this challenge, you will translate the Airport Challenge into JavaScript.
 

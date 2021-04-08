@@ -1,4 +1,4 @@
-JQuery Animations
+jQuery Animations
 ================
 
 [Video of session](https://www.youtube.com/watch?v=SJe72uTUuII)
