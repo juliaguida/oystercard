@@ -3,14 +3,14 @@
 Arrays in JavaScript are very similar to arrays in Ruby. We create them in the same manner:
 
 ~~~javascript
-var animals = ['cat', 'dog', 'horse'];
+let animals = ['cat', 'dog', 'horse'];
 ~~~
 
 We can also iterate over them using a method - `forEach` - which is very similar to Ruby's `each` method:
 
 ~~~javascript
 animals.forEach(function(animal) {
-  alert('Old McDonald had a ' + animal);
+  console.log('Old McDonald had a ' + animal);
 })
 ~~~
 
@@ -23,7 +23,7 @@ animals[2]; //=> 'horse'
 
 ## Appending to arrays
 
-JavaScript doesn't have the `<<` (shovel) operator, so to append to an array, we have to use the `.push` method:
+JavaScript doesn't have the `<<` (shovel) operator, so we use the `.push` method:
 
 ~~~javascript
 animals.push('snake');
@@ -40,11 +40,11 @@ if animals.include?('cow')
 end
 ~~~
 
-In JavaScript, there's no direct equivalent of the `.include?` method. Instead we can use the `indexOf` method, which will either return the numerical index of an element in an array **if it exists**, or if the element doesn't exist, return -1.
+In JavaScript, you can use the [`.includes`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes) method:
 
 ~~~javascript
-if(animals.indexOf('cow') > -1) {
-  alert('Mooo');
+if(animals.includes('cow')) {
+  console.log('Mooo');
 }
 ~~~
 
