@@ -62,8 +62,6 @@ Software teams are organised in many ways, all of them united by the aim to crea
 
 
 3. **Set up your project and card board.**  
-   See the [Technical Pathways](#technical_pathways) section for links. Then:
-
    1. Ask one person to fork the [seed Github repository](https://github.com/makersacademy/acebook-rails-template-simple).
    2. Add team members and project coaches as project collaborators.
    3. Rename the repository to `acebook-<Team Name>`.
