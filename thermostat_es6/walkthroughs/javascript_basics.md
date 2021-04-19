@@ -155,24 +155,6 @@ For further practice, you can check out the [Javascripting workshopper](https://
 
 Once you feel comfortable with JavaScript and using the browser's JavaScript console to play with code ideas, let's start writing some TDD JavaScript.
 
-#### Const or let?
-
-You might have noticed that we're using two different ways of declaring variables: the `const` keyword and the `let` keyword. What's the difference? Well, with `const`, you cannot reassign a new value to the variable. You can modify it (change the elements of an array, the properties of an object...), but you cannot put some new value in the variable. This wouldn't work, for example:
-```javascript
-const name = 'Jane'
-name = 'Bob' // error!
-```
-
-If we ever need to reassign a new value to a variable that's already declared, we'll then need to use `let` to declare the variable in the first place. This would work:
-```javascript
-let name = 'Jane'
-name = 'Bob' // all good
-```
-
-Which one to use then? In general, prefer using `const` when you don't have to put another value in the variable later. Otherwise, use `let`.
-
-You might also see other examples using `var` to declare variable. This is an older syntax of Javascript, which tends to be deprecated now, so prefer using `const` and `let` instead.
-
 [Forward to the Challenge Map](../README.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
