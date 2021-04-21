@@ -33,6 +33,7 @@ The JavaScript equivalent is the Console tab of the Chrome developer tools.  Whe
 ### Resources
 - [Using the console](https://developers.google.com/web/tools/chrome-devtools/console/)
 - [Explore and Master Chrome DevTools - Codeschool (Free Tutorial)](http://discover-devtools.codeschool.com/)
+- [What's the difference between let and var?](https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var)
 - :pill: [`function` in JavaScript](../pills/js_functions.md)
 - :pill: [JavaScript conventions](../pills/js_conventions.md)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

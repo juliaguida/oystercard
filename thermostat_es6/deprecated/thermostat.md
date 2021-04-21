@@ -4,7 +4,7 @@ This week we're looking at JavaScript, a very important language, since it is th
 
 Please check out the [Learning Objectives for this week](learning_objectives.md) and refer to these throughout the week.
 
-The project this week is to create a simple digital thermostat, using JavaScript, test-driven with Jasmine and using jQuery to interact with the HTML page.  As with Battleships Web, there are 2 parts to this project:
+The project this week is to create a simple digital thermostat, using JavaScript, test-driven with Jasmine and using the DOM functions to interact with the HTML page.  As with Battleships Web, there are 2 parts to this project:
 
 * The first is to build a thermostat model, which encapsulates the business logic.
 * The second is to create a user interface (UI) in HTML to interact with the thermostat and provide buttons and a display similar to the following:

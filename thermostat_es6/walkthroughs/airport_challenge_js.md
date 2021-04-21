@@ -17,16 +17,16 @@ Create the feature test in `spec/featureSpec.js`
 // spec/featureSpec.js
 'use strict';
 
-describe('Feature Test:', function(){
-  var plane;
-  var airport;
+describe('Feature Test:', () => {
+  let plane;
+  let airport;
 
-  beforeEach(function(){
+  beforeEach(() => {
     plane = new Plane();
     airport = new Airport();
   });
 
-  it('planes can be instructed to land at an airport', function(){
+  it('planes can be instructed to land at an airport', () => {
     plane.land(airport);
     expect(airport.planes()).toContain(plane);
   });
@@ -47,12 +47,12 @@ We then create a unit test for a Plane:
 // spec/planeSpec.js
 'use strict';
 
-describe('Plane',function(){
-  var plane;
-  beforeEach(function(){
+describe('Plane', () => {
+  let plane;
+  beforeEach(() => {
     plane = new Plane();
   });
-  it('can land at an airport', function(){
+  it('can land at an airport', () => {
     expect(plane.land).not.toBeUndefined()
   });
 });
@@ -109,12 +109,12 @@ So let's create an Airport spec:
 // spec/airportSpec.js
 'use strict';
 
-describe('Airport', function(){
-  var airport;
-  beforeEach(function(){
+describe('Airport', () => {
+  let airport;
+  beforeEach(() => {
     airport = new Airport();
   });
-  it('has no planes by default', function(){
+  it('has no planes by default', () => {
     expect(airport.planes()).toEqual([]);
   });
 });
@@ -170,14 +170,14 @@ So we need our plane object to interact with our airport object.  It's tempting 
 // spec/planeSpec.js
 'use strict';
 
-describe('Plane',function(){
-  var plane;
-  var airport;
-  beforeEach(function(){
+describe('Plane', () => {
+  let plane;
+  let airport;
+  beforeEach(() => {
     plane = new Plane();
     airport = jasmine.createSpyObj('airport',['clearForLanding']);
   });
-  it('can land at an airport', function(){
+  it('can land at an airport', () => {
     plane.land(airport);
     expect(airport.clearForLanding).toHaveBeenCalledWith(plane);
   });
@@ -213,17 +213,17 @@ Plane is doing everything it needs to, but now we need Airport to play its part,
 ```javascript
 'use strict';
 
-describe('Airport', function(){
-  var airport;
-  var plane;
-  beforeEach(function(){
+describe('Airport', () => {
+  let airport;
+  let plane;
+  beforeEach(() => {
     airport = new Airport();
     plane = jasmine.createSpy('plane',['land']);
   });
-  it('has no planes by default', function(){
+  it('has no planes by default', () => {
     expect(airport.planes()).toEqual([]);
   });
-  it('can clear planes for landing', function(){
+  it('can clear planes for landing', () => {
     airport.clearForLanding(plane);
     expect(airport.planes()).toEqual([plane]);
   });
@@ -297,7 +297,7 @@ which leads us to a corresponding feature test
 
 ```javascript
 // spec/featureSpec.js
-  it('planes can be instructed to takeoff', function(){
+  it('planes can be instructed to takeoff', () => {
     plane.land(airport)
     plane.takeoff();
     expect(airport.planes()).not.toContain(plane);
@@ -317,18 +317,18 @@ and we create a unit test that generates the same error:
 // spec/planeSpec.js
 'use strict';
 
-describe('Plane',function(){
-  var plane;
-  var airport;
-  beforeEach(function(){
+describe('Plane', () => {
+  let plane;
+  let airport;
+  beforeEach(() => {
     plane = new Plane();
     airport = jasmine.createSpyObj('airport',['clearForLanding','clearForTakeOff']);
   });
-  it('can land at an airport', function(){
+  it('can land at an airport', () => {
     plane.land(airport);
     expect(airport.clearForLanding).toHaveBeenCalledWith(plane);
   });
-  it('can takeoff from an airport', function(){
+  it('can takeoff from an airport', () => {
     plane.land(airport);
     plane.takeoff();
     expect(airport.clearForTakeOff).toHaveBeenCalled();
@@ -342,16 +342,16 @@ Note that here we're going straight to test the outgoing call to airport as our 
 'use strict';
 
 class Plane {
-    constructor() {
-      this.__location;
-    }
-    land(airport){
-      airport.clearForLanding(this)
-      this._location = airport;
-    };
-    takeoff() {
-      this._location.clearForTakeOff()
-    }
+  constructor() {
+    this.__location;
+  }
+  land(airport){
+    airport.clearForLanding(this)
+    this._location = airport;
+  };
+  takeoff() {
+    this._location.clearForTakeOff()
+  }
 };
 ```
 
@@ -366,7 +366,7 @@ Time for a matching unit test on our AirportSpec:
 
 ```javascript
 // spec/airportSpec.js
-  it('can clear planes for takeoff', function(){
+  it('can clear planes for takeoff', () => {
     airport.clearForLanding(plane);
     airport.clearForTakeOff(plane);
     expect(airport.planes()).toEqual([]);
@@ -403,7 +403,7 @@ For which we can write a test like:
 
 ```javascript
 // spec/featureSpec.js
-  it('blocks takeoff when weather is stormy', function(){
+  it('blocks takeoff when weather is stormy', () => {
     plane.land(airport)
     spyOn(airport,'isStormy').and.returnValue(true);
     expect(function(){ plane.takeoff();}).toThrowError('cannot takeoff during storm');
@@ -415,7 +415,7 @@ Checking that fails as expected `isStormy() method does not exist` we can create
 
 ```javascript
 // spec/airportSpec.js
-  it('can check for stormy conditions', function(){
+  it('can check for stormy conditions', () => {
     expect(airport.isStormy()).toBeFalsy();
   });
 ```
@@ -441,10 +441,10 @@ Another unit test matches the first of those errors:
 
 ```javascript
 // spec/airportSpec.js
-describe('under stormy conditions',function(){
-  it('does not clear planes for takeoff', function(){
+describe('under stormy conditions', () => {
+  it('does not clear planes for takeoff', () => {
     spyOn(airport,'isStormy').and.returnValue(true);
-    expect(function(){ airport.clearForTakeOff(plane); }).toThrowError('cannot takeoff during storm');
+    expect(() => { airport.clearForTakeOff(plane); }).toThrowError('cannot takeoff during storm');
   });
 });
 ```
@@ -520,16 +520,16 @@ Airport is getting a bit bloated though and that weather functionality looks lik
 ```javascript
 'use strict';
 
-describe('Weather',function(){
-  var weather;
-  beforeEach(function(){
+describe('Weather', () => {
+  let weather;
+  beforeEach(() => {
     weather = new Weather();
   });
-  it('gives stormy sometimes', function(){
+  it('gives stormy sometimes', () => {
     spyOn(Math,'random').and.returnValue(1);
     expect(weather.isStormy()).toBeTruthy();
   });
-  it('gives not stormy other times', function(){
+  it('gives not stormy other times', () => {
     spyOn(Math,'random').and.returnValue(0);
     expect(weather.isStormy()).toBeFalsy();
   });
@@ -554,7 +554,7 @@ class Weather {
 
 Now let's inject that into our Airport:
 
-```
+```javascript
 'use strict';
 
 class Airport{
@@ -587,45 +587,45 @@ However we've extracted the responsibility for weather out of the Airport, we'll
 ```javascript
 'use strict';
 
-describe('Feature Test: ', function(){
-  var plane;
-  var airport;
+describe('Feature Test: ', () => {
+  let plane;
+  let airport;
 
-  beforeEach(function(){
+  beforeEach(() => {
     plane = new Plane();
     airport = new Airport();
   });
 
-  describe('under normal conditions',function(){
-    beforeEach(function(){
+  describe('under normal conditions',() => {
+    beforeEach(() => {
       spyOn(Math,'random').and.returnValue(0);
     });
 
-    it('planes can be instructed to land at an airport', function(){
+    it('planes can be instructed to land at an airport', () => {
       plane.land(airport);
       expect(airport.planes()).toContain(plane);
     });
 
-    it('planes can be instructed to takeoff', function(){
+    it('planes can be instructed to takeoff', () => {
       plane.land(airport)
       plane.takeoff();
       expect(airport.planes()).not.toContain(plane);
     });
   });
 
-  describe('under stormy conditions',function(){
+  describe('under stormy conditions',() => {
 
-    it('blocks takeoff when weather is stormy', function(){
+    it('blocks takeoff when weather is stormy', () => {
       spyOn(Math,'random').and.returnValue(0);
       plane.land(airport)
       spyOn(airport._weather,'isStormy').and.returnValue(true);
-      expect(function(){ plane.takeoff();}).toThrowError('cannot takeoff during storm');
+      expect(() => { plane.takeoff();}).toThrowError('cannot takeoff during storm');
       expect(airport.planes()).toContain(plane);
     });
 
-    it('blocks landing when weather is stormy', function(){
+    it('blocks landing when weather is stormy', () => {
       spyOn(Math,'random').and.returnValue(1);
-      expect(function(){ plane.land(airport); }).toThrowError('cannot land during storm');
+      expect(() => { plane.land(airport); }).toThrowError('cannot land during storm');
       expect(airport.planes()).toEqual([]);
     });
   });
@@ -635,45 +635,45 @@ describe('Feature Test: ', function(){
 ```javascript
 'use strict';
 
-describe('Airport', function(){
-  var airport;
-  var plane;
-  var weather;
+describe('Airport', () => {
+  let airport;
+  let plane;
+  let weather;
 
-  beforeEach(function(){
+  beforeEach(() => {
     plane = jasmine.createSpy('plane');
     weather = jasmine.createSpyObj('weather', ['isStormy']);
     airport = new Airport(weather);
   });
 
-  it('has no planes by default', function(){
+  it('has no planes by default', () => {
     expect(airport.planes()).toEqual([]);
   });
 
-  describe('under normal conditions',function(){
-    beforeEach(function(){
+  describe('under normal conditions',() => {
+    beforeEach(() => {
       weather.isStormy.and.returnValue(false);
     });
-    it('can clear planes for landing', function(){
+    it('can clear planes for landing', () => {
       airport.clearForLanding(plane);
       expect(airport.planes()).toEqual([plane]);
     });
-    it('can clear planes for takeoff', function(){
+    it('can clear planes for takeoff', () => {
       airport.clearForLanding(plane);
       airport.clearForTakeOff(plane);
       expect(airport.planes()).toEqual([]);
     });
   });
 
-  describe('under stormy conditions',function(){
-    beforeEach(function(){
+  describe('under stormy conditions',() => {
+    beforeEach(() => {
       weather.isStormy.and.returnValue(true);
     });
-    it('does not clear planes for landing', function(){
-      expect(function(){ airport.clearForLanding(plane); }).toThrowError('cannot land during storm');
+    it('does not clear planes for landing', () => {
+      expect(() => { airport.clearForLanding(plane); }).toThrowError('cannot land during storm');
     });
-    it('does not clear planes for takeoff', function(){
-      expect(function(){ airport.clearForTakeOff(plane); }).toThrowError('cannot takeoff during storm');
+    it('does not clear planes for takeoff', () => {
+      expect(() => { airport.clearForTakeOff(plane); }).toThrowError('cannot takeoff during storm');
     });
   });
 });
@@ -682,18 +682,18 @@ describe('Airport', function(){
 ```javascript
 'use strict';
 
-describe('Plane',function(){
-  var plane;
-  var airport;
-  beforeEach(function(){
+describe('Plane', () => {
+  let plane;
+  let airport;
+  beforeEach(() => {
     plane = new Plane();
     airport = jasmine.createSpyObj('airport',['clearForLanding','clearForTakeOff']);
   });
-  it('can land at an airport', function(){
+  it('can land at an airport', () => {
     plane.land(airport);
     expect(airport.clearForLanding).toHaveBeenCalledWith(plane);
   });
-  it('can takeoff from an airport', function(){
+  it('can takeoff from an airport', () => {
     plane.land(airport);
     plane.takeoff();
     expect(airport.clearForTakeOff).toHaveBeenCalled();
