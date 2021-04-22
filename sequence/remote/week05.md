@@ -5,13 +5,13 @@
 - 9.30: Peer-led code review
 - 10.30: Group code review and Q&A with coach
 - 11.00: Weekly kickoff workshop
-- [Goals for the week](https://github.com/makersacademy/course/blob/master/thermostat/README.md#goals-for-the-week)
+- [Goals for the week](https://github.com/makersacademy/course/blob/master/thermostat_es6/README.md#goals-for-the-week)
 
 #### Tuesday
 - 09.30: [Workshop - encapsulation](https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/encapsulation_with_constructor_and_prototype_pattern)
 - 10.30: Standups (Student organised)
 
-#### Wednesday 
+#### Wednesday
 - 09.30: [Workshop - following the flow](https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/following_the_flow_and_getting_visibility_in_javascript)
 - 10.30: Standups (Student organised)
 
