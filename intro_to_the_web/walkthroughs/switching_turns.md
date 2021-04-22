@@ -32,7 +32,7 @@ Let's write some feature tests using this visual turn indicator:
 ```ruby
 # in spec/features/switch_turns_spec.rb
 
-scenario 'Switch turns' do
+feature 'Switch turns' do
   context 'seeing the current turn' do
     scenario 'at the start of the game' do
       sign_in_and_play
