@@ -61,15 +61,6 @@ By the end of the module all developers can:
 * Pair using the driver-navigator style
 * Follow an effective debugging process
 
-### Stretch goals
-
-Not everyone will get onto these and that's OK – there will be plenty more time to work on them.
-
-* Test drive a more complex application, with several classes that work together
-* Use doubles and stubs to isolate your unit tests
-* Use static code analysis tools to gain insight into the quality of your code
-
-
 #### The broader course goals relevant to this module are...
 
 * I test-drive my code
@@ -92,51 +83,28 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 For some skills, there are several options so that you can spend some time focussing on that one skill, if that's the best use of your time right now.  There is no expectation that you or anyone else will complete all the exercises.
 
-If you're new to working with classes, start with *An intro to classes*.  If you've already used a class a few times, but not yet written any tests, start with *An intro to writing tests*.  If you've written a few tests already but would to get some more practice, start with *Test Driving a Dice Class*.  If you're looking for something more challenging, jump down to the stretch skills.
 
 | Key Skill                     | Exercise                                  | 
 | ----------------------------- | ---------------------------------------------- |
-| Using Classes        | [An intro to classes][state_and_behaviour]     |
-| Writing Tests                 | [An intro to writing tests][writing_unit_tests]       |
-| Test Driving Methods          | [Test Driving Practical][tdd_practical]        |                                         |
-|                               | [TDD Fizzbuzz][tdd_fizzbuzz]                   |
-|                               | [Test driving a kata][tdd_kata]                   |
-| Test Driving A Single Object  | [Bank Account][bank_account]                   |
+| Test driven development       | [An intro to writing tests][writing_unit_tests]       |
+|                               | [Test Driving Practical][tdd_practical]        |                                         |
+|                               | [Bank Account][bank_account]                   |
 |                               | [Diagram Your TDD Process][diagram_tdd]      |
-|                               | [Test Drive a Dice Class][tdd_dice_class]      |
-| Debugging                     | [Debugging Practical][debugging_practical]     |                     
-|                               | [Debug Fizzbuzz][debug_fizzbuzz]               |     
-|                               | [Debugging 1][debugging_1]                     |                     
+| Debugging                     | [Debug a diary app][debugging_1]                     |                     
 
 | Stretch Skill                 | Exercise                                  |                       
 | ----------------------------- | ---------------------------------------------- | 
 | Test Driving Multiple Objects | [Simple Checkout][simple_checkout]             |
 |                               | [Test Drive a Notes App][tdd_notes_app]        |
-|                               | [Testing Relationships Between Classes][testing_relationships_classes]       |
 | Deciding what to test         | [Testing behaviour rather than state][behaviour_vs_state] |
-| Object Oriented Design        | [Encapsulation][encapsulation] |                   
-| Learn by building | [Build your own RSpec][rspec] |
-| Further TDD       | [TDD an encryption tool][encryption] |
 
-
-[encryption]: https://github.com/makersacademy/skills-workshops/tree/master/practicals/adventures/cipher-world
-[rspec]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md
-[debugging_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md
-[debug_fizzbuzz]: https://hackmd.io/s/S147x3Q3m
 [debugging_1]: https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/debugging_1
-[state_and_behaviour]: https://github.com/makersacademy/skills-workshops/tree/master/ruby-fundamentals/class-syntax
 [writing_unit_tests]: https://github.com/makersacademy/skills-workshops/tree/c268bb78fdc4df644d0ed7b1fdd189de426895f8/week-1/writing_tests
-[testing_relationships_classes]: https://github.com/neoeno/testing_relationships_between_classes
-[tdd_dice_class]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/test_drive_a_single_object.md
 [diagram_tdd]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/diagram_the_your_process.md
 [tdd_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md
 [simple_checkout]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/test_drive_multiple_objects.md
 [tdd_notes_app]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/test_drive_a_notes_app.md
-[di_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md
-[build_rspec]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md
 [bank_account]: https://github.com/makersacademy/simple_tdd_bank
-[tdd_kata]: http://codekata.com/kata/kata01-supermarket-pricing/
-[tdd_fizzbuzz]: https://github.com/makersacademy/course/blob/a40d2500a627546c70feebdc92da329147ae34c1/fizzbuzz/fizzbuzz.md
 [behaviour_vs_state]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/behaviour_not_state.md
 
 
