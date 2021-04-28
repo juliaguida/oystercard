@@ -222,28 +222,28 @@ Now let's declare us a nice variable just inside that function block. Remember h
 ```javascript
 describe('Javabuzz', function() {
 
-  const javabuzz;
-
-});
-```
-
-Oooh, look - a new keyword! What does `const` do when it's at home? 
-
-Basically it's an issue of scope and clarity. `const` means that within a function, you are declaring a **local variable.** This means that in the example above, `const javabuzz` is available only between the nearest `{}`.
-
-What happens if you don't specify `const`? Basically Javascript looks up the scope chain - that is to say, it looks in every parent function, until it finds the variable (in this case `javabuzz`). Once it hits the uppermost level, if it still can't find `javabuzz` it will create it for you - and because it has been created at the top level, it becomes a global variable, available to every function in the program, which is generally considered a 'bad thing'. It's bad because if other JavaScript libraries use the same name in the global variable space, your program will break, so use `const`!
-
-The other keyword you may encounter is `let` 
-
-```javascript
-describe('Javabuzz', function() {
-
   let javabuzz;
 
 });
 ```
 
-This does basically the same thing as `const` except we can *re-assign* javabuzz ! This doesn't mean we can't call methods on something defined with const though - only re-assignment. The rule to follow here is always use `const` unless you need to reassign a variable:
+Oooh, look - a new keyword! What does `let` do when it's at home? 
+
+Basically it's an issue of scope and clarity. `let` means that within a function, you are declaring a **local variable.** This means that in the example above, `let javabuzz` is available only between the nearest `{}`.
+
+What happens if you don't specify `let`? Basically Javascript looks up the scope chain - that is to say, it looks in every parent function, until it finds the variable (in this case `javabuzz`). Once it hits the uppermost level, if it still can't find `javabuzz` it will create it for you - and because it has been created at the top level, it becomes a global variable, available to every function in the program, which is generally considered a 'bad thing'. It's bad because if other JavaScript libraries use the same name in the global variable space, your program will break, so use `let`!
+
+The other keyword you may encounter is `const` 
+
+```javascript
+describe('Javabuzz', function() {
+
+  const javabuzz = 5;
+
+});
+```
+
+This does basically the same thing as `let` except we *cannot re-assign* javabuzz ! This doesn't mean we can't call methods on something defined with const though - only re-assignment. `const` also cannot be initialized without a value. The rule to follow here is **always** use `const` *unless* you need to reassign a variable, or initialize it without a value:
 
 ```javascript
 describe('Javabuzz', function() {
@@ -252,9 +252,11 @@ describe('Javabuzz', function() {
 
   javabuzz = 5 // OK !
 
-  const javafizz;
+  const javafizz; // Error
 
-  javafizz = 5; // ERROR !
+  const bizzjava = 5;
+
+  bizzjava = 10 // Error !
 
 });
 ```
@@ -266,7 +268,7 @@ As I mentioned previously, Jasmine has no equivalent for RSpec's `context` block
 ```javascript
 describe('Javabuzz', function() {
 
-  const javabuzz;
+  let javabuzz;
 
   describe('knows when a number is', function() {
 
@@ -281,7 +283,7 @@ However, it does support `it` - so let's put one of those in!
 ```javascript
 describe('Javabuzz', function() {
 
-  const javabuzz;
+  let javabuzz;
 
   describe('knows when a number is', function() {
 
