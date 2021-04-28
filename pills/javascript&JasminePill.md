@@ -248,13 +248,13 @@ This does basically the same thing as `let` except we *cannot re-assign* javabuz
 ```javascript
 describe('Javabuzz', function() {
 
-  let javabuzz;
+  let javabuzz; // OK !
 
   javabuzz = 5 // OK !
 
-  const javafizz; // Error
+  const javafizz; // Error !
 
-  const bizzjava = 5;
+  const bizzjava = 5; // OK !
 
   bizzjava = 10 // Error !
 
