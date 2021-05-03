@@ -120,20 +120,35 @@ For some skills, there are several options so that you can spend some time focus
 
 ## Week 4: Object-Oriented Design
 
-This week you're introduced to Object-Oriented Design (OOD).  OOD is one approach to organising your code into pieces that are easier to read, reason about, reuse and change.  As software engineers, we care deeply about these things because, when you're working in an engineering team, the one thing you can be certain about is that _your code base will change_.
+As a software developer, there are some things you can be sure of.
 
-### Reflect on TDD
+> 1. You're going to work on codebases that are, or will become, complex
+> 2. How you manage complexity has long term consequences
 
-The skills and concepts dealt with this week build on the things you learned last week, so take a moment to reflect on Test Driven Development. Maybe start by asking yourself "What did I learn about my progress from doing the Airport challenge?".
+Object Orientted Design (sometimes called Object Oriented Programming) is one way of ensuring that complexity is well managed and it's what we'll focus on this week.  It's important, however, to understand that other approaches exist and that the same goals underpin them all.
 
+> We seek to write code that is easy to read, reason about and change by
+> 1. Avoiding repetition
+> 2. Breaking programs down into small, simple, pieces
+> 3. Ensuring that the relationships among pieces are simple
+
+Everything you learn about OOD this week will map onto one or more of those three goals.
+
+### Getting started
+
+#### Reflect on TDD
+
+The skills and concepts dealt with this week build on the things you learned last week, so take a moment to reflect on Test Driven Development. 
+
+* What did you learn about your progress from doing the Airport challenge?
 * Can you test-drive a class with instance variables and methods?
 * Can you test-drive two classes that work together?
 
-If you need to spend more time working on these things, now is the time!
+If you need to spend more time working on these things, go for it!
 
-### This module's main goals
+#### Read and discuss this module's goals
 
-By the end of the module all developers who focus on OOD this week can:
+By the end of the module all developers can:
 * Review another person's code and learn from what they read
 * Review another person's code and give them meaningful feedback
 * Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
@@ -143,7 +158,7 @@ Stretch:
 * Test classes in isolation using mocking and dependency injection
 * Apply some basic OOP principles in tightly focussed exercises
 
-#### The broader course goals relevant to this module are...
+#### Read and discuss the relevant course goals
 
 * I can write standards-compliant, clean object-oriented code
 * I test-drive my code
@@ -152,9 +167,9 @@ Stretch:
 And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md).
 
 ### Resources
-* [POODR](https://www.poodr.com/), by Sandi Metz, is very highly regarded
-* [SOLID](https://rubygarage.org/blog/solid-principles-of-ood) principles with Ruby examples
 * [The 4 pilars of OOD](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
+* [POODR](https://www.poodr.com/), by Sandi Metz, is very highly regarded.  Put it on your post-bootcamp reading list if you don't have time for it now.
+* [SOLID](https://rubygarage.org/blog/solid-principles-of-ood) principles with Ruby examples
 * [Technical learning resources](https://airtable.com/shrtZmDUTQmQFdaZV/tblokmw6yNUO75ge6)
 
 ### Exercises for self-directed learning
@@ -164,22 +179,18 @@ These exercises can be used for independent study, or enhanced by group discussi
 The intention is that you should work through the core exercises in order, from the top to the bottom of the table, looking at optional exercises which interest you or which relate to key skills you feel the need to practice.
 
 
-| Core Skill                         | Core Exercise                                            |                       
+| Key Skill                          | Exercise                                                 |                       
 | ---------------------------------- | -------------------------------------------------------- | 
 | Code Review                        | [Learn from someone else's code][code_review]            |
-| OOP 1: Encapsulation               | [Achieve high cohesion and low coupling][encapsulation]  |
-| OOP 2: Forwarding and polymorphism | [Refactor some code using forwarding and polymorphism][forwarding_polymorphism] |
-| OOP 3: Refactoring                 | [Extract some variables, methods and classes][refactoring_using_oo]       |
-| [Diagramming][diagram] | Do a [sequence] or [class] diagram of your Oystercard program             |
+| Encapsulation                      | [Achieve high cohesion and low coupling][encapsulation]  |
+| Refactoring                        | [Extract some variables, methods and classes][refactoring_using_oo]       |
+| [Diagramming][diagram]             | Do a [sequence] or [class] diagram of your Oystercard program             |
 
-| Stretch Skill                    | Core Exercise                                         |
+
+| Stretch Skill                    | Exercise                                              |
 | -------------------------------- | ----------------------------------------------------- | 
-| OOP 4: Dependency injection      | [Inject some dependencies!][dependency_injection] |
-| Refactoring | Refactor one of your old codebases using OOD |
-|             | Refactor a peer's codebase, using OOD        |
-| Build with OOD | Build the game of life, battleships, tic-tac-toe or mastermind with strict application of SRP, your own double method |
-||Do the [bank] tech test with self assessment|
-| Working with APIs| TDD an application that uses an [API]. The tests should still pass when you're offline :)  |
+| Dependency injection             | [Inject some dependencies!][dependency_injection]     |
+| Mocking                          | [Mock the diary class][mocking]                       |
 
 [bank]: https://github.com/makersacademy/course/blob/master/individual_challenges/bank_tech_test.md
 [API]: https://rapidapi.com/collection/recommended-apis
@@ -191,8 +202,7 @@ The intention is that you should work through the core exercises in order, from 
 [forwarding_polymorphism]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/oo_relationships.md
 [refactoring_using_oo]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/refactoring.md
 [dependency_injection]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md
-
-If you would prefer to work on a single, larger project, take a look at the [Gilded Rose Design Project](https://github.com/makersacademy/course/blob/master/individual_challenges/gilded_rose.md). This is more involved and a wider scope than the more targeted exercises listed above, and is likely to take up most of your mornings this week.
+[mocking]: https://github.com/neoeno/testing_relationships_between_classes
 
 ### Pairing challenge
 
@@ -202,8 +212,8 @@ If you would prefer to work on a single, larger project, take a look at the [Gil
 
 This week you can choose your challenge...
 
-* [Apply your new knowledge to the Airport challenge](https://github.com/makersacademy/airport_challenge)<br>
-* [Do the office management challenge](https://github.com/makersacademy/office-management-challenge) or [the takeaway challenge](https://github.com/makersacademy/takeaway-challenge) if you want to try something new.
+* [Do the office management challenge](https://github.com/makersacademy/office-management-challenge)
+* Or [the takeaway challenge](https://github.com/makersacademy/takeaway-challenge)
 
 
 ## Week 5: The Web
