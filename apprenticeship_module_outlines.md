@@ -184,8 +184,6 @@ The intention is that you should work through the core exercises in order, from 
 | Code Review                        | [Learn from someone else's code][code_review]            |
 | Encapsulation                      | [Achieve high cohesion and low coupling][encapsulation]  |
 | Refactoring                        | [Extract some variables, methods and classes][refactoring_using_oo]       |
-| [Diagramming][diagram]             | Do a [sequence] or [class] diagram of your Oystercard program             |
-
 
 | Stretch Skill                    | Exercise                                              |
 | -------------------------------- | ----------------------------------------------------- | 
