@@ -27,6 +27,11 @@ Choose [legacy code](https://github.com/emilybache/GildedRose-Refactoring-Kata) 
 
 HINT: Test first FTW!
 
+## Self-assessment
+
+Once you have completed the challenge and feel happy with your solution, here's a form to help you reflect on the quality of your code:
+https://docs.google.com/forms/d/e/1FAIpQLSdi4pNXpobmSpdw8T0dml4m6NrQ71IdEzwO5hA9v9_ZzmW7MA/viewform
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---
