@@ -278,13 +278,13 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 ## Week 6: Databases
 
-This week, you'll learn how to build database-backed web applications.  Along the way, you'll build your own [Object Relational Mapper](https://en.wikipedia.org/wiki/DataMapper). Bear in mind that you'll probably never have to do this again – you'd use an existing tool like [Active Record](https://github.com/rails/rails/tree/master/activerecord) or [Ruby Object Mapper](https://rom-rb.org/) instead – but building your own tools is a great way to learn how tools of that type work.
+This week, you'll learn how to build database-backed web applications.  Along the way, you'll build your own [Object Relational Mapper](https://en.wikipedia.org/wiki/DataMapper). Bear in mind that you'll probably never have to do this again – you'd use an existing tool like [Active Record](https://github.com/rails/rails/tree/master/activerecord) or [Ruby Object Mapper](https://rom-rb.org/) instead – but building your own tools is a great way to learn how they work.
 
 ### This module's main goals
 
 By the end of the module all developers can:
 
-* Explain the data flow from user action to server resource and back again
+* Diagram the data flow from user action to server resource and back again
 * Explain the basics of how databases work, including:
    - What tables are and how they are structured
    - What structured query language (SQL) is used for
@@ -293,14 +293,6 @@ By the end of the module all developers can:
    - Many to many relationships
 * Follow an effective debugging process for database-backed web applications
 * Build a simple web app that can read from and write to a database
-
-#### Stretch goals
-
-If you have completed all of the above goals, you can move on to these.
-
-* Deploy an application to Heroku
-* Explain the difference between Postgres and MongoDB
-* Swap postgres DB for MongoDB in one of your existing applications
 
 #### The broader course goals relevent to this module are...
 
@@ -313,17 +305,16 @@ And you can remind yourself of the rest [here](https://github.com/makersacademy/
 
 These exercises can be used for independent study, or enhanced by pairing and group discussion.
 
-| Key Skill              | Core Exercise                                  | Optional Exercises             |
-| ---------------------- | -----------------------------------------------| ------------------------------ |
-| Explain db relations   | [Entity Relationship Diagrams][ERD]            |                                |
-| Use SQL                | [SQL Zoo][zoo]                                 |   [SQL Murder Mystery][sqlmm]  |
-| Connect an app to a DB | [Extend a DB backed app][ruby-db-queries]      | [Add a DB to an app][add-a-db] |
-| Build an app with a DB | [Message board][build-1]                       | [Daily diary app][build-1]     |
+| Key Skill              | Exercise                                       |
+| ---------------------- | -----------------------------------------------|
+| Explain db relations   | [Entity Relationship Diagrams][ERD]            |
+| Use SQL                | [SQL Zoo][zoo]                                 |
+|                        | [SQL Murder Mystery][sqlmm]                    |
+| Querying a database    | [Extend a DB backed app][ruby-db-queries]      |
+| Build an app with a DB | [Message board][build-1]                       |
 
 [sqlmm]: https://mystery.knightlab.com/
 [build-1]: https://github.com/makersacademy/skills-workshops/tree/master/practicals/databases/blog
-[build-2]: https://rom-rb.org/
-[add-a-db]: https://github.com/makersacademy/todo-list-web
 [ruby-db-queries]: https://github.com/makersacademy/makers-sql-session
 [zoo]: https://sqlzoo.net/
 [ERD]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md
