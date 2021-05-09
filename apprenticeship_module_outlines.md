@@ -216,6 +216,8 @@ This week you can choose your challenge...
 
 ## Week 5: The Web
 
+This week you'll learn how to build web applications in Ruby, using TDD.
+
 ### This module's main goals
 By the end of the week, all developers can:
 * Write feature tests using Capybara
@@ -251,14 +253,14 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 > WATCH OUT, REMOTE WORKERS!!  Some of these exercises ask you to collaborate with another learner and send messages from your machine to theirs. This will not work as described unless you're on the same network, so you won't be able to do those few parts whilst working remotely.
 
-| Key Skill             | Core Exercise                                        | Optional Exercises       |
-| --------------------- | ---------------------------------------------------- | ------------------------ |
-| Servers/Clients       | [Servers][servers]                                   |                          |
-|                       | [Clients][clients]                                   |                          |
-|                       | [HTTP Severs][http_servers]                          |                          |
-| TDD                   | [Learn Capybara][capybara_workout]                   |                          |
-|                       | [Birthday][birthday]                                 |                          |
-| REST                  | [REST Game][rest]                                    | [Comedy API][comedy_api] |
+| Key Skill             | Exercise.                                            |
+| --------------------- | ---------------------------------------------------- |
+| Servers/Clients       | [Servers][servers]                                   |
+|                       | [Clients][clients]                                   |
+|                       | [HTTP Severs][http_servers]                          |
+| TDD                   | [Learn Capybara][capybara_workout]                   |
+|                       | [Birthday][birthday]                                 |
+| REST                  | [REST Game][rest]                                    |
 
 [capybara_workout]: https://capybara-workout.herokuapp.com/
 [servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md
@@ -266,7 +268,6 @@ These exercises can be used for independent study, or enhanced by group discussi
 [http_servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md
 [rest]: https://github.com/makersacademy/rest
 [comedy_api]: https://github.com/makersacademy/comedy_api_tech_test
-[to_do_list]: https://github.com/makersacademy/todo-list-web
 [birthday]: https://github.com/makersacademy/course/blob/master/intro_to_the_web/post_challenges/birthday_app.md
 
 ### Pairing challenge
