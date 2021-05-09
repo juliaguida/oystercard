@@ -260,14 +260,11 @@ These exercises can be used for independent study, or enhanced by group discussi
 |                       | [HTTP Severs][http_servers]                          |
 | TDD                   | [Learn Capybara][capybara_workout]                   |
 |                       | [Birthday][birthday]                                 |
-| REST                  | [REST Game][rest]                                    |
 
 [capybara_workout]: https://capybara-workout.herokuapp.com/
 [servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md
 [clients]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md
 [http_servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md
-[rest]: https://github.com/makersacademy/rest
-[comedy_api]: https://github.com/makersacademy/comedy_api_tech_test
 [birthday]: https://github.com/makersacademy/course/blob/master/intro_to_the_web/post_challenges/birthday_app.md
 
 ### Pairing challenge
