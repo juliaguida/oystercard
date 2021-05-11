@@ -1,4 +1,4 @@
-# Post-Challenge 2: Birthday App
+# Birthday App
 
 Your challenge is to build a web app that will ask the user for a name and birthday.
 
