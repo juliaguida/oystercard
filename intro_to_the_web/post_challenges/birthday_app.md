@@ -6,6 +6,10 @@ When the user submits the form, and depending on the current date, the app will 
 - wish the user happy birthday
 - tell them how long they'll have to wait until their next birthday
 
+> If you're doing this challenge as a practical, during your self directed study time, you'll probably need to research some basic HTML. You might feel tempted to begin an HTML course or read an entire text book, but our recommendation is to let the exercise guide you towards the HTML elements that you need and focus on learning how to construct those.  For example, you'll need to build a form so learning how to do that could be your first objective.
+> 
+> If you want a really brief overview of HTML, check out the [HTML pill](https://github.com/makersacademy/course/blob/cd-github-actions/pills/html.md).
+
 ## Proposed screens:
 
 Here are some suggested screens, but feel free to change the content, style and flow to make it your own.
