@@ -1,4 +1,4 @@
-# Post-Challenge 1: Extending Battle
+# Extending Battle
 
 [Back to the Challenge Map](../README.md)
 
