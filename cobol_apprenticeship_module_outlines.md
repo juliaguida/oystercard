@@ -355,7 +355,7 @@ By the end of the module all developers can:
 
 This week you'll work through the [cobol intro](https://github.com/makersacademy/cobol-intro/).  You'll mostly work solo but are encouraged to share knowledge, and struggles, with your peers!
 
-Your coach will most likely arrange some ad-goc sessions for that very purpose :)
+Your coach will most likely arrange some ad-hoc sessions for that very purpose :)
 
 ## Week 8: MakersBnB
 
