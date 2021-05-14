@@ -351,9 +351,11 @@ By the end of the module all developers can:
 * I use my own initiative
 * I use a methodical approach to solving problems
 
-### Pairing challenge
+### Your challenge
 
-[An intro to COBOL](https://github.com/makersacademy/cobol-intro/)
+This week you'll work through the [cobol intro](https://github.com/makersacademy/cobol-intro/).  You'll mostly work solo but are encouraged to share knowledge, and struggles, with your peers!
+
+Your coach will most likely arrange some ad-goc sessions for that very purpose :)
 
 ## Week 8: MakersBnB
 
