@@ -1,55 +1,110 @@
-Doubles, Mocks, Stubs and Spies
-=======
+# Doubles, mocks, stubs, spies and fakes
 
-What makes a good test?
+In object-oriented code, we often have lots of objects interacting with one another. 
+One object sends a message to another object and maybe that object responds with an answer. 
+Or maybe it changes some internal state. 
+Or maybe it interacts with a third object, or calls some expensive external service, or generates a random result, or ...
 
-Well, if we want to get scientific about it (and we do), then it's ensuring that a test has _only one variable_.
+Sometimes these interactions are predictable. 
+Sometimes they are not. 
+How do we write tests for such code while making sure that all these interactions between objects don't trip us up?
+If we just tested all of these objects at once, it would be hard to tell whether our tests are actually testing what we want.
+They might be passing when the code we're trying to test doesn't really do what we need it to or failing when the code is actually correct.
+Ideally, when testing `ObjectA`, we don't want our test to be arbitrarily dependent on the behaviour of `ObjectB`, particularly if `ObjectB` itself has complex logic, or is expensive/complicated to set up. 
 
-You can write beautifully worded tests (and you should), with exquisitely succinct code (and you should), but how can you be absolutely sure that your beautifully succinct tests are not passing by mistake?  Or failing by accident?
+So how do we remove these arbitrary dependencies on `ObjectB`? 
 
-Enter doubles, mocks stubs and spies.
+Enter the idea of _mocking_ and with it a bunch more terms like _doubles_, _stubs_, _spies_ and _fakes_.
 
-The first piece of good news is that these are not four new concepts, but four flavours of essentially the same idea.
+What do these terms refer to and what are the differences between them?
+Unfortunately, this terminology is not agreed upon in the community so you’ll see a lot of contradictory information on the internet.
+Since it's nice to have shared names for things though, the following sections describe how we use these terms at Makers.
 
-The second piece of good news is that testing with doubles, mocks, stubs and spies doesn't just improve your tests, it can improve your design also.
+## Mocks and mocking
+At Makers, use these words as umbrella terms for the practice of creating "pretend" objects or methods to simulate the environment or input of our tests.
+Method stubs and doubles, defined below, are special cases of mocks.
 
-But let's get back to our objective: ensuring a test has _only one_ variable.  What does that mean?
+## Doubles
 
-In OOD, we have lots of objects interacting with one another.  One object sends a message to another object and maybe that object responds with an answer.  Or maybe it changes some internal state.  Or maybe it interacts with a third object, or calls some expensive external service, or generates a random result, or...
+A double refers specifically to a "pretend" object.
+At Makers, we borrow this name from RSpec (although RSpec is not where it originated). 
+We often pre-program them with expectations about which calls they are expected to receive.
 
-Sometimes these interactions are predictable.  Sometimes they are not.  But either way, if I am testing `ObjectA`, then I don't want my test to be arbitrarily dependent on the behaviour of `ObjectB`.  Particularly if `ObjectB` is expensive or complex to instantiate.
+Instead of testing `ObjectA` against an instance of `ObjectB`, we use a stand in (a "stunt double" if you like) for `ObjectB` instead.
+`ObjectA` doesn't know the difference, it simply treats the double as if were an instance of `ObjectB`, but it's not - it's a pretend object that we've set up and which won't introduce any unpredictable behaviour into our test.
 
-So how do I remove the arbitrary dependencies on `ObjectB`?  Here are some examples:
+## Stubbing or method stubbing
 
-### Doubles
-Instead of testing `ObjectA` against an instance of `ObjectB`, I use a stand in (a stuntman if you like) for `ObjectB` instead.  `ObjectA` doesn't know the difference, it simply treats the double as if were an instance of `ObjectB`, but it's not - it's a dummy that I've set up with static (and therefore _not variable_) values.
+Stubbing refers to the technique of providing canned responses to methods so that we can simulate the scenarios we want in tests.
+You can stub methods on doubles, but in languages like Ruby or Javascript you can also stub built-in methods.
+For example, you could stub Ruby’s random function like this:
 
-### Stubs
-I want to test some behaviour of `ObjectA`, but during the execution of that behaviour, `ObjectA` calls a method on `ObjectB`.  I don't need to test that the method on `ObjectB` gets called, but I do want to make sure that when it does, the method on `ObjectB` always returns a specific value.
+```
+# weather.rb
+class Weather
 
-### Mocks
-I want to test some behaviour of `ObjectA` and, critically, during the execution of that behaviour, `ObjectA` must call a method on `ObjectB` with specific arguments.  In my test, I don't particularly care what happens afterwards, but I want to test that in the code that _is about to be executed_ the specific method _is_ called with the correct arguments.
+  def generate
+    weather_types = [:rainy, :sunny, :stormy]
+    # picks a random index in the array and returns the value at that index
+    weather_types[Kernel.rand(weather_types.length)]
+  end
 
-### Spies
-I want to test some behaviour of `ObjectA` and, critially, during the execution of that behaviour, `ObjectA` must call a method on `ObjectB` with specific arguments  (sound familiar?).  In my test, I don't particularly care what else happened during the test, just that in the code that _was just executed_ the specific method _was_ called with the correct arguments.
+end
 
-### Summary
-Actually, I may have misled you a bit there.  Many of these terms are interchangable depending on the testing framework and mocks and doubles are pretty much the same thing; it's the concepts that are important.
+# weather_spec.rb
 
-So, can these techniques really improve your design also?
+describe Weather do
+  it "creates stormy weather" do
+    allow(Kernel).to receive(:rand).and_return(2) # stubbing Kernel.rand
+    expect(Weather.new.generate).to eq(:stormy)
+  end
+end
+```
 
-Absolutely.  And here's why:
+## Spies
 
-* Good code is always easy to test.
-* Bad code is sometimes easy to test.
-* Hard-to-test code is never any good.
+This is where things already get murkier!
 
-So, by making your code easy to test using doubles, mocks, stubs and spies; the better it's likely to be.
+In RSpec, [spies](https://relishapp.com/rspec/rspec-mocks/v/3-10/docs/basics/spies) are special types of doubles that don’t require you to pre-program which methods you expect to be called first before they are called.
+They allow you to write code in a more "Arrange, Act, Assert" style that many people like.
 
-Resources
----------
+In Jasmine, a [spy](https://jasmine.github.io/2.0/introduction#section-Spies) refers to something a little different.
+It can act like an RSpec double in that it can be used to stub a function, change what it returns and track calls to it.
+However, a Jasmine spy can also be used to simply track calls to the real function, without stubbing it, i.e. without changing the real behaviour of the function.
 
-* https://relishapp.com/rspec/rspec-mocks/docs
+## Fakes
+Fakes are typically not doubles but rather real instances of classes that actually have working implementations, but usually take some shortcut which makes them not suitable for production (for example an email service that doesn’t send a real email but just logs the fact that it would have, or a database that’s really just a simple file). 
+
+Usually we use fakes when we want to avoid the work of setting up the real thing but do want to verify that our code could interact with it correctly. You won’t encounter them much at Makers but they are frequently used in real codebases. 
+
+For example, S3 is a cloud storage service provided by Amazon Web Services which many tech companies rely on.
+A quick search on Google for "fake S3" returns `fake-s3` which describes itself as "a lightweight server that responds to the same API of Amazon S3".
+
+And why did someone bother building `fake-s3`? The repo's README page answers that too: 
+
+> It is extremely useful for testing of S3 in a sandbox environment without actually making calls to Amazon, which not only requires a network connection, but also costs money with every use.
+But either way, if I am testing ObjectA, then I don't want my test to be arbitrarily dependent on the behaviour of ObjectB. Particularly if ObjectB is expensive or complex to instantiate.
+## Final note
+
+As mentioned at the outset, the above describes how we use these terms at Makers.
+Outside of Makers, be prepared to encounter different definitions, especially as you start using different frameworks, testing libraries and programming languages.
+
+Nevertheless, the core idea behind all of these terms remains the same.
+They all refer to the practice of replacing the "real" behaviour of our code with behaviour that we can control, inspect or have some guarantees about so that we can write more useful tests.
+
+As an added bonus, these techniques can help you improve the design of your code as well. Here's why:
+
+- Good code is always easy to test.
+- Bad code is sometimes easy to test.
+- Hard-to-test code is never any good.
+ 
+So, by making your code easy to test using mocking, you might end up discovering how to improve its design as well! 
+
+## Resources
+
+- [RSpec doubles](https://relishapp.com/rspec/rspec-mocks/v/3-10/docs/basics/test-doubles)
+- [RSpec spies](https://relishapp.com/rspec/rspec-mocks/v/3-10/docs/basics/spies)
+- [Jasmine spies](https://jasmine.github.io/2.0/introduction#section-Spies)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
