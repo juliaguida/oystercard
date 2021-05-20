@@ -22,7 +22,7 @@ In this challenge, you will get the application and database talking to each oth
 
 ## Hints
 &nbsp;<details><summary>CLICK ME</summary>
-- Use the [`pg` documentation](https://bitbucket.org/ged/ruby-pg/wiki/Home) to help you understand how your code will interact with `pg`.
+- Use the [`pg` documentation](https://github.com/ged/ruby-pg) to help you understand how your code will interact with `pg`.
 
 - You can also `require 'pg'` in irb to investigate how it works.
 
