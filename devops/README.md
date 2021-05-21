@@ -44,6 +44,16 @@ We can consider the SDLC as the **What**, whereas DevOps is one of the parts tha
 
 ### Benefits from adopting DevOps practices
 
+There are multiple benefits that are brought to a team after adopting DevOps practices:
+- **Speed**: Teams are able to release updates and add new features faster
+- **Delivery**: Deployments happen more often
+- **Reliability**: One noticeable addition are automated tests. These run before deployments happen and this way we increase the likelihood of things not going the wrong way before it's too late
+- **Scale**: The key is being able to scale the different pieces that form our program up and down as required (e.g. in response to traffic loads)
+- **Collaboration**: This is a huge one. Teams work together in a more efficient way thanks to practices like combining workflows or sharing ownership of tasks as convenient
+- **Security**: More and more, security places a key part in DevOps. When everyone is an active part of the SDLC, it is easier to stay compliant even at scale. Automated security is starting to be more and more relevant, something that can be obvious if we think the whole SDLC may take just one hour!
+
+
+### What's that Cloud everyone is talking about?
 
 
 ### What we are going to learn
