@@ -65,7 +65,7 @@ Let's get hands-on and put some DevOps practices into action, we'll be looking a
 - [CI/CD](https://opensource.com/article/18/8/what-cicd) as a key DevOps practice with a huge focus on speed, automation and reliability, among others.
 - [Amazon S3](https://aws.amazon.com/s3/) as the AWS resource that will host our live static website
 
-Get started by visiting the following [doc](https://github.com/makersacademy/course/tree/devops-jh/devops/hello-cloud-world).
+Get started by visiting the following [doc](https://github.com/makersacademy/course/blob/devops-jh/devops/hello_cloud_world.md).
 
 ### What's Next?
 

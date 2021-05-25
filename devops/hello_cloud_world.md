@@ -24,7 +24,7 @@ JUST RUN PYTHON TESTS, CI
 
 ## Create, set and run CI job
 
-For our project, the idea is that this job is responsible for running the Python tests under [this file](https://github.com/makersacademy/course/tree/devops-jh/devops/sample_unit_tests).
+For our project, the idea is that this job is responsible for running the Python tests under [this file](https://github.com/makersacademy/course/blob/devops-jh/devops/files/sample_unit_tests.py).
 
 If the test fails, your job will be to fix the failing tests by analysing the outcome on the GitHub Action flow.
 If the tests succeed, this means we're ready to move on :sunglasses:
