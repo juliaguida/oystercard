@@ -18,30 +18,47 @@ You will need to enter a debit/credit card for this. However, we are going to us
 
 Now that your AWS Account is created, log into the AWS Console and search for **S3** under *Services*. Your task will be to create a bucket that will be the place where you will host your static website eventually.
 
+:exclamation: It is a key to **enable static website hosting on the bucket**. If you haven't done so when creating it, you can still do it in the *Properties* tab of your bucket, right at the end. The *index* and *error* documents should match with the titles of the HTML project files of this repository, which you saw before already.
+
 ## Create GitHub Actions Workflow on your repository
 
-JUST RUN PYTHON TESTS, CI
+If you have never used GitHub Actions before, [this tutorial from GitHub](https://docs.github.com/en/actions/learn-github-actions/introduction-to-github-actions) will come in really handy to understand how it works and different pieces you need to create your first workflow.
 
 ## Create, set and run CI job
 
 For our project, the idea is that this job is responsible for running the Python tests under [this file](https://github.com/makersacademy/course/blob/devops-jh/devops/files/sample_unit_tests.py).
+
+:exclamation: Bear in mind that you will have to set up your workflow to use Python on the step(s) you want to run. GitHub Actions has a great marketplace with existing actions that you can benefit from without having to go too far in setting up things, [this may be helpful](https://docs.github.com/en/actions/guides/building-and-testing-python).
 
 If the test fails, your job will be to fix the failing tests by analysing the outcome on the GitHub Action flow.
 If the tests succeed, this means we're ready to move on :sunglasses:
 
 ## Create, set and run CD job
 
-The outcome of the previous step will determine whether this job will run or not on GitHub Actions. Assuming our tests pass, we should set our CD job to deploy our static website files into the S3 Bucket.
+The outcome of the previous step should logically determine whether this job will run or not on GitHub Actions. However, that is not happening at the moment and the CD job seems to be running whether the CI job is passing or not! In fact, they seem to be running in parallel! :alarm:
+This is really bad: What if we introduced a bug in our application, what would then be the purpose of our CI job here if the CD job is triggered nonetheless?
 
-- Why these 2 files?
+What we would really like to do is to set our CD job as a dependent job, so that if the CI job outcome is a green tick (assuming our tests pass), our CD job should be triggered to deploy our static website files into the S3 Bucket.
 
-After these files are placed in our S3 Bucket. We need to find the URL to access our static website.
+These files that we need for the static website are under `./files/www`. Why do we need exactly these two files? 
+- Well, your task is to find out how to enable *static website hosting* on the bucket and see if you can find more information about these two files specifically with these titles.
+
+:exclamation: In order to deploy your website files to your S3 Bucket, you need to [add some credentials](https://github.com/aws-actions/configure-aws-credentials) that are sent along with the request to update your S3 Bucket when your CD job is running and doing its task.
+
+Imagine what would happen if this step was not mandatory: It would mean that anyone would be able to update your S3 Bucket just knowing the name of it! :fire:
+
+After you've successfully set up and run your CD job, these files should be in our S3 Bucket. We then need to find the URL to access our static website.
 - Use the AWS Console to access your S3 Bucket and find that link.
 
 After you've found the link. What happens when you try to access the URL on your browser?
 
-S3 Buckets are private by default, which means they're not publicly accessible on the web.
+S3 Buckets are private by default, which means they're not publicly accessible on the web. So if you did not unblock public access when you created the bucket...
 - Can you find out how to make your bucket public instead so that you can access your website on the browser?
+
+If you're still getting a :lock: *403 Forbidden* response when trying to access the public URL of your static website, it could be because your HTML files were there before you enabled public access to your bucket, and therefore these objects are not made public yet!
+- There's a way to select objects within the bucket individually and make them public, your task is to do exactly that!
+
+It's useful that we learned all this about S3 in such a small project! We know now that, apart from the whole bucket, each object can be made public or private as we see fit :relieved:
 
 ## Test end-to-end flow
 
