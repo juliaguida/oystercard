@@ -6,6 +6,7 @@ At the end of it, you will be equipped with enough context to keep moving forwar
 
 Are you ready? Keep reading!
 
+
 ## Learning objectives
 
 By the end of this course, the goal is to be able to answer "yes" to these questions:
@@ -15,6 +16,7 @@ By the end of this course, the goal is to be able to answer "yes" to these quest
 * **Can you explain what's the Cloud?**
 * **Can you create a CI/CD pipeline using GitHub Actions?**
 * **Can you deploy a static site to an S3 bucket on AWS (Amazon Web Services) using the existing pipeline to automate the process?**
+
 
 ### What's DevOps?
 
@@ -67,13 +69,23 @@ Let's get hands-on and put some DevOps practices into action, we'll be looking a
 
 Get started by visiting the following [doc](https://github.com/makersacademy/course/blob/devops-jh/devops/hello_cloud_world.md).
 
+
 ### What's Next?
 
 This short course was just a gentle introduction to the world of DevOps and some common practices. There are many more things to learn! Some things you can explore are:
 
+
 #### Modern Architectures: Containers and Serverless
 
-DOCKER, AWS LAMBDA...
+As part of this project, we worked with a static website consisting of merely two HTML files, and with some tests running on a workflow that are not testing anything really as part of our application. This has been intentional in order to illustrate some fundamental DevOps concepts in this introductory course.
+
+However, this won't be the case in a real world scenario. As part of the requirements to build a full solution, we will have to work in several parts of it, such as the high-level and low-level architectures of our applications.
+
+One popular discussion these days in the world of DevOps is whether we should aim for [containerising](https://www.docker.com/resources/what-container) our services or build a [serverless solution](https://www.excellentwebworld.com/serverless-architecture/) instead.
+
+There are [pros and cons to both](https://www.serverless.com/blog/serverless-faas-vs-containers), so if you're curious, do some research and draw your own conclusions!
+- If you have a pet project in mind you'd like to build, which approach do you think makes more sense for it? Maybe both and it's just a matter of preference?
+
 
 #### IaC (Infrastructure as Code)
 
@@ -82,3 +94,11 @@ For this short course, you created your infrastructure (your S3 Bucket) using th
 An alternative could be to install the AWS CLI locally and create the resource(s) through your terminal. However, did you know that you could code your infrastructure as well? A very popular tool to do this is [Terraform](https://www.terraform.io/).
 
 It'd be a great exercise to create another S3 Bucket using the CLI and then another one using Terraform. Then, compare the outcome after using these three techniques.
+
+
+#### DevOps Alumni Community
+
+Finally, did you know that there's a `_devops` channel in the Makers Alumni Slack? Why don't you also introduce yourself there? There are a few reasons why you may consider being part of it:
+- You may want to explore the DevOps world more in depth together with other fellow mates
+- You may want to share what you're working on with others and inspire them
+- You may want to give and receive advice on your DevOps quests
