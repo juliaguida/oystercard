@@ -66,7 +66,8 @@ It's useful that we learned all this about S3 in such a small project! We know n
 
 ## Are we doing things the right way?
 
-The outcome of the CI job should logically determine whether the CD job will run or not in our GitHub Action workflow. However, depending on how you set your workflow, that may not happening at the moment and the CD job may be running regardless of whether the CI job is passing or not! (What is then the purpose of the CI job? :boom:)
+The outcome of the CI job should logically determine whether the CD job will run or not in our GitHub Action workflow. However, depending on how you set your workflow, that may not happening at the moment and the CD job may be running regardless of whether the CI job is passing or not! 
+- What is then the purpose of the CI job? :boom:
 
 In fact, if you check closely when you push new changes, they may be even running in parallel! :rotating_light:
 This is really bad: What if we introduced a bug in our application, what would then be the purpose of our CI job here if the CD job is triggered nonetheless?
@@ -77,9 +78,10 @@ What we would really like to do is to set our **CD job as a dependent job**, so 
 
 ## Test end-to-end flow
 
-- Add a new test to test file, make sure it runs on GitHub Action
+- Add a new test to test file, make sure it runs within your GitHub Action workflow
 - Change the content of your static HTML files. Are these changes reflected on the live website after the SDLC for your app has finished?
 
+:grey_exclamation: If you can't see the changes reflected after the pipeline has finished (wait a few seconds first), can you double check your new objects within your S3 bucket are public?
 
 ## Bonus
 
