@@ -27,7 +27,7 @@ DevOps then was born as an effort to close the gaps between the different teams.
 ![DevOps](assets/devops-diagram.jpeg?raw=true "DevOps Diagram from Stack Overflow")
 Source: [Stack Overflow](https://stackoverflow.com/tags/devops/info)
 
-As defined in Stack Overflow, DevOps acknowledges the interdependence of software development, quality assurance, and IT operations, and aims to help an organization rapidly produce software products and services and to improve operations performance.
+As defined in Stack Overflow, DevOps acknowledges the interdependence of software development, quality assurance, and IT operations, and aims to help an organisation rapidly produce software products and services and to improve operations performance.
 
 DevOps is a philosophy, a culture that can be adopted in a team!
 

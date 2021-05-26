@@ -12,7 +12,7 @@ This repository will serve as the place where your [project files](https://githu
 
 For the sake of this project, we are going to use AWS as our designated Cloud provider. In order to work with AWS, you need to [create an account](https://aws.amazon.com/free/).
 
-You will need to enter a debit/credit card for this. However, we are going to use only one AWS Service (S3) which is **free tier elegible for a year**, so it should not generate any costs under your account.
+You will need to enter a debit/credit card for this. However, we are going to use only one AWS Service (S3) which is **free tier eligible for a year**, so it should not generate any costs under your account.
 
 ## Create an S3 Bucket on AWS
 
