@@ -14,7 +14,7 @@ By the end of this course, the goal is to be able to answer "yes" to these quest
 * **Can you explain some advantages of applying DevOps practices?**
 * **Can you explain what's the Cloud?**
 * **Can you create a CI/CD pipeline using GitHub Actions?**
-* **Can you deploy a static site to an S3 bucket on AWS using the existing pipeline to automate the process?**
+* **Can you deploy a static site to an S3 bucket on AWS (Amazon Web Services) using the existing pipeline to automate the process?**
 
 ### What's DevOps?
 
