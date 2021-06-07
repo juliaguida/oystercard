@@ -13,9 +13,9 @@ By the end of this course, the goal is to be able to answer "yes" to these quest
 
 * **Can you explain what DevOps is about and where it fits in the SDLC (Software Development Life Cycle)?**
 * **Can you explain some advantages of applying DevOps practices?**
-* **Can you explain what's the Cloud?**
+* **Can you explain what the Cloud is?**
 * **Can you create a CI/CD pipeline using GitHub Actions?**
-* **Can you deploy a static site to an S3 bucket on AWS (Amazon Web Services) using the existing pipeline to automate the process?**
+* **Can you deploy a static site to an S3 bucket on AWS (Amazon Web Services) using a pipeline to automate the process?**
 
 
 ### What's DevOps?
@@ -67,7 +67,7 @@ Let's get hands-on and put some DevOps practices into action, we'll be looking a
 - [CI/CD](https://opensource.com/article/18/8/what-cicd) as a key DevOps practice with a huge focus on speed, automation and reliability, among others.
 - [Amazon S3](https://aws.amazon.com/s3/) as the AWS resource that will host our live static website
 
-Get started by visiting the following [doc](https://github.com/makersacademy/course/blob/devops-jh/devops/hello_cloud_world.md).
+Get started by visiting the following [doc](hello_cloud_world.md).
 
 
 ### What's Next?
@@ -77,9 +77,11 @@ This short course was just a gentle introduction to the world of DevOps and some
 
 #### Modern Architectures: Containers and Serverless
 
-As part of this project, we worked with a static website consisting of merely two HTML files, and with some tests running on a workflow that are not testing anything really as part of our application. This has been intentional in order to illustrate some fundamental DevOps concepts in this introductory course.
+As part of this project, we worked with a static website consisting of merely two HTML files, and with some tests running on a workflow that are not testing anything really as part of our application. 
 
-However, this won't be the case in a real world scenario. As part of the requirements to build a full solution, we will have to work in several parts of it, such as the high-level and low-level architectures of our applications.
+This has been intentional in order to illustrate some fundamental DevOps concepts in this introductory course.
+
+However, bear in mind that this won't be the case in a real world scenario. The more experience we gain, the more we will be involved in the process of making decisions regarding the architecture of different applications.
 
 One popular discussion these days in the world of DevOps is whether we should aim for [containerising](https://www.docker.com/resources/what-container) our services or build a [serverless solution](https://www.excellentwebworld.com/serverless-architecture/) instead.
 
@@ -102,3 +104,13 @@ Finally, did you know that there's a `_devops` channel in the Makers Alumni Slac
 - You may want to explore the DevOps world more in depth together with other fellow mates
 - You may want to share what you're working on with others and inspire them
 - You may want to give and receive advice on your DevOps quests
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=devops/README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=devops/README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=devops/README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=devops/README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=devops/README.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

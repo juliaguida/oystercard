@@ -7,7 +7,7 @@ This is a list of tasks we are going to go through:
 
 ## Create a GitHub repository
 
-This repository will serve as the place where your [project files](https://github.com/makersacademy/course/tree/devops-jh/devops/files) will live and, also, the place where you will set up your GitHub Actions for the CI/CD pipeline.
+This repository will serve as the place where your [project files](files) will live and, also, the place where you will set up your GitHub Actions for the CI/CD pipeline.
 
 
 ## Create an AWS Account
@@ -31,7 +31,7 @@ If you have never used GitHub Actions before, [this tutorial from GitHub](https:
 
 ## Create, set and run CI job
 
-For our project, the idea is that this job is responsible for running the Python tests included in [this file](https://github.com/makersacademy/course/blob/devops-jh/devops/files/sample_unit_tests.py).
+For our project, the idea is that this job is responsible for running the Python tests included in [this file](files/sample_unit_tests.py).
 
 :exclamation: Bear in mind that you will have to set up your workflow to use Python on the step(s) you want to run. GitHub Actions has a great marketplace with existing actions that you can benefit from without having to go too far in setting up things, [this may be helpful](https://docs.github.com/en/actions/guides/building-and-testing-python).
 
@@ -93,3 +93,13 @@ Can you think of a better way to work with feature branches in your GitHub repos
 ## After you're done with the project
 
 Make sure you delete the content within the S3 Bucket and then delete the bucket, this will prevent costs from being generated in the future. It's really important to keep track of any resources that are added to your AWS account.
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=devops/hello_cloud_world.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=devops/hello_cloud_world.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=devops/hello_cloud_world.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=devops/hello_cloud_world.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=devops/hello_cloud_world.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->
