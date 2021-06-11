@@ -65,14 +65,15 @@ The challenge material is pretty tough this week. You're not meant to get throug
  9. [Setting up a Testing Environment](09_setting_up_a_testing_environment.md)
  10. [Creating bookmarks](10_creating_bookmarks.md)
  11. [Wrapping Database data in program objects](11_wrapping_database_data_in_program_objects.md)
- 12. [Deleting bookmarks](12_deleting_bookmarks.md)
- 13. [CRUD](13_crud.md)
- 14. [Extracting a Database Setup object](14_extracting_a_database_setup_object.md)
- 15. [Validating bookmarks](15_validating_bookmarks.md)
- 16. [One to Many Relationships](16_one_to_many_relations.md)
- 17. [Many to Many Relationships](17_many_to_many_relationships.md)
- 18. [Registration](18_registration.md)
- 19. [Authentication](19_authentication.md)
+ 12. [Securing Your App](./12_securing_your_app.md)
+ 13. [Deleting bookmarks](13_deleting_bookmarks.md)
+ 14. [CRUD](14_crud.md)
+ 15. [Extracting a Database Setup object](15_extracting_a_database_setup_object.md)
+ 16. [Validating bookmarks](16_validating_bookmarks.md)
+ 17. [One to Many Relationships](17_one_to_many_relations.md)
+ 18. [Many to Many Relationships](18_many_to_many_relationships.md)
+ 19. [Registration](19_registration.md)
+ 20. [Authentication](20_authentication.md)
 
 ### Post Challenges
 

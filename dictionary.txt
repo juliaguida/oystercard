@@ -397,6 +397,7 @@ OpenSSL
 ORM
 ORMs
 OSS
+OWASP
 OysterCard
 Oystercard
 oystercard
@@ -599,6 +600,7 @@ unstyled
 unvalued
 uptimes
 URI
+url
 USD
 UX
 UX/UI
