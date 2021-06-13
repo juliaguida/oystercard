@@ -2,7 +2,7 @@ set -euf -o pipefail
 
 if ! command -v spellchecker &> /dev/null; then
   echo ":: Installing Spellchecker CLI"
-  npm install -g spellchecker-cli
+  npm install -g spellchecker-cli@~4.7.0
 fi
 
 export PROJECT_ROOT="$(git rev-parse --show-toplevel)"
