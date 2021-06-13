@@ -299,3 +299,10 @@ accessors
 CamelCase
 OysterCard's
 Reloader
+DevOps
+SDLC
+Terraform
+CLI
+IaC
+Serverless
+serverless
