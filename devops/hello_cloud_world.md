@@ -98,7 +98,7 @@ Make sure you delete the content within the S3 Bucket and then delete the bucket
 
 ---
 
-**How was this resource?**
+**How was this resource?**  
 [😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=devops/hello_cloud_world.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=devops/hello_cloud_world.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=devops/hello_cloud_world.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=devops/hello_cloud_world.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=devops/hello_cloud_world.md&prefill_Sentiment=😀)  
 Click an emoji to tell us.
 

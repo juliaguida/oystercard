@@ -19,7 +19,7 @@ jobs:
           node-version: 14.9.0
 
       - name: Install spellcheck
-        run: npm install -g spellchecker-cli
+        run: npm install -g spellchecker-cli@~4.7.0
 
       - name: Check spelling
         run: ./scripts/check_spelling.sh
