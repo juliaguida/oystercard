@@ -17,7 +17,7 @@
 
 | Elements | Teacher-directed learning  | Self-directed learning
 | --- | --- | ---
-| Climate | Formal, authority-oriented, competitive, judgmental | Informal, mutually respectful, consensual, collaborative, Supportive
+| Climate | Formal, authority-oriented, competitive, judgemental | Informal, mutually respectful, consensual, collaborative, Supportive
 | Planning | Primarily by teacher | By participative decision-making
 | Diagnosis of needs | Primarily by teacher | By mutual assessment
 | Setting goals | Primarily by teacher | By mutual negotiation
