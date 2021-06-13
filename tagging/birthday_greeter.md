@@ -1,6 +1,6 @@
 # Project: Birthday greeter web app
 
-To achieve these goals:
+To help you achieve these goals:
 * I use a methodical approach to solving problems
 * I test-drive my code
 * I create effective documentation
