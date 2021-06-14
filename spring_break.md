@@ -15,7 +15,8 @@ If you, like me, find programming not just a challenging profession but also an 
 [Exercism](https://exercism.io) is a good website for learning your second programming language or beyond. I'd suggest:
 
 * Python
-* Java
+* Java (we regularly have jobs via partners that use this language)
+* Scala (less frequently than Java, but we also have jobs upcoming that use this language)
 * Typescript
 * Go
 * Rust
