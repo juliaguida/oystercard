@@ -1,4 +1,4 @@
-#Development environments
+# Development environments
 
 A web project usually has at least three environments: development, test and production. An environment is the "mode" the project is running in, determined by the set of the environment variables (the environment the shell variables are in and the environment the project is running in are two different concepts that share the same name).
 
