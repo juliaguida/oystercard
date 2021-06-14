@@ -1,4 +1,4 @@
-# Spring Break Challenges for Developers on Immersive
+# Spring Break Information for Developers on Immersive
 
 Hello everyone! Makers is closed for a spring break for the week of Jun 21st. It has been a challenging time over the past year, and we would encourage you to use this time to refresh.
 
