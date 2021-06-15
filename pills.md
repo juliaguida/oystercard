@@ -76,6 +76,8 @@ Knowledge pills are like little vitamin pills you can take in quickly to underst
 
 :pill: [Variables](https://github.com/makersacademy/course/blob/master/pills/variables.md)
 
+:pill: [Meta-programming](https://github.com/makersacademy/course/blob/master/pills/meta_programming.md)
+
 
 ## Rails
 
