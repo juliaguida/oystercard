@@ -2,6 +2,8 @@
 
 **Remember: [Success at Makers](https://github.com/makersacademy/course/tree/master/goals)** means understanding how to [reflect on your learning](https://github.com/makersacademy/course/blob/master/goals/reflective_learning.md) throughout these three months in order to demonstrate to yourself you've achieved the course goals.
 
+You can also have a look at what the schedule for a [typical week at Makers](https://github.com/makersacademy/course/blob/master/sequence/remote/typical_week.md) will look like.
+
 ## Week 1
 
 ### Goals
