@@ -52,10 +52,6 @@ At the end of the week, each group will give a presentation about their project.
 
 Here are some [guidelines](./presentation_guidelines.md) to follow when planning your presentation.
 
-### Sequence & Schedule
-* [Onsite](../sequence/onsite/week09.md)
-* [Remote](../sequence/remote/week09.md)
-
 ## Resources
 
 * :pill: [Development workflow](https://github.com/makersacademy/course/blob/master/pills/development_workflow.md)

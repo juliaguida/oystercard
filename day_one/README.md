@@ -1,6 +1,7 @@
 # Welcome to Makers
 
 You might be looking for one of these:
+- [Day one schedule - Remote](https://github.com/makersacademy/course/blob/master/sequence/remote/day_one.md)
 - [Day one schedule](https://github.com/makersacademy/course/blob/master/sequence/onsite/day_one.md)
 - [Paring challenges](https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/pairing_challenges)
 

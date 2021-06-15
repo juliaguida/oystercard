@@ -59,10 +59,6 @@ On Friday of week 12 (next week), you'll graduate.  At the graduation ceremony, 
 
 See the [guidelines](../pills/final_project_presentations.md).
 
-### Sequence & Schedule
-* [Onsite](../sequence/onsite/final_projects.md)
-* [Remote](../sequence/remote/final_projects.md)
-
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

@@ -81,10 +81,6 @@ As a customer
 I need to have the correct fare calculated
 ```
 
-### Sequence & Schedule
-* [Onsite](../sequence/onsite/week02.md)
-* [Remote](../sequence/remote/week02.md)
-
 ## Set up the project:
 
   1. [Create a Gemfile](01_create_gemfile.md)

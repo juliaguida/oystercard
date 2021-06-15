@@ -66,11 +66,6 @@ You can use Ruby or JavaScript for any of the challenges.
 
 Enjoy these challenges - they are either adapted or directly copied from actual tech tests that employers send out. You will find other tech tests in this folder that you can attempt over the weekend or after graduation.
 
-### Schedule
-
-* [Onsite](../sequence/onsite/week10.md)
-* [Remote](../sequence/remote/week10.md)
-
 ### Resources
 
 * [Tech test checklist](https://github.com/makersacademy/jobhunters/blob/master/pills/tech_test_guide.md)

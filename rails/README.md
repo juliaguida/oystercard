@@ -70,10 +70,6 @@ Your diagram can include boxes for every directory and file inside a standard Ra
 
 Yelp is a popular web application that allows users to rate and review restaurants, and find other diner's ratings and comments. For the rest of the week you will be building a clone of this site using Rails. Build the project in teams using the [specification](yelp_project_specification.md).
 
-### Sequence & Schedule
-* [Onsite](../sequence/onsite/week08.md)
-* [Remote](../sequence/remote/week08.md)
-
 ## MVP
 
 Remember to focus on getting to an MVP ASAP.

@@ -21,8 +21,6 @@ Instead, you can talk about the main part of the project and maybe how informati
 
 * There's no need to talk about the future direction of the project.  Focus your presentation on what you've already achieved.
 
-### Important instructions: [Remote](../sequence/remote/demo_day_presentations.md) | [Onsite](../sequence/onsite/demo_day_presentations.md)
-
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---
