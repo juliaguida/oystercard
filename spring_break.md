@@ -10,6 +10,20 @@ If you'd like to meet up with your cohort in person we would definitely encourag
 
 If you, like me, find programming not just a challenging profession but also an interesting intellectual pursuit, you might enjoy the following challenges.
 
+## Fundamentals of TDD
+
+We cover test-driven-development plenty at Makers of course, but if you'd like to get ahead or have another perspective on it, this course from the dev consultancy thoughtbot comes well recommended.
+
+> You've heard about testing, and even better "Test-Driven Development", but you're still not sure exactly what they are. Well now you'll know!
+In this trail, thoughtbot developers Harry Schwartz and Ian C. Anderson cover core principles of writing code with Test-Driven Development. You'll learn about the benefits of testing, the way testing first applies positive design pressure to your code, and how to apply TDD to your own development.
+
+[Get started here.](https://thoughtbot.com/upcase/fundamentals-of-tdd)
+
+#### Reasons to pick this
+
+* You'd like to improve your test-driven development.
+* You don't know test-driven development yet, and you'd like to get ahead.
+
 ### Exercism
 
 [Exercism](https://exercism.io) is a good website for learning your second programming language or beyond. I'd suggest:
