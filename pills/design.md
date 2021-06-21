@@ -10,12 +10,8 @@ _(please note, this is not an exhaustive list!)_
 * [Great Google Font Pairings](http://hellohappy.org/beautiful-web-type/)
 * [The Kerning Game](http://type.method.ac/)
 * [All About Grid Systems](http://webdesign.tutsplus.com/articles/all-about-grid-systems--webdesign-14471)
-* [Adobe Color Pallettes](https://color.adobe.com/explore/most-popular/?time=all)
+* [Adobe Colour Palettes](https://color.adobe.com/explore/most-popular/?time=all)
 * [Flat UI Colours](http://flatuicolors.com/)
-
-
-***BRUCIE BONUS!!!***
-* [The Typography of 'Alien'](http://typesetinthefuture.com/alien/)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

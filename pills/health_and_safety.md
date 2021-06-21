@@ -18,14 +18,14 @@ In the event of a fire:
 
 * Don't stop to collect personal belongings.
 
-* Follow the instructions of the Fire Marshals (Edward, Dana, Camelia, Becks, Emily, Anna, Alice, Nikesh) to leave the building, fire exit signs and do not use lifts.
+* Follow the instructions of the Fire Marshals to leave the building, fire exit signs and do not use lifts.
 
 * Assembly point is in the corner of Thrawl Street and Commercial Street - turn right out of the front door.
 
 FIRST AID
 --------
 
-* If somebody gets injured, get help from one of the first aiders - Dana or Nikesh.
+* If somebody gets injured, get help from one of the first-aiders.
 
 * There are first aid boxes on the 3rd floor.
 

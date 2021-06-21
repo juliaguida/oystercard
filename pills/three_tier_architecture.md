@@ -11,7 +11,7 @@ If we drill down a little we can see the *lingua franca* of the world-wide web: 
 
 ![Three Tier Middle](../images/3-tier-middle.png)
 
-Drilling down even further we can see the names of the many technologies, languages, frameworks and protocols that are used at different levels in the three tier application stack, as well as examples of what some of these look like.  This diagram will largely seem like gobbledigook at the beginning of the course.  By the end of the course it will seem much clearer.  There will still be grey areas, but you will start to feel comfortable with knowledge of the different moving parts that allow you to create, and problem-shoot, large web applications.
+Drilling down even further we can see the names of the many technologies, languages, frameworks and protocols that are used at different levels in the three tier application stack, as well as examples of what some of these look like.  This diagram will largely seem like nonsense at the beginning of the course.  By the end of the course it will seem much clearer.  There will still be grey areas, but you will start to feel comfortable with knowledge of the different moving parts that allow you to create, and problem-shoot, large web applications.
 
 ![Three Tier Detail](../images/3-tier.png)
 

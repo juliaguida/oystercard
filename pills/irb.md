@@ -15,7 +15,7 @@ The irb is a Ruby [REPL (read-evaluate-print loop)](http://en.wikipedia.org/wiki
 => 4
 ````
 
-Irb is very useful for playing with Ruby. Whenever you think "Hey, what would this code do?", try it in irb and see if it does what you think it should do. Sometimes you'll be surprised. For example, what will this code do?
+IRB is very useful for playing with Ruby. Whenever you think "Hey, what would this code do?", try it in irb and see if it does what you think it should do. Sometimes you'll be surprised. For example, what will this code do?
 
 ````ruby
 5 / 2
@@ -28,7 +28,7 @@ You may expect that it will evaluate to 2.5 but you'll be wrong.
 => 2
 ````
 
-This is not a mistake, it's a pecularity of Ruby language. We'll discuss why it evaluates to 2 instead of 2.5 shortly.
+This is not a mistake, it's a peculiarity of Ruby language. We'll discuss why it evaluates to 2 instead of 2.5 shortly.
 
 Don't assume that irb is only good for relatively simple snippets of code. You can put something really sophisticated into irb as well (and you will, as you learn more about Ruby).
 
@@ -71,7 +71,7 @@ When you want to quit irb, just type `exit`.
 Advanced IRB
 ------------
 
-You can control what happens when you start irb using a .irbrc file placed in your home directory, e.g.
+You can control what happens when you start irb using a `.irbrc` file placed in your home directory, e.g.
 
 ```ruby
 Dir['./lib/*.rb'].each { |f| require f }

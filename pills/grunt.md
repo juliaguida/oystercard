@@ -4,7 +4,7 @@ Many thanks to [Spike](http://github.com/Spike01) for the original design of thi
 
 Grunt is a task runner, similar to `rake`. Grunt has some [really good documentation](http://gruntjs.com/getting-started) (which is rare in the land of JavaScript), so do check it out, but here is a condensed walkthrough to help get you set up.
 
-First, install the Grunt-CLI tools with:
+First, install the `Grunt-CLI` tools with:
 
 ```sh
 npm install -g grunt-cli
@@ -16,7 +16,7 @@ Then, install it locally for your project with
 npm install --save-dev grunt
 ```
 
-Now, we need a Gruntfile. These are just like a Rakefile, and live in the root directory of your project. To begin with, we will be building a Gruntfile that runs `jshint`. For this, we will need to install the relevant Grunt plugin, `grunt-contrib-jshint`. Install that into your dev-dependencies and let's have a look at the insides of the Gruntfile we will be building.
+Now, we need a `Gruntfile`. These are just like a `Rakefile`, and live in the root directory of your project. To begin with, we will be building a `Gruntfile` that runs `jshint`. For this, we will need to install the relevant Grunt plugin, `grunt-contrib-jshint`. Install that into your `dev-dependencies` and let's have a look at the insides of the `Gruntfile` we will be building.
 
 `Gruntfile.js`
 ```javascript
@@ -35,7 +35,7 @@ module.exports = function(grunt){
 };
 ```
 
-This Gruntfile will run `jshint` every time you type `grunt`.
+This `Gruntfile` will run `jshint` every time you type `grunt`.
 
 ##Tasks
 

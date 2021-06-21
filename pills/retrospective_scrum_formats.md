@@ -21,7 +21,7 @@ Retrospectives also come from Agile methodology:
 
 http://en.wikipedia.org/wiki/Scrum_(software_development)#End_meetings_.28Sprint_Review_and_Sprint_Retrospective.29
 
-Retrospectives should be time boxed (30mins, 1, 2 or 3 hours) and used to look back at the changes that were made, how they worked out, new problems that arise; a general looking back at what worked and what didn't work.  Here are some alternate formats:
+Retrospectives should be time boxed (30 minutes, 1, 2 or 3 hours) and used to look back at the changes that were made, how they worked out, new problems that arise; a general looking back at what worked and what didn't work.  Here are some alternate formats:
 
 * StartStopContinue - everyone writes down things they think should be started, stopped and continued, and these are all written up in a shared space, for subsequent discussion
 * LikeLoveLoathe - everyone writes down things they like, love and loathe, and these are all written up in a shared space, for subsequent discussion

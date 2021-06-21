@@ -98,7 +98,7 @@ describe Post do
 end
 ```
 
-* check that that fails 
+* check that this fails 
 
 * now we need to generate model tag
 
@@ -113,7 +113,7 @@ end
 bin/rails g migration CreateJoinTablePostsTags post tag
 
 * run migration and check that tests fail in correct fashion
- 
+
 * adjust the post.rb model
 
 ```ruby

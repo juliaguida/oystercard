@@ -1,6 +1,6 @@
 # Practice Project week
 
-You'll spend this week working in teams on a project. You'll generate some project ideas (eg "Build a Scheme compiler", or "Make a game".) You'll each choose which projects you'd prefer to work on.  Your coach will try to assign you to a team that will work on one of your preferred projects.
+You'll spend this week working in teams on a project. You'll generate some project ideas (e.g. "Build a Scheme compiler", or "Make a game".) You'll each choose which projects you'd prefer to work on.  Your coach will try to assign you to a team that will work on one of your preferred projects.
 
 This week will be a one week version of final projects.
 
@@ -48,7 +48,7 @@ You'll have standups and retros in your teams.
 
 ## Presentations
 
-At the end of the week, each group will give a presentation about their project.  They will talk through a very simple slide deck and do a quick demo of their project.  There's no need to spend ages planning or practicising the presentation.  It's mainly to communicate about your technical achievements, and show off your cool project to the rest of your cohort.
+At the end of the week, each group will give a presentation about their project.  They will talk through a very simple slide deck and do a quick demo of their project.  There's no need to spend ages planning or practising the presentation.  It's mainly to communicate about your technical achievements, and show off your cool project to the rest of your cohort.
 
 Here are some [guidelines](./presentation_guidelines.md) to follow when planning your presentation.
 

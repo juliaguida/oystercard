@@ -151,7 +151,7 @@ CSS is fairly easy to pick up, but extremely hard to master. To make matters wor
 - CSS [Positioning](http://learnlayout.com/position.html)
 - CSS [Vendor Prefixes](http://webdesign.about.com/od/css/a/css-vendor-prefixes.htm) and [how to deal with them](https://css-tricks.com/how-to-deal-with-vendor-prefixes/)
 - CSS [Typography and Font Imports using `@font-face`](http://learn.shayhowe.com/html-css/working-with-typography/)
-- CSS [Resets](http://stackoverflow.com/questions/6887336/what-is-the-difference-between-normalize-css-and-reset-css --> normalize less aggressive than reset)
+- CSS [Resets](http://stackoverflow.com/questions/6887336/what-is-the-difference-between-normalize-css-and-reset-css)
 
 Some things that are _very handy_ to know include:
 

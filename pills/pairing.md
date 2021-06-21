@@ -56,15 +56,15 @@ If the driver and the navigator both go silent and the driver pushes on regardle
 
 Not ideal.
 
-### Driver in Narrative Mode 
+### Driver in Narrative Mode
 
-In this context the driver is explaining their thought process as they type, as they reflect on how to solve the problem.  The navigator can thus stay in touch with what is going on and is in a better position to ask helpful questions and make suggestions.  Working in narrative mode (i.e. explaining what you are doing as you are doing it) is tough and takes practice; but that is worthwhile since you will become a better pair partner if you develop your narrative skills.  Note also that it forces you to consider your solution more carefully, because you are forcing yourself to verbalize the details.
+In this context the driver is explaining their thought process as they type, as they reflect on how to solve the problem.  The navigator can thus stay in touch with what is going on and is in a better position to ask helpful questions and make suggestions.  Working in narrative mode (i.e. explaining what you are doing as you are doing it) is tough and takes practice; but that is worthwhile since you will become a better pair partner if you develop your narrative skills.  Note also that it forces you to consider your solution more carefully, because you are forcing yourself to verbalise the details.
 
 ### Shared Head Space - what you are aiming for
 
 This is the pinnacle of effective pairing.  Both navigator and driver are in narrative mode, and are taking turns speaking, and swapping driver/navigator roles at appropriate intervals.  In the short term this is mentally and emotionally exhausting compared to working solo.  However in the long term both parties will learn more and progress faster.  Pairing can sometimes seem like the slow road, but it can help both individuals focus in a way that's not possible individually.  Furthermore the process of discussing and debating (within reason) the various aspects of what you are doing helps both parties to better remember what they are discovering through the pairing process.
 
-This 'state of flow' is not trivial to achieve, but well worth the effort.  In order to achieve it both parties need to be assertive in asking the other to move on from a debate or conversely to review something more carefully (depending on the circumstances) in order to make best progress as a pair.  Furthermore both parties must be also assertive in terms of saying things like "I'm really stuck now, can we take a 15min break?" or "shall we both go and read the documentation for 30 minutes and then come back together to discuss what we worked out".  The ultimate goal is a process of co-discovery, but you need to negotiate with your pair partner to get the best out of each other.
+This 'state of flow' is not trivial to achieve, but well worth the effort.  In order to achieve it both parties need to be assertive in asking the other to move on from a debate or conversely to review something more carefully (depending on the circumstances) in order to make best progress as a pair.  Furthermore both parties must be also assertive in terms of saying things like "I'm really stuck now, can we take a 15 minutes break?" or "shall we both go and read the documentation for 30 minutes and then come back together to discuss what we worked out".  The ultimate goal is a process of co-discovery, but you need to negotiate with your pair partner to get the best out of each other.
 
 
 ### Silent Pairing

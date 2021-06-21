@@ -36,7 +36,7 @@ You should see something like
 git version 1.7.12.4 (Apple Git-37)
 ````
 
-Once you have verified that you have heroku and git locally, we need to start preparing for deployment.
+Once you have verified that you have Heroku and git locally, we need to start preparing for deployment.
 
 ### Prepare the project for deployment
 
@@ -148,7 +148,7 @@ heroku open
 
 into the Command Line and it will be launched in the browser! It should look exactly the same as on your local machine but this time it will have a public URL that you'll be able to use from any computer.
 
-Note that heroku relies on whatever is visible in git.  Any time you make a change to your local code you will need to ensure that you have committed it to your git repository in order for it to be pushed to heroku.  Please also take care with files that are being ignored by git due to a .gitignore file:
+Note that Heroku relies on whatever is visible in git.  Any time you make a change to your local code you will need to ensure that you have committed it to your git repository in order for it to be pushed to Heroku.  Please also take care with files that are being ignored by git due to a `.gitignore` file:
 
 https://devcenter.heroku.com/articles/gitignore
 

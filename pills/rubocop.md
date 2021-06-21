@@ -38,7 +38,7 @@ Style/MethodDefParentheses:
   Enabled: false
 ```
 
-These are Makers specific customizations of the Ruby style guide.  Once this is in place we can type the command 'rake' at the command line in the directory with the 'spec' folder and assuming no style violations we get something like the following:
+These are Makers specific customisations of the Ruby style guide.  Once this is in place we can type the command 'rake' at the command line in the directory with the 'spec' folder and assuming no style violations we get something like the following:
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

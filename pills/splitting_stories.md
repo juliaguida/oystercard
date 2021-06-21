@@ -1,10 +1,10 @@
 # Splitting Epics into User Stories
 
 Remember you typically are looking to develop slices of a business opportunity that produces valuable working software with the potential to generate feedback from users.
- 
+
  Sometimes the story slices are not deliverable to end-users but they generate value from the learning gained in producing them. They should all result in testable and demonstrable software. Consider applying the XP principle DTSTTCPW (“Do The Simplest Thing That Could Possibly Work”)
 
-Here are some useful questions to consider when trying to slice stoties apart.
+Here are some useful questions to consider when trying to slice stories apart.
 
 What are the visual elements that must be there or can be deferred ?
   * You can make a simple (not pretty) UI.
@@ -29,7 +29,7 @@ This is not an exhaustive list! Be creative in your story splitting approach.
 
 Some blogs about this:
 
-   * [Bill Wake](http://xp123.com/articles/twenty-ways-to-split-stories) 
+   * [Bill Wake](http://xp123.com/articles/twenty-ways-to-split-stories)
   * [Rachel Davies](http://agilecoach.typepad.com/agile-coaching/2010/09/ideas-for-slicing-user-stories.html)
   * [Richard Lawrence](http://www.richardlawrence.info/2009/10/28/patterns-for-splitting-user-stories)
   * [James Grenning](http://blog.wingman-sw.com/archives/48)

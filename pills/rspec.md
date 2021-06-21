@@ -75,7 +75,7 @@ Inside the **it block** we will add our test code. In our simple greeter the **i
       expect(greet('Rico')).to eq 'Hello, Rico, how are you today?'
 ````
 
-There is actually a lot going on here, let's look into it with more detail. Before we do that though I would like you to notice how well this actually reads; it's almost like an english phrase!
+There is actually a lot going on here, let's look into it with more detail. Before we do that though I would like you to notice how well this actually reads; it's almost like an English phrase!
 
 > Expect greet Rico to equal "Hello, Rico, how are you today?"
 
@@ -91,7 +91,7 @@ it 'greets Rico' do
 end
 ````
 
-Did you notice the **eq**? This is a so called [Matcher](https://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers). A [matcher](https://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers) is essentially a method that will match the operation inside the expect method (result) with the expectation ('Hello, Rico, how are you today?’). [RSpec](http://rspec.info) has a lot of [built in matchers](https://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers) that you can make use of while writing your specs (*you can even write your own matchers!*)
+Did you notice the `eq`? This is a so called [matcher](https://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers). A [matcher](https://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers) is essentially a method that will match the operation inside the expect method (result) with the expectation ('Hello, Rico, how are you today?’). [RSpec](http://rspec.info) has a lot of [built in matchers](https://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers) that you can make use of while writing your specs (*you can even write your own matchers!*)
 
 The next thing we need to do is implement this method, but remember, we only want to implement the **simplest code that could possibly work!**
 

@@ -1,6 +1,6 @@
 ### Forms
 
-It's inconvenient to enter the visitor's name directly in the URL. Let's create a form to ask for the visitor's name. Modify your erb template:
+It's inconvenient to enter the visitor's name directly in the URL. Let's create a form to ask for the visitor's name. Modify your ERB template:
 
 ````html
 <div style='border: 3px dashed red'>
@@ -34,7 +34,7 @@ Since the second input tag doesn't have any data in it (it's a button, after all
 <input type="text" name="name">
 ````
 
-So, when you click the submit button, your browser sends a request to the URL specified in the **action** attribute of the form tag and sends all input fields from the **form** as parameters. That's why when you enter your name a click the button, you get redirected to /hello?name=YourName.
+So, when you click the submit button, your browser sends a request to the URL specified in the **action** attribute of the form tag and sends all input fields from the **form** as parameters. That's why when you enter your name a click the button, you get redirected to `/hello?name=YourName`.
 
 ![alt text](images/sinatra/sinatra_basic_9.png)
 

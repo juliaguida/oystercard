@@ -56,7 +56,7 @@ user.occupation = "node Warrior"
 user.save
 ```
 
-There are many more **Read** methods than can be covered here – have a look at the [appropriate RailsGuide](http://guides.rubyonrails.org/active_record_querying.html) for a comprehensive list.
+There are many more **Read** methods than can be covered here – have a look at the [appropriate Rails Guide](http://guides.rubyonrails.org/active_record_querying.html) for a comprehensive list.
 
 ### Validations
 

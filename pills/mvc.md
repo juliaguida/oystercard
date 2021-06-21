@@ -4,7 +4,7 @@
 
 **MVC** stands for **model, view, controller** – the three key types of component that make up many web apps.
 
-There is a [video](https://www.youtube.com/watch?v=13Ln4NtOcBs) of Samm diagramming the MVC flow available as well.
+There is a [video](https://www.youtube.com/watch?v=13Ln4NtOcBs) of Sam Morgan diagramming the MVC flow available as well.
 
 Rails is very *opinionated*, and expects you to develop your web apps using this MVC architectural pattern. So what are these three things, exactly?
 
@@ -58,7 +58,7 @@ For example:
 
 Separation of concerns.
 
-Keeping your model, view and controller code isolated ensures that you can change one part without affecting the rest - like in the example above of switching out a view for a JSON API. Or if you wanted to change the way the information was presented to a user – just edit the view. 
+Keeping your model, view and controller code isolated ensures that you can change one part without affecting the rest - like in the example above of switching out a view for a JSON API. Or if you wanted to change the way the information was presented to a user – just edit the view.
 
 That separation keeps your code clean, makes it semantic and easy to understand, and makes it *break less*.
 

@@ -17,7 +17,7 @@ Let's imagine we have a client, who says
 
 > Build me a payment system.
 
-In order to transform this large, _epic_ requirement into a working application we need to break it down. We do this by creating **User Stories**, which are _packages of requirements_, or 'features'. They are written from the application user's point of view, which keeps us (and the client) focussed on delivering an application of value to those who will actually be using it.
+In order to transform this large, _epic_ requirement into a working application we need to break it down. We do this by creating **User Stories**, which are _packages of requirements_, or 'features'. They are written from the application user's point of view, which keeps us (and the client) focused on delivering an application of value to those who will actually be using it.
 
 We will have _many user stories for every client_.
 
@@ -43,7 +43,7 @@ We will have _many unit tests for every acceptance test_.
 
 ##### Stage 4: Implementing Features, one at a time
 
-Our unit tests are written one step at a time, and our implementation should follow that trend. Once we have watched an Acceptance Test fail, and written the failure to a unit test, we should _watch that unit test fail_, then _do the simplest possible thing to make that test pass_. This is sometimes counterintuitive: it is hard to stop writing implementation code when the next feature seems so obviously in reach. But check yourself: add to the unit test first, and approach the implementation afresh each time. You'll find brand new ways to refactor your implementation to make it more efficient.
+Our unit tests are written one step at a time, and our implementation should follow that trend. Once we have watched an Acceptance Test fail, and written the failure to a unit test, we should _watch that unit test fail_, then _do the simplest possible thing to make that test pass_. This is sometimes counter-intuitive: it is hard to stop writing implementation code when the next feature seems so obviously in reach. But check yourself: add to the unit test first, and approach the implementation afresh each time. You'll find brand new ways to refactor your implementation to make it more efficient.
 
 In this way, moving between unit tests and implementation is an _iterative_ process.
 

@@ -5,10 +5,10 @@ properly. It was pretty common for a simple set of URLs for doing basic actions
 like create, read, update and delete (CRUD) on something like adding a
 restaurant to a database to look as messy as this:
 
-* new_restaurant
-* update_restaurant/123
-* deleteRestaurant/123
-* get_restaurant?id=123
+* `new_restaurant`
+* `update_restaurant/123`
+* `deleteRestaurant/123`
+* `get_restaurant?id=123`
 
 Here we have nothing standardised, it's hard to understand what's going on and
 hard to structure our app so that all of these routes point to the same
@@ -36,7 +36,7 @@ request](https://www.safaribooksonline.com/library/view/head-first-servlets/9780
 But HTTP also allows us to use other verbs like `POST`, `PATCH` and `DELETE`
 when sending requests. Fielding realised that these verbs matched perfectly
 onto CRUD. Using this knowledge, he showed how we could tidy up our URLs by
-rather than having a different url/resource for each action, having one resource
+rather than having a different URL/resource for each action, having one resource
 for everything we want do:
 
 * CREATE - POST /restaurants
@@ -45,7 +45,7 @@ for everything we want do:
 * DELETE - DELETE /restaurants/123
 
 See how much tidier that is? Now we have one URL (although of course when
-creating we don't have the ID as we don't know what it is until we've created it) rather than the mess of URLS we had previously.
+creating we don't have the ID as we don't know what it is until we've created it) rather than the mess of URLs we had previously.
 
 Although there's of course much more to REST, understanding that it's all about
 *resources*/*nouns* (like restaurants in this example), and *verbs*
@@ -83,7 +83,7 @@ DELETE  /restaurants/:id       restaurants#destroy
 
 ## Exercises
 
-- Design the url schema for a RESTful API for the Makers Bnb project (a clone of Airbnb)
+- Design the URL schema for a RESTful API for the MakersBnb project (a clone of Airbnb)
 - Design a RESTful API schema for Gmail
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

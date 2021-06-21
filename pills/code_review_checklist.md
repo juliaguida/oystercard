@@ -7,7 +7,7 @@
 - [ ] Unit tests are isolated (mock? dependency injection?)
 - [ ] Unhappy paths and edge cases are tested
 ### Readability
-- [ ] Is there a linter? Does it pass? (rubocop, eslint)
+- [ ] Is there a linter? Does it pass? (Rubocop, ESLint)
 - [ ] Clear class/method/variable/test names
 - [ ] Names are not abbreviated
 - [ ] Code is easy to understand

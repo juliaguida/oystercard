@@ -19,7 +19,7 @@ Try specifying the port in the browser bar now: it works just fine. But, try a p
 
 `www.google.com:22`
 
-As we mentioned, the port 80 is reserved for web (HTTP) connections but there are many more. For example, ssh (secure shell connection) uses port 22 and https (encrypted HTTP connection) usually run on port 443. However, all of those are just conventions. Nothing prevents you from running an ssh server on port 80, if you insist on it.
+As we mentioned, the port 80 is reserved for web (HTTP) connections but there are many more. For example, SSH (secure shell connection) uses port 22 and HTTPS (encrypted HTTP connection) usually run on port 443. However, all of those are just conventions. Nothing prevents you from running an SSH server on port 80, if you insist on it.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

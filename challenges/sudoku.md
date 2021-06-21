@@ -210,7 +210,7 @@ end
 
 **If you have made the changes but the grid isn't filled out, iterate again**
 
-This tells us that that the grid must somehow know that it's filled out. Sounds like a method!
+This tells us that the grid must somehow know that it's filled out. Sounds like a method!
 
 ````ruby
 class Grid

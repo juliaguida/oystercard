@@ -9,7 +9,7 @@ Also see the [health and safety :pill:](./health_and_safety.md).
 
 ## Breakfast
 
-* Healthy breakfast sundries, coffee, and tea is provided, with delivery on Mondays and a fruit topup on Wednesdays. If supplies run low, earlier than expected, let us know so we can adjust the next week's order.
+* Healthy breakfast sundries, coffee, and tea is provided, with delivery on Mondays and a fruit top-up on Wednesdays. If supplies run low, earlier than expected, let us know so we can adjust the next week's order.
 
 ## Meeting rooms
 

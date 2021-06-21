@@ -5,10 +5,6 @@ Knowledge pills are like little vitamin pills you can take in quickly to underst
 ## Unix
 :pill: [The command line](https://github.com/makersacademy/course/blob/master/pills/command_line.md)
 
-:pill: [Installing RVM](https://github.com/makersacademy/course/blob/master/pills/installing_rvm.md)
-
-:pill: [Installing XCode](https://github.com/makersacademy/course/blob/master/pills/installing_xcode.md)
-
 :pill: [Sublime Text License](https://github.com/makersacademy/course/blob/master/pills/sublime_text.md)
 
 ## Git

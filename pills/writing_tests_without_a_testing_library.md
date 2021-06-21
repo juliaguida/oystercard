@@ -21,7 +21,7 @@ A testing library supplies:
 
 ## Writing tests without a testing library
 
-All of these things are either optional for test code, or can be easily achieved with adhoc code.  For example, here is some code that tests a circle object:
+All of these things are either optional for test code, or can be easily achieved with ad hoc code.  For example, here is some code that tests a circle object:
 
 ```js
 // circle-tests.js

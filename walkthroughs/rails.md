@@ -11,7 +11,7 @@ MVC Intro and Diagram
 
 Model View Controller (MVC) is an architectural pattern for dividing up responsibilities for serving a view, by having the presentation logic in a view, the business logic in a model and the two managed by a controller.  Very often the presentation of the final view will involve the controller coordinating the merging of model data with a view template for display to a user.
 
-Rails uses the the MVC pattern, and let's start by installing that:
+Rails uses the MVC pattern, and let's start by installing that:
 
 ```sh
 gem install rails
@@ -46,7 +46,7 @@ group :test, :development do
 end
 ```
 
-* and `bundle install` 
+* and `bundle install`
 
 * next we'll use the rails generate command (see rspec-rails website):
 
@@ -91,7 +91,7 @@ bin/rake db:create db:migrate
   get 'restaurants' => 'restaurants#index'
 ```
 
-which links up the '/restaurants' URL to the index action on the restaurants controller.  As we have more actions we could continue to add individual routes such as "get 'restaurants/new' => 'restaurants#new'", but rails gives us a shortcut for creating all the commonly used routes associated with a resource, e.g. 
+which links up the '/restaurants' URL to the index action on the restaurants controller.  As we have more actions we could continue to add individual routes such as "get 'restaurants/new' => 'restaurants#new'", but rails gives us a shortcut for creating all the commonly used routes associated with a resource, e.g.
 
 ```ruby
   resources :restaurants
@@ -227,12 +227,12 @@ describe 'restaurants listing page' do
 
   context 'are restaurants' do
     before do
-      Restaurant.create(name: 'McDonalds') 
+      Restaurant.create(name: 'McDonalds')
     end
     it 'should show the restaurant' do
       visit 'restaurants'
       expect(page).to have_content 'McDonalds'
-    end 
+    end
   end
 end
 ```
@@ -262,7 +262,7 @@ class Restaurant < ActiveRecord::Base
 end
 ```
 
-* Unlike in Datamapper where we might add a property :name, String in the model file, in Rails active record the properties are all specified in migrations, so that we have a precise record of the changes that the database goes through as we evolve our models over time, and they can all be stored in our version control system. 
+* Unlike in Datamapper where we might add a property :name, String in the model file, in Rails active record the properties are all specified in migrations, so that we have a precise record of the changes that the database goes through as we evolve our models over time, and they can all be stored in our version control system.
 
 * Looking at db/migrate/201406030093124_create_restaurants.rb we see the following file has been created:
 
@@ -282,7 +282,7 @@ Note that as well as the string name property that we specified in the generator
 * We can run our tests now, but we'll get a reminder that we need to actually run these migrations in order to support the Restaurant model that we want to work with:
 
 ```sh
-bin/rake db:migrate 
+bin/rake db:migrate
 ```
 
 * Depending on our setup we might also have to run this migration (which creates the restaurant table in the database) on the test database like so:
@@ -299,10 +299,10 @@ bin/rake db:migrate RAILS_ENV=test
 <% if Restaurant.all.any? %>
   <% Restaurant.all.each do |restaurant| %>
     <%= restaurant.name %>
-  <% end %> 
+  <% end %>
 <% else %>
   <h1>No restaurants yet</h1>
-<% end %> 
+<% end %>
 ```
 
 * the tests should all pass now, but what cardinal sin have we committed?
@@ -322,10 +322,10 @@ end
 <% if @restaurants.any? %>
   <% @restaurants.each do |restaurant| %>
     <%= restaurant.name %>
-  <% end %> 
+  <% end %>
 <% else %>
   <h1>No restaurants yet</h1>
-<% end %> 
+<% end %>
 ```
 
 So in summary our URL http://localhost:3000/restaurants hits the Rails routing system, which passes the request to the index action in the restaurants controller which queries the database for any restaurant models.  The controller then passes an instance variable containing all the restaurant models to the erb view, where they can be correctlt formatted and the resulting HTML is passed back to the browser for display to the end user.

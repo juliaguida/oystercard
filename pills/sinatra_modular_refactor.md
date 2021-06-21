@@ -1,9 +1,9 @@
 # How to Refactor with Sinatra
 
 ## The Problem.
-Unlike Rails, Sinatra allows us a great deal of flexibility in how we organize our code. One benefit of this is that it allows a natural development process: our app can start small and easily understandable. As it grows, its parts can gradually be broken out.
+Unlike Rails, Sinatra allows us a great deal of flexibility in how we organise our code. One benefit of this is that it allows a natural development process: our app can start small and easily understandable. As it grows, its parts can gradually be broken out.
 
-Things get messy, however, when we don't take that that step of breaking up and refactoring.
+Things get messy, however, when we don't take that step of breaking up and refactoring.
 
 This pill will take you through the process of refactoring your routes. Consider the following (as we're not concerned with the body of the routes they've been omitted):
 

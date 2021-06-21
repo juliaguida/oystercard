@@ -437,7 +437,7 @@ and let's add some styling on the github logo to fix it's width [can inspect ele
       }
 ```
 
-The height of the header is just dictated by the height of the largest element, which can be overridden.  Let's get the search form inline with the the logo:
+The height of the header is just dictated by the height of the largest element, which can be overridden.  Let's get the search form inline with the logo:
 
 ```css
       body {

@@ -17,7 +17,7 @@ Above, we see two examples of HTML _tags_. One of them is `<div>` and the other 
 - `<div>` is used as an all-purpose container, to separate content. Its use implies that there is content inside it.
 - `<h1>` is the '1st-level header' tag. Its use implies that its contents constitute primary header for the page.
 
-> You should use more specific containers than `<div>` when creating HTML files, such as `<article>` and `<aside>`. These better convey the meaning of the contents than the general-purpose `<div>`. If you don't do this, your pages can end up being an inexplorable sea of `<div>` tags, which will make maintaining it harder, search engines might penalise you and screen readers, used by people with visual impairment, might not work so well.
+> You should use more specific containers than `<div>` when creating HTML files, such as `<article>` and `<aside>`. These better convey the meaning of the contents than the general-purpose `<div>`. If you don't do this, your pages can end up being an incomprehensible sea of `<div>` tags, which will make maintaining it harder, search engines might penalise you and screen readers, used by people with visual impairment, might not work so well.
 
 You will note that both `<div>` and `<h1>` are repeated twice - as `</div>` and `</h1>`. This is because both of these tags are 'block' tags that require a **closing tag** to end their respective sections. Some tags, like `<img>` (the _image_ tag, used to insert images within a page) are so-called 'self-closing' tags, and do not require, say, an `</img>` closing tag. It is generally good practice, though, to write self-closing tags with the `/` at the end anyway, like this: `<img />`.
 
@@ -37,7 +37,7 @@ In the above line of code, `<img />` is an HTML tag denoting an image, and `src`
 <a href="http://www.gumtree.com/cats/london/kittens+for+sale">Kittens for Sale</a>
 ```
 
-`href` tells us something about `<a>` (the 'anchor' tag, used for hyperlinks) - specifically, where it will take us when we click on it. Note also that 'Kittens for Sale' is written directly within `<a>`. This is a perfectly normal thing to do: if tags contain any information (rather than more tags), it is _always_ text. This text _usually_ uses the [UTF-8 character set](http://en.wikipedia.org/wiki/UTF-8), and you will often have to specify for cases where it does not.
+`href` tells us something about `<a>` (the 'anchor' tag, used for hyperlinks) - specifically, where it will take us when we click on it. Note also that 'Kittens for Sale' is written directly within `<a>`. This is a perfectly normal thing to do: if tags contain any information (rather than more tags), it is _always_ text. This text _usually_ uses the [`UTF-8` character set](http://en.wikipedia.org/wiki/UTF-8), and you will often have to specify for cases where it does not.
 
 Can we use multiple attributes in HTML? What about something like `<a href="http://google.com" target="_blank">Click here</a>`? Is that valid HTML?
 

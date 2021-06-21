@@ -1,18 +1,18 @@
 # Doubles, mocks, stubs, spies and fakes
 
-In object-oriented code, we often have lots of objects interacting with one another. 
-One object sends a message to another object and maybe that object responds with an answer. 
-Or maybe it changes some internal state. 
+In object-oriented code, we often have lots of objects interacting with one another.
+One object sends a message to another object and maybe that object responds with an answer.
+Or maybe it changes some internal state.
 Or maybe it interacts with a third object, or calls some expensive external service, or generates a random result, or ...
 
-Sometimes these interactions are predictable. 
-Sometimes they are not. 
+Sometimes these interactions are predictable.
+Sometimes they are not.
 How do we write tests for such code while making sure that all these interactions between objects don't trip us up?
 If we just tested all of these objects at once, it would be hard to tell whether our tests are actually testing what we want.
 They might be passing when the code we're trying to test doesn't really do what we need it to or failing when the code is actually correct.
-Ideally, when testing `ObjectA`, we don't want our test to be arbitrarily dependent on the behaviour of `ObjectB`, particularly if `ObjectB` itself has complex logic, or is expensive/complicated to set up. 
+Ideally, when testing `ObjectA`, we don't want our test to be arbitrarily dependent on the behaviour of `ObjectB`, particularly if `ObjectB` itself has complex logic, or is expensive/complicated to set up.
 
-So how do we remove these arbitrary dependencies on `ObjectB`? 
+So how do we remove these arbitrary dependencies on `ObjectB`?
 
 Enter the idea of _mocking_ and with it a bunch more terms like _doubles_, _stubs_, _spies_ and _fakes_.
 
@@ -27,7 +27,7 @@ Method stubs and doubles, defined below, are special cases of mocks.
 ## Doubles
 
 A double refers specifically to a "pretend" object.
-At Makers, we borrow this name from RSpec (although RSpec is not where it originated). 
+At Makers, we borrow this name from RSpec (although RSpec is not where it originated).
 We often pre-program them with expectations about which calls they are expected to receive.
 
 Instead of testing `ObjectA` against an instance of `ObjectB`, we use a stand in (a "stunt double" if you like) for `ObjectB` instead.
@@ -73,17 +73,17 @@ It can act like an RSpec double in that it can be used to stub a function, chang
 However, a Jasmine spy can also be used to simply track calls to the real function, without stubbing it, i.e. without changing the real behaviour of the function.
 
 ## Fakes
-Fakes are typically not doubles but rather real instances of classes that actually have working implementations, but usually take some shortcut which makes them not suitable for production (for example an email service that doesn’t send a real email but just logs the fact that it would have, or a database that’s really just a simple file). 
+Fakes are typically not doubles but rather real instances of classes that actually have working implementations, but usually take some shortcut which makes them not suitable for production (for example an email service that doesn’t send a real email but just logs the fact that it would have, or a database that’s really just a simple file).
 
-Usually we use fakes when we want to avoid the work of setting up the real thing but do want to verify that our code could interact with it correctly. You won’t encounter them much at Makers but they are frequently used in real codebases. 
+Usually we use fakes when we want to avoid the work of setting up the real thing but do want to verify that our code could interact with it correctly. You won’t encounter them much at Makers but they are frequently used in real codebases.
 
 For example, S3 is a cloud storage service provided by Amazon Web Services which many tech companies rely on.
 A quick search on Google for "fake S3" returns `fake-s3` which describes itself as "a lightweight server that responds to the same API of Amazon S3".
 
-And why did someone bother building `fake-s3`? The repo's README page answers that too: 
+And why did someone bother building `fake-s3`? The repo's README page answers that too:
 
 > It is extremely useful for testing of S3 in a sandbox environment without actually making calls to Amazon, which not only requires a network connection, but also costs money with every use.
-But either way, if I am testing ObjectA, then I don't want my test to be arbitrarily dependent on the behaviour of ObjectB. Particularly if ObjectB is expensive or complex to instantiate.
+But either way, if I am testing `ObjectA`, then I don't want my test to be arbitrarily dependent on the behaviour of `ObjectB`. Particularly if `ObjectB` is expensive or complex to instantiate.
 ## Final note
 
 As mentioned at the outset, the above describes how we use these terms at Makers.
@@ -97,8 +97,8 @@ As an added bonus, these techniques can help you improve the design of your code
 - Good code is always easy to test.
 - Bad code is sometimes easy to test.
 - Hard-to-test code is never any good.
- 
-So, by making your code easy to test using mocking, you might end up discovering how to improve its design as well! 
+
+So, by making your code easy to test using mocking, you might end up discovering how to improve its design as well!
 
 ## Resources
 

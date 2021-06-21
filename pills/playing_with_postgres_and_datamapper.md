@@ -65,7 +65,7 @@ Try the following exercises:
 
 There is a problem emerging here, however: we're having to write out syntactically difficult and unfamiliar SQL commands to perform basic read / write commands. This is where DataMapper comes it. DataMapper allows us to deal with our DataBase from a distance via a Ruby interface.
 
-So let's play! Keep your psql prompt open but open a new tab in terminal. Create a gemfile and add the following gems:
+So let's play! Keep your `psql` prompt open but open a new tab in terminal. Create a `Gemfile` and add the following gems:
 
     gem 'data_mapper'
     gem 'dm-postgres-adapter'
@@ -112,13 +112,13 @@ Mess around with what you can do with DataMapper models. Here are some things to
 
 | Function                                    | Command                         |
 | ------------------------------------------- | ------------------------------- |
-| Create Database                             | CREATE DATABASE database_name;  |
-| Drop (Delete) Database                      | DROP DATABASE database_name;  |
-| List Databases                              | \l                              |
-| Leave list of Databases                     | q                               |
-| Connect to a Database                       | \c database_name                |
-| List Tables in a connected Database         | \dt                             |
-| List Users (Roles) in a connected Database  | \du                             |
+| Create Database                             | `CREATE DATABASE database_name;`  |
+| Drop (Delete) Database                      | `DROP DATABASE database_name;`  |
+| List Databases                              | `\l`                              |
+| Leave list of Databases                     | `q`                               |
+| Connect to a Database                       | `\c database_name`                |
+| List Tables in a connected Database         | `\dt`                             |
+| List Users (Roles) in a connected Database  | `\du`                             |
 
 ## Advanced SQL: C.R.U.D.
 *Note: The following assumes a database populated with some data relevant to the domain of Bookmark Manager.*
@@ -193,7 +193,7 @@ We have successfully created a new record in `links`, and the database has autom
 
 #### Update
 
-Sometimes we just want to make amendments to our database. The `UPDATE` command is our friend here. Let's say that we made an error by linking to csstricks.com, and wish to amend the url value to the correct address (which is _css-tricks_.com). Looking at our table with a `SELECT` query, we can see that the column we have stored our offending value at is called `url` and it has a unique `id` of '3' associated with it.
+Sometimes we just want to make amendments to our database. The `UPDATE` command is our friend here. Let's say that we made an error by linking to csstricks.com, and wish to amend the URL value to the correct address (which is _css-tricks_.com). Looking at our table with a `SELECT` query, we can see that the column we have stored our offending value at is called `url` and it has a unique `id` of '3' associated with it.
 
 ```SQL
 UPDATE "links" SET URL = 'http://css-tricks.com' WHERE ID = 3;

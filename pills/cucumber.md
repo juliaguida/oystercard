@@ -4,9 +4,9 @@
 
 Cucumber functions as a description of the software for both the developer and the client, as well as a testing framework to determine whether the software is meeting the description. Although written in Ruby, Cucumber tests are written in a Domain Specific Language (DSL) called Gherkin, which makes the test readable to both the developer and their client alike.
 
-## Why not just use Rspec
+## Why not just use RSpec
 
-You *could* use Rspec for acceptance testing - no law against it. But Cucumber
+You *could* use RSpec for acceptance testing - no law against it. But Cucumber
 and Gherkin extend the tests beyond just testing -- they act as a specification
 and design document for the whole project (that everyone can read!)
 
@@ -24,7 +24,7 @@ Take a look at what's on offer by running the help command.
 cucumber --help
 ```
 
-## OH HAI CUCUMBER!
+## Hello Cucumber!
 
 Let's make a test! First I'll crack open a directory to put this bit of fun in:
 
@@ -57,7 +57,7 @@ Cucumber keeps its features in files with `.feature` at the end. Add one into
 the `features` directory (maybe something like `oh_hai_world.feature`) and open
 it up in your editor.
 
-Let's add the features nao. (Sorry, now)
+Let's add the features now.
 
 ```cucumber
 Feature: cucumber says OH HAI CUCUMNER
@@ -86,7 +86,7 @@ program we have a good idea of what it ought to be doing.
 
 **Given** describes the internal state of the program before you do something,
 **When** is what you're doing to it, and **Then** is what it's like just after
-the action occurs. You're doing similar things in Rspec, but less explicitly.
+the action occurs. You're doing similar things in RSpec, but less explicitly.
 
 **Given**, **When** and **Then** are *keywords* for Cucumber, as are **And** and
 **But**. They all mean the same things - they tell Cucumber to make a new test
@@ -103,22 +103,13 @@ Escenario: Cucumber dice OH HAI CUCUMNER
 	Entonces debería ver "OH HAI CUCUMNER!"
 ```
 
-Catalan...
+Or Catalan.
 
 ```cucumber
 Escenari: Cucumber diu OH HAI CUCUMNER
 	Donat una lulz salutació
 	Quan envio un missatge de benvinguda
 	Aleshores hauria de dir "OH HAI CUCUMNER!"
-```
-
-And LOL
-
-```cucumber
-MISHUN: MAKES CUCUMNER SAY OH HAI CUCUMNER
-	I CAN HAZ A LULZY GREETER
-	WEN I TELL IT TO SAY HAI
-	DEN I SEE "OH HAI CUCUMNER!"
 ```
 
 Cucumber can handle most of the world's languages, making it easy to show people
@@ -166,7 +157,7 @@ exists where cucumber looks for step definitions.
 ```
 Cucumber has looked at your feature file and seen that the **steps** (the
 Given/When/Then) are *undefined* -- you haven't said what it means when you're
-'Given a lulz greeter'.
+`Given a lulz greeter`.
 
 Handily though, Cucumber has already written a draft version of the steps you
 will write in the second half of the output. See - that bit at the bottom is
@@ -188,7 +179,7 @@ end
 
 See how the *Given / When / Then* lines are now `pending` tests? The description
 of the tests have been dropped in as a Regex - you could use strings instead but
-Regexes are safer and the default.
+regexes are safer and the default.
 
 We're going to be writing what each of these steps means in Ruby in each of
 the `pending` gaps. The first step is to put the above in a file called
@@ -236,8 +227,8 @@ end
 
 See how Cucumber saw the string in quotes in `Then I should see...`and turned
 him into an argument in the pipes? And how the `expect` step is just the same as
-in Rspec? That's because Cucumber automatically loads up all the Rspec
-expectation definitions. So if you know how to `expect` something in Rspec, you
+in RSpec? That's because Cucumber automatically loads up all the RSpec
+expectation definitions. So if you know how to `expect` something in RSpec, you
 know how to expect it in Cucumber.
 
 Now when we run cucumber we get:
@@ -301,7 +292,7 @@ And that ends the intro! There's a lot more to look at (Cucumber loads its
 environment up from a file called `env.rb` inside `features/support` would be
 a good place to start)
 
-Note that if you like/prefer gherkin style 'given, when, then' syntax you can also use it for Rspec tests: [https://github.com/jimweirich/rspec-given](https://github.com/jimweirich/rspec-given)
+Note that if you like/prefer gherkin style 'given, when, then' syntax you can also use it for RSpec tests: [https://github.com/jimweirich/rspec-given](https://github.com/jimweirich/rspec-given)
 
 ### Further Reading
 

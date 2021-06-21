@@ -31,7 +31,7 @@ Let's just review we are clear about how the above `expect(fido.hairy?).to eq tr
 expect(fido.hairy?()).to(eq(true))
 ```
 
-'expect', 'to' and 'eq' are all methods that RSpec provides.  'eq(true)' calls the RSpec method 'eq' with the single argument 'true', which returns an RSpec [Equality matcher object](http://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers/equality-matchers), which is then passed an argument to the RSpec method 'to', which is being called on the the RSpec object that was returned as a result of calling 'expect(fido.hairy?())'.  This might seem hopelessly convoluted, but it is designed to make the end result more readable.
+`expect`, `to` and `eq` are all methods that RSpec provides.  `eq(true)` calls the RSpec method `eq` with the single argument 'true', which returns an RSpec [Equality matcher object](http://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers/equality-matchers), which is then passed an argument to the RSpec method 'to', which is being called on the RSpec object that was returned as a result of calling `expect(fido.hairy?())`.  This might seem hopelessly convoluted, but it is designed to make the end result more readable.
 
 ```ruby
 expect(fido.hairy?).to eq true

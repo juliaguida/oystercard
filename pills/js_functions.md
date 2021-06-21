@@ -7,7 +7,7 @@ While it's convenient to use these analogies, they can lead to an inaccurate pic
 
 The `function` keyword in JavaScript creates an object that can be **called**.  (We say _call_ in JavaScript, but that will make for confusing reading since 'call' has lots of meanings in English; let's use _invoke_ instead).
 
-> In Ruby, we invoke (call) _methods_, not objects (a method belongs to an object).  But imagine that's just semantics.  Can you visualize a method as being just another object?  Perhaps it would help to think of it as an instance of a `Method` class or something similar?  Don't worry if you're only vaguely grasping this; you're already ahead of many JavaScript hobbyists!
+> In Ruby, we invoke (call) _methods_, not objects (a method belongs to an object).  But imagine that's just semantics.  Can you visualise a method as being just another object?  Perhaps it would help to think of it as an instance of a `Method` class or something similar?  Don't worry if you're only vaguely grasping this; you're already ahead of many JavaScript hobbyists!
 
 ## The anatomy of `function`
 We've become familiar in Ruby with _literals_.  These are expressions that directly create a new object whenever they are evaluated:

@@ -2,7 +2,7 @@
 
 ## Three tier web architecture
 
-Today we will be talking about the arrows in this digram. The HTTP request and response.
+Today we will be talking about the arrows in this diagram. The HTTP request and response.
 
 ![Three Tier Web Architecture](https://github.com/makersacademy/course/blob/master/images/3-tier-simple.png?raw=true)
 
@@ -29,11 +29,11 @@ Just like software, there are levels of abstraction in hardware too. Beneath the
 
 | Protocol Layer         | Standards                            |
 | -----------------------|--------------------------------------|
-| *Your code...*         | *...goes here* (HTML, CSS, JS, Ruby) | 
+| *Your code...*         | *...goes here* (HTML, CSS, JS, Ruby) |
 | Application            | HTTP, DNS      |
 | Transmission           | TCP, UDP       |
 | Internet               | IP (v4, v6)    |
-| Link Layer             | Ethernet, WIFI |
+| Link Layer             | Ethernet, WiFi |
 
 ## Map of the internet
 
@@ -133,7 +133,7 @@ Status Codes in a nutshell:
 
 HTTP status cats!
 
-https://www.flickr.com/photos/girliemac/sets/72157628409467125 
+https://www.flickr.com/photos/girliemac/sets/72157628409467125
 
 ## Chrome console
 
@@ -143,7 +143,7 @@ You can view what's going on in Chrome by opening up the developer console `CMD-
 
 Select the network tab and make a web request in the usual way. You will see all the requests that are made in response.
 
-You can click on a particular repsonse to see more information about it, including the headers, etc.
+You can click on a particular response to see more information about it, including the headers, etc.
 
 ![Specific request](https://github.com/makersacademy/course/blob/master/images/console-request.png?raw=true)
 

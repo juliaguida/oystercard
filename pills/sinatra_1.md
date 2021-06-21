@@ -5,7 +5,7 @@
 > Sinatra is one of many simple web application frameworks.  You can read about some of the alternatives in [this blog post](http://www.sitepoint.com/ruby-microframeworks-round/).
 
 
-As with every pill and project please do type in the code examples instead of copy-pasting them, it will help you to memorize and understand what you're doing.
+As with every pill and project please do type in the code examples instead of copy-pasting them, it will help you to memorise and understand what you're doing.
 
 ## What you will learn
 

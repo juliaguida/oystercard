@@ -38,7 +38,7 @@ And then start our local server in the command line:
 php -S localhost:8000
 ```
 
-If we go to [http://localhost:8000](http://localhost:8000) we should now see an HTML page with PHP embedded in it (PHP is showing us a Unix timestamp). If you refresh the page you should see the number of seconds increase.
+If we go to [`http://localhost:8000`](http://localhost:8000) we should now see an HTML page with PHP embedded in it (PHP is showing us a Unix timestamp). If you refresh the page you should see the number of seconds increase.
 
 > Note that because anything outside a `<?php ?>` block is considered HTML by the PHP interpreter, we **always** need to add a `<?php` to the beginning of our PHP file when executing PHP code, even if there is no HTML on the page at all
 
@@ -85,7 +85,7 @@ if ("" == FALSE)
 
 ## PHP and OOP
 
-At some point OOP was hacked onto PHP. It improved in PHP 5 but is still by no means as elegant as Ruby. You can learn more in the the [manual](http://php.net/manual/en/language.oop5.basic.php) where we can see this example:
+At some point OOP was hacked onto PHP. It improved in PHP 5 but is still by no means as elegant as Ruby. You can learn more in the [manual](http://php.net/manual/en/language.oop5.basic.php) where we can see this example:
 
 ```php
 <?php
@@ -141,7 +141,7 @@ You can follow [this video](https://vimeo.com/112265555) (from around 35 minutes
 
 **Watch out for these gotchas:**
 
-* You might get a memory error when installing your composer files, if so run `sudo subl /usr/local/etc/php/5.6/php.ini` and search for memory_limit and change it to **5000M**.
+* You might get a memory error when installing your composer files, if so run `sudo subl /usr/local/etc/php/5.6/php.ini` and search for memory_limit and change it to `5000M`.
 * You need to make sure your terminal uses Homebrew's version of PHP, if you're having problems getting the Postgres driver working you need to add to your **.bash_profile** in your home directory the following line `export PATH="$(brew --prefix homebrew/php/php56)/bin:$PATH"`
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

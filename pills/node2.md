@@ -23,7 +23,7 @@ Now that we have a server, we want to be able to display dynamic content, as wel
 
 ##Version 3 - Let's get an API up and running
 
-Putting together all that we've done so far we should be able to create a tested API endpoint that simulates at least part of the Github API.  Below is an example set up with auto server restart dyanmic routes and ejs views.
+Putting together all that we've done so far we should be able to create a tested API endpoint that simulates at least part of the Github API.  Below is an example set up with auto server restart dynamic routes and `ejs` views.
 
 https://github.com/tansaku/github_api_simulation
 
@@ -35,7 +35,7 @@ We can get data from the real Github API, or our own simulation, by opening a br
 
 Resources:
 --------
-* http://youmightnotneedjquery.com/ <-- comparison of jQuery and plain javascript
+* http://youmightnotneedjquery.com/ <-- comparison of jQuery and plain Javascript.
 
 ###Related walkthroughs
 

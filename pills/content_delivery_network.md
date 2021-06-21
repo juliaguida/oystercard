@@ -1,7 +1,7 @@
 Content Delivery Network
 =======================
 
-In web development a content delivery network ([CDN](https://en.wikipedia.org/wiki/Content_delivery_network)) is an server that is designed specifically for quickly serving static assets such as javascript libraries and CSS files.  For example:
+In web development a content delivery network ([CDN](https://en.wikipedia.org/wiki/Content_delivery_network)) is a server that is designed specifically for quickly serving static assets such as Javascript libraries and CSS files.  For example:
 
 * https://code.jquery.com/
 * https://www.cloudflare.com/
@@ -36,7 +36,7 @@ Using CDNs does also introduce a dependency so that if a CDN goes down, so does 
 
 ```
 
-Note the 'min' in the jquery examples above.  This refers to minified javascript (or other asset, e.g. CSS), which is the same javascript, but with all the spaces taken out, and possibly all the variable names reduced to the minimum possible.  The idea is to simply shrink the file size to reduce the time it takes to load.  It also has the effect of making the file almost unreadable to humans.  If you are in development mode and may need to debug through the file prefer the non-minified versions of assets.  Prefer minified versions when going into production.
+Note the 'min' in the jQuery examples above.  This refers to minified Javascript (or other asset, e.g. CSS), which is the same Javascript, but with all the spaces taken out, and possibly all the variable names reduced to the minimum possible.  The idea is to simply shrink the file size to reduce the time it takes to load.  It also has the effect of making the file almost unreadable to humans.  If you are in development mode and may need to debug through the file prefer the non-minified versions of assets.  Prefer minified versions when going into production.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

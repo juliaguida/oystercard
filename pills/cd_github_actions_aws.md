@@ -47,9 +47,9 @@ Discuss with your group what you think this script is doing.
 
 In the `Tags` section, discuss and come up with a descriptive key-value pair that identifies your instance, you will need to use this pair later on.
 
-Finally, before launching the instance, a pop up will prompt asking you to create a new key pair or select an existing one. 
-Read through the instructions and once you are done, create a new key pair. 
-Hopefully after doing some research around the EC2 dashboard, and making use of your .pem file, you can securily `ssh` into your EC2 instance from your Mac.
+Finally, before launching the instance, a pop up will prompt asking you to create a new key pair or select an existing one.
+Read through the instructions and once you are done, create a new key pair.
+Hopefully after doing some research around the EC2 dashboard, and making use of your `.pem` file, you can securely `ssh` into your EC2 instance from your Mac.
 
 ## Set up CodeDeploy
 
@@ -68,14 +68,14 @@ Note: you will need to use the app name identifier later on when working on your
 
 2. Click on the application you just created and `Create deployment group` and choose a descriptive name, for example `production`
 
-Think of a Deployment Group as the instace(s) where we'd like to target and deploy our code
+Think of a Deployment Group as the instance(s) where we'd like to target and deploy our code
 
 3. In the `Service Role` section, select the role that was facilitated by your coach for the CodeDeploy service, similarly as you did before for the EC2 profile instance role
 
 4. In `Deployment Type` select `In place` for the purpose of this project
 
 5. In `Environment Configuration` select `Amazon EC2 instances` and use the key-value pair tag that you created when launching your instance,
-as mentioned in the previous section, this is when you need it! 
+as mentioned in the previous section, this is when you need it!
 
 Basically, CodeDeploy needs to identify where to deploy your code into when you start a deployment from GitHub Actions later on.
 
@@ -87,16 +87,16 @@ Basically, CodeDeploy needs to identify where to deploy your code into when you 
 We need to set a special user to do all the hard work for us.
 This user will take our application code through a journey and with interact with AWS to ultimately bring it live on the web!
 
-On the AWS console, go to `Services` -> `Identity and Access Management (IAM)`. 
+On the AWS console, go to `Services` -> `Identity and Access Management (IAM)`.
 You will then need to create a new User with programmatic access and some policies (permissions).
 
 In order to determine which policies this user needs, according to the diagram you just worked on with your group,
 what service(s) do GitHub Actions need to interact with?
 
 
-:rotating_light: Spoiler alert!! :rotating_light: Keep reading... 
+:rotating_light: Spoiler alert!! :rotating_light: Keep reading...
 
-The answer is two of them. The user for GitHub Actions is in charge of pushing the application revision we want to deploy to an S3 Bucket, 
+The answer is two of them. The user for GitHub Actions is in charge of pushing the application revision we want to deploy to an S3 Bucket,
 and then it will trigger the deployment of such revision to be handled by CodeDeploy
 
 The policies we need to add to the user are: `AmazonS3FullAccess` and `AWSCodeDeployFullAccess`

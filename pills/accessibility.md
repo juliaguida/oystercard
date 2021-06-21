@@ -12,7 +12,7 @@ What does this feel like? The most popular screen reader is [JAWS](https://store
 
 ### Exercise 1: Empathy with screen-reading users
 
-- [Turn on VoiceOver](https://help.apple.com/voiceover/info/guide/10.12/#/vo2682) using Command-Fn-5.
+- [Turn on VoiceOver](https://help.apple.com/voiceover/info/guide/10.12/#/vo2682).
 - Visit an accessible site, like bbc.co.uk, and browse around using VoiceOver. Click any story, read the story, and then go back to the homepage.
 - Visit [an inaccessible site, like this W3C example](https://www.w3.org/WAI/demos/bad/before/news.html), and try to do the same thing.
 

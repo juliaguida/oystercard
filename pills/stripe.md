@@ -3,9 +3,9 @@ Stripe
 
 [Video](https://www.youtube.com/watch?v=gdmCNRNyeK4)
 
-Taking payments is clearly a critical part of many business operations.  There are a number of relatively simple payment gateway solutions, such as Stripe, GoCardless, BrainTree, PayMill etc.  Stripe is perhaps the most developer friendly and has good integration options for popular web application frameworks such as Rails, Django, Sinatra etc., and has javascript only solutions that easily integrate with JavaScript stacks.
+Taking payments is clearly a critical part of many business operations.  There are a number of relatively simple payment gateway solutions, such as Stripe, GoCardless, BrainTree, PayMill etc.  Stripe is perhaps the most developer friendly and has good integration options for popular web application frameworks such as Rails, Django, Sinatra etc., and has Javascript only solutions that easily integrate with JavaScript stacks.
 
-Using a 3rd party payment system relieves a huge burden on the developer in terms of not having to by not placing sensitive cardholder data on the developer's server. A 3rd party like Stripe will take care of the hardest parts of PCI (Payment Card Industry) compliance, like redacting logs and encrypting cardholder details.  The developer's site will still need to support https, and the 3rd party will be taking a percentage cut of any sales, but these overheads are very often worth it.
+Using a 3rd party payment system relieves a huge burden on the developer in terms of not having to by not placing sensitive cardholder data on the developer's server. A 3rd party like Stripe will take care of the hardest parts of PCI (Payment Card Industry) compliance, like redacting logs and encrypting cardholder details.  The developer's site will still need to support HTTPS, and the 3rd party will be taking a percentage cut of any sales, but these overheads are very often worth it.
 
 For the sake of an example let's assume we were trying to set up donation payments on a charity directory, and further say that we were starting with a Rails app.  3rd party services like Stripe provide boiler plate code (as well as fine grained APIs) that will make secure submissions to their servers, which will return a response indicating whether or not a user credit card is valid, and process payment as appropriate.
 
@@ -49,13 +49,13 @@ development:
 
 To start with let's just put our 'test' keys in development so that we can get a tracer bullet to confirm that we can manage payments end to end.
 
-We'll also want to put the following in the config/initializers/stripe.rb file :
+We'll also want to put the following in the `config/initializers/stripe.rb` file :
 
 ```ruby
 Stripe.api_key = Rails.application.secrets.stripe_secret_key
 ```
 
-Now let's build up our payment functionality, starting in routes.rb add a new sub-route for :charges, i.e.
+Now let's build up our payment functionality, starting in `routes.rb` add a new sub-route for :charges, i.e.
 
 ```ruby
 resources :charities do
@@ -114,7 +114,7 @@ We'll also need to add a payment form to charges view (new.html.erb).  Below is 
 <% end %>
 ```
 
-Now let's customize the default Stripe code to suit our purposes. The charges controller will need a change to the new method:
+Now let's customise the default Stripe code to suit our purposes. The charges controller will need a change to the new method:
 
 ```ruby
 def new
@@ -131,7 +131,7 @@ def create
   @amount = 500
 
   customer = Stripe::Customer.create(
-    :email => params[:stripeEmail], 
+    :email => params[:stripeEmail],
     :card  => params[:stripeToken] # encrypted version of their credit card
   )
 
@@ -171,7 +171,7 @@ Note the amount is in pennies - can see other form options at https://stripe.com
 
 We don't have a link to donate yet, but let's just go to the charge being submitted for a particular charity, e.g.
 
-http://localhost:3000/charities/6/charges/new
+`http://localhost:3000/charities/6/charges/new`
 
 And hitting 'pay with card' gives us a nice payment form - let's test with a test card number, e.g. 4242 4242 4242 - see http://stripe.com/docs/testing for more details on testing data - and an expiry date at any time in the future and any CVC
 
@@ -184,7 +184,7 @@ def create
   @amount = 500
 
   customer = Stripe::Customer.create(
-    :email => params[:stripeEmail], 
+    :email => params[:stripeEmail],
     :card  => params[:stripeToken] # encrypted version of their credit card
   )
 

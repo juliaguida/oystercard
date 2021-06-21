@@ -35,7 +35,7 @@ Scaffolder: very good, but let's take the core part of the error; the part that 
 
 As you can see from the above example, the scaffolder can still provide some tips and tricks about how to make progress, but where possible, instead of just explaining things directly the scaffolder works on trying to improve the pairs' collaboration "process".
 
-Here are some screen recordings of pair scaffolding sessions in action.  The ones in this playlist are slighlty artificial in that they are pairing sessions that brought together two programmers specifically for pairing, when perhaps ideally the pair scaffolding coach works with an existing pair who have already selected a task and have been working on it for some time.
+Here are some screen recordings of pair scaffolding sessions in action.  The ones in this playlist are slightly artificial in that they are pairing sessions that brought together two programmers specifically for pairing, when perhaps ideally the pair scaffolding coach works with an existing pair who have already selected a task and have been working on it for some time.
 
 https://www.youtube.com/playlist?list=PLjbL0BCR04Q1bJi1T-BXuKGH7q9NbAtfK
 

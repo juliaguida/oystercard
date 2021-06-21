@@ -6,9 +6,9 @@ The frameworks [Ruby on Rails](http://rubyonrails.org) and [Sinatra](http://www.
 
 ## How to use gems
 
-There exist gems for pretty much anything that you may need in your Ruby code: authentication, games development, security, communications, etc. 
+There exist gems for pretty much anything that you may need in your Ruby code: authentication, games development, security, communications, etc.
 
-Let's take a look at a particular example of using a certain gem. For example, let's pretend we want to send a text message from our Ruby program. Text messages can be sent by [Twilio](http://www.twilio.com), a communications provider that developer its own gem called [twilio-ruby](https://github.com/twilio/twilio-ruby) for us to use.
+Let's take a look at a particular example of using a certain gem. For example, let's pretend we want to send a text message from our Ruby program. Text messages can be sent by [Twilio](http://www.twilio.com), a communications provider that developer its own gem called [`twilio-ruby`](https://github.com/twilio/twilio-ruby) for us to use.
 
 First, we'll need to install it. In your command line type
 
@@ -45,18 +45,18 @@ The first line is necessary to load the gem into memory. This makes the classes 
 $ gem install name_of_the_gem
 ````
 
-This works but the problem with this approach is that the information about 
-the gems you're using isn't available to other developers. 
+This works but the problem with this approach is that the information about
+the gems you're using isn't available to other developers.
 
-For example, let's say you wrote an awesome program that sends text messages 
-and you put it on [github](http://github.com) for others to use. However, 
-there's no easy way for other developers to know what gems you used in your 
-code. If we're talking about a short script such as the one above, the answer 
-may be obvious but real projects usually use dozens of various gems, so 
+For example, let's say you wrote an awesome program that sends text messages
+and you put it on [Github](http://github.com) for others to use. However,
+there's no easy way for other developers to know what gems you used in your
+code. If we're talking about a short script such as the one above, the answer
+may be obvious but real projects usually use dozens of various gems, so
 installing all of them manually isn't an option.
 
-Another problem with the manual approach is that when you deploy your 
-application, that is, copy it to a server for everyone to use, you may not 
+Another problem with the manual approach is that when you deploy your
+application, that is, copy it to a server for everyone to use, you may not
 be able (or want to) install the gems manually.
 
 Is there any better solution? Meet [Bundler](https://github.com/makersacademy/course/blob/master/pills/bundler.md)
@@ -68,7 +68,7 @@ A great place to start is [Ruby Toolbox](https://www.ruby-toolbox.com), a direct
 
 ## What a gem looks like inside
 
-A gem is simply a set of Ruby classes that you require in your code just like any other Ruby code. You may take a look at [twilio-ruby source code on github](https://github.com/twilio/twilio-ruby). 
+A gem is simply a set of Ruby classes that you require in your code just like any other Ruby code. You may take a look at [`twilio-ruby` source code on Github](https://github.com/twilio/twilio-ruby).
 
 When you do
 
@@ -76,7 +76,7 @@ When you do
 require 'twilio-ruby'
 ````
 
-you are actually requiring the `lib/twilio-ruby.rb` file that, in turn, loads all other files. To see what a gem looks like, clone [this repository](https://github.com/twilio/twilio-ruby) and take a look in the lib folder. 
+you are actually requiring the `lib/twilio-ruby.rb` file that, in turn, loads all other files. To see what a gem looks like, clone [this repository](https://github.com/twilio/twilio-ruby) and take a look in the lib folder.
 
 ## How to create a gem
 

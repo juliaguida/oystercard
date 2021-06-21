@@ -10,7 +10,7 @@ Either which way it would be a serious mistake to say any of the following thing
 3. You MUST draw a diagram first
 4. You MUST write a user story first
 
-The reality is that all of these things can play a part in solving a problem, but in reality there are no MUSTs. The things that comes closest to a MUST is that it really really really helps to understand why some of these tools actually help you solve problems.
+The reality is that all of these things can play a part in solving a problem, but in reality there are no MUSTs. The things that comes closest to a MUST is that it really helps to understand why some of these tools actually help you solve problems.
 
 Experimental studies indicate that using TDD leads to lower code defect rates at the expense of additional time to task completion (George & Williams, 2004; Bhat & Nagappan, 2006; Janzen & Saiedian, 2008b). However one should also ask how TDD helps programmers improve code quality. Some argue that TDD helps because it forces you to think carefully about the code you will write that helps you solve a problem. It is also argued that it helps you correctly test the desired behaviour of code you might write in the future, because if you write the test first then you know for certain that it should fail. If the test does not fail then you have solid evidence that you have not written the correct test because the code to make it pass has not been written yet. TDD helps (but does not guarantee) that you don't write a vacuous test that is a waste of everyone's time.
 

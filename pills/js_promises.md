@@ -33,9 +33,9 @@ get('story.json', function(error, response) {
     console.error("Failed!", error);
   }
   else {
-    
+
     console.log("First success!", response);
-    
+
     get('story2.json', function(error, response) {
       if (error) {
         console.error("Failed!", error);
@@ -56,9 +56,9 @@ get('story.json', function(error, response) {
 
 ## Promises to the rescue
 
-Enter Promises! Promises take this mess of callback code and give us a way for asyncronous request can be handled effectively and neatly, at the very time they complete. They work by providing a `then` function that handles the task in a much cleaner way once our asynchronous request has been completed together with any error handling.
+Enter Promises! Promises take this mess of callback code and give us a way to handle asynchronous requests effectively and neatly at the very time they complete. They work by providing a `then` function that handles the task in a much cleaner way once our asynchronous request has been completed together with any error handling.
 
-Now by getting our get function to use promises we can tidy up the code: 
+Now by getting our get function to use promises we can tidy up the code:
 
 ```javascript
 get('story.json')

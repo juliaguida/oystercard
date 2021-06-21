@@ -154,8 +154,8 @@ because they refer to values that will be received in the future — in this cas
 the response to our request. As we all know, you can't get things from the
 future and use them now.
 
-In fact, when you call `fetch`, Javascript just says "yeah yeah, I _promise_
-I'll get that data to you... at some point... ₗₒₛₑᵣ" and then goes ahead and
+In fact, when you call `fetch`, Javascript just says "yeah whatever, I _promise_
+I'll get that data to you... at some point... <sub>loser</sub>" and then goes ahead and
 rudely executes the next line of code without waiting for the response to come
 back!
 

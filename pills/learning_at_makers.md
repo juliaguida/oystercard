@@ -70,7 +70,7 @@ A [killer article from Allison Kaptur](http://akaptur.com/blog/2015/10/10/effect
 
 ### Pair programming
 
-* Pair programming means means collaborating on the same programming task at the same time.  One person is the driver.  This person does the typing.  The other person is the navigator.  This person thinks about where the code is going, acts as a sounding board, and makes suggestions.  Both programmers collaborate.  They are both completely engaged with the task.  It may sometimes feel like they are sharing the same mind.
+* Pair programming means collaborating on the same programming task at the same time.  One person is the driver.  This person does the typing.  The other person is the navigator.  This person thinks about where the code is going, acts as a sounding board, and makes suggestions.  Both programmers collaborate.  They are both completely engaged with the task.  It may sometimes feel like they are sharing the same mind.
 
 * The pair swaps roles at least every half an hour.
 

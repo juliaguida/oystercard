@@ -4,9 +4,9 @@
 
 Capybara is a ruby gem that allows you to easily test the user experience of a web-based application. It provides methods that can mimic the actions a user would make in the browser, and test the outcomes of those actions in terms of what the user should be able to see. These methods can be used in conjunction with RSpec or Cucumber (or other test frameworks such as MiniTest, which are not covered in this course).
 
-**How do I use capybara?**
+**How do I use Capybara?**
 
-Firstly, install capybara for your chosen feature test framework (usually RSpec or Cucumber), following the instructions in the [documentation](https://github.com/jnicklas/capybara). This then allows the capybara methods to be used from within your tests.
+Firstly, install Capybara for your chosen feature test framework (usually RSpec or Cucumber), following the instructions in the [documentation](https://github.com/jnicklas/capybara). This then allows the Capybara methods to be used from within your tests.
 
 RSpec
 
@@ -43,7 +43,7 @@ Capybara methods can be broadly broken down into categories as follows:
 5. Scoping - methods that target a specific area of the page, i.e. `within('#blog-post') do`
 6. Other - Other user actions such as checking check boxes, selecting select options or attaching files.
 
-An excellent list of the primary capybara methods can be found in this [cheat sheet](http://www.cheatography.com/ddovii/cheat-sheets/capybara-cheat-sheet/).
+An excellent list of the primary Capybara methods can be found in this [cheat sheet](http://www.cheatography.com/ddovii/cheat-sheets/capybara-cheat-sheet/).
 
 ## Playing with Capybara
 

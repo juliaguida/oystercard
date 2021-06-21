@@ -263,7 +263,7 @@ $(document).ready(function(){
 
 And if we reload index.html again we should get the curious message that 'Sam covers Tony' for every possible selection.  So now we can make this have more functionality.  The computer can just stick always choosing the same option, but we don't want to ignore what the user has selected. So how can we get the information about which image the user clicked on?
 
-We could switch on the image src or the image id, but the problem is that we start mixing up the design side of things with the programming functionality.  The id of elements or the names of the the image file may change for stylistic reasons, and we don't want those changes to break the functionality of our system.
+We could switch on the image src or the image id, but the problem is that we start mixing up the design side of things with the programming functionality.  The id of elements or the names of the image file may change for stylistic reasons, and we don't want those changes to break the functionality of our system.
 
 The best practise way to deal with this is to use data-attribute attributes of html, so for example we might do the following:
 
@@ -376,11 +376,6 @@ Resources
 * [Isobar Code Standards](http://isobar-idev.github.io/code-standards/)
 * [MDN CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-
-TODO
------
-* add how caching works
-* add note about forced refresh
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

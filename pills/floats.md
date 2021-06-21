@@ -83,9 +83,9 @@ What's going on here? If we run `129.95 * 100` in isolation, we'll see the probl
 #=> 12994.999999999998
 ```
 
-The result is being set to very slightly less than 12,995. Depending on the specific program, this lack of absolute precision may not be a major issue. If it is, we can use the [BigDecimal](http://ruby-doc.org/stdlib-2.1.2/libdoc/bigdecimal/rdoc/BigDecimal.html) class instead, which is less efficient, but guaranteed to be precise.
+The result is being set to very slightly less than 12,995. Depending on the specific program, this lack of absolute precision may not be a major issue. If it is, we can use the [`BigDecimal`](http://ruby-doc.org/stdlib-2.1.2/libdoc/bigdecimal/rdoc/BigDecimal.html) class instead, which is less efficient, but guaranteed to be precise.
 
-BigDecimal is part of the standard library - we don't have to install anything, but we do have to `require` it. We can convert a float to a BigDecimal using the `to_d` method:
+`BigDecimal` is part of the standard library - we don't have to install anything, but we do have to `require` it. We can convert a float to a `BigDecimal` using the `to_d` method:
 
 ```
 require 'bigdecimal'
@@ -101,7 +101,7 @@ result < 12995
 ## Resources
 
 - [Float class](http://www.ruby-doc.org/core-2.1.2/Float.html)
-- [BigDecimal class](http://ruby-doc.org/stdlib-2.1.2/libdoc/bigdecimal/rdoc/BigDecimal.html)
+- [`BigDecimal` class](http://ruby-doc.org/stdlib-2.1.2/libdoc/bigdecimal/rdoc/BigDecimal.html)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

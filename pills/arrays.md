@@ -32,7 +32,7 @@ capitals[-4]
 => “nil”
 ````
 
-This may seem counterintuitive but it may be very useful at times. 
+This may seem counter-intuitive but it may be very useful at times. 
 
 In addition to giving the exact location of an array's element, you can also call the "first" or "last" method on the array.
 

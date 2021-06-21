@@ -14,7 +14,7 @@ Or, if you try to divide by zero, you'll get an error:
 
 Whenever an [exception](http://www.ruby-doc.org/core-2.1.1/Exception.html) is encountered (or, thrown, or raised) your program terminates. `irb` just terminates the current command but if an [exception](http://www.ruby-doc.org/core-2.1.1/Exception.html) is thrown while your ruby file is running, the execution will terminate on the spot. If an [exception](http://www.ruby-doc.org/core-2.1.1/Exception.html) is thrown when a web page is served, you'll get an [error page](https://www.google.co.uk/search?q=error+page&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi&ei=HpcsUrmbJKid7Qb8-4CABA&biw=1920&bih=1083&sei=H5csUqL5L7Gf7Abax4HIDw#hl=en&q=500+error+page&tbm=isch&um=1).
 
-Every time an exception happens, Ruby creates an [exception object](http://www.ruby-doc.org/core-2.1.1/Exception.html). Like any other object, it is an instance of some class, for example [RuntimeError](http://www.ruby-doc.org/core-2.1.2/RuntimeError.html) or [ZeroDivisionError](http://www.ruby-doc.org/core-2.1.2/ZeroDivisionError.html).
+Every time an exception happens, Ruby creates an [exception object](http://www.ruby-doc.org/core-2.1.1/Exception.html). Like any other object, it is an instance of some class, for example [`RuntimeError`](http://www.ruby-doc.org/core-2.1.2/RuntimeError.html) or [`ZeroDivisionError`](http://www.ruby-doc.org/core-2.1.2/ZeroDivisionError.html).
 
 [Exceptions](http://www.ruby-doc.org/core-2.1.1/Exception.html) are very useful for controlling the flow of the program. Let's say you decided to save some data to a file:
 
@@ -41,7 +41,7 @@ ensure # this section is ALWAYS executed
 end
 ````
 
-So, this code will handle the problematic code much better. If everything goes well, the data will be written and then the execution will jump to `ensure` block and close the file. If something goes wrong, then the execution will go to the `rescue` block and the `ensure` block will never be executed. 
+So, this code will handle the problematic code much better. If everything goes well, the data will be written and then the execution will jump to `ensure` block and close the file. If something goes wrong, then the execution will go to the `rescue` block and the `ensure` block will never be executed.
 
 How do you know what [exception](http://www.ruby-doc.org/core-2.1.1/Exception.html) was raised, though? What if many things can go wrong in our code? We can write several rescue sections for different [exception](http://www.ruby-doc.org/core-2.1.1/Exception.html).
 
@@ -64,7 +64,7 @@ raise "sorry, something went wrong" # a RuntimeError with a message
 raise SecurityError # a specific exception type: SecurityError
 ````
 
-How to use them? Let's say you're writing a class to manage a car park. When you initialize it, it expects the number of parking places as a parameter.
+How to use them? Let's say you're writing a class to manage a car park. When you initialise it, it expects the number of parking places as a parameter.
 
 ````ruby
 car_park = CarPark.new(200)
@@ -80,7 +80,7 @@ class CarPark
 end
 ````
 
-What happens if you pass a negative value as the number of spaces? A good solution would be to raise an [ArgumentError](http://ruby-doc.org/core-2.1.2/ArgumentError.html) exception.
+What happens if you pass a negative value as the number of spaces? A good solution would be to raise an [`ArgumentError`](http://ruby-doc.org/core-2.1.2/ArgumentError.html) exception.
 
 ````ruby
 class CarPark
@@ -93,7 +93,7 @@ class CarPark
 end
 ````
 
-This way, you won't be able to initialise an instance of CarPark with negative number of spaces.
+This way, you won't be able to initialise an instance of `CarPark` with negative number of spaces.
 
 ````ruby
 car_park = CarPark.new(-200) #=> ArgumentError: Negative number of parking spaces

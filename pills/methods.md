@@ -16,7 +16,7 @@ hello("jane")
 hello("pete")
 ````
 
-Create a new `hello.rb` file in SublimeText. Once saved, you can run it by pressing Cmd-B (or, you can run it from the terminal as usual).
+Create a new `hello.rb` file in SublimeText. Once saved, you can run it by pressing `Cmd-B` (or, you can run it from the terminal as usual).
 
 ````ruby
 def hello(name)
@@ -34,7 +34,7 @@ This is a lot cleaner than writing out three long "puts" statements. We can also
 def hello(name, age)
   puts "Welcome #{name}, #{age} is definitely not too old to learn how to code."
 end
-		
+
 hello("rob",30)
 hello("steve",72)
 hello("jenny",55)

@@ -3,7 +3,7 @@
 ## Contents
 
 - [Introduction](#introduction)
-- [Pre-requisites](#pre-requisites)
+- [Prerequisites](#prerequisites)
 - [Collaboration tools](#collaboration-tools)
 - [Remote pairing session template](#remote-pairing-session-template)
 - [Resources](#resources)
@@ -12,7 +12,7 @@
 
 Remote pairing is a form of :pill: [pair programming](./pairing.md) used when you and your pair are in different locations. Remote work is common in the tech industry and there are many tools available to enable teams that are distributed across multiple locations to collaborate effectively.
 
-## Pre-requisites
+## Prerequisites
 
 Before remote pairing learn about:
 - :pill: [Working from home](./working-from-home.md)
@@ -85,7 +85,7 @@ There are many other collaboration tools available. Any tool that enables you an
   - Switch driver/navigator regularly
   - Take breaks
   - Message your pair in Slack if you get disconnected
-  - Be specific, reference what line of code you are talking about by using its line number 
+  - Be specific, reference what line of code you are talking about by using its line number
 - **Wrap up**
   - Reflect on your pairing session, give your partner an appreciation and any last nuggets of feedback
 
