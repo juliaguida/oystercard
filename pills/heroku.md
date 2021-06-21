@@ -103,7 +103,7 @@ heroku create
 Finally, we're ready to deploy. Type this command into the terminal. At this point your website will actually be sent to the web server and become live.
 
 ````
-git push heroku master
+git push heroku main
 ````
 
 You should see something like this as an output.
@@ -135,7 +135,7 @@ Total 7 (delta 4), reused 0 (delta 0)
        http://tech-bikers-demo.herokuapp.com deployed to Heroku
 
 To git@heroku.com:tech-bikers-demo.git
-   fc4d30c..8bdc99d  master -> master
+   fc4d30c..8bdc99d  main -> main
 ````
 
 If you see it, it means that the deployment went successfully. If you see an error, you're going to have to start Googling the error you get and spending some time on Stack Overflow. Until you see an output like the one shown above, it hasn't worked. Keep trying and don't give up.

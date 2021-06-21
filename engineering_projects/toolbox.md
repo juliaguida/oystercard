@@ -33,7 +33,7 @@ https://github.com/makersacademy/acebook-rails-template/blob/master/CONTRIBUTING
 4. Complete Ticket
 5. Move it to Review
 6. Check with team for review (what is your review process?)
-7. Merge to master if needed
+7. Merge to the main branch if needed
 8. Move to Done
 9. Repeat from 3. Or from 1 if none are left
 

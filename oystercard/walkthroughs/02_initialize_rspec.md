@@ -26,7 +26,7 @@ The first command will add the folder and everything in it. Now, do `git status`
 
 ```
 git commit -m 'complete challenge #02: add rspec conventional files'
-git push origin master
+git push origin main
 ```
 
 The `git push` command will sync the changed you made locally (that you staged and committed) to your Github account (where you cloned this repo from). Now go to your Github repo and check that the commit you made is there. Verify that the three files in the commit are the ones you added in the command line.

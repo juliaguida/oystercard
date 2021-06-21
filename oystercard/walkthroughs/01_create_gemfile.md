@@ -71,7 +71,7 @@ The very last step of the process is to run `bundle`. This will invoke bundler, 
 git add Gemfile
 git add Gemfile.lock
 git commit -m 'Closing #1: added a Gemfile'
-git push origin master
+git push origin main
 ```
 
 What you've just done was to add the files individually (first `Gemfile`, then `Gemfile.lock`). There's a git command to add all files in the current directory that will save you typing individual filenames but we advise you to add the files individually while you're still learning how to use git to make sure that you're adding exactly what you want and not something else.

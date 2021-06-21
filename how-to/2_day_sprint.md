@@ -24,7 +24,7 @@ On your card wall, pairs should assign themselves to a card in 'To do' and move 
     - Try to use a PR as a knowledge-sharing ground
       - Requesters should write an informative description of what the PR changes, and link it to a ticket for more information.
       - Reviewers should discuss bits of code on the PR before approving.
-  -  Once code is merged into master, ensure it is (automatically) deployed correctly
+  -  Once code is merged into the main branch, ensure it is (automatically) deployed correctly
   -  Move the ticket into `Done` only once it is successfully in production
 
 Then find the next ticket in `To Do` to tackle. If there's nothing left, call another planning session.

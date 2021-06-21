@@ -156,7 +156,7 @@ When you commit the file, git tells you what it does:
 
 ```
 $ git commit -m "First commit"
-[master (root-commit) a1833e4] First commit
+[main (root-commit) a1833e4] First commit
  1 file changed, 1 insertion(+)
  create mode 100644 gitText
 ```
@@ -181,7 +181,7 @@ This will give you an overview of what files have changed since the last commit.
 
 So, git tells us that there's nothing to commit (working directory clean). The first part (nothing to commit) means that we haven't added anything to the staging area. The second part (working directory clean) means that there is nothing that could be added to the working directory. We haven't made any changes since the last commit, so we can't make another one. A commit is a record of some changes and we haven't made any.
 
-(There's also a mention of something called a "master branch". This refers to one name of the current "reality". Remember we can switch between different realities, or branches? The main one is called "master". We'll get to branches in due time, just ignore it for now).
+(There's also a mention of something called a "main branch". This refers to one name of the current "reality". Remember we can switch between different realities, or branches? The main one is called "main". We'll get to branches in due time, just ignore it for now).
 
 If we were to make a change such as changing the text of `gitText`, git would tell us that there's been a change. So, let's make a change a see what the status is again.
 
@@ -335,10 +335,10 @@ Now git takes us to a "parallel universe" to the time when we just created our "
 
 ![Step 13](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381249323435_Screen%20Shot%202013-10-08%20at%2017.21.37.png)
 
-There are ways to take changes from this commit and bring them into the latest version and do many other exciting things but we'll cover them later. Let's just take a look at what our files were at the point of the first commit and go back to the "main" reality (branch) called "master".
+There are ways to take changes from this commit and bring them into the latest version and do many other exciting things but we'll cover them later. Let's just take a look at what our files were at the point of the first commit and go back to the "main" reality (branch) called "main".
 
 ```
-git checkout master
+git checkout main
 ```
 
 ![Step 14](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381249491294_Screen%20Shot%202013-10-08%20at%2017.24.42.png)
@@ -427,7 +427,7 @@ Cool. Now your local repository knows that it's "linked" to another repository s
 Next we'll need to transfer the code from the local repository to the one on Github (called "origin"). This operation is called a "push". Do this:
 
 ```
-git push -u origin master
+git push -u origin main
 ```
 
 You should see this output.
@@ -437,10 +437,10 @@ You should see this output.
 This means that the push went well. Let's break this command down:
 
 ```
-git push -u origin master
+git push -u origin main
 ```
 
-It tells git to push your code from your local repository (it's implied) to a repository called origin (that's the name of the remote that we just added). The last bit, "master", means that we're pushing the branch called "master" (the only branch we have right now). We haven't discussed branches yet, so don't worry about it. The "-u" switch means that these parameters should be saved as default, so next time you won't have to type "origin master". You'll be able to simply do
+It tells git to push your code from your local repository (it's implied) to a repository called origin (that's the name of the remote that we just added). The last bit, "main", means that we're pushing the branch called "main" (the only branch we have right now). We haven't discussed branches yet, so don't worry about it. The "-u" switch means that these parameters should be saved as default, so next time you won't have to type "origin main". You'll be able to simply do
 
 ```
 git push
@@ -489,7 +489,7 @@ You need to be in the directory where the repository is in order to push your da
 By now you know how to create a repo locally and push your local code to Github. You also need to know how to get your code back from Github. Let's say you and one other developer work on a website together. You both have local repos and a Github repository that you both have added as a remote called "origin". Your colleague made some changes to the website and pushed them to Github. How do you get them? You need to "pull" them:
 
 ```
-git pull origin master
+git pull origin main
 ```
 
 This command tells git to get all the latest commits from origin and copy them into your local repository. Try pulling the changes now. Nothing will happen because there are no remote changes.
@@ -518,7 +518,7 @@ You will see the commit you've just done there. However, this change isn't refle
 
 ![Step 31](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381340765344_Screen%20Shot%202013-10-09%20at%2018.45.58.png)
 
-This is because we haven't pulled the changes yet. Let's get the latest changes from Github. You don't have to type the full `git pull origin master` command if you've done `git push -u origin master` before because the "-u" flag would save "origin master" parameters as default ones, so we can just do:
+This is because we haven't pulled the changes yet. Let's get the latest changes from Github. You don't have to type the full `git pull origin main` command if you've done `git push -u origin main` before because the "-u" flag would save "origin main" parameters as default ones, so we can just do:
 
 ```
 git pull

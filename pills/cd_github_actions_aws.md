@@ -1,7 +1,7 @@
 # Continuous Deployment (CD) on GitHub Actions to Amazon Web Services (AWS)
 
 Until now, you have successfully created a Continuous Integration (CI) job on your GitHub Actions workflow, great job!
-Now, every time your master branch is updated, a new build will be triggered and some checks will be run automatically and you will be able to see the outcome
+Now, every time your main branch is updated, a new build will be triggered and some checks will be run automatically and you will be able to see the outcome
 of your new additions to your codebase on the Actions tab of your repository. How convenient!
 
 Now, there are some things we need to work on in order to set up a CD job to deploy our application to an EC2 instance on AWS.
