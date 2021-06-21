@@ -9,7 +9,7 @@ Exercises and supporting material [here](https://github.com/makersacademy/skills
 
 ## Evidence Plan
 - How comfortable do you feel assessing how cohesive a class is?
-- Did you successfully break the SecretDiary class up into multiple cohesive classes?
+- Did you successfully break the `SecretDiary` class up into multiple cohesive classes?
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

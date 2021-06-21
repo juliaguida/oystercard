@@ -7,12 +7,12 @@ fi
 
 export PROJECT_ROOT="$(git rev-parse --show-toplevel)"
 
-export RANGE_DONE="a-q"
+export RANGE_DONE="a-z0-9"
 
 (
   cd $PROJECT_ROOT
   spellchecker \
     -d "dictionary.txt" \
     -l en-GB \
-    --files '['"$RANGE_DONE"']*/**/*.[Mm][Dd]'
+    --files '['"$RANGE_DONE"']*/**/*.[Mm][Dd]' '['"$RANGE_DONE"']*.[Mm][Dd]'
 )

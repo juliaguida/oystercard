@@ -184,7 +184,7 @@ describe('Plane', () => {
 });
 ```
 
-where spys are Jasmine's equivalent of doubles.  Notice we've dropped the now redundant check that plane.land is defined, and now this test gives us the following unit test level failure:
+where spies are Jasmine's equivalent of doubles.  Notice we've dropped the now redundant check that plane.land is defined, and now this test gives us the following unit test level failure:
 
 ```
 Plane can land at an airport
@@ -208,7 +208,7 @@ Feature Test: planes can be instructed to land at an airport
   TypeError: airport.clearForLanding is not a function
 ```
 
-Plane is doing everything it needs to, but now we need Airport to play its part, so a unit test for Airport is in order to make sure it stores a reference to the incoming plane after clearForLanding is called.  To move a little faster let's skip the trivial test that clearForLanding is defined, and go straight to making a spy that we can check has been landed correctly.
+Plane is doing everything it needs to, but now we need Airport to play its part, so a unit test for Airport is in order to make sure it stores a reference to the incoming plane after `clearForLanding` is called.  To move a little faster let's skip the trivial test that `clearForLanding` is defined, and go straight to making a spy that we can check has been landed correctly.
 
 ```javascript
 'use strict';
@@ -239,7 +239,7 @@ Feature Test: planes can be instructed to land at an airport
   TypeError: airport.clearForLanding is not a function
 ```
 
-Definitely time to get that clearForLanding method in there:
+Definitely time to get that `clearForLanding` method in there:
 
 ```javascript
 // src/airport.js
@@ -362,7 +362,7 @@ Feature Test: planes can be instructed to takeoff
   TypeError: this._location.clearForTakeOff is not a function
 ```
 
-Time for a matching unit test on our AirportSpec:
+Time for a matching unit test on our `AirportSpec`:
 
 ```javascript
 // spec/airportSpec.js

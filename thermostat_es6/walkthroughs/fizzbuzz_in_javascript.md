@@ -10,7 +10,7 @@ Here is one possible TDD implementation of FizzBuzz, after refactoring - if your
 - Did you directly translate your Ruby version or did you TDD from scratch?
 - When/why did you refactor your code?
 - Did you use `beforeEach` to set up your object?
-- Did you use nested `describe` blocks to organize your tests?
+- Did you use nested `describe` blocks to organise your tests?
 
 ```javascript
 
@@ -72,7 +72,7 @@ class FizzBuzz {
    _isDivisibleBy(divisor, number) {
         return number % divisor === 0;
    }
-   
+
    play(number) {
      if (this._isDivisibleBy(15, number)) {
         return 'FizzBuzz';

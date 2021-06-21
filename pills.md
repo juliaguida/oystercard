@@ -34,7 +34,7 @@ Knowledge pills are like little vitamin pills you can take in quickly to underst
 
 :pill: [Inheritance](https://github.com/makersacademy/course/blob/master/pills/inheritance.md)
 
-:pill: [Introducing Irb](https://github.com/makersacademy/course/blob/master/pills/irb.md)
+:pill: [Introducing IRB](https://github.com/makersacademy/course/blob/master/pills/irb.md)
 
 :pill: [Interacting with the users](https://github.com/makersacademy/course/blob/master/pills/user_interaction.md)
 
@@ -104,7 +104,7 @@ Knowledge pills are like little vitamin pills you can take in quickly to underst
 
 :pill: [JavaScript module pattern](https://github.com/makersacademy/course/blob/master/pills/javascript_module_pattern.md)
 
-:pill: [http-server](https://github.com/makersacademy/course/blob/master/pills/http_server.md)
+:pill: [`http-server`](https://github.com/makersacademy/course/blob/master/pills/http_server.md)
 
 :pill: [jQuery events](https://github.com/makersacademy/course/blob/master/pills/jquery_events.md)
 
@@ -116,7 +116,7 @@ Knowledge pills are like little vitamin pills you can take in quickly to underst
 
 :pill: [Relationships between tables in a database](https://github.com/makersacademy/course/blob/master/pills/db_relationships.md)
 
-:pill: [Datamapper and database relationships](https://github.com/makersacademy/course/blob/master/pills/dm_db_relationships.md)
+:pill: [DataMapper and database relationships](https://github.com/makersacademy/course/blob/master/pills/dm_db_relationships.md)
 
 ## Community
 

@@ -106,7 +106,7 @@ age = age + 1
 console.log("My age is " + age) // you can use + to concatenate strings together though, just like in Ruby
 ```
 
-Another thing to be aware of is `NaN`, which means "not a number", as well as JavaScript's [approach to equality](https://dorey.github.io/JavaScript-Equality-Table/) (`==` and `===`) - tl;dr, just use `===` unless you have good reason not to.
+Another thing to be aware of is `NaN`, which means "not a number", as well as JavaScript's [approach to equality](https://dorey.github.io/JavaScript-Equality-Table/) (`==` and `===`) - in short, just use `===` unless you have good reason not to.
 
 #### Arrays
 

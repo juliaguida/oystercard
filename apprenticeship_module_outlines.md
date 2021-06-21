@@ -3,8 +3,10 @@
 ## Weeks 1 & 2: Basic Programming
 
 By the end of modules 1 & 2 all developers can:
-
+<!-- spellchecker-disable -->
+<!-- Pending our adding unix to https://github.com/retextjs/retext-indefinite-article -->
 * Navigate a unix command line
+<!-- spellchecker-enable -->
 * Version control projects
 * Write a procedural program
 * Use a process for solving a problem
@@ -17,12 +19,15 @@ By the end of modules 1 & 2 all developers can:
 
 ### Skills Breakdown
 
+<!-- spellchecker-disable -->
+<!-- Pending our adding unix to https://github.com/retextjs/retext-indefinite-article -->
 #### Navigate a unix command line
+<!-- spellchecker-enable -->
  - [ ] I can use the command line to run code and run tests
 
 #### Version control projects
  - [ ] I can use git to access and submit mastery quizzes
- 
+
 #### Write a procedural program
 
  - [ ] I can write programs using variables
@@ -86,10 +91,10 @@ Remind yourself of the rest [here](https://github.com/makersacademy/course/blob/
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
-For some skills, there are several options so that you can spend some time focussing on that one skill, if that's the best use of your time right now.  There is no expectation that you or anyone else will complete all the exercises.
+For some skills, there are several options so that you can spend some time focusing on that one skill, if that's the best use of your time right now.  There is no expectation that you or anyone else will complete all the exercises.
 
 
-| Key Skill                     | Exercise                                  | 
+| Key Skill                     | Exercise                                  |
 | ----------------------------- | ---------------------------------------------- |
 | Test driven development       | [An intro to writing tests][writing_unit_tests]       |
 |                               | [Test Driving Practical][tdd_practical]        |                                         |
@@ -98,7 +103,7 @@ For some skills, there are several options so that you can spend some time focus
 | Debugging                     | [Debug a diary app][debugging_1]                     |                     
 
 | Stretch Skill                 | Exercise                                  |                       
-| ----------------------------- | ---------------------------------------------- | 
+| ----------------------------- | ---------------------------------------------- |
 | Test Driving Multiple Objects | [Simple Checkout][simple_checkout]             |
 |                               | [Test Drive a Notes App][tdd_notes_app]        |
 | Deciding what to test         | [Testing behaviour rather than state][behaviour_vs_state] |
@@ -130,7 +135,7 @@ As a software developer, there are some things you can be sure of.
 > 1. You're going to work on codebases that are, or will become, complex
 > 2. How you manage complexity has long term consequences
 
-Object Orientted Design (sometimes called Object Oriented Programming) is one way of ensuring that complexity is well managed and it's what we'll focus on this week.  It's important, however, to understand that other approaches exist and that the same goals underpin them all.
+Object Oriented Design (sometimes called Object Oriented Programming) is one way of ensuring that complexity is well managed and it's what we'll focus on this week.  It's important, however, to understand that other approaches exist and that the same goals underpin them all.
 
 > We seek to write code that is easy to read, reason about and change by
 > 1. Avoiding repetition
@@ -143,7 +148,7 @@ Everything you learn about OOD this week will map onto one or more of those thre
 
 #### Reflect on TDD
 
-The skills and concepts dealt with this week build on the things you learned last week, so take a moment to reflect on Test Driven Development. 
+The skills and concepts dealt with this week build on the things you learned last week, so take a moment to reflect on Test Driven Development.
 
 * What did you learn about your progress from doing the Airport challenge?
 * Can you test-drive a class with instance variables and methods?
@@ -161,7 +166,7 @@ By the end of the module all developers can:
 
 Stretch:
 * Test classes in isolation using mocking and dependency injection
-* Apply some basic OOP principles in tightly focussed exercises
+* Apply some basic OOP principles in tightly focused exercises
 
 #### Read and discuss the relevant course goals
 
@@ -172,8 +177,8 @@ Stretch:
 And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md).
 
 ### Resources
-* [The 4 pilars of OOD](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
-* [POODR](https://www.poodr.com/), by Sandi Metz, is very highly regarded.  Put it on your post-bootcamp reading list if you don't have time for it now.
+* [The 4 pillars of OOD](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
+* [Practical Object Oriented Design in Ruby](https://www.poodr.com/), by Sandi Metz, is very highly regarded.  Put it on your post-bootcamp reading list if you don't have time for it now.
 * [SOLID](https://rubygarage.org/blog/solid-principles-of-ood) principles with Ruby examples
 * [Technical learning resources](https://airtable.com/shrtZmDUTQmQFdaZV/tblokmw6yNUO75ge6)
 
@@ -185,13 +190,13 @@ The intention is that you should work through the core exercises in order, from 
 
 
 | Key Skill                          | Exercise                                                 |                       
-| ---------------------------------- | -------------------------------------------------------- | 
+| ---------------------------------- | -------------------------------------------------------- |
 | Code Review                        | [Learn from someone else's code][code_review]            |
 | Encapsulation                      | [Achieve high cohesion and low coupling][encapsulation]  |
 | Refactoring                        | [Extract some variables, methods and classes][refactoring_using_oo]       |
 
 | Stretch Skill                    | Exercise                                              |
-| -------------------------------- | ----------------------------------------------------- | 
+| -------------------------------- | ----------------------------------------------------- |
 | Dependency injection             | [Inject some dependencies!][dependency_injection]     |
 | Mocking                          | [Mock the diary class][mocking]                       |
 
@@ -237,9 +242,9 @@ If you complete the above, try to:
 * Explain what is meant by 'deploy'
 * Deploy a simple Sinatra app (for example, Hello, World) using the free tier on Heroku
 
-These really are stretch goals.  We've not created any exercises for them, so part of the challenge is research based.  There's a lot of guidance on deploying sinatra applications to Heroku.  [This is a good place to start](https://devcenter.heroku.com/articles/rack#pure-rack-apps).
+These really are stretch goals.  We've not created any exercises for them, so part of the challenge is research based.  There's a lot of guidance on deploying Sinatra applications to Heroku.  [This is a good place to start](https://devcenter.heroku.com/articles/rack#pure-rack-apps).
 
-#### The broader course goals relevent to this module are...
+#### The broader course goals relevant to this module are...
 
 * I can design and build user interfaces
 * I test-drive my code
@@ -299,7 +304,7 @@ By the end of the module all developers can:
 * Follow an effective debugging process for database-backed web applications
 * Build a simple web app that can read from and write to a database
 
-#### The broader course goals relevent to this module are...
+#### The broader course goals relevant to this module are...
 
 * I can integrate a database
 * I can design a system
@@ -341,7 +346,7 @@ These exercises can be used for independent study, or enhanced by pairing and gr
 
 ## Week 7: MakersBnB
 
-During this week, you'll work in teams to [build a program according to a specification][makersbnb].  Technically, a lot of what you do will be a recap of the preceeding weeks.
+During this week, you'll work in teams to [build a program according to a specification][makersbnb].  Technically, a lot of what you do will be a recap of the preceding weeks.
 
 ### This module's main goals
 
@@ -358,14 +363,14 @@ By the end of this module all developers can:
 Some team meetings have been added to your schedule already:
 
 1. Team standups, where you'll quickly check in with each other and communicate your plans for the day.  Keep them brief. If you need time to discuss things in more detail, add specific meetings to your agenda for that.
-2. Team stand downs, where you'll quickly refelct on how your day has gone.  Again keep them brief.
+2. Team stand downs, where you'll quickly reflect on how your day has gone.  Again keep them brief.
 4. Sprint planning, where you'll aim to plan what work your team will take on in the next sprint.
 5. Sprint review, where you look back on the work done in the current sprint. If you had clients, they'd be in the room for this one.
 5. Sprint retrospectives, where you'll seek answers to the question "how can we be a better team?".  You'll think about what you did well, what could be improved and what actions you'll take to realise those improvements.
 
-You might consider adding these to your shedule:
+You might consider adding these to your schedule:
 
-1. Independent learning.  Make sure you strictly time box this and always include time for sharing what has been learned.  I'd recommend that you keep these to 45 mins plus 15 mins for sharing.
+1. Independent learning.  Make sure you strictly time box this and always include time for sharing what has been learned.  I'd recommend that you keep these to 45 minutes plus 15 minutes for sharing.
 2. Mobbing.  This is where you all 'gather around' one machine and write code together. It can be useful to have 3+ brains and pairs of eyes on a problem but these sessions can become tiresome.  Again, you should strictly time box these sessions.  You should also watch out for signs of disengagement – if you see them, it's time to mix things up.
 
 ### Why so many meetings??
@@ -378,9 +383,9 @@ For some of you, this will seem like overkill and you'll want to 'just get crack
 
 ### Who will facilitate your meetings?
 
-On placement, you'll work in multidisciplinary teams, with people like Deliver Mangers and Product Managers, who provide vision and support.  This week, you'll do a lot of these things for yourselves.  I'd recommend that each day you nominate someone to faciliate team meetings.  Ideally, everyone in the team has at least one day in this role.
+On placement, you'll work in multidisciplinary teams, with people like Deliver Mangers and Product Managers, who provide vision and support.  This week, you'll do a lot of these things for yourselves.  I'd recommend that each day you nominate someone to facilitate team meetings.  Ideally, everyone in the team has at least one day in this role.
 
-As facilitator, your most important job is to create and maintain an friendly space so that everyone in the team feels comfortable contributing.  You might occasionally need to take a step back in order to do this well.
+As facilitator, your most important job is to create and maintain a friendly space so that everyone in the team feels comfortable contributing.  You might occasionally need to take a step back in order to do this well.
 
 ### What are the hallmarks of a great team?
 
@@ -409,7 +414,7 @@ By the end of the module all developers can:
 * Compare and contrast Javascript and Ruby
 * Test drive a simple front-end web app with Javascript
 
-#### The broader course goals relevent to this module are...
+#### The broader course goals relevant to this module are...
 
 * I can design and build user interfaces
 * I test-drive my code
@@ -423,7 +428,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 | ------------------------- | -------------------------------------------------------------- |
 | Using functions           | [Introduction to Javascript functions][js_functions]           |
 | OOP                       | [Introduction to Javascript class syntax][js_classes]          |
-| TDD                       | [Introduction to Javasctipt and Jasmine][js_and_jasmine]       |
+| TDD                       | [Introduction to Javascript and Jasmine][js_and_jasmine]       |
 | Learn by translation      | [Learning a new language by translation][learn_by_translation] |
 | Encapsulation             | [JS Objects][js_objects]                                       |
 | Using events              | [Following the flow][events]                                   |
@@ -432,7 +437,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 | ------------------------- | -------------------------------------------------------------- |
 | Consume an API            | [Chitter front end challenge][chitter_front_end]               |
 | Advanced Logic            | [Create a bowling scorecard][bowling]                          |
-| Learn another language    | [TDD the Takeaway challenge in a new langauge][takeaway]       |
+| Learn another language    | [TDD the Takeaway challenge in a new language][takeaway]       |
 
 [js_functions]: https://github.com/makersacademy/course/blob/master/pills/js_functions.md
 [js_classes]: https://github.com/makersacademy/course/blob/master/pills/js_classes.md
@@ -443,14 +448,12 @@ These exercises can be used for independent study, or enhanced by group discussi
 [events]: https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-events
 [learn_by_translation]: https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A
 [js_objects]: https://hackmd.io/LNOhghGETu2Mry0LYCGKwQ?view
-[js_async]: https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-following-the-flow-async
-[js_callbacks]: https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/callbacks_following_the_flow_of_control
 
 ### Resources
 
 * [JavaScript track on Exercism.io](https://exercism.io/tracks/javascript)
 * [You Don't Know JS – a free book series](https://github.com/getify/You-Dont-Know-JS)
-* Here's a great tool to deploy pure html/js sites: [surge.sh](https://surge.sh)
+* Here's a great tool to deploy pure HTML/Javascript sites: [surge.sh](https://surge.sh)
 * [Codepen](https://codepen.io/) is a really great tool for playing with HTML, CSS and JS
 * [Technical learning resources](https://airtable.com/shrtZmDUTQmQFdaZV/tblokmw6yNUO75ge6)
 
@@ -462,13 +465,13 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 For this module there are several options.  You should take a moment to decide which is the right one for you before getting started.  If you choose something and regret it, go back and choose something else! :)
 
-* Create a JS app that fulfills the [Office Management Challenge user stories](https://github.com/makersacademy/office-management-challenge#task)
+* Create a JS app that fulfils the [Office Management Challenge user stories](https://github.com/makersacademy/office-management-challenge#task)
    - A familiar problem in a new language
    - Do this one if you would like to focus on basic Javascript syntax
    - You can either create a new repo or fork/clone this one and remove all the Ruby
    - STRETCH: Can you extend the challenge to include a simple user interface?
-* Create a JS app that fullfills the [Takeaway Challenge user stories](https://github.com/makersacademy/takeaway-challenge#task)
-   - Towards the end of the Takeaway challenge, you'll have fun sending text messages with the Twilion API! :)
+* Create a JS app that fulfils the [Takeaway Challenge user stories](https://github.com/makersacademy/takeaway-challenge#task)
+   - Towards the end of the Takeaway challenge, you'll have fun sending text messages with the Twilio API! :)
    - Do this one if you want something a little bit more challenging
    - You can either create a new repo or fork/clone this one and remove all the Ruby
    - STRETCH: Can you extend the challenge to include a simple user interface?

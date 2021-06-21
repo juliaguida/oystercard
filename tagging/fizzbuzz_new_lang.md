@@ -7,7 +7,7 @@ To achieve these goals:
 ## Action Plan
 Complete the FizzBuzz kata in a new and unfamiliar language!
 
-The kata is available in a range of languages on CodeWars here : https://www.codewars.com/kata/fizz-buzz
+The kata is available in a range of languages on Codewars here : https://www.codewars.com/kata/fizz-buzz
 
 The Primary goal of this exercise is to help develop a process which you can apply any time you want to pick up a new technology.
 

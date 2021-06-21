@@ -168,7 +168,7 @@ If you haven't already, start attending [process workshops](https://github.com/m
 By the end of the week all developers can build tested, easy-to-change software in a team using these processes:
 
 * Break down projects into tasks and allocate them to pairs
-* Build to a specificiation (rather than challenges)
+* Build to a specification (rather than challenges)
 * Run stand-ups and retrospectives
 * Use a branch/PR/merge git workflow
 * Give and receive meaningful code review

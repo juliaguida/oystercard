@@ -117,7 +117,7 @@ Sweet success! We now have a fully-operational aircraft.
 
 ### The Airport
 
-Now would be an excellent time to implement an airport. While our plane was a particularly simple object, our airport is going to need to interact with a second object, adding a dependency on a plane object. Since we test our objects in isolation, this is going to be the perfect time for us to explore doubling objects in JavaScript. I can literally feel your excitement traveling back in time, and bouncing off me while I write this. Incredible work people.
+Now would be an excellent time to implement an airport. While our plane was a particularly simple object, our airport is going to need to interact with a second object, adding a dependency on a plane object. Since we test our objects in isolation, this is going to be the perfect time for us to explore doubling objects in JavaScript. I can literally feel your excitement travelling back in time, and bouncing off me while I write this. Incredible work people.
 
 So, in the interest of brevity we're going to race through our test setup and get straight to writing our first test, which wants to make sure an `Airport` is empty upon creation:
 

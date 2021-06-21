@@ -2,7 +2,7 @@
 
 [Back to the Challenge Map](README.md)
 
-Alrighty. Now that you've got the basics under your fingers, it's time for a new domain.
+Now that you've got the basics under your fingers, it's time for a new domain.
 
 In this challenge, you will build the logic needed to model a simple thermostat.
 

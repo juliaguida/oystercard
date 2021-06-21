@@ -11,7 +11,7 @@
 - Does this need to be responsive?
 - Will I need to use external fonts or system fonts?
 - Are there interactive parts that will need styles I can’t necessarily see from a static mockup?
-- Do I need to vertically center anything?
+- Do I need to vertically centre anything?
 
 #### Other considerations
 
