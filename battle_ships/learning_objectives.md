@@ -31,7 +31,7 @@ In general this week should consolidate all of the learning objectives from week
 
 ## Polymorphism
 * Define Polymorphism (in Ruby) as being able to send the same message to different objects and get different results
-* Give an example of Polymorphism in Ruby [[Thoughtbot](https://robots.thoughtbot.com/back-to-basics-polymorphism-and-ruby) (reading)]
+* Give an example of Polymorphism in Ruby [[Thoughtbot](https://thoughtbot.com/blog/back-to-basics-polymorphism-and-ruby) (reading)]
 
 # UX/UI Design
 
@@ -42,7 +42,7 @@ In general this week should consolidate all of the learning objectives from week
 * Link UX and UI design processes with the development process
 * Discuss some challenges involved in UX and UI design
 
-# Object-Oriented Programming ([*SOLID*](http://blog.rubybestpractices.com/posts/gregory/055-issue-23-solid-design.html))
+# Object-Oriented Programming
 ## Principles
 * Be aware of the O, L, and I components for more detailed study in subsequent weeks
 

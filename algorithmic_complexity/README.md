@@ -89,8 +89,6 @@ There are two workshops supporting this topic.
 * [Here’s a table that shows the cost of operations on different data structures](https://en.wikipedia.org/wiki/Dynamic_array#Performance)
 * [Arrays](https://www.interviewcake.com/concept/python/array?) and [Dynamic Arrays](https://www.interviewcake.com/concept/python/dynamic-array)
 * [More on hashtables](https://www.interviewcake.com/concept/java/hash-map)
-* [Introduction to ruby hashes (an example of hash tables)](https://launchschool.com/blog/how-the-hash-works-in-ruby
-)
 * [An explanation of hashtables that has you build one in ruby](https://www.rubyguides.com/2017/02/hash-tables-explained/)
 
 - [ ] Looking at your less efficient algorithms, can you spot operations that have a high hidden cost?
@@ -111,7 +109,7 @@ The last workshop of the playlist touches on these topics. Watch here: https://w
 
 **Resources**:
 * [Divide and conquer algorithm](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm) on Wikipedia
-* [Recursion Demystified](https://medium.freecodecamp.org/recursion-demystified-99a2105cb871)
+* [Recursion Demystified](https://www.freecodecamp.org/news/recursion-demystified-99a2105cb871/)
 
 - [ ] Can you use this to make you sorting algorithm faster?
 

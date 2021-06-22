@@ -4,7 +4,7 @@ PHP is [the most popular on the web](http://trends.builtwith.com/framework/progr
 
 ## Installing PHP
 
-We can install PHP using [Homebrew](http://brew.sh/). Run these commands in the terminal (the final command installs Composer which is PHP's answer to Bundler):
+We can install PHP using [Homebrew](https://brew.sh/). Run these commands in the terminal (the final command installs Composer which is PHP's answer to Bundler):
 
 ```
 brew tap homebrew/dupes

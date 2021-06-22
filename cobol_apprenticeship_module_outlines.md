@@ -79,8 +79,8 @@ Remind yourself of the rest [here](https://github.com/makersacademy/course/blob/
 ### Resources
 
 * [TDD Fizzbuzz video](https://www.youtube.com/watch?)
-* [The 4 phases of a test](https://robots.thoughtbot.com/four-phase-test)
-* [The three rules of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+* [The 4 phases of a test](https://thoughtbot.com/blog/four-phase-test)
+* [The three rules of TDD](https://gist.github.com/R4wm/a0ea5cba323d945625141e0c98238c64)
 * [Encapsulation on Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_%28computer_programming%29)
 * [Technical Learning Resources](https://airtable.com/shrtZmDUTQmQFdaZV/tblokmw6yNUO75ge6)
 

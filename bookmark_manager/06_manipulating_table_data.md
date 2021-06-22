@@ -14,10 +14,10 @@ In this challenge, you will use SQL to **c**reate, **r**ead (**query**), **u**pd
 ## To complete this challenge, using the psql command line interface
 
 - [ ] List any existing rows in the bookmarks table.
-- [ ] Create four link entries in the `bookmarks` table, with the following URLs: `http://www.makersacademy.com`, `http://askjeeves.com`, `http://twitter.com`, and `http://www.google.com`, using an `INSERT` statement.
+- [ ] Create four link entries in the `bookmarks` table, with the following URLs: `https://www.makersacademy.com/`, `https://twitter.com/`, and `https://www.google.com/`, using an `INSERT` statement.
 - [ ] List the four entries using a `SELECT` statement.
 - [ ] Delete the link with a URL of `http://twitter.com` using a `DELETE` statement.
-- [ ] Update the `http://askjeeves.com` link to `http://www.destroyallsoftware.com` using an `UPDATE` statement.
+- [ ] Update the `http://twitter.com` link to `https://www.destroyallsoftware.com` using an `UPDATE` statement.
 
 ## Hints
 &nbsp;<details><summary>CLICK ME</summary>
@@ -27,8 +27,8 @@ In this challenge, you will use SQL to **c**reate, **r**ead (**query**), **u**pd
 
 ## Resources
 
-* [PostgreSQL Command Line Cheat Sheet](http://blog.jasonmeridth.com/posts/postgresql-command-line-cheat-sheet/)
-* [Alternative PostgreSQL Cheat Sheet](http://www.postgresqltutorial.com/postgresql-cheat-sheet/)
+* [PostgreSQL Command Line Cheat Sheet](https://blog.jasonmeridth.com/posts/postgresql-command-line-cheat-sheet/)
+* [Alternative PostgreSQL Cheat Sheet](https://www.postgresqltutorial.com/postgresql-cheat-sheet/)
 * [SQL in One Page](http://www.cheat-sheets.org/sites/sql.su/)
 * [Relational Database: Terminology](https://en.wikipedia.org/wiki/Relational_database#Terminology)
 

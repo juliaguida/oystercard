@@ -34,18 +34,18 @@ By the end of modules 1 & 2 all developers can:
     * [Mastery Quizzes, Chapter 1](https://mastery-curriculum.makers.tech/chapter1/)
     * [Mastery Quizzes, Chapter 2](https://mastery-curriculum.makers.tech/chapter2/)
     * [Mastery Quizzes, Chapter 3](https://mastery-curriculum.makers.tech/chapter3/)
-    * [Free code camp (0 - 1 hr 12)](https://youtu.be/t_ispmWmdjY)
+    * [Free code camp (0 - 1 hr 12)](https://www.youtube.com/watch?v=t_ispmWmdjY)
     * [Codecademy (introduction to ruby) ](https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby)
 
  - [ ] I can write programs using conditional logic
     * [Mastery Quizzes, Chapter 4](https://mastery-curriculum.makers.tech/chapter4/)
     * [Mastery Quizzes, Chapter 5](https://mastery-curriculum.makers.tech/chapter5/)
-    * [Free code camp (1 hr 40 - 2 hr 05)](https://youtu.be/t_ispmWmdjY?t=6029)
+    * [Free code camp (1 hr 40 - 2 hr 05)](https://www.youtube.com/watch?v=t_ispmWmdjY&t=6029)
     * [Codecademy (control flow in ruby)](https://www.codecademy.com/courses/learn-ruby/lessons/control-flow-in-ruby)
 
  - [ ] I can write programs using loops
     * [Mastery Quizzes, Chapter 6](https://mastery-curriculum.makers.tech/chapter6/)
-    * [Free code camp (2 hr 15 - 3hr 05)](https://youtu.be/t_ispmWmdjY?t=8126)
+    * [Free code camp (2 hr 15 - 3hr 05)](https://www.youtube.com/watch?v=t_ispmWmdjY&t=8126)
     * [Codecademy (loops iterators)](https://www.codecademy.com/courses/learn-ruby/lessons/loops-iterators)
 
  - [ ] I can write my own classes and methods
@@ -56,7 +56,7 @@ By the end of modules 1 & 2 all developers can:
  - [ ] I can write programs using arrays and hashmaps
     * [Mastery Quizzes, Chapter 7](https://mastery-curriculum.makers.tech/chapter7/)
     * [Mastery Quizzes, Chapter 8](https://mastery-curriculum.makers.tech/chapter8/)
-    * [Free code camp (1 hr 12 - 1hr 30)](https://youtu.be/t_ispmWmdjY?t=4338)
+    * [Free code camp (1 hr 12 - 1hr 30)](https://www.youtube.com/watch?v=t_ispmWmdjY&t=4338)
     * [Codecademy (arrays and hashes)](https://www.codecademy.com/courses/learn-ruby/lessons/ruby-data-structures/exercises/creating-arrays)
 
 
@@ -82,8 +82,8 @@ Remind yourself of the rest [here](https://github.com/makersacademy/course/blob/
 ### Resources
 
 * [TDD Fizzbuzz video](https://www.youtube.com/watch?)
-* [The 4 phases of a test](https://robots.thoughtbot.com/four-phase-test)
-* [The three rules of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+* [The 4 phases of a test](https://thoughtbot.com/blog/four-phase-test)
+* [The three rules of TDD](https://gist.github.com/R4wm/a0ea5cba323d945625141e0c98238c64)
 * [Encapsulation on Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_%28computer_programming%29)
 * [Technical Learning Resources](https://airtable.com/shrtZmDUTQmQFdaZV/tblokmw6yNUO75ge6)
 
@@ -333,7 +333,7 @@ These exercises can be used for independent study, or enhanced by pairing and gr
 
 * [The REST test](https://github.com/sjmog/rest)
 * [Explain DBs like I'm 5](https://www.reddit.com/r/explainlikeimfive/comments/3qqm9h/eli5_relational_databases/)
-* [A Shelfish Starter Guide to Databases](https://illustrated.dev/databases)
+* [A Shelfish Starter Guide to Databases](https://maggieappleton.com/databases)
 * [Technical learning resources](https://airtable.com/shrtZmDUTQmQFdaZV/tblokmw6yNUO75ge6)
 
 ### Pairing challenge

@@ -45,7 +45,7 @@ These can be used by the devs independently, or enhanced by a coach delivering a
 ### Resources
 
 * [The 4 phases of a test](https://robots.thoughtbot.com/four-phase-test)
-* [The three rules of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+* [The three rules of TDD](https://gist.github.com/R4wm/a0ea5cba323d945625141e0c98238c64)
 * [Encapsulation on Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_%28computer_programming%29)
 * [Technical Learning Resources](https://airtable.com/shrIlMSX4PrGxuSfT/tblokmw6yNUO75ge6?blocks=hide)
 

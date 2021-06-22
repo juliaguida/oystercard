@@ -66,8 +66,8 @@ In this challenge, you will **install the PostgreSQL database system**, and inte
 
 ## Resources
 
-* [Homebrew Package Manager](http://brew.sh/)
-* [PostgreSQL Command Line Cheat Sheet](http://blog.jasonmeridth.com/posts/postgresql-command-line-cheat-sheet/)
+* [Homebrew Package Manager](https://brew.sh/)
+* [PostgreSQL Command Line Cheat Sheet](https://blog.jasonmeridth.com/posts/postgresql-command-line-cheat-sheet/)
 
 ## [Walkthrough - Mac OS](walkthroughs/04_mac.md)
 ## [Walkthrough - Linux](walkthroughs/04_linux.md)

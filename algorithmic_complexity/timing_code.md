@@ -18,7 +18,7 @@ The easiest way to do this is to use sample sizes that increase in regular steps
 
 ### Is your first result always very high?
 
-This is normal. [Here's an article](http://engineering.appfolio.com/appfolio-engineering/2017/5/2/what-about-warmup) that explains why this is the case. It is written for ruby, but similar reasons apply for any language.
+This is normal. [Here's an article](https://engineering.appfolio.com/appfolio-engineering/2017/5/2/what-about-warmup) that explains why this is the case. It is written for ruby, but similar reasons apply for any language.
 
 A simple solution to this it to just run a few warm up rounds. That could be as little as 10 throwaway iterations, but you can experiment with different numbers.
 

@@ -21,9 +21,6 @@ Here are other tools Makers Academy developers have used to track their learning
 
 * Paul (March 2019) keeps all his notes, including reflections and feedback on [Github](https://github.com/Hives/makers-notes)
 
-* Kim (March 2019) uses a custom tool:
-> Here is a [coding tracker template](https://docs.google.com/spreadsheets/d/1Mm8v544mnflkrIPhc6b_-tEGTLq9BC22liuTOZ9th9g/edit?usp=sharing) I've been using to log my long-term goals, weekly goals and daily goals. It was inspired by one of my friends, Linh from Codebar. She did a talk ages ago on how she tracked her competencies in her first dev job :slightly_smiling_face:
-
 * Steven (April 2019) writes notes in markdown (here is [one example](https://hackmd.io/s/S1otqj56V)). He also [records his screen regularly](https://www.youtube.com/channel/UCtXZ2rupF8wGyD5dFH3L0cQ/videos?view=0&sort=da&flow=grid) to be able to look back at his process.
 
 ## Inquiry Project

@@ -18,7 +18,7 @@ In this challenge, you will use Postgres' built-in command-line program, `psql`,
 - [ ] Create a new PostgreSQL database for Bookmark Manager, called `bookmark_manager`.
 - [ ] Use `psql` to connect to this new database.
 - [ ] Use `psql` to create a table called `bookmarks` in the `bookmark_manager` database, with two columns: `id`, a `SERIAL PRIMARY KEY`, and `url`, a `VARCHAR` with a maximum length of `60`.
-- [ ] Record the database setup instructions. 
+- [ ] Record the database setup instructions.
 
 ## Hints
 &nbsp;<details><summary>CLICK ME</summary>
@@ -28,9 +28,9 @@ In this challenge, you will use Postgres' built-in command-line program, `psql`,
 
 ## Resources
 
-* [PostgreSQL Command Line Cheat Sheet](http://blog.jasonmeridth.com/posts/postgresql-command-line-cheat-sheet/)
+* [PostgreSQL Command Line Cheat Sheet](https://blog.jasonmeridth.com/posts/postgresql-command-line-cheat-sheet/)
 * [SQL in One Page](http://www.cheat-sheets.org/sites/sql.su/)
-* [PostgreSQL Cheat Sheet](http://www.postgresqltutorial.com/postgresql-cheat-sheet/)
+* [PostgreSQL Cheat Sheet](https://www.postgresqltutorial.com/postgresql-cheat-sheet/)
 
 ## [Walkthrough](walkthroughs/05.md)
 

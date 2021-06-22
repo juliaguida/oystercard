@@ -20,7 +20,7 @@ In this challenge, you will play with some tooling that gives you more insight i
 
 ## To complete this challenge, you will need to
 
-- [ ] Download and install [TablePlus](https://tableplus.io/).
+- [ ] Download and install [TablePlus](https://tableplus.com/).
 - [ ] Connect TablePlus to your PostgreSQL database management system.
 - [ ] Use the `INSERT`, `UPDATE`, `DELETE`, and `SELECT` commands within TablePlus to add, update, delete, and read some data from the `bookmarks` table in the `bookmark_manager` database.
 - [ ] Run your Sinatra application, and watch new bookmarks appearing in the application when you add them to the database via TablePlus.
