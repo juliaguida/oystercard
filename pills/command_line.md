@@ -845,7 +845,7 @@ Now we can tell vi to save the file. Press colon (:) and then w ("w" stands for 
 
 Now we need to quit the editor. Type :q followed by Enter. (If you needed to quit without saving changes, you'd need to do :q!).
 
-This is the absolute minimum you need to know to make a basic edit using vi. Print a [cheat sheet](http://www.lagmonster.org/docs/vi.html) and practice using vi on a few files.
+This is the absolute minimum you need to know to make a basic edit using vi. Print a [cheat sheet](https://vim.rtorr.com) and practice using vi on a few files.
 
 #### Exiting the shell
 

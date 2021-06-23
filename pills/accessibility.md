@@ -8,7 +8,7 @@ The web is a visual medium, right?
 
 A [Google study](http://www.interactiveaccessibility.com/accessibility-statistics) found that there are _more visually-impaired internet users than there are Italian internet users_. As much as **3.5% of all web traffic** uses a _screen reader_ (a device that reads the structure of a web page aloud).
 
-What does this feel like? The most popular screen reader is [JAWS](https://store.freedomscientific.com/collections/software-products/products/jaws-pro-screenreader) (which costs over $1,000), but you can trial the world's second most popular for free: VoiceOver.
+What does this feel like? The most popular screen reader is [JAWS](https://www.freedomscientific.com/products/software/jaws/) (which costs over $1,000), but you can trial the world's second most popular for free: VoiceOver.
 
 ### Exercise 1: Empathy with screen-reading users
 

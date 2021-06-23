@@ -48,7 +48,6 @@ Resources
 --------
 
 * [Programmers Stack Exchange on How to Choose](http://programmers.stackexchange.com/questions/125306/how-to-choose-the-most-suitable-technologies-for-your-project)
-* [Programming Languages as Weapons](http://bjorn.tipling.com/if-programming-languages-were-weapons)
 * [Original Wiki Page](https://github.com/makersacademy/course/wiki/Choosing-Technology-For-a-Project)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

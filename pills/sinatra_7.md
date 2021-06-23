@@ -14,7 +14,7 @@ It's inconvenient to enter the visitor's name directly in the URL. Let's create 
       <input type="submit" value="Submit">
     </form>
   <% end %>
-  <img src='http://bit.ly/1eze8aE'>
+  <img src='http://placekitten.com/500/500'>
 </div>
 ````
 

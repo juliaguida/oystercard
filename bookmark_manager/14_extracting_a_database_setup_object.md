@@ -17,7 +17,7 @@ In this challenge, you will extract an object which is used to setup a connectio
 
 *Object Relational Mapping*
 
-So far we've written all the code to interact with the database using the `psql` gem. As you've probably noticed, this can make the code difficult to read as SQL queries can be quite lengthy! It's become common to instead use an [Object Relational Mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) tool to abstract the database interaction. An example of an ORM is [DataMapper](https://datamapper.org/).
+So far we've written all the code to interact with the database using the `psql` gem. As you've probably noticed, this can make the code difficult to read as SQL queries can be quite lengthy! It's become common to instead use an [Object Relational Mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) tool to abstract the database interaction. An example of an ORM is [ROM](https://rom-rb.org).
 
 In this stage you'll make a first step towards making your own ORM!
 

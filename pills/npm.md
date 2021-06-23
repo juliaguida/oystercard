@@ -79,7 +79,7 @@ Your package.json should now look like this:
 Finally, add your node_modules folder to your `.gitignore` file, to avoid clogging up your repo with external files. This means that when working in a team, it is important for every member of your team to run the command ``` npm install ``` from the top level directory of your project - this will then install all the packages as described in the package.json, in a similar way to running bundle in a ruby project.
 
 ###Further resources
-* [What is the package.json?](https://docs.nodejitsu.com/articles/getting-started/npm/what-is-the-file-package-json)
+* [What is the package.json?](https://nodejs.org/en/knowledge/getting-started/npm/what-is-the-file-package-json/)
 * [`npm-init` documentation](https://www.npmjs.org/doc/cli/npm-init.html)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

@@ -49,7 +49,7 @@ erb "Hi there, Visitor <% 2 + 2 %>!"
 
 - [Sinatra Views](http://www.sinatrarb.com/intro.html#Views%20/%20Templates)
 - [ERB (Ruby Docs)](http://ruby-doc.org/stdlib-2.2.3/libdoc/erb/rdoc/ERB.html)
-- [An introduction to ERB Templating](http://www.stuartellis.eu/articles/erb/)
+- [An introduction to ERB Templating](https://www.stuartellis.name/articles/erb/)
 
 ### [Walkthrough](walkthroughs/sinatra_erb.md)
 

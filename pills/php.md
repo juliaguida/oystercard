@@ -137,8 +137,6 @@ Of course we want to go a bit more advanced than just embedding bits of PHP in t
 
 For this purpose I recommend you use [Slim](http://www.slimframework.com/), which is pretty similar to Sinatra. We'll also need an ORM: [Laravel](http://laravel.com/) (the equivalent to Rails) has [Eloquent ORM](http://laravel.com/docs/4.2/eloquent) (the equivalent to Active::Record) which is available as a separate package from Composer.
 
-You can follow [this video](https://vimeo.com/112265555) (from around 35 minutes in) to help you get your app started. [This gist](https://gist.github.com/pitchinvasion/17320a48231de57026f9) shows one way of setting up Slim to work with Eloquent ORM and Postgres. Can you get your app [deployed on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php)?
-
 **Watch out for these gotchas:**
 
 * You might get a memory error when installing your composer files, if so run `sudo subl /usr/local/etc/php/5.6/php.ini` and search for memory_limit and change it to `5000M`.

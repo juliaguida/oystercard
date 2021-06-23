@@ -132,9 +132,9 @@ Total 7 (delta 4), reused 0 (delta 0)
 
 -----> Compiled slug size: 25.1MB
 -----> Launching... done, v7
-       http://tech-bikers-demo.herokuapp.com deployed to Heroku
+       http://example.herokuapp.com deployed to Heroku
 
-To git@heroku.com:tech-bikers-demo.git
+To git@heroku.com:example.git
    fc4d30c..8bdc99d  main -> main
 ````
 

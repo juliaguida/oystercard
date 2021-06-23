@@ -60,8 +60,6 @@ And now to create our method. As you will have noticed, we place the _properties
 
 It's important to understand that unlike Ruby where your instances inherit from a class, when it comes to JavaScript, your instances inherit from other instances. When the JavaScript interpreter cannot find a property or method defined on the current instance it looks to the next instance in the inheritance chain for the missing information.
 
-For more information on how prototypal inheritance works, check out this great article on [webreference.com](http://www.webreference.com/programming/javascript/prototypal_inheritance/index.html).
-
 But for now, we can think of `prototype` as a "storage area" which relates to the object referenced immediately before the `prototype` keyword and stores the function (method) you are defining. Let's look at some code to understand this more thoroughly:
 
 ```javascript

@@ -8,7 +8,7 @@ require 'sinatra/reloader' if development?
 
 get '/' do
   "<div style='border: 3px dashed red'>
-     <img src='http://bit.ly/1eze8aE'>
+     <img src='http://placekitten.com/500/500'>
    </div>"
 end
 ````
@@ -48,7 +48,7 @@ We've just selected a name for the kitten in the instance variable **@name**. Le
 ````html
 <div style='border: 3px dashed red'>
   My name is <%= @name %>
-  <img src='http://bit.ly/1eze8aE'>
+  <img src='http://placekitten.com/500/500'>
 </div>
 ````
 
@@ -57,7 +57,7 @@ The second line contains the text and an embedded ruby tag. The code that begins
 ````html
 <div style='border: 3px dashed red'>
   My name is Oscar
-  <img src='http://bit.ly/1eze8aE'>
+  <img src='http://placekitten.com/500/500'>
 </div>
 ````
 

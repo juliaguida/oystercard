@@ -26,7 +26,7 @@ end
 ```
 You can read about the format of the Gemfile in this [brilliant tutorial](http://tosbourn.com/what-is-the-gemfile/).
 
-- Now let's check the version of Ruby we have installed. You can find out the latest stable Ruby version on [its website](https://www.ruby-lang.org/en/downloads/). As of today, it's 2.7.1. Assuming you have RVM installed (if not, follow the instructions from the [RVM website](https://rvm.io/rvm/install)), run `rvm list` to see what Ruby version you have on your machine. The output will look similar to this:
+- Now let's check the version of Ruby we have installed. You can find out the latest stable Ruby version on [its website](https://www.ruby-lang.org/en/downloads/). As of today, it's 2.7.1. Assuming you have RVM installed (if not, follow the instructions from the [RVM website](https://rvm.io/rvm/install), run `rvm list` to see what Ruby version you have on your machine. The output will look similar to this:
 
 ```
 rvm rubies

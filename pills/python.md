@@ -15,7 +15,7 @@ Resources
 * [Sure (Python's RSpec)](https://github.com/gabrielfalcao/sure)
 * [Lettuce (Python's Cucumber)](https://github.com/gabrielfalcao/lettuce)
 * [Flash (Python's Sinatra)](http://flask.pocoo.org/)
-* [Django (Python's Rails)](https://docs.djangoproject.com/en/1.7/intro/tutorial01/)
+* [Django (Python's Rails)](https://docs.djangoproject.com/en/3.2/)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

@@ -36,7 +36,7 @@ Some blogs about this:
   * [George Dinwiddie](http://idiacomputing.com/pub/UserStories.pdf)
   * [Joe Rainsberger](http://www.jbrains.ca/permalink/how-youll-probably-learn-to-split-features)
   * [Stephen Thomas](http://agile-management.com/wordpress/splitting-user-stories)
-  * [Mark Levison](http://agilepainrelief.com/notesfromatooluser/2010/09/story-slicing-how-small-is-enough.html) [and this](http://agilepainrelief.comnotesfromatooluser/2010/12/more-notes-on-story-splitting.html)
+  * [Mark Levison](http://agilepainrelief.com/notesfromatooluser/2010/09/story-slicing-how-small-is-enough.html) [and this](https://agilepainrelief.com/blog/more-notes-on-story-splitting.html)
   * [Martin Fowler](http://martinfowler.com/bliki/ConversationalStories.html)
 
 Some books about this:

@@ -21,7 +21,7 @@ Here are other tools Makers Academy developers have used to track their learning
 
 * Paul (March 2019) keeps all his notes, including reflections and feedback on [Github](https://github.com/Hives/makers-notes)
 
-* Steven (April 2019) writes notes in markdown (here is [one example](https://hackmd.io/s/S1otqj56V)). He also [records his screen regularly](https://www.youtube.com/channel/UCtXZ2rupF8wGyD5dFH3L0cQ/videos?view=0&sort=da&flow=grid) to be able to look back at his process.
+* Steven (April 2019) writes notes in markdown (here is [one example](https://hackmd.io/s/S1otqj56V). He also [records his screen regularly](https://www.youtube.com/channel/UCtXZ2rupF8wGyD5dFH3L0cQ/videos?view=0&sort=da&flow=grid) to be able to look back at his process.
 
 ## Inquiry Project
 

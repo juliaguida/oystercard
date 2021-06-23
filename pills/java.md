@@ -203,7 +203,7 @@ especially the first track on [Learning the Java Language], along with the
 [Clojure]: http://clojure.org/
 [Eclipse]: https://eclipse.org/
 [Gradle]: http://www.gradle.org/
-[Groovy]: http://groovy.codehaus.org/
+[Groovy]: https://groovy-lang.org
 [IDE]: http://en.wikipedia.org/wiki/Integrated_development_environment
 [IntelliJ IDEA]: https://www.jetbrains.com/idea/
 [Java reference pages]: https://docs.oracle.com/javase/8/

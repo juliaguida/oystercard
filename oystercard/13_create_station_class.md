@@ -38,7 +38,7 @@ I want to know what zone a station is in
 - [Modules: Learn Ruby the Hard Way](http://learnrubythehardway.org/book/ex40.html)
 - [Modules on Pragmatic Programmers](http://ruby-doc.com/docs/ProgrammingRuby/html/tut_modules.html)
 - [Including other files in Ruby](http://rubylearning.com/satishtalim/including_other_files_in_ruby.html)
-- [Don't repeat yourself – O'Reilly](http://programmer.97things.oreilly.com/wiki/index.php/Don't_Repeat_Yourself)
+- [Don't repeat yourself – O'Reilly](https://www.oreilly.com/library/view/97-things-every/9780596809515/ch30.html)
 
 ## [Walkthrough](walkthroughs/13_create_station_class.md)
 

@@ -15,7 +15,6 @@ To allow you the freedom to direct your own learning, this tutorial will not tak
 * [ng-token-auth - OAuth for Angular](https://github.com/lynndylanhurley/ng-token-auth)
 * [`devise_token_auth`](https://github.com/lynndylanhurley/devise_token_auth)
 * [rspec-rails - request specs](https://www.relishapp.com/rspec/rspec-rails/docs/request-specs/request-spec)
-* [modulus - create a REST API in NodeJS / Express](http://blog.modulus.io/nodejs-and-express-create-rest-api)
 * [TDD your node API with Mocha](http://webapplog.com/test-driven-development-in-node-js-with-mocha/)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

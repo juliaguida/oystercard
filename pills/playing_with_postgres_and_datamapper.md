@@ -163,10 +163,10 @@ So we can see here that we have three columns (also called 'fields'): `id`, `tit
 
 #### Create
 
-There's little point of having a database if you're not willing to put anything in it. So it's time to Create. The SQL command associated with creation is `INSERT`. This command will create new [rows](http://en.wikipedia.org/wiki/Row_%28database%29d) in a table. Let's update our `links` table with some information for [CSS-Tricks](http://css-tricks.com):
+There's little point of having a database if you're not willing to put anything in it. So it's time to Create. The SQL command associated with creation is `INSERT`. This command will create new [rows](http://en.wikipedia.org/wiki/Row_%28database%29d) in a table. Let's update our `links` table with some information for [CSS-Tricks](http://example.org):
 
 ```SQL
-INSERT INTO "links" (TITLE,URL) VALUES ( 'CSS Tricks', 'http://csstricks.com');
+INSERT INTO "links" (TITLE,URL) VALUES ( 'ExampleOrg', 'http://example.org');
 ```
 
 There are several things to note here.
@@ -185,7 +185,7 @@ id |     title      |           url
 ----+----------------+--------------------------
  1 | Code.org       | http://code.org
  2 | Makers Academy | http://makersacademy.com
- 3 | CSS Tricks     | http://csstricks.com
+ 3 | ExampleOrg    | http://example.org
 (3 rows)
 ```
 
@@ -193,10 +193,10 @@ We have successfully created a new record in `links`, and the database has autom
 
 #### Update
 
-Sometimes we just want to make amendments to our database. The `UPDATE` command is our friend here. Let's say that we made an error by linking to csstricks.com, and wish to amend the URL value to the correct address (which is _css-tricks_.com). Looking at our table with a `SELECT` query, we can see that the column we have stored our offending value at is called `url` and it has a unique `id` of '3' associated with it.
+Sometimes we just want to make amendments to our database. The `UPDATE` command is our friend here. Let's say that we made an error by linking to example.org, and wish to amend the URL value to the correct address (which is _css-tricks_.com). Looking at our table with a `SELECT` query, we can see that the column we have stored our offending value at is called `url` and it has a unique `id` of '3' associated with it.
 
 ```SQL
-UPDATE "links" SET URL = 'http://css-tricks.com' WHERE ID = 3;
+UPDATE "links" SET URL = 'http://example.org' WHERE ID = 3;
 ```
 ```
 UPDATE 1
@@ -211,7 +211,7 @@ id |     title      |           url
 ----+----------------+--------------------------
  1 | Code.org       | http://code.org
  2 | Makers Academy | http://makersacademy.com
- 3 | CSS Tricks     | http://css-tricks.com
+ 3 | ExampleOrg     | http://example.org
 (3 rows)
 ```
 
@@ -219,7 +219,7 @@ Sweet, sweet success.
 
 #### Delete
 
-I think we'll forego elaborating on the concept of deletion and jump straight in. I'm thinking that after all our hard work it would be a shame to delete our link to css-tricks.com, so let code.org be the sacrificial lamb.
+I think we'll forego elaborating on the concept of deletion and jump straight in. I'm thinking that after all our hard work it would be a shame to delete our link to example.org, so let code.org be the sacrificial lamb.
 
 ```SQL
 DELETE FROM "links" WHERE ID = 1;
@@ -236,7 +236,7 @@ SELECT * FROM "links";
 id |     title      |           url
 ----+----------------+--------------------------
  2 | Makers Academy | http://makersacademy.com
- 3 | CSS Tricks     | http://css-tricks.com
+ 3 | ExampleOrg     | http://example.org
 (2 rows)
 ```
 

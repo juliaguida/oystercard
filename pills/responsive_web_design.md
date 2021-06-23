@@ -46,7 +46,6 @@ Having said that don't fall into a common trap - if you don't build a mobile sit
 * [CSS Tricks - Media Queries](http://css-tricks.com/css-media-queries/)
 * [CSS Tricks - Fluid Grids](http://css-tricks.com/dont-overthink-it-grids/)
 * [Fluid Images](http://demosthenes.info/blog/586/CSS-Fluid-Image-Techniques-for-Responsive-Site-Design)
-* [Responsive Web Design Bookmarklet](http://responsive.victorcoulon.fr/)
 * [This Is Responsive](http://bradfrost.github.io/this-is-responsive/)
 * [mediaqueri.es](http://mediaqueri.es/)
 

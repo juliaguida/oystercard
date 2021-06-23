@@ -38,7 +38,7 @@ At Makers your focus should always be on adding functionality to your applicatio
 It's sometimes useful to have some basic images in your application to show how it looks with images included. There are plenty of good resources for free images, here are a couple to get you started:
 
 - [Unsplash](https://unsplash.com/)
-- [Pexels](https://www.pexels.com/royalty-free-images/)
+- [PlaceKitten](http://placekitten.com/)
 
 ### Icons
 Icons are an easy way to add some character to your site, and can make it easier to navigate.

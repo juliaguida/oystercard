@@ -40,8 +40,6 @@ While chatting about this subject with a [very astute student](https://github.co
 
 In this case, you have a function called `eatAtRestaurant` and as an argument, you pass a second function called `tableForTwoPlease` which is necessary for `eatAtRestaurant` to complete successfully. That annoying little thing with the flashing lights is the message sent to the calling function (`eatAtRestaurant`) to let you know that `tableForTwoPlease` has been processed.
 
-[Video on NodeJS by Spike](https://vimeo.com/110240527)
-
 Resources
 ---------
 

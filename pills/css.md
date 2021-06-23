@@ -149,7 +149,7 @@ CSS is fairly easy to pick up, but extremely hard to master. To make matters wor
 - CSS [Inheritance](http://reference.sitepoint.com/css/inheritance)
 - The CSS [Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/box_model)
 - CSS [Positioning](http://learnlayout.com/position.html)
-- CSS [Vendor Prefixes](http://webdesign.about.com/od/css/a/css-vendor-prefixes.htm) and [how to deal with them](https://css-tricks.com/how-to-deal-with-vendor-prefixes/)
+- CSS [Vendor Prefixes and how to deal with them](https://css-tricks.com/how-to-deal-with-vendor-prefixes/)
 - CSS [Typography and Font Imports using `@font-face`](http://learn.shayhowe.com/html-css/working-with-typography/)
 - CSS [Resets](http://stackoverflow.com/questions/6887336/what-is-the-difference-between-normalize-css-and-reset-css)
 

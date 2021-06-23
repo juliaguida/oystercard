@@ -13,7 +13,7 @@ It's inconvenient to enter the cat's name directly in the URL. Let's create a fo
   <input type="submit" value="Submit">
 </form>
 <div style='border: 3px dashed red'>
-  <img src='http://bit.ly/1eze8aE'>
+  <img src='http://placekitten.com/500/500'>
 </div>
 ```
 

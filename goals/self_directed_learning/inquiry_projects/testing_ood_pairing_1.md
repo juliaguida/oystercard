@@ -5,7 +5,7 @@
 * **Coach Pairing.** 20 minute slots pairing with a coach. [Sign up here.](https://docs.google.com/spreadsheets/d/1z3RxmbATtIb3SHbnv7J0FmWhbqAhmfDSS_8QkETHLsk/edit#gid=0)
 * **12.00: Retro.** A half hour retro where we'll talk about things that went well, less well, and how to do better.
 * [Testing & Design Strategies Practical](https://hackmd.io/I2kfmQYfQ_W-eTv0V0AL8Q): Learn to use testing to help you solve problems
-* Test drive something you've written before, but following [The Three Laws of Test-Driven Development](http://programmer.97things.oreilly.com/wiki/index.php/The_Three_Laws_of_Test-Driven_Development). How close can you get to perfect adherence?
+* Test drive something you've written before, but following [The Three Laws of Test-Driven Development](https://www.oreilly.com/library/view/modern-c-programming/9781941222423/f_0055.html). How close can you get to perfect adherence?
 
 ## Challenging yourself
 * [Learning by Building RSpec Practical](https://hackmd.io/-sKTN9oCR6aBxECYEitBKQ)

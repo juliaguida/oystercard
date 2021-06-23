@@ -12,7 +12,7 @@ require 'sinatra/reloader' if development?
 
 get '/cat' do
   "<div>
-    <img src='http://bit.ly/1eze8aE'>
+    <img src='http://placekitten.com/500/500'>
    </div>"
 end
 ````
@@ -31,7 +31,7 @@ require 'sinatra/reloader' if development?
 
 get '/cat' do
   "<div style='border: 3px dashed red'>
-     <img src='http://bit.ly/1eze8aE'>
+     <img src='http://placekitten.com/500/500'>
    </div>"
 end
 ````

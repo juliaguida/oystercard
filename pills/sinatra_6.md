@@ -29,7 +29,7 @@ Now, if you modify your ERB template to expect this value, you'll see a welcome 
   <% if @name %>
     My name is <%= @name %>
   <% end %>
-  <img src='http://bit.ly/1eze8aE'>
+  <img src='http://placekitten.com/500/500'>
 </div>
 ````
 

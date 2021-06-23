@@ -2,7 +2,7 @@
 
 The goal of a sprint cycle is to find and use feedback in the development process as often as possible in order to produce high quality software according to the business' need.
 
-Have a look [here][1] for more info on sprints.
+Have a look [here](https://en.wikipedia.org/wiki/Scrum_(software_development)#Workflow) for more info on sprints.
 
 ### 2 Day Sprints
 
@@ -43,8 +43,6 @@ Then find the next ticket in `To Do` to tackle. If there's nothing left, call an
   - becomes familiar with the codebase
 - Perhaps find a way to measure velocity if this interests you: https://manifesto.co.uk/how-to-measure-velocity-agile/
 - Then organise the next planning session!
-
-[1]: https://en.wikipedia.org/wiki/Scrum_(software_development)#Workflow
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

@@ -12,7 +12,7 @@ Below are some things you want to be doing that employers absolutely love to see
 
 ### [TDD](http://en.wikipedia.org/wiki/Test-driven_development)/[BDD](http://en.wikipedia.org/wiki/Behavior-driven_development) from outside-in
 
-This is the absolute bread-and-butter of what makes a good coder and good code, and its importance just can't be over-stated. Basically, **if you're not test-driving your app, you're wasting your time**. We deliberately only look for hiring partners that believe in TDD, and similarly they are looking to see the same from you. 
+This is the absolute bread-and-butter of what makes a good coder and good code, and its importance just can't be over-stated. Basically, **if you're not test-driving your app, you're wasting your time**. We deliberately only look for hiring partners that believe in TDD, and similarly they are looking to see the same from you.
 
 Show how passionate about testing you've become: try out a new testing library, if you haven't done much BDD with [Cucumber](http://cukes.info/) try building a complete application using BDD, or have a go doing [BDD with JavaScript](http://eamodeorubio.github.io/bdd-with-js/#/). If you want to do more RSpec, maybe look at some more advanced RSpec commands like [verifying doubles](https://relishapp.com/rspec/rspec-mocks/docs/verifying-doubles) or a testing library like [Shoulda](https://github.com/thoughtbot/shoulda) or [Factory_bot](https://github.com/thoughtbot/factory_bot), and if you are doing any JavaScript you need to be test driving that too (yes, the JavaScript community can be pretty lax about doing this, but it doesn't mean you should be).
 
@@ -53,7 +53,7 @@ Of course, throughout, you will want your code quality to remain high. Here's a 
 * Follow a [Ruby](https://github.com/styleguide/ruby) or [Javascript](https://github.com/airbnb/javascript) style guide
 * Indent consistently and remove trailing white-spaces
 * Keep methods as small as possible
-* Write your code for [humans not machines](http://programmer.97things.oreilly.com/wiki/index.php/Write_Code_for_Humans_not_Machines)
+* Write your code for [humans not machines](https://web.archive.org/web/20170318190026/http://programmer.97things.oreilly.com/wiki/index.php/Write_Code_for_Humans_not_Machines)
 
 ## But What Shall I Build?
 

@@ -457,7 +457,7 @@ resetTemperature() {
 }
 ```
 
-However, this is a little nasty. It contains a [MAGIC NUMBER](http://blog.silvabox.com/testing-with-magic-numbers/) (20). Boo. Hiss. I mean, there's nothing inherently wrong with the number twenty - but if a Developer were just to see that method out of context, it would not be _immediately_ obvious what we were going for with that number. And the goal, is to have code that **screams** its intent.
+However, this is a little nasty. It contains a MAGIC NUMBER (20). Boo. Hiss. I mean, there's nothing inherently wrong with the number twenty - but if a Developer were just to see that method out of context, it would not be _immediately_ obvious what we were going for with that number. And the goal, is to have code that **screams** its intent.
 
 Besides that, in terms of maintenance, if we decide the default temperature is going to be say, 21, we have to change it in two places now. And as we know, a good Dev is a lazy Dev. Let's  go back to our object constructor function and do a little refactor:
 

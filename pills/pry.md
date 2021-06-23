@@ -63,7 +63,7 @@ Now, remember our ```hello``` method from before? Let's say I want to send this 
 This should result in the following output:
 
 ```shell
-Gist created at URL https://gist.github.com/6a99e05ea063a8fe2f20, which is now in the clipboard.
+Gist created at URL https://gist.github.com/6a99e05ea063a8fe2f20 which is now in the clipboard.
 ```
 
 See that? Pry not only creates your Gist, but places it on your clipboard too! All you have to do is click in your browser's address bar and paste...

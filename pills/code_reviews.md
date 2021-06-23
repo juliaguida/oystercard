@@ -75,7 +75,6 @@ user.friend_names
 
 ### Resources
 
-* [SOLID in Ruby](https://www.groupbuddies.com/posts/19-solid-principles-in-ruby)
 * [More on the Single Responsibility Principle](http://jjbohn.info/blog/2014/07/28/single-responsibility-principle-a-solid-week/)
 * [Why care about encapsulation?](http://gmoeck.github.io/2011/09/20/why-you-should-care-about-encapsulation.html)
 

@@ -51,7 +51,7 @@ http://localhost:4567/images/kitten.png
 But if you have deployed your site to production and it's now running on my-lovely-kitten.com, your browser will fetch the image from
 
 ```
-http://my-lovely-kitten.com/images/kitten.png
+http://example.org/images/kitten.png
 ```
 
 This applies not only to files but to all URLs. Remember, when we created a form, we used a relative URL?
