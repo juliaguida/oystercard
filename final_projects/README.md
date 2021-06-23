@@ -22,7 +22,7 @@ Production code is generally built by a team of developers. It is important that
 
 The final projects also provide a safe environment for you to be creative and enjoy exploring new directions with your code.
 
-* [Detailed learning objectives](https://github.com/makersacademy/course/blob/master/practice_project_week/learning_objectives.md)
+* [Detailed learning objectives](https://github.com/makersacademy/course/blob/main/practice_project_week/learning_objectives.md)
 
 ## What is a successful project?
 
@@ -38,7 +38,7 @@ It's highly recommended that you spend time designing your project.  To guide yo
 
 ## Development workflow
 
-Remember to use a [development workflow](https://github.com/makersacademy/course/blob/master/pills/development_workflow.md) similar to the one you used for MakersBnB and practice projects.
+Remember to use a [development workflow](https://github.com/makersacademy/course/blob/main/pills/development_workflow.md) similar to the one you used for MakersBnB and practice projects.
 
 ## MVP
 

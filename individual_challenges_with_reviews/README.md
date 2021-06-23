@@ -32,13 +32,13 @@ By the end of the week, you should:
 
 1. Get started on Monday at 9.30am.
 
-2. Start by reading the [tech test guide](https://github.com/makersacademy/jobhunters/blob/master/pills/tech_test_guide.md).
+2. Start by reading the [tech test guide](https://github.com/makersacademy/jobhunters/blob/main/pills/tech_test_guide.md).
 
-3. Start working on the [Money Tracker](https://github.com/makersacademy/money_tracker_tech_test/blob/master/README.md) tech test.
+3. Start working on the [Money Tracker](https://github.com/makersacademy/money_tracker_tech_test/blob/main/README.md) tech test.
 
 4. Work on the tech test until you've completed the features.
 
-5. Use the [tech test guide](https://github.com/makersacademy/jobhunters/blob/master/pills/tech_test_guide.md) to review your code and repo.
+5. Use the [tech test guide](https://github.com/makersacademy/jobhunters/blob/main/pills/tech_test_guide.md) to review your code and repo.
 
 6. Submit a pull request.  (If you're stuck or want feedback, feel free to submit a pull request before you complete the features.)
 
@@ -68,7 +68,7 @@ Enjoy these challenges - they are either adapted or directly copied from actual 
 
 ### Resources
 
-* [Tech test checklist](https://github.com/makersacademy/jobhunters/blob/master/pills/tech_test_guide.md)
+* [Tech test checklist](https://github.com/makersacademy/jobhunters/blob/main/pills/tech_test_guide.md)
 * [The Coding Dojo Handbook (recommended reading post-course)](https://leanpub.com/codingdojohandbook)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

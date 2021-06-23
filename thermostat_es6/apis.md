@@ -21,7 +21,7 @@ Add a feature to display the weather in a city selected by the user.
 
 - [Open Weather Map API](https://openweathermap.org/api)
 - [Learn about AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
-- [Calling APIs in Javascript](https://github.com/makersacademy/course/blob/master/pills/calling_apis_in_javascript.md)
+- [Calling APIs in Javascript](https://github.com/makersacademy/course/blob/main/pills/calling_apis_in_javascript.md)
 - [MDN documentation on Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 - [Learn about Fetch on javascript.info](https://javascript.info/fetch)
 

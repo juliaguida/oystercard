@@ -12,7 +12,7 @@
 
 ## Overview of the week
 
-* You'll work in teams to build a [clone of Airbnb](https://github.com/makersacademy/course/blob/master/makersbnb/specification_and_mockups.md).
+* You'll work in teams to build a [clone of Airbnb](https://github.com/makersacademy/course/blob/main/makersbnb/specification_and_mockups.md).
 
 * You'll organise your own work.
 
@@ -32,9 +32,9 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 
 * **Can you, with only a specification to guide you, work as part of a team to build a web app?**
 
-## Reminder of all this week's goals from the [Week Outlines](https://github.com/makersacademy/course/blob/master/week_outlines.md)
+## Reminder of all this week's goals from the [Week Outlines](https://github.com/makersacademy/course/blob/main/week_outlines.md)
 
-If you haven't already, start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) to focus on your developer process. Anyone from any cohort ever can attend.
+If you haven't already, start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/main/process_review) to focus on your developer process. Anyone from any cohort ever can attend.
 
 Attending process workshop will help you improve your processes, which in turn makes you a better developer and more prepared for reviews and interviews.
 

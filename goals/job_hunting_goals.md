@@ -15,7 +15,7 @@
 * I can advocate for learning to learn and adopting a growth mindset
 
 ---
-Find ways to gain insight on these goals using [this document](https://github.com/makersacademy/course/blob/master/goals/progress_insight.md).
+Find ways to gain insight on these goals using [this document](https://github.com/makersacademy/course/blob/main/goals/progress_insight.md).
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

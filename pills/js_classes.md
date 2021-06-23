@@ -23,7 +23,7 @@ var dog = new Dog();
 ```
 Under the hood, JavaScript classes are actually types of functions. Try running `alert(typeof Dog);` The `class` syntax creates a function which is called `Dog`.
 
-If you would like more background reading on functions, check out the [JS functions pill](https://github.com/makersacademy/course/blob/master/pills/js_functions.md) in the Makers Course repository
+If you would like more background reading on functions, check out the [JS functions pill](https://github.com/makersacademy/course/blob/main/pills/js_functions.md) in the Makers Course repository
 
 ### Initialisation code
 In Ruby, we have an `initialize` method, which is called when a new object is created:

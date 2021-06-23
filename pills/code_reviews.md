@@ -85,7 +85,7 @@ All your code should be written test-first, with feature tests testing your high
 
 Ensure that the tests are well-written and read well when printed out in documentation format (in rspec you run `rspec -fd`) to see this and should follow the [better specs guidelines](http://betterspecs.org/).
 
-Also ensure that you are correctly using [doubles/mocks](https://github.com/makersacademy/course/blob/master/pills/doubles.md):pill: when required, particularly to stop your feature tests hitting external APIs.
+Also ensure that you are correctly using [doubles/mocks](https://github.com/makersacademy/course/blob/main/pills/doubles.md):pill: when required, particularly to stop your feature tests hitting external APIs.
 
 ### Resources
 

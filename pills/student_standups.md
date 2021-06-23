@@ -24,7 +24,7 @@ In most standups, people report what they worked on yesterday and what they plan
 * What they plan to learn in the next 24 hours.
 * What they struggled with in the last 24 hours.
 
-Try to focus your reports on [skills and behaviours, rather than concretes and concepts](https://github.com/makersacademy/course/blob/master/pills/learning_at_makers.md#concretes-concepts-skills-behaviours).
+Try to focus your reports on [skills and behaviours, rather than concretes and concepts](https://github.com/makersacademy/course/blob/main/pills/learning_at_makers.md#concretes-concepts-skills-behaviours).
 
 ## Coaches at standups
 

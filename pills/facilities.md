@@ -35,7 +35,7 @@ There's a shower in the larger toilet on the second floor.  Please leave it clea
 
 * If you can't find a place to sit, tell your coach and they will sort it out.
 
-* To make the space as productive as possible, we have a [seating plan](https://github.com/makersacademy/course/blob/master/pills/seating_plan.md) for floor 3.
+* To make the space as productive as possible, we have a [seating plan](https://github.com/makersacademy/course/blob/main/pills/seating_plan.md) for floor 3.
 
 ## Broken or missing cables, sockets, monitors etc
 

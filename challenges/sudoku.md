@@ -1,6 +1,6 @@
 # Sudoku
 
-Before you do this you should have successfully finished the [boris bikes](https://github.com/makersacademy/course/blob/master/boris_bikes.md) and ( _optionally_ ) the [battle ships](https://github.com/makersacademy/course/blob/master/battle_ships.md) projects.
+Before you do this you should have successfully finished the [boris bikes](https://github.com/makersacademy/course/blob/main/boris_bikes.md) and ( _optionally_ ) the [battle ships](https://github.com/makersacademy/course/blob/main/battle_ships.md) projects.
 
 We are going to build a sudoku solver.
 
@@ -320,7 +320,7 @@ If you have written an algorithm to solve simple sudoku and would like an extra 
 
 On a MacBook the algorithm for solving an empty sudoku takes about 4 seconds (it tries a very large number of possible options).
 
-So, how do we update our algorithm to solve a really hard sudoku? First, make sure you're familiar with recursion (:pill: [Recursion](https://github.com/makersacademy/course/blob/master/pills/recursion.md)). This is a classic case of recursion: a hard problem can be broken down into two simpler problems until a base case that is trivial to solve is reached.
+So, how do we update our algorithm to solve a really hard sudoku? First, make sure you're familiar with recursion (:pill: [Recursion](https://github.com/makersacademy/course/blob/main/pills/recursion.md)). This is a classic case of recursion: a hard problem can be broken down into two simpler problems until a base case that is trivial to solve is reached.
 
 The base case in the example will be an easy sudoku. You convert a hard sudoku into an easy sudoku by correctly guessing enough cells, so that the remaining ones could be solved by an _"easy"_ algorithm described above.
 

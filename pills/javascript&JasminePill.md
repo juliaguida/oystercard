@@ -181,7 +181,7 @@ Function has multiple uses in Javascript - and since we are Rubyists first and f
 ```javascript
 class Classname {}
 ```
-An intro to the class syntax can be found in the [JS Classes pill](https://github.com/makersacademy/course/blob/master/pills/js_classes.md) in the Makers Course repository.
+An intro to the class syntax can be found in the [JS Classes pill](https://github.com/makersacademy/course/blob/main/pills/js_classes.md) in the Makers Course repository.
 
 #### Ruby 'do ... end' blocks becomes:
 ```javascript
@@ -189,7 +189,7 @@ methodName(function() {
   // codeblock goes here
 });
 ```
-There are many use-cases for the keyword `function` in Javascript. If you would like more background reading, now would be an excellent time to peruse the [JS Functions pill](https://github.com/makersacademy/course/blob/master/pills/js_functions.md) in the Makers Course repository.
+There are many use-cases for the keyword `function` in Javascript. If you would like more background reading, now would be an excellent time to peruse the [JS Functions pill](https://github.com/makersacademy/course/blob/main/pills/js_functions.md) in the Makers Course repository.
 
 
 #### Ruby 'def' definition of methods becomes:

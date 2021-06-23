@@ -4,7 +4,7 @@ To achieve these goals:
   > "I know how my language works"
 
 ## Action Plan
-https://github.com/makersacademy/skills-workshops/blob/master/practicals/js-events/README.md
+https://github.com/makersacademy/skills-workshops/blob/main/practicals/js-events/README.md
 
 Clone the above repo and follow the instructions included in the README. Focus in particular on trying to understand the flow of information through the application when an event is triggered.
 

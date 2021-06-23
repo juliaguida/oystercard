@@ -16,7 +16,7 @@ Which should give you a command prompt:
 
     admin=#
 
-Check out the [psql pill](https://github.com/makersacademy/course/blob/master/pills/postgres.md) for an introduction to psql commands, otherwise use a [cheat sheet](http://blog.jasonmeridth.com/posts/postgresql-command-line-cheat-sheet/). Let's have a look at the existing databases:
+Check out the [psql pill](https://github.com/makersacademy/course/blob/main/pills/postgres.md) for an introduction to psql commands, otherwise use a [cheat sheet](http://blog.jasonmeridth.com/posts/postgresql-command-line-cheat-sheet/). Let's have a look at the existing databases:
 
     $ \l
 

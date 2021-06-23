@@ -4,7 +4,7 @@
 
 * Try to practice your presentation at least once, but don't spend ages polishing it
 
-* Focus your presentation on each part of the [assessment criteria](https://github.com/makersacademy/course/blob/master/final_projects/project_criteria.md)
+* Focus your presentation on each part of the [assessment criteria](https://github.com/makersacademy/course/blob/main/final_projects/project_criteria.md)
 
 * A snapshot of your test coverage, quality, and deployment pipeline
 

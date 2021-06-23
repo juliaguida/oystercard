@@ -48,7 +48,7 @@ In this challenge, you will deliver the completed feature from the first two use
 </details>
 
 ### Resources
-- :pill: [The BDD Cycle](https://github.com/makersacademy/course/blob/master/pills/bdd_cycle.md)
+- :pill: [The BDD Cycle](https://github.com/makersacademy/course/blob/main/pills/bdd_cycle.md)
 
 
 ### [Walkthrough](walkthroughs/10.md)

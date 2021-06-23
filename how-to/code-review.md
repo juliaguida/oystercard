@@ -48,11 +48,11 @@ Sample Rubrics
 --------------
 For inspiration, here are some example review rubrics for some of the end of unit challenges:
 
-* [Airport Challenge](https://github.com/makersacademy/airport_challenge/blob/master/docs/review.md)
-* [Takeaway Challenge](https://github.com/makersacademy/takeaway-challenge/blob/master/docs/review.md)
-* [Rps Challenge](https://github.com/makersacademy/rps-challenge/blob/master/docs/review.md)
-* [Chitter Challenge](https://github.com/makersacademy/chitter-challenge/blob/master/docs/review.md)
-* [Bowling Challenge](https://github.com/makersacademy/bowling-challenge/blob/master/docs/review.md)
+* [Airport Challenge](https://github.com/makersacademy/airport_challenge/blob/main/docs/review.md)
+* [Takeaway Challenge](https://github.com/makersacademy/takeaway-challenge/blob/main/docs/review.md)
+* [Rps Challenge](https://github.com/makersacademy/rps-challenge/blob/main/docs/review.md)
+* [Chitter Challenge](https://github.com/makersacademy/chitter-challenge/blob/main/docs/review.md)
+* [Bowling Challenge](https://github.com/makersacademy/bowling-challenge/blob/main/docs/review.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

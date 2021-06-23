@@ -59,7 +59,7 @@ Another problem with the manual approach is that when you deploy your
 application, that is, copy it to a server for everyone to use, you may not
 be able (or want to) install the gems manually.
 
-Is there any better solution? Meet [Bundler](https://github.com/makersacademy/course/blob/master/pills/bundler.md)
+Is there any better solution? Meet [Bundler](https://github.com/makersacademy/course/blob/main/pills/bundler.md)
 
 
 ## Where to find gems to use

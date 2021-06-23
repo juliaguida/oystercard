@@ -1,7 +1,7 @@
 #Javascript Acceptance/Integration/Feature Testing
 
 Listen up geeks. The tutorial below assumes you have done the pill on a
-[Basic Node Server](https://github.com/makersacademy/course/blob/master/node/basic_node_server.md).
+[Basic Node Server](https://github.com/makersacademy/course/blob/main/node/basic_node_server.md).
 
 Follow the steps below to get JS project setup for reliable acceptance testing:
 

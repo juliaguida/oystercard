@@ -18,13 +18,13 @@ BUT
 * Node is a lot of fun  
 * Node is a different way to think about programming, so even if you don't find it fun, you will hopefully learn something!
 
-Before we start, you should definitely read [Roi's introduction to Node](https://github.com/makersacademy/course/blob/master/pills/node.md), which explains the concepts behind non-blocking I/O and callbacks. Also, [Why the hell would I use Node?](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js) and [Convincing the boss](http://nodeguide.com/convincing_the_boss.html) are great articles on what Node is good for.
+Before we start, you should definitely read [Roi's introduction to Node](https://github.com/makersacademy/course/blob/main/pills/node.md), which explains the concepts behind non-blocking I/O and callbacks. Also, [Why the hell would I use Node?](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js) and [Convincing the boss](http://nodeguide.com/convincing_the_boss.html) are great articles on what Node is good for.
 
 It is also assumed that you have worked through the following:
-* :pill: [node](https://github.com/makersacademy/course/blob/master/pills/node.md)
-* :pill: [npm](https://github.com/makersacademy/course/blob/master/pills/npm.md)
-* :pill: [grunt](https://github.com/makersacademy/course/blob/master/pills/grunt.md)
-* :pill: [jshint](https://github.com/makersacademy/course/blob/master/pills/jshint.md)
+* :pill: [node](https://github.com/makersacademy/course/blob/main/pills/node.md)
+* :pill: [npm](https://github.com/makersacademy/course/blob/main/pills/npm.md)
+* :pill: [grunt](https://github.com/makersacademy/course/blob/main/pills/grunt.md)
+* :pill: [jshint](https://github.com/makersacademy/course/blob/main/pills/jshint.md)
 
 Additionally, [this Node style guide](https://github.com/felixge/node-style-guide) will help you write code that is clear and readable.
 
@@ -44,7 +44,7 @@ Here is a broad outline of what we hope to cover this week:
 
 ## Setting up your Node environment/starting a project
 
-Please install Node with `brew install node` and follow any additional instructions.  Note that this can cause problems if you already have a node version manager (e.g. n, nvm, `nodenv`) installed.  Please contact a coach or alumni helper if you are having trouble with your node install. Please refer to :pill: [npm](https://github.com/makersacademy/course/blob/master/pills/npm.md) :pill: when setting up your project.
+Please install Node with `brew install node` and follow any additional instructions.  Note that this can cause problems if you already have a node version manager (e.g. n, nvm, `nodenv`) installed.  Please contact a coach or alumni helper if you are having trouble with your node install. Please refer to :pill: [npm](https://github.com/makersacademy/course/blob/main/pills/npm.md) :pill: when setting up your project.
 
 
 

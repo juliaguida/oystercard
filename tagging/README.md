@@ -19,7 +19,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="33fd1197-5585-4b0b-89cb-eb8d6d21315f">
         <td>Mastery Quiz Chapter 10</td>
         <td>exercise</td>
-        <td>https://github.com/makersacademy/mastery-curriculum/tree/master/chapter10</td>
+        <td>https://github.com/makersacademy/mastery-curriculum/tree/main/chapter10</td>
         <td>1</td>
         <td>3</td>
         <td>
@@ -65,7 +65,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="36063b59-3ad1-4e44-80de-078a3cd432df">
         <td>Unit Testing</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/writing_tests</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/writing_tests</td>
         <td>4</td>
         <td>3</td>
         <td>
@@ -80,7 +80,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="7e64cd8f-359e-4b2c-babc-5b0397ea24d7">
         <td>Pairing on Fizzbuzz</td>
         <td>exercise</td>
-        <td>https://github.com/makersacademy/course/blob/master/fizzbuzz/fizzbuzz.md</td>
+        <td>https://github.com/makersacademy/course/blob/main/fizzbuzz/fizzbuzz.md</td>
         <td>1</td>
         <td>3</td>
         <td>
@@ -95,7 +95,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="a7744aae-a72f-46ac-b704-4ca0781f3349">
         <td>Debugging Approaches</td>
         <td>practical</td>
-        <td>https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md</td>
+        <td>https://github.com/makersacademy/skills-workshops/blob/main/practicals/debugging/debugging_approaches.md</td>
         <td>5</td>
         <td>3</td>
         <td>
@@ -187,7 +187,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="9e1154f1-a947-4680-b375-9657de43d48d">
         <td>Debugging 1</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/debugging_1</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/debugging_1</td>
         <td>5</td>
         <td>3</td>
         <td>
@@ -339,7 +339,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="b33ac78e-47bb-453c-8d24-d53eeebaf1aa">
         <td>Testing classes in isolation</td>
         <td>practical</td>
-        <td>https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md</td>
+        <td>https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/dependency_injection.md</td>
         <td>4</td>
         <td>3</td>
         <td>
@@ -395,7 +395,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="8c789d9d-2d54-4f93-b3ce-9f723600e876">
         <td>Git collaboration</td>
         <td>practical</td>
-        <td>https://github.com/makersacademy/skills-workshops/blob/master/practicals/git_collaboration.md</td>
+        <td>https://github.com/makersacademy/skills-workshops/blob/main/practicals/git_collaboration.md</td>
         <td>11</td>
         <td>2</td>
         <td>
@@ -421,7 +421,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="a510a145-9c6d-48d2-b119-91a0b17d44ec">
         <td>Use git to collaborate on code</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/git_and_research</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/git_and_research</td>
         <td>11</td>
         <td>3</td>
         <td>
@@ -504,7 +504,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="b958288e-7c13-4fba-b399-7bb8fa195e5a">
         <td>OOP 1</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/oop_1</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/oop_1</td>
         <td>10</td>
         <td>3</td>
         <td>
@@ -549,7 +549,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="401b6688-c845-4cf7-b766-1d69039e1390">
         <td>Mocking 1</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/mocking_1</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/mocking_1</td>
         <td>4</td>
         <td>3</td>
         <td>
@@ -569,7 +569,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="3171cbe6-b92c-4092-a39f-b250e4b69e80">
         <td>Testing behaviour rather than state</td>
         <td>practical</td>
-        <td>https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/behaviour_not_state.md</td>
+        <td>https://github.com/makersacademy/skills-workshops/blob/main/practicals/testing/behaviour_not_state.md</td>
         <td>4</td>
         <td>4</td>
         <td>
@@ -584,7 +584,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="b4f2e306-123c-45c4-b18b-13e5ae230a2e">
         <td>Forwarding and Polymorphism</td>
         <td>practical</td>
-        <td>https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/oo_relationships.md</td>
+        <td>https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/oo_relationships.md</td>
         <td>10</td>
         <td>3</td>
         <td>
@@ -620,7 +620,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="b1fb6524-7c9c-49bb-afaf-4561ed3dd6e6">
         <td>Polymorphism, Inheritance and Composition</td>
         <td>practical</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/inheritance</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/inheritance</td>
         <td>10</td>
         <td>3</td>
         <td>
@@ -661,7 +661,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="6feb7df0-097a-4078-93ee-9aa2cb51c94d">
         <td>Simple Game of Life</td>
         <td>assessment</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/oop_2</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/oop_2</td>
         <td>1</td>
         <td>3</td>
         <td>
@@ -692,7 +692,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="06319db3-565f-47ed-a578-5b6854c29a32">
         <td>Domain Model Diagramming</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/domain_model_diagramming</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/domain_model_diagramming</td>
         <td>6</td>
         <td>3</td>
         <td>
@@ -718,7 +718,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="f0499a56-21ea-440c-8e98-c0815f99e237">
         <td>OOP 3 - Delegation</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/oop_3</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/oop_3</td>
         <td>10</td>
         <td>2</td>
         <td>
@@ -754,7 +754,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="89010ce0-d427-40fc-806e-2855dd5b3029">
         <td>Dependency Injection</td>
         <td>practical</td>
-        <td>https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md</td>
+        <td>https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/dependency_injection.md</td>
         <td>10</td>
         <td>3</td>
         <td>
@@ -826,7 +826,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="efaac211-608a-4e92-a8fa-90b5a1b87148">
         <td>Mocking 2: More Mocking</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/mocking_2</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/mocking_2</td>
         <td>4</td>
         <td>4</td>
         <td>
@@ -841,7 +841,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="918015f2-23e0-443f-bbdd-517c77a4db50">
         <td>Learn About RSpec by Building It</td>
         <td>practical</td>
-        <td>https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md</td>
+        <td>https://github.com/makersacademy/skills-workshops/blob/main/practicals/adventures/learning_by_building_rspec.md</td>
         <td>4</td>
         <td>4</td>
         <td>
@@ -881,7 +881,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="3b9cc1b0-6b7d-4001-963c-ba7e10a27768">
         <td>Extracting a Class</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/extracting_a_class</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/extracting_a_class</td>
         <td>1</td>
         <td>3</td>
         <td>
@@ -896,7 +896,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="92807e1c-b98c-4244-bcb3-9380a43f67f2">
         <td>OOP 2 - Concretes and abstracts</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/oop_2</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/oop_2</td>
         <td>10</td>
         <td>3</td>
         <td>
@@ -911,7 +911,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="6ace14e1-78ee-48e0-b32d-01d540414975">
         <td>OOP 4 - Composition Over Inheritance</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/oop_4</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/oop_4</td>
         <td>10</td>
         <td>4</td>
         <td>
@@ -926,7 +926,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="d27ac2da-91c7-4a9b-b69e-535204bca3d0">
         <td>Making Code Simpler With Polymorphism</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/making_code_simpler_through_polymorphism</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/making_code_simpler_through_polymorphism</td>
         <td>10</td>
         <td>2</td>
         <td>
@@ -957,7 +957,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="3ac01204-500d-4cd8-9498-3e0582c44e29">
         <td>Servers 1</td>
         <td>practical</td>
-        <td>https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md</td>
+        <td>https://github.com/makersacademy/skills-workshops/blob/main/practicals/servers_and_clients/servers.md</td>
         <td>5</td>
         <td>3</td>
         <td>
@@ -982,7 +982,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="c16c01d6-1d3d-4f79-b405-8679c982cb85">
         <td>Servers 2</td>
         <td>practical</td>
-        <td>https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md</td>
+        <td>https://github.com/makersacademy/skills-workshops/blob/main/practicals/servers_and_clients/http_servers.md</td>
         <td>5</td>
         <td>3</td>
         <td>
@@ -1012,7 +1012,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="c824298d-1c89-4858-b432-304565ca5b65">
         <td>Clients 1</td>
         <td>practical</td>
-        <td>https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md</td>
+        <td>https://github.com/makersacademy/skills-workshops/blob/main/practicals/servers_and_clients/clients.md</td>
         <td>5</td>
         <td>3</td>
         <td>
@@ -1068,7 +1068,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="3e693c00-3686-422d-a0cf-716eb076c7d5">
         <td>Process Modelling: The HTTP Request/Response Cycle</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/how_the_web_works/process_modelling</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/how_the_web_works/process_modelling</td>
         <td>6</td>
         <td>3</td>
         <td>
@@ -1152,7 +1152,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="046c584c-c2b2-403e-b043-5d4854773e2d">
         <td>Debugging a Web App</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/how_the_web_works/debugging_2</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/how_the_web_works/debugging_2</td>
         <td>5</td>
         <td>3</td>
         <td>
@@ -1167,7 +1167,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="f8ac1b0b-8344-4c4d-a2a0-a06075f6ea29">
         <td>Accessibility</td>
         <td>practical</td>
-        <td>https://github.com/makersacademy/course/blob/master/pills/accessibility.md</td>
+        <td>https://github.com/makersacademy/course/blob/main/pills/accessibility.md</td>
         <td>2</td>
         <td>3</td>
         <td>
@@ -1197,7 +1197,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="c532d361-7af4-4062-8717-3653a203d8a0">
         <td>Dissecting Rack Apps</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/how_the_web_works/dissecting-rack-middleware</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/how_the_web_works/dissecting-rack-middleware</td>
         <td>5</td>
         <td>4</td>
         <td>
@@ -1212,7 +1212,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="27590d17-1a42-4b9d-bdd5-81dd147e0d97">
         <td>RPS Challenge</td>
         <td>assessment</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/how_the_web_works/debugging_2</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/how_the_web_works/debugging_2</td>
         <td>5</td>
         <td>3</td>
         <td>
@@ -1304,7 +1304,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="a6de8e08-3eb0-4b52-8a31-27c9f715609b">
         <td>CRC Cards and Database Design</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/how_databases_work/databases_2</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/how_databases_work/databases_2</td>
         <td>6</td>
         <td>3</td>
         <td>
@@ -1446,7 +1446,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="e4a31e71-d842-4ec7-8de5-cd191651496e">
         <td>JavaScript Arrays</td>
         <td>explainer</td>
-        <td>https://github.com/makersacademy/course/blob/master/pills/js_arrays.md</td>
+        <td>https://github.com/makersacademy/course/blob/main/pills/js_arrays.md</td>
         <td>10</td>
         <td>1</td>
         <td>
@@ -1467,7 +1467,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="8e533cbb-95a5-4a62-aeaf-ee033553c200">
         <td>Introduction to JavaScript &amp; Jasmine</td>
         <td>practical</td>
-        <td>https://github.com/makersacademy/course/blob/master/pills/javascript%26JasminePill.md</td>
+        <td>https://github.com/makersacademy/course/blob/main/pills/javascript%26JasminePill.md</td>
         <td>4</td>
         <td>3</td>
         <td>
@@ -1502,7 +1502,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="5d5fd45e-cd5d-4147-a236-c544ce6dcdf3">
         <td>function in JavaScript</td>
         <td>explainer</td>
-        <td>https://github.com/makersacademy/course/blob/master/pills/js_functions.md</td>
+        <td>https://github.com/makersacademy/course/blob/main/pills/js_functions.md</td>
         <td>10</td>
         <td>1</td>
         <td>
@@ -1532,7 +1532,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="dbce642f-8800-4d26-8a09-2aec63e1f6bb">
         <td>Mocking in JavaScript</td>
         <td>explainer</td>
-        <td>https://github.com/makersacademy/course/blob/master/pills/mocking_in_javascript.md</td>
+        <td>https://github.com/makersacademy/course/blob/main/pills/mocking_in_javascript.md</td>
         <td>4</td>
         <td>2</td>
         <td>
@@ -1577,7 +1577,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="86325eb4-f9e4-41a2-9119-29fbde34737a">
         <td>Following the flow and getting visibility in JavaScript</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/following_the_flow_and_getting_visibility_in_javascript</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/javascript_fundamentals/following_the_flow_and_getting_visibility_in_javascript</td>
         <td>5</td>
         <td>3</td>
         <td>
@@ -1592,7 +1592,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="c9ae424c-2d9f-43bd-af56-d0729c97e6e0">
         <td>jQuery - handling events</td>
         <td>practical</td>
-        <td>https://github.com/makersacademy/course/blob/master/pills/jquery_events.md</td>
+        <td>https://github.com/makersacademy/course/blob/main/pills/jquery_events.md</td>
         <td>16</td>
         <td>2</td>
         <td>
@@ -1607,7 +1607,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="c0facd3a-84f8-4345-8c32-1deddf28b54e">
         <td>Following the AJAX Request/Response Cycle</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/following_ajax_request_response_cycle</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/javascript_fundamentals/following_ajax_request_response_cycle</td>
         <td>16</td>
         <td>2</td>
         <td>
@@ -1652,7 +1652,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="3cb69ec1-61fc-4c25-853b-02d96a490420">
         <td>JSHint (and Strict Mode)</td>
         <td>explainer</td>
-        <td>https://github.com/makersacademy/course/blob/master/pills/jshint.md</td>
+        <td>https://github.com/makersacademy/course/blob/main/pills/jshint.md</td>
         <td>10</td>
         <td>1</td>
         <td>
@@ -1723,7 +1723,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="7c0fb490-606d-49f7-bc61-1e45220877ab">
         <td>Callbacks - following the flow of control</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/callbacks_following_the_flow_of_control</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/javascript_fundamentals/callbacks_following_the_flow_of_control</td>
         <td>16</td>
         <td>2</td>
         <td>
@@ -1753,7 +1753,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="b95f8d3b-4a06-4b0b-b05e-853cb389f585">
         <td>Encapsulation with the Constructor Prototype Pattern</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/encapsulation_with_constructor_and_prototype_pattern</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/javascript_fundamentals/encapsulation_with_constructor_and_prototype_pattern</td>
         <td>10</td>
         <td>2</td>
         <td>
@@ -1788,7 +1788,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="effa2fce-1d07-492b-a6d5-280834ace79a">
         <td>Engineering Project Documentation</td>
         <td>assessment</td>
-        <td>https://github.com/makersacademy/course/blob/master/engineering_projects/README.md</td>
+        <td>https://github.com/makersacademy/course/blob/main/engineering_projects/README.md</td>
         <td>13</td>
         <td>2</td>
         <td>
@@ -1804,7 +1804,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="afa509e9-07bd-4770-85e2-1f36faed0325">
         <td>Engineering Project</td>
         <td>assessment</td>
-        <td>https://github.com/makersacademy/course/blob/master/engineering_projects/README.md</td>
+        <td>https://github.com/makersacademy/course/blob/main/engineering_projects/README.md</td>
         <td>13</td>
         <td>3</td>
         <td>
@@ -1829,7 +1829,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="d6ff6aae-d233-4088-aabb-d6aab1eda742">
         <td>Engineering Project Presentation</td>
         <td>exerciset</td>
-        <td>https://github.com/makersacademy/course/blob/master/engineering_projects/README.md</td>
+        <td>https://github.com/makersacademy/course/blob/main/engineering_projects/README.md</td>
         <td>13</td>
         <td>3</td>
         <td>
@@ -1850,7 +1850,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="f4070523-1992-435f-b126-922973d99da9">
         <td>Final Project</td>
         <td>project</td>
-        <td>https://github.com/makersacademy/course/blob/master/final_projects/README.md</td>
+        <td>https://github.com/makersacademy/course/blob/main/final_projects/README.md</td>
         <td>13</td>
         <td>3</td>
         <td>
@@ -1875,7 +1875,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="48d0b236-9247-4092-8cf8-6002cebf231a">
         <td>Final Project Documentation</td>
         <td>project</td>
-        <td>https://github.com/makersacademy/course/blob/master/final_projects/README.md</td>
+        <td>https://github.com/makersacademy/course/blob/main/final_projects/README.md</td>
         <td>13</td>
         <td>2</td>
         <td>
@@ -1890,7 +1890,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="3ba8305b-4cf5-47eb-ae43-afe91c3ba479">
         <td>Final Project Presentation</td>
         <td>project</td>
-        <td>https://github.com/makersacademy/course/blob/master/final_projects/README.md</td>
+        <td>https://github.com/makersacademy/course/blob/main/final_projects/README.md</td>
         <td>13</td>
         <td>3</td>
         <td>
@@ -1915,7 +1915,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="7facc874-6d86-4f94-977a-9cc90c1a915b">
         <td>Git And Collaboration</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/git_and_research</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/git_and_research</td>
         <td>11</td>
         <td>3</td>
         <td>
@@ -1962,7 +1962,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="16e8d863-9057-4d6e-abb1-e438f3cadaaa">
         <td>Mastery Quiz Chapter 1</td>
         <td>exercise</td>
-        <td>https://github.com/makersacademy/mastery-curriculum/tree/master/chapter1</td>
+        <td>https://github.com/makersacademy/mastery-curriculum/tree/main/chapter1</td>
         <td>1</td>
         <td>2</td>
         <td>
@@ -1983,7 +1983,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="3b281703-4600-48c6-9e0b-f124dcde0f89">
         <td>Mastery Quiz Chapter 2</td>
         <td>exercise</td>
-        <td>https://github.com/makersacademy/mastery-curriculum/tree/master/chapter2</td>
+        <td>https://github.com/makersacademy/mastery-curriculum/tree/main/chapter2</td>
         <td>1</td>
         <td>2</td>
         <td>
@@ -2003,7 +2003,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="ecadc85c-1433-4f37-a9b9-62a807a52139">
         <td>Mastery Quiz Chapter 3</td>
         <td>exercise</td>
-        <td>https://github.com/makersacademy/mastery-curriculum/tree/master/chapter3</td>
+        <td>https://github.com/makersacademy/mastery-curriculum/tree/main/chapter3</td>
         <td>1</td>
         <td>3</td>
         <td>
@@ -2033,7 +2033,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="3eb51db1-5907-4312-b80b-a15014639378">
         <td>Mastery Quiz Chapter 4</td>
         <td>exercise</td>
-        <td>https://github.com/makersacademy/mastery-curriculum/tree/master/chapter4</td>
+        <td>https://github.com/makersacademy/mastery-curriculum/tree/main/chapter4</td>
         <td>1</td>
         <td>3</td>
         <td>
@@ -2059,7 +2059,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="d09de70b-b671-4681-afc9-b9e682455f0a">
         <td>Command Line Mystery Steps 1-5</td>
         <td>practical</td>
-        <td>https://github.com/makersacademy/mastery-curriculum/tree/master/chapter5</td>
+        <td>https://github.com/makersacademy/mastery-curriculum/tree/main/chapter5</td>
         <td>5</td>
         <td>3</td>
         <td>
@@ -2090,7 +2090,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="c61ba6b9-45c8-4b08-8cc9-843e84df7691">
         <td>Command Line Mystery Steps 6-9</td>
         <td>practical</td>
-        <td>https://github.com/makersacademy/mastery-curriculum/tree/master/chapter5</td>
+        <td>https://github.com/makersacademy/mastery-curriculum/tree/main/chapter5</td>
         <td>5</td>
         <td>3</td>
         <td>
@@ -2106,7 +2106,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="f97b9738-2bb9-4bc7-96bc-69dc988800ca">
         <td>Mastery Quiz Chapter 5</td>
         <td>exercise</td>
-        <td>https://github.com/makersacademy/mastery-curriculum/tree/master/chapter5</td>
+        <td>https://github.com/makersacademy/mastery-curriculum/tree/main/chapter5</td>
         <td>1</td>
         <td>3</td>
         <td>
@@ -2121,7 +2121,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="b2a799f6-402e-42d3-8322-e6c79f9c3779">
         <td>Language to Code</td>
         <td>workshop</td>
-        <td>https://github.com/makersacademy/skills-workshops/tree/master/practicals/language-into-code</td>
+        <td>https://github.com/makersacademy/skills-workshops/tree/main/practicals/language-into-code</td>
         <td>11</td>
         <td>3</td>
         <td>
@@ -2137,7 +2137,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="4b394f30-eaeb-4916-a561-98b2e80803bc">
         <td>Mastery Quiz Chapter 6</td>
         <td>exercise</td>
-        <td>https://github.com/makersacademy/mastery-curriculum/tree/master/chapter6</td>
+        <td>https://github.com/makersacademy/mastery-curriculum/tree/main/chapter6</td>
         <td>1</td>
         <td>3</td>
         <td>
@@ -2158,7 +2158,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="12aba8c2-50bd-418a-a7ba-0656d02507c9">
         <td>Mastery Quiz Chapter 7</td>
         <td>exercise</td>
-        <td>https://github.com/makersacademy/mastery-curriculum/tree/master/chapter7</td>
+        <td>https://github.com/makersacademy/mastery-curriculum/tree/main/chapter7</td>
         <td>14</td>
         <td>3</td>
         <td>
@@ -2200,7 +2200,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="3f2679f7-af31-46af-b0d1-fb522c39523a">
         <td>Mastery Quiz Chapter 8</td>
         <td>exercise</td>
-        <td>https://github.com/makersacademy/mastery-curriculum/tree/master/chapter8</td>
+        <td>https://github.com/makersacademy/mastery-curriculum/tree/main/chapter8</td>
         <td>14</td>
         <td>3</td>
         <td>
@@ -2237,7 +2237,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="21fccde7-9260-4631-bfb9-9c0f2956e6e4">
         <td>Mastery Quiz Chapter 9</td>
         <td>exercise</td>
-        <td>https://github.com/makersacademy/mastery-curriculum/tree/master/chapter9</td>
+        <td>https://github.com/makersacademy/mastery-curriculum/tree/main/chapter9</td>
         <td>1</td>
         <td>3</td>
         <td>

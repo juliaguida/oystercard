@@ -17,12 +17,12 @@ Here you will find other, relevant materials and challenges that will help you o
 
 - [Sequence - weekly schedules are found here](./sequence)
 - [The Escalation Process](https://github.com/makersacademy/course/blob/29a5e4a3c1776d32eda8f3ee55edc1dd124b05ba/pills/escalation_process.md)
-- [Challenges](https://github.com/makersacademy/course/blob/master/challenges/challenges.md)
-- [Pills](https://github.com/makersacademy/course/blob/master/pills.md)
+- [Challenges](https://github.com/makersacademy/course/blob/main/challenges/challenges.md)
+- [Pills](https://github.com/makersacademy/course/blob/main/pills.md)
 
 ## Resources
 
-- A list of [good resources online and in the wider world of code](https://github.com/makersacademy/course/blob/master/pills/resources.md)
+- A list of [good resources online and in the wider world of code](https://github.com/makersacademy/course/blob/main/pills/resources.md)
 - Library - we have a library of coding textbooks - please ask any coach to check one out
 - List of good places to work at the weekend
   - [Ace hotel](https://www.acehotel.com/london)

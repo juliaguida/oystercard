@@ -1,8 +1,8 @@
 **Crucial Omissions:** There are some cross-cutting strands that we fit in alongside other work. This includes code quality. They are not the topic of any one week, and you will miss them out unless you think of them regularly!
 
-**Remember: [Success at Makers](https://github.com/makersacademy/course/tree/master/goals)** means understanding how to [reflect on your learning](https://github.com/makersacademy/course/blob/master/goals/reflective_learning.md) throughout these three months in order to demonstrate to yourself you've achieved the course goals.
+**Remember: [Success at Makers](https://github.com/makersacademy/course/tree/main/goals)** means understanding how to [reflect on your learning](https://github.com/makersacademy/course/blob/main/goals/reflective_learning.md) throughout these three months in order to demonstrate to yourself you've achieved the course goals.
 
-You can also have a look at what the schedule for a [typical week at Makers](https://github.com/makersacademy/course/blob/master/sequence/remote/typical_week.md) will look like.
+You can also have a look at what the schedule for a [typical week at Makers](https://github.com/makersacademy/course/blob/main/sequence/remote/typical_week.md) will look like.
 
 ## Week 1
 
@@ -15,7 +15,7 @@ By the end of the week all developers can:
 * Follow an effective debugging process
 * Describe some basic OO principles like encapsulation, SRP
 
-#### Wider course goals this week should help with (see all [course goals here](https://github.com/makersacademy/course/blob/master/goals/course_goals.md))
+#### Wider course goals this week should help with (see all [course goals here](https://github.com/makersacademy/course/blob/main/goals/course_goals.md))
 
 <dl>
   <dt>I can TDD anything</dt>
@@ -28,19 +28,19 @@ By the end of the week all developers can:
 
 ### Challenges
 
-* [Afternoons - Boris bikes](https://github.com/makersacademy/course/blob/master/boris_bikes/0_challenge_map.md)
+* [Afternoons - Boris bikes](https://github.com/makersacademy/course/blob/main/boris_bikes/0_challenge_map.md)
 * [End of unit - Airport](https://github.com/makersacademy/airport_challenge)
 
 ### Practicals
 
 These can be used by the devs independently, or enhanced by a coach delivering and offering structured process, group discussion, feedback, etc.
 
-* [Test Driving Exercises](https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md)
+* [Test Driving Exercises](https://github.com/makersacademy/skills-workshops/blob/main/practicals/test_driving.md)
 * [Test Driving Practice](https://github.com/makersacademy/birthdays)
-* [Debugging Approaches](https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md)
-* [Git collaboration](https://github.com/makersacademy/skills-workshops/blob/master/practicals/git_collaboration.md)
-* [Encapsulation & Cohesion](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md)
-* [Testing behaviour rather than state](https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/behaviour_not_state.md)
+* [Debugging Approaches](https://github.com/makersacademy/skills-workshops/blob/main/practicals/debugging/debugging_approaches.md)
+* [Git collaboration](https://github.com/makersacademy/skills-workshops/blob/main/practicals/git_collaboration.md)
+* [Encapsulation & Cohesion](https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/encapsulation.md)
+* [Testing behaviour rather than state](https://github.com/makersacademy/skills-workshops/blob/main/practicals/testing/behaviour_not_state.md)
 
 ### Resources
 
@@ -51,11 +51,11 @@ These can be used by the devs independently, or enhanced by a coach delivering a
 
 ### Skills workshops
 
-* [Git](https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/git_and_research)
-* [Introduction to Debugging](https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/debugging_1)
-* [Encapsulation](https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/oop_1)
-* [Mocking](https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/mocking_1)
-* [TDD a simple program](https://github.com/makersacademy/skills-workshops/blob/master/test_driven_development/TDD_process.md)
+* [Git](https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/git_and_research)
+* [Introduction to Debugging](https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/debugging_1)
+* [Encapsulation](https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/oop_1)
+* [Mocking](https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/mocking_1)
+* [TDD a simple program](https://github.com/makersacademy/skills-workshops/blob/main/test_driven_development/TDD_process.md)
 
 ## Week 2
 
@@ -69,24 +69,24 @@ By the end of the week all developers can:
 
 You may notice you are completing the work quicker and with more ease than your peers. If this sounds like you, it's important to speak to a coach as they can provide additional challenge for you to make sure you continue to progress.
 
-Start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) to focus on your developer process. Anyone from any cohort ever can attend.
+Start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/main/process_review) to focus on your developer process. Anyone from any cohort ever can attend.
 
 Watch a [short video](https://www.youtube.com/watch?v=TqKG8j_tgbM) explaining what Reviews are and how to use this valuable resource - and then consider booking one!
 
 ### Challenges
 
-* [Afternoons - Oystercard](https://github.com/makersacademy/course/tree/master/oystercard)
+* [Afternoons - Oystercard](https://github.com/makersacademy/course/tree/main/oystercard)
 * [End of unit - Takeaway](https://github.com/makersacademy/takeaway-challenge)
 
 ### Practicals
 
-* [Testing behaviour over testing state](https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/behaviour_not_state.md)
-* [Learning by building RSpec](https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md)
-* [Dependency Injection](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md)
-* [Refactoring](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/refactoring.md)
-* [OO Relationships (Forwarding, Polymorphism)](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/oo_relationships.md)
-* [Testing OO Relationships using Mocking](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/testing_relationships.md)
-* [Refactoring with OO 1](https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/refactoring.md)
+* [Testing behaviour over testing state](https://github.com/makersacademy/skills-workshops/blob/main/practicals/testing/behaviour_not_state.md)
+* [Learning by building RSpec](https://github.com/makersacademy/skills-workshops/blob/main/practicals/adventures/learning_by_building_rspec.md)
+* [Dependency Injection](https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/dependency_injection.md)
+* [Refactoring](https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/refactoring.md)
+* [OO Relationships (Forwarding, Polymorphism)](https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/oo_relationships.md)
+* [Testing OO Relationships using Mocking](https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/testing_relationships.md)
+* [Refactoring with OO 1](https://github.com/makersacademy/skills-workshops/blob/main/practicals/adventures/refactoring.md)
 
 ### Resources
 
@@ -94,13 +94,13 @@ Watch a [short video](https://www.youtube.com/watch?v=TqKG8j_tgbM) explaining wh
 
 ### Skills workshops
 
-* [Code Review](https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/code_review)
-* [Domain modelling](https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/domain_model_diagramming)
-* [Domain modelling alternative](https://github.com/makersacademy/skills-workshops/blob/master/object_oriented_programming/domain_modelling_alternative)
-* [Mocking](https://github.com/makersacademy/skills-workshops/tree/master/student-mocking-workshop)
-* [Mocking with RSpec](https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/mocking_2)
-* [OOP 3: Delegate, Delegate, Delegate](https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/oop_3)
-* [Making code simpler through polymorphism](https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/making_code_simpler_through_polymorphism)
+* [Code Review](https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/code_review)
+* [Domain modelling](https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/domain_model_diagramming)
+* [Domain modelling alternative](https://github.com/makersacademy/skills-workshops/blob/main/object_oriented_programming/domain_modelling_alternative)
+* [Mocking](https://github.com/makersacademy/skills-workshops/tree/main/student-mocking-workshop)
+* [Mocking with RSpec](https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/mocking_2)
+* [OOP 3: Delegate, Delegate, Delegate](https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/oop_3)
+* [Making code simpler through polymorphism](https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/making_code_simpler_through_polymorphism)
 
 ## Week 3
 
@@ -113,15 +113,15 @@ By the end of the week all developers can:
 
 ### Challenges
 
-* [Afternoons - Battle](https://github.com/makersacademy/course/tree/master/intro_to_the_web)
+* [Afternoons - Battle](https://github.com/makersacademy/course/tree/main/intro_to_the_web)
 * [End of unit - RPS](https://github.com/makersacademy/rps-challenge)
 
 ### Practicals
 
-* [Servers](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md)
-* [Clients](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md)
-* [HTTP Servers](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md)
-* [Build a birthday greeter app (small project)](https://github.com/makersacademy/course/blob/master/intro_to_the_web/post_challenges/birthday_app.md)
+* [Servers](https://github.com/makersacademy/skills-workshops/blob/main/practicals/servers_and_clients/servers.md)
+* [Clients](https://github.com/makersacademy/skills-workshops/blob/main/practicals/servers_and_clients/clients.md)
+* [HTTP Servers](https://github.com/makersacademy/skills-workshops/blob/main/practicals/servers_and_clients/http_servers.md)
+* [Build a birthday greeter app (small project)](https://github.com/makersacademy/course/blob/main/intro_to_the_web/post_challenges/birthday_app.md)
 
 ### Resources
 
@@ -129,8 +129,8 @@ By the end of the week all developers can:
 
 ### Skills workshops
 
-* [Modelling the request/response cycle](https://github.com/makersacademy/skills-workshops/tree/master/how_the_web_works/process_modelling)
-* [Debugging 2](https://github.com/makersacademy/skills-workshops/tree/master/how_the_web_works/debugging_2)
+* [Modelling the request/response cycle](https://github.com/makersacademy/skills-workshops/tree/main/how_the_web_works/process_modelling)
+* [Debugging 2](https://github.com/makersacademy/skills-workshops/tree/main/how_the_web_works/debugging_2)
 
 ## Week 4
 
@@ -142,15 +142,15 @@ By the end of the week all developers can:
 
 ### Challenges
 
-* [Afternoons - Bookmark Manager](https://github.com/makersacademy/course/blob/master/bookmark_manager/00_challenge_map.md)
+* [Afternoons - Bookmark Manager](https://github.com/makersacademy/course/blob/main/bookmark_manager/00_challenge_map.md)
 * [End of unit - Chitter](https://github.com/makersacademy/chitter-challenge)
 
 ### Practicals
 
-* [Entity Relationship Diagrams](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md)
+* [Entity Relationship Diagrams](https://github.com/makersacademy/skills-workshops/blob/main/practicals/databases/entity_relationship_diagrams.md)
 * [SQLZoo](https://sqlzoo.net/)
 * [SQL Murder Mystery](https://mystery.knightlab.com/)
-* [Build a diary app (small project)](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/daily_diary_app.md)
+* [Build a diary app (small project)](https://github.com/makersacademy/skills-workshops/blob/main/practicals/databases/daily_diary_app.md)
 
 ### Resources
 
@@ -158,12 +158,12 @@ By the end of the week all developers can:
 
 ### Skills workshops
 
-* [CRC Cards](https://github.com/makersacademy/skills-workshops/tree/master/how_databases_work/domain_modelling_student_directory_using_crc_cards)
+* [CRC Cards](https://github.com/makersacademy/skills-workshops/tree/main/how_databases_work/domain_modelling_student_directory_using_crc_cards)
 * [REST](https://github.com/sjmog/rest)
 
 ## Week 5
 
-If you haven't already, start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/master/process_review) or using [Reviews](https://www.youtube.com/watch?v=TqKG8j_tgbM) to focus on improving your developer process. Anyone from any cohort ever can use these resources!
+If you haven't already, start attending [process workshops](https://github.com/makersacademy/skills-workshops/tree/main/process_review) or using [Reviews](https://www.youtube.com/watch?v=TqKG8j_tgbM) to focus on improving your developer process. Anyone from any cohort ever can use these resources!
 
 By the end of the week all developers can build tested, easy-to-change software in a team using these processes:
 
@@ -175,7 +175,7 @@ By the end of the week all developers can build tested, easy-to-change software 
 
 ### Challenges
 
-* [Weekdays - MakersBnB](https://github.com/makersacademy/course/tree/master/makersbnb)
+* [Weekdays - MakersBnB](https://github.com/makersacademy/course/tree/main/makersbnb)
 * [End of unit - Bowling](https://github.com/makersacademy/bowling-challenge-ruby)
 
 ### Resources
@@ -191,13 +191,13 @@ By the end of the week all developers can:
 
 ### Challenges
 
-* [Afternoons - Thermostat](https://github.com/makersacademy/course/blob/master/thermostat_es6/README.md)
+* [Afternoons - Thermostat](https://github.com/makersacademy/course/blob/main/thermostat_es6/README.md)
 * [End of unit - Bowling continuation in JS](https://github.com/makersacademy/bowling-challenge)
 
 ### Practicals
 
 * [Learning a new language by translation](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A)
-* [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/master/javascript_fundamentals/async_JS.md)
+* [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/main/javascript_fundamentals/async_JS.md)
 * [Closures](https://hackmd.io/cIFsMAqISHqVHN_-p9hY0Q)
 
 ### Resources
@@ -208,10 +208,10 @@ A tiny JavaScript/Sinatra app that mimics the architecture of the Thermostat app
 
 ### Skills workshops
 
-* [Encapsulation with the constructor & prototype pattern](https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/encapsulation_with_constructor_and_prototype_pattern)
-* [Following the flow and getting visibility](https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/following_the_flow_and_getting_visibility_in_javascript_es6)
-* [Following the Ajax request/response cycle](https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/following_ajax_request_response_cycle)
-* [Callbacks and following the flow of control](https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/callbacks_following_the_flow_of_control)
+* [Encapsulation with the constructor & prototype pattern](https://github.com/makersacademy/skills-workshops/tree/main/javascript_fundamentals/encapsulation_with_constructor_and_prototype_pattern)
+* [Following the flow and getting visibility](https://github.com/makersacademy/skills-workshops/tree/main/javascript_fundamentals/following_the_flow_and_getting_visibility_in_javascript_es6)
+* [Following the Ajax request/response cycle](https://github.com/makersacademy/skills-workshops/tree/main/javascript_fundamentals/following_ajax_request_response_cycle)
+* [Callbacks and following the flow of control](https://github.com/makersacademy/skills-workshops/tree/main/javascript_fundamentals/callbacks_following_the_flow_of_control)
 
 ## Week 7
 
@@ -223,17 +223,17 @@ By the end of the week all developers can:
 
 ### Challenges
 
-* [Afternoon Group Project](https://github.com/makersacademy/course/blob/master/further_javascript)
+* [Afternoon Group Project](https://github.com/makersacademy/course/blob/main/further_javascript)
 * End of unit, either of:
   * [News summary](https://github.com/makersacademy/news-summary-challenge)
   * [Chitter API Frontend Challenge](https://github.com/makersacademy/frontend-api-challenge)
 
 ### Practicals
 
-* [Modelling the flow of API calls with JS](https://github.com/makersacademy/skills-workshops/tree/master/further_javascript/process-modelling-js-api/process_modelling)
+* [Modelling the flow of API calls with JS](https://github.com/makersacademy/skills-workshops/tree/main/further_javascript/process-modelling-js-api/process_modelling)
 * [Reading beyond your level](https://hackmd.io/F-pmnp3hRhePddmf3mnKGw)
-* [Explore Closures in JS](https://github.com/makersacademy/skills-workshops/blob/master/further_javascript/explore_closures.md)
-* [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/master/javascript_fundamentals/async_JS.md)
+* [Explore Closures in JS](https://github.com/makersacademy/skills-workshops/blob/main/further_javascript/explore_closures.md)
+* [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/main/javascript_fundamentals/async_JS.md)
 
 ### Resources
 

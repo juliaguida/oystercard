@@ -87,7 +87,7 @@ In the next challenge, we'll figure out how to get this test passing (i.e. how t
 </details>
 
 ### Resources
-- :pill: [Doubles](https://github.com/makersacademy/course/blob/master/pills/doubles.md)
+- :pill: [Doubles](https://github.com/makersacademy/course/blob/main/pills/doubles.md)
 - [RSpec Mocks (docs)](https://relishapp.com/rspec/rspec-mocks/docs)
 
 ### [Walkthrough](walkthroughs/19.md)

@@ -37,19 +37,19 @@
 
 2. Watch [this planning video](https://drive.google.com/file/d/1z-ez0kmoRRxYX_FHhieJjYS33xJ6MYLy/view?usp=sharing).
 
-   **After** watching the video, spend 15 minutes maximum creating a plan for [this Leap Year process workshop exercise](https://github.com/makersacademy/skills-workshops/tree/master/process_review/exercises/leap_years), you should use the acceptance criteria from the Leap Year exercise to help guide you.
+   **After** watching the video, spend 15 minutes maximum creating a plan for [this Leap Year process workshop exercise](https://github.com/makersacademy/skills-workshops/tree/main/process_review/exercises/leap_years), you should use the acceptance criteria from the Leap Year exercise to help guide you.
 
 
 3. Send this plan to a coach for review.
 
 
-4. Once the coach has given the green light for your plan, attempt the exercise with TDD and record your screen as per the instructions [here](https://github.com/makersacademy/skills-workshops/tree/master/process_review): (you can do the exercise without a pair partner watching for now).
+4. Once the coach has given the green light for your plan, attempt the exercise with TDD and record your screen as per the instructions [here](https://github.com/makersacademy/skills-workshops/tree/main/process_review): (you can do the exercise without a pair partner watching for now).
 
 
 5. Get feedback on your exercise video from a coach.
 
 
-6. Depending on the feedback either re-attempt the exercise or move onto the next one on the process workshop list [here](https://github.com/makersacademy/skills-workshops/tree/master/process_review). Repeat steps 2 - 6 until you feel like you're progressing as you'd like with the end of unit work.
+6. Depending on the feedback either re-attempt the exercise or move onto the next one on the process workshop list [here](https://github.com/makersacademy/skills-workshops/tree/main/process_review). Repeat steps 2 - 6 until you feel like you're progressing as you'd like with the end of unit work.
 
 
 7. **If you've tried steps 1 - 6 and are still getting blocked, reach out again to a coach. We always like to hear from you and are here to help.**

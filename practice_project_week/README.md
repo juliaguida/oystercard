@@ -24,7 +24,7 @@ Production code is generally built by a team of developers. It is important that
 
 The practice and final projects also provide a safe environment for you to be creative and enjoy exploring new directions with your code.
 
-* [Detailed learning objectives](https://github.com/makersacademy/course/blob/master/practice_project_week/learning_objectives.md)
+* [Detailed learning objectives](https://github.com/makersacademy/course/blob/main/practice_project_week/learning_objectives.md)
 
 ## What is a successful project?
 
@@ -44,7 +44,7 @@ You'll have standups and retros in your teams.
 
 ## Project design workshop
 
-* We'll kick off the projects with a [project design workshop](https://github.com/makersacademy/course/blob/master/practice_project_week/project_design_workshop.md).
+* We'll kick off the projects with a [project design workshop](https://github.com/makersacademy/course/blob/main/practice_project_week/project_design_workshop.md).
 
 ## Presentations
 
@@ -54,7 +54,7 @@ Here are some [guidelines](./presentation_guidelines.md) to follow when planning
 
 ## Resources
 
-* :pill: [Development workflow](https://github.com/makersacademy/course/blob/master/pills/development_workflow.md)
+* :pill: [Development workflow](https://github.com/makersacademy/course/blob/main/pills/development_workflow.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

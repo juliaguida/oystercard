@@ -37,7 +37,7 @@ Throughout this challenge we'll create User Stories based on the specification, 
 * [UK Government advice on creating user stories](https://www.gov.uk/service-manual/agile-delivery/writing-user-stories)
 * [Agile Modelling tips on User stories](http://www.agilemodeling.com/artifacts/userStory.htm)
 * [Wikipedia article on BDD](https://en.wikipedia.org/wiki/Behavior-driven_development)
-* [Domain Modelling Workshop](https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/domain_model_diagramming)
+* [Domain Modelling Workshop](https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/domain_model_diagramming)
 
 ## [Walkthrough](walkthroughs/01.md)
 

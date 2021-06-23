@@ -3,74 +3,74 @@
 Knowledge pills are like little vitamin pills you can take in quickly to understand a concept. We try to keep them as small as possible so that you can extract the information you need and gain the basic understanding quickly.
 
 ## Unix
-:pill: [The command line](https://github.com/makersacademy/course/blob/master/pills/command_line.md)
+:pill: [The command line](https://github.com/makersacademy/course/blob/main/pills/command_line.md)
 
-:pill: [Sublime Text License](https://github.com/makersacademy/course/blob/master/pills/sublime_text.md)
+:pill: [Sublime Text License](https://github.com/makersacademy/course/blob/main/pills/sublime_text.md)
 
 ## Git
-:pill: [Version Control with Git](https://github.com/makersacademy/course/blob/master/pills/git.md)
+:pill: [Version Control with Git](https://github.com/makersacademy/course/blob/main/pills/git.md)
 
 ## Ruby
 
-:pill: [Arrays](https://github.com/makersacademy/course/blob/master/pills/arrays.md)
+:pill: [Arrays](https://github.com/makersacademy/course/blob/main/pills/arrays.md)
 
-:pill: [Blocks](https://github.com/makersacademy/course/blob/master/pills/blocks.md)
+:pill: [Blocks](https://github.com/makersacademy/course/blob/main/pills/blocks.md)
 
-:pill: [Bundler](https://github.com/makersacademy/course/blob/master/pills/bundler.md)
+:pill: [Bundler](https://github.com/makersacademy/course/blob/main/pills/bundler.md)
 
-:pill: [Composition vs. Inheritance](https://github.com/makersacademy/course/blob/master/pills/composition_vs_inheritance.md)
+:pill: [Composition vs. Inheritance](https://github.com/makersacademy/course/blob/main/pills/composition_vs_inheritance.md)
 
-:pill: [Control Flow](https://github.com/makersacademy/course/blob/master/pills/control_flow.md)
+:pill: [Control Flow](https://github.com/makersacademy/course/blob/main/pills/control_flow.md)
 
-:pill: [Creating Ruby Files](https://github.com/makersacademy/course/blob/master/pills/files.md)
+:pill: [Creating Ruby Files](https://github.com/makersacademy/course/blob/main/pills/files.md)
 
-:pill: [Exceptions](https://github.com/makersacademy/course/blob/master/pills/exceptions.md)
+:pill: [Exceptions](https://github.com/makersacademy/course/blob/main/pills/exceptions.md)
 
-:pill: [Floats](https://github.com/makersacademy/course/blob/master/pills/floats.md)
+:pill: [Floats](https://github.com/makersacademy/course/blob/main/pills/floats.md)
 
-:pill: [Gems](https://github.com/makersacademy/course/blob/master/pills/gems.md)
+:pill: [Gems](https://github.com/makersacademy/course/blob/main/pills/gems.md)
 
-:pill: [Hashes](https://github.com/makersacademy/course/blob/master/pills/hashes.md)
+:pill: [Hashes](https://github.com/makersacademy/course/blob/main/pills/hashes.md)
 
-:pill: [Inheritance](https://github.com/makersacademy/course/blob/master/pills/inheritance.md)
+:pill: [Inheritance](https://github.com/makersacademy/course/blob/main/pills/inheritance.md)
 
-:pill: [Introducing IRB](https://github.com/makersacademy/course/blob/master/pills/irb.md)
+:pill: [Introducing IRB](https://github.com/makersacademy/course/blob/main/pills/irb.md)
 
-:pill: [Interacting with the users](https://github.com/makersacademy/course/blob/master/pills/user_interaction.md)
+:pill: [Interacting with the users](https://github.com/makersacademy/course/blob/main/pills/user_interaction.md)
 
-:pill: [Lambdas](https://github.com/makersacademy/course/blob/master/pills/lambdas.md)
+:pill: [Lambdas](https://github.com/makersacademy/course/blob/main/pills/lambdas.md)
 
-:pill: [Loops](https://github.com/makersacademy/course/blob/master/pills/loops.md)
+:pill: [Loops](https://github.com/makersacademy/course/blob/main/pills/loops.md)
 
-:pill: [Methods](https://github.com/makersacademy/course/blob/master/pills/methods.md)
+:pill: [Methods](https://github.com/makersacademy/course/blob/main/pills/methods.md)
 
-:pill: [Modules](https://github.com/makersacademy/course/blob/master/pills/modules.md)
+:pill: [Modules](https://github.com/makersacademy/course/blob/main/pills/modules.md)
 
-:pill: [Namespacing](https://github.com/makersacademy/course/blob/master/pills/namespacing.md)
+:pill: [Namespacing](https://github.com/makersacademy/course/blob/main/pills/namespacing.md)
 
-:pill: [Parallel Assignment](https://github.com/makersacademy/course/blob/master/pills/parallel_assignment.md)
+:pill: [Parallel Assignment](https://github.com/makersacademy/course/blob/main/pills/parallel_assignment.md)
 
-:pill: [Procs](https://github.com/makersacademy/course/blob/master/pills/procs.md)
+:pill: [Procs](https://github.com/makersacademy/course/blob/main/pills/procs.md)
 
-:pill: [Recursion](https://github.com/makersacademy/course/blob/master/pills/recursion.md)
+:pill: [Recursion](https://github.com/makersacademy/course/blob/main/pills/recursion.md)
 
-:pill: [Reopening classes](https://github.com/makersacademy/course/blob/master/pills/reopening_classes.md)
+:pill: [Reopening classes](https://github.com/makersacademy/course/blob/main/pills/reopening_classes.md)
 
-:pill: [Self](https://github.com/makersacademy/course/blob/master/pills/self.md)
+:pill: [Self](https://github.com/makersacademy/course/blob/main/pills/self.md)
 
-:pill: [Shovel Operator](https://github.com/makersacademy/course/blob/master/pills/shovel_operator.md)
+:pill: [Shovel Operator](https://github.com/makersacademy/course/blob/main/pills/shovel_operator.md)
 
-:pill: [Sinatra Part 1](https://github.com/makersacademy/course/blob/master/pills/sinatra_1.md)
+:pill: [Sinatra Part 1](https://github.com/makersacademy/course/blob/main/pills/sinatra_1.md)
 
-:pill: [Strings](https://github.com/makersacademy/course/blob/master/pills/strings.md)
+:pill: [Strings](https://github.com/makersacademy/course/blob/main/pills/strings.md)
 
-:pill: [String Interpolation](https://github.com/makersacademy/course/blob/master/pills/string_interpolation.md)
+:pill: [String Interpolation](https://github.com/makersacademy/course/blob/main/pills/string_interpolation.md)
 
-:pill: [Symbols](https://github.com/makersacademy/course/blob/master/pills/symbols.md)
+:pill: [Symbols](https://github.com/makersacademy/course/blob/main/pills/symbols.md)
 
-:pill: [True, False and nothing](https://github.com/makersacademy/course/blob/master/pills/boolean.md)
+:pill: [True, False and nothing](https://github.com/makersacademy/course/blob/main/pills/boolean.md)
 
-:pill: [Variables](https://github.com/makersacademy/course/blob/master/pills/variables.md)
+:pill: [Variables](https://github.com/makersacademy/course/blob/main/pills/variables.md)
 
 
 ## Rails
@@ -86,37 +86,37 @@ Knowledge pills are like little vitamin pills you can take in quickly to underst
 
 ## Testing
 
-:pill: [Behaviour Driven Development with RSpec](https://github.com/makersacademy/course/blob/master/pills/rspec.md)
+:pill: [Behaviour Driven Development with RSpec](https://github.com/makersacademy/course/blob/main/pills/rspec.md)
 
-:pill: [Test Driven Development](https://github.com/makersacademy/course/blob/master/pills/tdd.md)
+:pill: [Test Driven Development](https://github.com/makersacademy/course/blob/main/pills/tdd.md)
 
-:pill: [RSpec - Predicate matchers](https://github.com/makersacademy/course/blob/master/pills/rspec_predicate.md)
+:pill: [RSpec - Predicate matchers](https://github.com/makersacademy/course/blob/main/pills/rspec_predicate.md)
 
-:pill: [Writing tests without a testing framework](https://github.com/makersacademy/course/blob/master/pills/writing_tests_without_a_testing_framework.md)
+:pill: [Writing tests without a testing framework](https://github.com/makersacademy/course/blob/main/pills/writing_tests_without_a_testing_framework.md)
 
 ## JavaScript/jQuery
 
-:pill: [Functions](https://github.com/makersacademy/course/blob/master/pills/js_functions.md)
+:pill: [Functions](https://github.com/makersacademy/course/blob/main/pills/js_functions.md)
 
-:pill: [Arrays](https://github.com/makersacademy/course/blob/master/pills/js_arrays.md)
+:pill: [Arrays](https://github.com/makersacademy/course/blob/main/pills/js_arrays.md)
 
-:pill: [JS conventions](https://github.com/makersacademy/course/blob/master/pills/js_conventions.md)
+:pill: [JS conventions](https://github.com/makersacademy/course/blob/main/pills/js_conventions.md)
 
-:pill: [JavaScript module pattern](https://github.com/makersacademy/course/blob/master/pills/javascript_module_pattern.md)
+:pill: [JavaScript module pattern](https://github.com/makersacademy/course/blob/main/pills/javascript_module_pattern.md)
 
-:pill: [`http-server`](https://github.com/makersacademy/course/blob/master/pills/http_server.md)
+:pill: [`http-server`](https://github.com/makersacademy/course/blob/main/pills/http_server.md)
 
-:pill: [jQuery events](https://github.com/makersacademy/course/blob/master/pills/jquery_events.md)
+:pill: [jQuery events](https://github.com/makersacademy/course/blob/main/pills/jquery_events.md)
 
-:pill: [Protractor](https://github.com/makersacademy/course/blob/master/pills/protractor.md)
+:pill: [Protractor](https://github.com/makersacademy/course/blob/main/pills/protractor.md)
 
-:pill: [Calling APIs](https://github.com/makersacademy/course/blob/master/pills/calling_apis_in_javascript.md)
+:pill: [Calling APIs](https://github.com/makersacademy/course/blob/main/pills/calling_apis_in_javascript.md)
 
 ## Database
 
-:pill: [Relationships between tables in a database](https://github.com/makersacademy/course/blob/master/pills/db_relationships.md)
+:pill: [Relationships between tables in a database](https://github.com/makersacademy/course/blob/main/pills/db_relationships.md)
 
-:pill: [DataMapper and database relationships](https://github.com/makersacademy/course/blob/master/pills/dm_db_relationships.md)
+:pill: [DataMapper and database relationships](https://github.com/makersacademy/course/blob/main/pills/dm_db_relationships.md)
 
 ## Community
 

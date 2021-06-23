@@ -20,7 +20,7 @@ By the end of the week, the goal is to be able to answer "yes" to the week's pri
 
 You can find more detailed learning objectives for this challenge [here](./learning_objectives.md).
 
-### Reminder of all this week's goals from the [Week Outlines](https://github.com/makersacademy/course/blob/master/week_outlines.md)
+### Reminder of all this week's goals from the [Week Outlines](https://github.com/makersacademy/course/blob/main/week_outlines.md)
 
 By the end of the week all developers can:
 
@@ -35,7 +35,7 @@ By the end of the week all developers can:
 - Databases
 - Tooling
 
-As well as these things, you'll deepen your understanding of many of the [skills and concepts from week 3](https://github.com/makersacademy/course/tree/master/intro_to_the_web).
+As well as these things, you'll deepen your understanding of many of the [skills and concepts from week 3](https://github.com/makersacademy/course/tree/main/intro_to_the_web).
 
 
 ## The project

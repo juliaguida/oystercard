@@ -9,17 +9,17 @@ Welcome to Node! This week, you will be learning how to build responsive applica
 ##Version 1 - Welcome to Node
 
 Before we get into APIs, we need to be able to build a basic server. But before we build a web server, we need to understand what Node is and how to get started.
-Check out the [Introduction to Node](https://github.com/makersacademy/course/blob/master/node/intro_to_node.md) walkthrough to get started, then, when you have finished, check out [Node good practices](https://github.com/makersacademy/course/blob/master/node/node_good_practices.md).
+Check out the [Introduction to Node](https://github.com/makersacademy/course/blob/main/node/intro_to_node.md) walkthrough to get started, then, when you have finished, check out [Node good practices](https://github.com/makersacademy/course/blob/main/node/node_good_practices.md).
 
 ##Version 2 - A basic server
 
-Next, let's get a server running, with tests: [A basic Node server](https://github.com/makersacademy/course/blob/master/node/basic_node_server.md).  
+Next, let's get a server running, with tests: [A basic Node server](https://github.com/makersacademy/course/blob/main/node/basic_node_server.md).  
 
 ![Hello world](/images/hw.png)
 ![Tests passing!](/images/testpass.png)
 
 Now that we have a server, we want to be able to display dynamic content, as well as be able to configure our server's routes:
-[Express, `ejs` and middleware](https://github.com/makersacademy/course/blob/master/node/express_ejs.md)
+[Express, `ejs` and middleware](https://github.com/makersacademy/course/blob/main/node/express_ejs.md)
 
 ##Version 3 - Let's get an API up and running
 
@@ -31,7 +31,7 @@ Please ensure that you are able to get something similar running.
 
 ##Version 4 - Let's consume that API dynamically with Ajax
 
-We can get data from the real Github API, or our own simulation, by opening a browser window and sending a request.  But what if we want to load that information dynamically into a web page without a page refresh?  One possibility is an Asynchronous JavaScript and XML (AJAX) request.  Follow the [Ajax Introduction](https://github.com/makersacademy/course/blob/master/node/ajax_introduction.md) to learn more.  Then make sure you complete [Ajax with Extra jQuery](https://github.com/makersacademy/course/blob/master/node/ajax_with_extra_jquery.md) and if you want more jQuery magic then check out [Ajax jQuery Spinners](https://github.com/makersacademy/course/blob/master/node/ajax_jquery_spinners.md).
+We can get data from the real Github API, or our own simulation, by opening a browser window and sending a request.  But what if we want to load that information dynamically into a web page without a page refresh?  One possibility is an Asynchronous JavaScript and XML (AJAX) request.  Follow the [Ajax Introduction](https://github.com/makersacademy/course/blob/main/node/ajax_introduction.md) to learn more.  Then make sure you complete [Ajax with Extra jQuery](https://github.com/makersacademy/course/blob/main/node/ajax_with_extra_jquery.md) and if you want more jQuery magic then check out [Ajax jQuery Spinners](https://github.com/makersacademy/course/blob/main/node/ajax_jquery_spinners.md).
 
 Resources:
 --------
@@ -41,13 +41,13 @@ Resources:
 
 **Version 1:**  
 
- * [Introduction to Node](https://github.com/makersacademy/course/blob/master/node/intro_to_node.md)
- * [Node good practices](https://github.com/makersacademy/course/blob/master/node/node_good_practices.md)
+ * [Introduction to Node](https://github.com/makersacademy/course/blob/main/node/intro_to_node.md)
+ * [Node good practices](https://github.com/makersacademy/course/blob/main/node/node_good_practices.md)
 
 **Version 2:**  
 
-* [A basic Node server](https://github.com/makersacademy/course/blob/master/node/basic_node_server.md)
-* [Express, `ejs` and middleware](https://github.com/makersacademy/course/blob/master/node/express_ejs.md)
+* [A basic Node server](https://github.com/makersacademy/course/blob/main/node/basic_node_server.md)
+* [Express, `ejs` and middleware](https://github.com/makersacademy/course/blob/main/node/express_ejs.md)
 
 **Version 3**:  
 
@@ -55,9 +55,9 @@ Resources:
 
 **Version 4**:  
 
-* [Ajax Introduction](https://github.com/makersacademy/course/blob/master/node/ajax_introduction.md)
-* [Ajax with Extra jQuery](https://github.com/makersacademy/course/blob/master/node/ajax_with_extra_jquery.md)
-* [Ajax jQuery Spinners](https://github.com/makersacademy/course/blob/master/node/ajax_jquery_spinners.md)
+* [Ajax Introduction](https://github.com/makersacademy/course/blob/main/node/ajax_introduction.md)
+* [Ajax with Extra jQuery](https://github.com/makersacademy/course/blob/main/node/ajax_with_extra_jquery.md)
+* [Ajax jQuery Spinners](https://github.com/makersacademy/course/blob/main/node/ajax_jquery_spinners.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

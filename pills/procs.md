@@ -10,7 +10,7 @@ def passing_block(&block)
 end
 ````
 
-So, if we inspect the [block](https://github.com/makersacademy/course/blob/master/pills/blocks.md) inside a method, it'll turn out it's actually a proc. What can we do with a proc? Apart from passing it to other methods, we can call it:
+So, if we inspect the [block](https://github.com/makersacademy/course/blob/main/pills/blocks.md) inside a method, it'll turn out it's actually a proc. What can we do with a proc? Apart from passing it to other methods, we can call it:
 
 ````ruby
 def passing_block(&block)

@@ -1,6 +1,6 @@
 ## End of Unit Challenge
 
-https://github.com/makersacademy/language_agnostic_ep_weekend_challenge/blob/master/README.md
+https://github.com/makersacademy/language_agnostic_ep_weekend_challenge/blob/main/README.md
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

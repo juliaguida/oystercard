@@ -39,9 +39,9 @@ When you decide on the interface for your abstraction and feature, try to make i
 ## Resources
 
 - [Writing tests without a testing framework](../pills/writing_tests_without_a_testing_framework.md)
-- :pill: [Frontend, single page app](https://github.com/makersacademy/course/blob/master/pills/frontend_single_page_app.md)
-- :pill: [Javascript Classes](https://github.com/makersacademy/course/blob/master/pills/js_classes.md)
-- :pill: [JavaScript module pattern](https://github.com/makersacademy/course/blob/master/pills/javascript_module_pattern.md)
+- :pill: [Frontend, single page app](https://github.com/makersacademy/course/blob/main/pills/frontend_single_page_app.md)
+- :pill: [Javascript Classes](https://github.com/makersacademy/course/blob/main/pills/js_classes.md)
+- :pill: [JavaScript module pattern](https://github.com/makersacademy/course/blob/main/pills/javascript_module_pattern.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

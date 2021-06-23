@@ -16,7 +16,7 @@ By the end of modules 1 & 2 all developers can:
 
 * [Mastery Quizzes](https://mastery-curriculum.makers.tech/)
 * [Student Directory](https://github.com/makersacademy/student-directory)
-* [TDD FizzBuzz Kata](https://github.com/makersacademy/course/blob/master/fizzbuzz/fizzbuzz.md)
+* [TDD FizzBuzz Kata](https://github.com/makersacademy/course/blob/main/fizzbuzz/fizzbuzz.md)
 
 ### Skills Breakdown
 
@@ -74,7 +74,7 @@ By the end of the module all developers can:
 * I use a methodical approach to solving problems
 * I use my own initiative
 
-Remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md).
+Remind yourself of the rest [here](https://github.com/makersacademy/course/blob/main/apprenticeship_starting_pack/course_goals.md).
 
 ### Resources
 
@@ -105,20 +105,20 @@ For some skills, there are several options so that you can spend some time focus
 |                               | [Test Drive a Notes App][tdd_notes_app]        |
 | Deciding what to test         | [Testing behaviour rather than state][behaviour_vs_state] |
 
-[debugging_1]: https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/debugging_1
+[debugging_1]: https://github.com/makersacademy/course/blob/main/test_driven_development/debugging_1
 [writing_unit_tests]: https://github.com/makersacademy/skills-workshops/tree/c268bb78fdc4df644d0ed7b1fdd189de426895f8/week-1/writing_tests
-[diagram_tdd]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/diagram_the_your_process.md
-[tdd_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md
-[simple_checkout]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/test_drive_multiple_objects.md
-[tdd_notes_app]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/test_drive_a_notes_app.md
+[diagram_tdd]: https://github.com/makersacademy/course/blob/main/practicals/testing/diagram_the_your_process.md
+[tdd_practical]: https://github.com/makersacademy/course/blob/main/practicals/test_driving.md
+[simple_checkout]: https://github.com/makersacademy/course/blob/main/practicals/testing/test_drive_multiple_objects.md
+[tdd_notes_app]: https://github.com/makersacademy/course/blob/main/practicals/testing/test_drive_a_notes_app.md
 [bank_account]: https://github.com/makersacademy/simple_tdd_bank
-[behaviour_vs_state]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/behaviour_not_state.md
+[behaviour_vs_state]: https://github.com/makersacademy/course/blob/main/practicals/testing/behaviour_not_state.md
 
 
 
 ### Pairing challenge
 
-[Boris bikes](https://github.com/makersacademy/course/tree/master/boris_bikes)
+[Boris bikes](https://github.com/makersacademy/course/blob/main/boris_bikes)
 
 ### Individual challenge
 
@@ -171,7 +171,7 @@ Stretch:
 * I test-drive my code
 * I can design a system
 
-And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md).
+And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/main/apprenticeship_starting_pack/course_goals.md).
 
 ### Resources
 * [The 4 pillars of OOD](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
@@ -197,21 +197,21 @@ The intention is that you should work through the core exercises in order, from 
 | Dependency injection             | [Inject some dependencies!][dependency_injection]     |
 | Mocking                          | [Mock the diary class][mocking]                       |
 
-[bank]: https://github.com/makersacademy/course/blob/master/individual_challenges/bank_tech_test.md
+[bank]: https://github.com/makersacademy/course/blob/main/individual_challenges/bank_tech_test.md
 [API]: https://rapidapi.com/collection/recommended-apis
 [class]: https://www.lucidchart.com/pages/uml-class-diagram
 [sequence]: https://www.lucidchart.com/pages/uml-sequence-diagram
 [diagram]: https://www.diagram.codes/
-[code_review]: https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/code_review
-[encapsulation]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md
-[forwarding_polymorphism]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/oo_relationships.md
-[refactoring_using_oo]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/refactoring.md
-[dependency_injection]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md
+[code_review]: https://github.com/makersacademy/course/blob/main/object_oriented_programming/code_review
+[encapsulation]: https://github.com/makersacademy/course/blob/main/practicals/object_oriented_design/encapsulation.md
+[forwarding_polymorphism]: https://github.com/makersacademy/course/blob/main/practicals/object_oriented_design/oo_relationships.md
+[refactoring_using_oo]: https://github.com/makersacademy/course/blob/main/practicals/object_oriented_design/refactoring.md
+[dependency_injection]: https://github.com/makersacademy/course/blob/main/practicals/object_oriented_design/dependency_injection.md
 [mocking]: https://github.com/neoeno/testing_relationships_between_classes
 
 ### Pairing challenge
 
-[Oystercard](https://github.com/makersacademy/course/tree/master/oystercard)
+[Oystercard](https://github.com/makersacademy/course/blob/main/oystercard)
 
 ### Individual challenge options
 
@@ -246,7 +246,7 @@ These really are stretch goals.  We've not created any exercises for them, so pa
 * I can design and build user interfaces
 * I test-drive my code
 
-And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md).
+And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/main/apprenticeship_starting_pack/course_goals.md).
 
 ### Resources
 
@@ -269,14 +269,14 @@ These exercises can be used for independent study, or enhanced by group discussi
 |                       | [Birthday][birthday]                                 |
 
 [capybara_workout]: https://capybara-workout.herokuapp.com/
-[servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md
-[clients]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md
-[http_servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md
-[birthday]: https://github.com/makersacademy/course/blob/master/intro_to_the_web/post_challenges/birthday_app.md
+[servers]: https://github.com/makersacademy/course/blob/main/practicals/servers_and_clients/servers.md
+[clients]: https://github.com/makersacademy/course/blob/main/practicals/servers_and_clients/clients.md
+[http_servers]: https://github.com/makersacademy/course/blob/main/practicals/servers_and_clients/http_servers.md
+[birthday]: https://github.com/makersacademy/course/blob/main/intro_to_the_web/post_challenges/birthday_app.md
 
 ### Pairing challenge
 
-[Intro to the web / Battle](https://github.com/makersacademy/course/tree/master/intro_to_the_web)
+[Intro to the web / Battle](https://github.com/makersacademy/course/blob/main/intro_to_the_web)
 
 ### Individual challenge
 
@@ -306,7 +306,7 @@ By the end of the module all developers can:
 * I can integrate a database
 * I can design a system
 
-And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md).
+And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/main/apprenticeship_starting_pack/course_goals.md).
 
 ### Exercises for self-directed learning
 
@@ -321,10 +321,10 @@ These exercises can be used for independent study, or enhanced by pairing and gr
 | Build an app with a DB | [Message board][build-1]                       |
 
 [sqlmm]: https://mystery.knightlab.com/
-[build-1]: https://github.com/makersacademy/skills-workshops/tree/master/practicals/databases/blog
+[build-1]: https://github.com/makersacademy/course/blob/main/practicals/databases/blog
 [ruby-db-queries]: https://github.com/makersacademy/makers-sql-session
 [zoo]: https://sqlzoo.net/
-[ERD]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md
+[ERD]: https://github.com/makersacademy/course/blob/main/practicals/databases/entity_relationship_diagrams.md
 
 ### Resources
 
@@ -335,7 +335,7 @@ These exercises can be used for independent study, or enhanced by pairing and gr
 
 ### Pairing challenge
 
-[Bookmark Manager](https://github.com/makersacademy/course/blob/master/bookmark_manager/00_challenge_map.md)
+[Bookmark Manager](https://github.com/makersacademy/course/blob/main/bookmark_manager/00_challenge_map.md)
 
 ### Individual challenge
 
@@ -399,7 +399,7 @@ For some of you, this will seem like overkill and you'll want to 'just get crack
 
 1 hour spent working on a really well understood task, pulling in the right direction, is worth infinitely more than 2 hours working on a poorly defined task, creating something that doesn't meet the specifications.
 
-[makersbnb]: https://github.com/makersacademy/course/tree/master/makersbnb
+[makersbnb]: https://github.com/makersacademy/course/blob/main/makersbnb
 
 ### Who will facilitate your meetings?
 

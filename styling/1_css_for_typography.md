@@ -4,7 +4,7 @@ In the 90s, web pages were pretty text-centric:
 
 ![Yahoo in 1996: a basic webpage almost entirely made of text](images/yahoo-1996.png)
 
-CSS was originally designed to style that text, and to position objects on the webpages. These exercises focus on working with text: positioning exercises are [here](https://github.com/makersacademy/course/blob/master/styling/2_the_box_model.md).
+CSS was originally designed to style that text, and to position objects on the webpages. These exercises focus on working with text: positioning exercises are [here](https://github.com/makersacademy/course/blob/main/styling/2_the_box_model.md).
 
 ## Introduction
 

@@ -37,7 +37,7 @@ In this challenge, you will implement the above features using the skills you ha
 </details>
 
 ### Resources
-- :pill: [The BDD Cycle](https://github.com/makersacademy/course/blob/master/pills/bdd_cycle.md)
+- :pill: [The BDD Cycle](https://github.com/makersacademy/course/blob/main/pills/bdd_cycle.md)
 
 ### [Walkthrough](walkthroughs/18.md)
 

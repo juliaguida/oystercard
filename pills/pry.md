@@ -10,7 +10,7 @@ That's right - you can see precisely what Ruby is seeing. How many real-life con
 
 ### IRB vs Pry
 
-So [Pry](http://pryrepl.org/) isn't the only game in town. In fact, the default baked-in REPL is called IRB, and doesn't need to be installed. Our own Mihai is such an IRB advocate that he is likely to delete this pill out of sheer loyalty ;) To run IRB, simply fire up your Terminal (or better yet iTerm), and type ```irb```. More information on IRB can be found [here](https://github.com/makersacademy/course/blob/master/pills/irb.md).
+So [Pry](http://pryrepl.org/) isn't the only game in town. In fact, the default baked-in REPL is called IRB, and doesn't need to be installed. Our own Mihai is such an IRB advocate that he is likely to delete this pill out of sheer loyalty ;) To run IRB, simply fire up your Terminal (or better yet iTerm), and type ```irb```. More information on IRB can be found [here](https://github.com/makersacademy/course/blob/main/pills/irb.md).
 
 
 To install Pry, simply type the following into your Terminal:

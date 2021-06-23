@@ -8,7 +8,7 @@ The first thing to be aware of is that in terms of the *product* you're building
 
 Below are some things you want to be doing that employers absolutely love to see (and will prove how much you're learning as a coder).
 
-> You'll notice that a lot of this is repeated from [cleaning up your GitHub](https://github.com/makersacademy/post-course/blob/master/Clean%20your%20Github.md). That's because this stuff is so important it bears repeating. Remember, it is the process of grasping and demonstrating these concepts that will be what leads you to getting your first coding job.
+> You'll notice that a lot of this is repeated from [cleaning up your GitHub](https://github.com/makersacademy/post-course/blob/main/Clean%20your%20Github.md). That's because this stuff is so important it bears repeating. Remember, it is the process of grasping and demonstrating these concepts that will be what leads you to getting your first coding job.
 
 ### [TDD](http://en.wikipedia.org/wiki/Test-driven_development)/[BDD](http://en.wikipedia.org/wiki/Behavior-driven_development) from outside-in
 
