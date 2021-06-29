@@ -222,28 +222,18 @@ Now let's declare us a nice variable just inside that function block. Remember h
 ```javascript
 describe('Javabuzz', function() {
 
-  let javabuzz;
+  var javabuzz;
 
 });
 ```
 
-Oooh, look - a new keyword! What does `let` do when it's at home? 
+Look - a new keyword! What does `var` do when it's at home? Well there's a really good explanation over on [Stack Overflow](http://stackoverflow.com/questions/1470488/what-is-the-function-of-the-var-keyword-and-when-to-use-it-or-omit-it) but let me summarise here in case you don't feel like leaving us right now.
 
-Basically it's an issue of scope and clarity. `let` means that within a function, you are declaring a **local variable.** This means that in the example above, `let javabuzz` is available only between the nearest `{}`.
+Basically it's an issue of scope and clarity. `var` means that within a function, you are declaring a **local variable.** This means that in the example above, `var javabuzz` is available only between the nearest `{}`.
 
-What happens if you don't specify `let`? Basically Javascript looks up the scope chain - that is to say, it looks in every parent function, until it finds the variable (in this case `javabuzz`). Once it hits the uppermost level, if it still can't find `javabuzz` it will create it for you - and because it has been created at the top level, it becomes a global variable, available to every function in the program, which is generally considered a 'bad thing'. It's bad because if other JavaScript libraries use the same name in the global variable space, your program will break, so use `let`!
+What happens if you don't specify `var`? Basically Javascript looks up the scope chain - that is to say, it looks in every parent function, until it finds the variable (in this case `javabuzz`). Once it hits the uppermost level, if it still can't find `javabuzz` it will create it for you - and because it has been created at the top level, it becomes a global variable, available to every function in the program, which is generally considered a 'bad thing'. It's bad because if other JavaScript libraries use the same name in the global variable space, your program will break, so use `var`!
 
-The other keyword you may encounter is `const` 
-
-```javascript
-describe('Javabuzz', function() {
-
-  const javabuzz = 5;
-
-});
-```
-
-This does basically the same thing as `let` except we *cannot re-assign* javabuzz ! This doesn't mean we can't call methods on something defined with const though - only re-assignment. `const` also cannot be initialized without a value. The rule to follow here is **always** use `const` *unless* you need to reassign a variable, or initialize it without a value:
+There are two other keywords you will encounter for this as well: `let` and `const` ! `var`, `let` and `const` all live together in harmony, however in more modern codebases you will likely find much more `let` and `const` and much less `var`. This is simply due to the way the language has evolved, and it's important to understand the nuance of `var`, despite the decline in usage.
 
 ```javascript
 describe('Javabuzz', function() {
@@ -260,6 +250,32 @@ describe('Javabuzz', function() {
 
 });
 ```
+
+`const` does basically the same thing as `var` except we *cannot re-assign* javabuzz ! This doesn't mean we can't call methods (`const thing = []; thing.sort()`) on something defined with const though - only re-assignment is restricted. `const` also cannot be initialized without a value. 
+
+`let` closely resembles `var` as well, but has it's own nuances:
+
+```javascript
+describe('Javabuzz', function() {
+  let fizz = 'fizz';
+  var buzz = 'buzz';
+
+  {
+    console.log(fizz) // fizz
+    console.log(buzz) // buzz
+
+    var fizzbuzz = "fizzbuzz"
+    let buzzfizz = "buzzfizz"
+  }
+
+  console.log(fizzbuzz) // fizzbuzz
+  console.log(buzzfizz) // Error! undefined
+});
+```
+
+Here, we can see that `let` is used in the same way that `var` was previously. `let` allows re-assignment like `var` and operates with almost all of the same rules interchangeably. The only difference is `let` is block scoped and `var` isn't. That means that `let` will only be defined in the current block it's in (i.e. between two curly braces `{ inside here }`) and cannot be accessed outside that. `var` is *function* scoped meaning it can be accessed outside of normal blocks `{}` but not `function(){}` blocks. 
+
+In general, the best practice is to favor `const` > `let` > `var` where possible. There are few cases where you will need to use `var` in <current_year>
 
 #### Contextual healing
 
