@@ -251,7 +251,7 @@ describe('Javabuzz', function() {
 });
 ```
 
-`const` does basically the same thing as `var` except we *cannot re-assign* javabuzz ! This doesn't mean we can't call methods (`const thing = []; thing.sort()`) on something defined with const though - only re-assignment is restricted. `const` also cannot be initialized without a value. 
+`const` does basically the same thing as `var` except we *cannot re-assign* `javabuzz`! This doesn't mean we can't call methods (`const thing = []; thing.sort()`) on something defined with `const` though - only re-assignment is restricted. `const` also cannot be initialised without a value. 
 
 `let` closely resembles `var` as well, but has it's own nuances:
 
@@ -275,7 +275,7 @@ describe('Javabuzz', function() {
 
 Here, we can see that `let` is used in the same way that `var` was previously. `let` allows re-assignment like `var` and operates with almost all of the same rules interchangeably. The only difference is `let` is block scoped and `var` isn't. That means that `let` will only be defined in the current block it's in (i.e. between two curly braces `{ inside here }`) and cannot be accessed outside that. `var` is *function* scoped meaning it can be accessed outside of normal blocks `{}` but not `function(){}` blocks. 
 
-In general, the best practice is to favor `const` > `let` > `var` where possible. There are few cases where you will need to use `var` in <current_year>
+In general, the best practice is to favour `const` > `let` > `var` where possible. There are few cases where you will need to use `var` in <current_year>
 
 #### Contextual healing
 
