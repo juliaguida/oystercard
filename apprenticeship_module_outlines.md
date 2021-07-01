@@ -475,11 +475,6 @@ For this module there are several options.  You should take a moment to decide w
    - Do this one if you want something a little bit more challenging
    - You can either create a new repo or fork/clone this one and remove all the Ruby
    - STRETCH: Can you extend the challenge to include a simple user interface?
-* A basic implementation of [the bowling challenge](https://github.com/makersacademy/bowling-challenge)
-   - The bowling challenge is designed to be done over 4 days
-   - You won't finish it in 1 and you'll need to be OK with that
-   - Do this one if you want to try something very challenging :)
-
 
 ## Weeks 9 & 10: Engineering Project I
 
