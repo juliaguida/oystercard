@@ -256,21 +256,21 @@ describe('Javabuzz', function() {
 `let` closely resembles `var` as well, but has it's own nuances:
 
 ```javascript
-describe('Javabuzz', function() {
+function go () {
   let fizz = 'fizz';
   var buzz = 'buzz';
 
-  {
-    console.log(fizz) // fizz
-    console.log(buzz) // buzz
+  if (true) {
+    console.log(fizz); // fizz
+    console.log(buzz); // buzz
 
-    var fizzbuzz = "fizzbuzz"
-    let buzzfizz = "buzzfizz"
+    var fizzbuzz = "fizzbuzz";
+    let buzzfizz = "buzzfizz";
   }
 
-  console.log(fizzbuzz) // fizzbuzz
-  console.log(buzzfizz) // Error! undefined
-});
+  console.log(fizzbuzz); // fizzbuzz
+  console.log(buzzfizz); // Error! undefined
+}
 ```
 
 Here, we can see that `let` is used in the same way that `var` was previously. `let` allows re-assignment like `var` and operates with almost all of the same rules interchangeably. The only difference is `let` is block scoped and `var` isn't. That means that `let` will only be defined in the current block it's in (i.e. between two curly braces `{ inside here }`) and cannot be accessed outside that. `var` is *function* scoped meaning it can be accessed outside of normal blocks `{}` but not `function(){}` blocks. 
