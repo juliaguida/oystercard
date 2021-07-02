@@ -9,23 +9,13 @@ Some conventions are different between JavaScript and Ruby, while others will be
 When naming variables in JS, we tend to use 'camel casing' rather than 'snake casing', as in Ruby. That means for variable names that are more than one word, we mark the start of a new word with a capital letter, instead of preceding it with an underscore. For example
 
 ~~~ruby
-the_meaning_of_life = 42
+days_until_my_birthday = 272
 ~~~
 
 becomes:
 
 ~~~javascript
-const theMeaningOfLife = 42
-~~~
-
-We also use the keywords `const` or `let` whenever creating a new variable, to ensure correct scoping. We use `let` when we plan on re-assigning the value of a variable, and `const` in any other case.
-
-~~~javascript
-const theMeaningOfLife = 42
-theMeaningOfLife = 21 // error !
-
-let theMeaningOfLife = 42
-theMeaningOfLife = 21 // works !
+let daysUntilMyBirthday = 272;
 ~~~
 
 ## Method naming
@@ -84,25 +74,39 @@ class Banana {
 
 ## Constants
 
-There's no concept of constants in the current version of JS. By convention though, we can mark values we don't expect to change by writing them all in capitals (just like Ruby constants). Unlike Ruby, we won't receive a warning if we change these values though.
+As we saw above, you can use `let` to define variables that you expect to change.
 
-
-With ES6, there is new way to declare constants:
+You can use `const` to define variables you don't expect to change.
 
 ~~~javascript
-const NUMBER_OF_LEGS = 4;
+const theMeaningOfLife = 42
+theMeaningOfLife = 21 // error !
+
+let theMeaningOfLife = 42
+theMeaningOfLife = 21 // works !
 ~~~
 
-> Note this won't work in older browsers (for example Internet Explorer 10) - see more [here](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Statements/const)
+In Ruby, you will have used constants for particularly important 'magic numbers',
+like an API key or the capacity of an airport. In Javascript, the convention is
+usually to use `const` in preference to `let` wherever possible. For example:
 
-
-In ES5, this would look like:
 ~~~javascript
-Dog.prototype.NUMBER_OF_LEGS = 4;
+// For a magic number, const is of course used.
+// However, to signal its importance, the value is named in SCREAMING_SNAKE_CASE
+const SECONDS_IN_WEEK = 60 * 60 * 24 * 7;
+
+function weeksBetweenDates(date1, date2) {
+  // We use const here because the value won't need to change.
+  const secondsBetweenDates = date2 - date1;
+  return secondsBetweenDates/SECONDS_IN_WEEK;
+}
 ~~~
 
+The thinking behind this style is that tying down your values as constants
+wherever possible will prevent accidental errors later on.
 
-
+To get yourself into this habit, consider restricting yourself to `const` and
+then only changing it to `let` when you get an error.
 
 ## Resources
 
