@@ -59,7 +59,7 @@ Imagine we wanted to formulate a more complex greeting than just `hi`.
 
 ```js
 (function () {
-  var EXCLAMATION_MARK_COUNT = 5
+  const EXCLAMATION_MARK_COUNT = 5
 
   function exclaim(string) {
     return string + "!".repeat(EXCLAMATION_MARK_COUNT);
@@ -75,7 +75,7 @@ What does "hidden" mean? It means none of the rest of the code can access any va
 
 ```js
 (function () {
-  var EXCLAMATION_MARK_COUNT = 5
+  const EXCLAMATION_MARK_COUNT = 5
 
   function exclaim(string) {
     return string + "!".repeat(EXCLAMATION_MARK_COUNT);
@@ -98,7 +98,7 @@ Here is a tiny module:
 
 ```js
 (function(exports) {
-  var EXCLAMATION_MARK_COUNT = 5
+  const EXCLAMATION_MARK_COUNT = 5
 
   function exclaim(string) {
     return string + "!".repeat(EXCLAMATION_MARK_COUNT);
@@ -112,7 +112,7 @@ To explore this code, let's try and use the exclaim function:
 
 ```js
 (function(exports) {
-  var EXCLAMATION_MARK_COUNT = 5
+  const EXCLAMATION_MARK_COUNT = 5
 
   function exclaim(string) {
     return string + "!".repeat(EXCLAMATION_MARK_COUNT);
@@ -175,7 +175,7 @@ If we want to use our exclaim module, we can just source it in `index.html`.  Wh
 // exclaim.js
 
 (function(exports) {
-  var EXCLAMATION_MARK_COUNT = 5
+  const EXCLAMATION_MARK_COUNT = 5
 
   function exclaim(string) {
     return string + "!".repeat(EXCLAMATION_MARK_COUNT);
@@ -225,7 +225,7 @@ In the rewrite below, the programmer wants to abstract out the code that can rep
 // exclaim.js
 
 (function(exports) {
-  var EXCLAMATION_MARK_COUNT = 5;
+  const EXCLAMATION_MARK_COUNT = 5;
 
   function exclaim(string) {
     return string + repeat("!", EXCLAMATION_MARK_COUNT);
@@ -262,7 +262,7 @@ This version of `exclaim` contains the repeat functionality.
 
 ```js
 (function(exports) {
-  var EXCLAMATION_MARK_COUNT = 5
+  const EXCLAMATION_MARK_COUNT = 5
 
   function exclaim(string) {
     return string + "!".repeat(EXCLAMATION_MARK_COUNT);
@@ -277,7 +277,7 @@ This version that we wrote for the browser works perfectly, without any changes,
 ```js
 // exclaim-test.js
 
-var exclaim = require("./exclaim").exclaim;
+const exclaim = require("./exclaim").exclaim;
 
 if (exclaim("hi") !== "hi!!!!!") {
   throw new Error("Exclaiming hi should equal hi!!!!!");
@@ -298,7 +298,7 @@ Play around with this code.  Some questions:
 
 ```js
 (function(exports) {
-  var EXCLAMATION_MARK_COUNT = 5
+  const EXCLAMATION_MARK_COUNT = 5
 
   function exclaim(string) {
     return string + "!".repeat(EXCLAMATION_MARK_COUNT);
@@ -308,7 +308,7 @@ Play around with this code.  Some questions:
 })(this);
 ```
 
-Remind yourself what `this` (at the top level) and `exports` are in the browser.  Things are a little different in Node.js.  `this` at the top level points at a special object that node provides called `exports`.  Anything that you attach to `exports` will be available when you require the module.  In this case, `exclaim` is attached to `exports`, which means that you can write `var exclaim = require("./exclaim").exclaim;` in another file to get hold of the `exclaim` function.
+Remind yourself what `this` (at the top level) and `exports` are in the browser.  Things are a little different in Node.js.  `this` at the top level points at a special object that node provides called `exports`.  Anything that you attach to `exports` will be available when you require the module.  In this case, `exclaim` is attached to `exports`, which means that you can write `const exclaim = require("./exclaim").exclaim;` in another file to get hold of the `exclaim` function.
 
 > The values of `this` in the browser (`window`) and `this` in Node.js (`exports`) are different.  But they are similar enough that they can both be massaged by this pattern to let us write code that will work in both environments.
 
@@ -334,7 +334,7 @@ This version of the `exclaim` module breaks out the `repeat` functionality into 
 // exclaim.js
 
 (function(exports) {
-  var EXCLAMATION_MARK_COUNT = 5;
+  const EXCLAMATION_MARK_COUNT = 5;
 
   function exclaim(string) {
     return string + repeat("!", EXCLAMATION_MARK_COUNT);
@@ -352,7 +352,7 @@ Here is one way we can rewrite `exclaim` to support Node.js and the browser.  Th
 // exclaim.js
 
 (function(exports) {
-  var EXCLAMATION_MARK_COUNT = 5;
+  const EXCLAMATION_MARK_COUNT = 5;
 
   function exclaim(repeat, string) {
     return string + repeat("!", EXCLAMATION_MARK_COUNT);
@@ -373,8 +373,8 @@ console.log(exclaim(repeat, "howdy"));
 ```js
 // exclaim-test.js
 
-var repeat = require("./repeat").repeat;
-var exclaim = require("./exclaim").exclaim;
+const repeat = require("./repeat").repeat;
+const exclaim = require("./exclaim").exclaim;
 
 if (exclaim(repeat, "hi") !== "hi!!!!!") {
   throw new Error("Exclaiming hi should equal hi!!!!!");

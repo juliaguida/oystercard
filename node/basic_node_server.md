@@ -58,8 +58,7 @@ Add a `homepageFeature.js` file to the `test` directory. Let's write the first f
 
 `homepageFeature.js`
 ```javascript
-var chai = require('chai');
-var expect = chai.expect;
+const { expect } = require('chai');
 
 describe('homepage', function () {
 
@@ -100,9 +99,9 @@ Make a new `server.js` file and add the following:
 
 `server.js`
 ```javascript
-var express = require('express');
-var app = express();
-var server = require('http').createServer(app);
+const express = require('express');
+const app = express();
+const server = require('http').createServer(app);
 
 server.listen(3000, function(){
   console.log("Server listening on port 3000");
@@ -119,9 +118,9 @@ The test should still fail as we aren't sending anything to the browser - let's 
 
 `server.js`
 ```javascript
-var express = require('express');
-var app = express();
-var server = require('http').createServer(app);
+const express = require('express');
+const app = express();
+const server = require('http').createServer(app);
 
 app.get('/', function(request, response){
   response.send("Hello world")

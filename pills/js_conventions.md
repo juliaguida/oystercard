@@ -15,10 +15,18 @@ the_meaning_of_life = 42
 becomes:
 
 ~~~javascript
-var theMeaningOfLife = 42
+const theMeaningOfLife = 42
 ~~~
 
-We also use the keyword `var` whenever creating a new variable, to ensure correct scoping.
+We also use the keywords `const` or `let` whenever creating a new variable, to ensure correct scoping. We use `let` when we plan on re-assigning the value of a variable, and `const` in any other case.
+
+~~~javascript
+const theMeaningOfLife = 42
+theMeaningOfLife = 21 // error !
+
+let theMeaningOfLife = 42
+theMeaningOfLife = 21 // works !
+~~~
 
 ## Method naming
 

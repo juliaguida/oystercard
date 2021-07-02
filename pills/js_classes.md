@@ -19,7 +19,7 @@ class Dog {
 
 }
 
-var dog = new Dog();
+const dog = new Dog();
 ```
 Under the hood, JavaScript classes are actually types of functions. Try running `alert(typeof Dog);` The `class` syntax creates a function which is called `Dog`.
 
@@ -43,14 +43,14 @@ class Dog {
   }
 }
 
-var barney = new Dog('Pug');
+const barney = new Dog('Pug');
 ```
 > inside the function, `this` will be the newly created object.
 
 In Javascript, there are no `attr_reader` or `attr_accessor`. Instead, instance variables are accessible to the outside by default so this code will return `'Pug'`
 
 ```javascript
-var barney = new Dog('Pug');
+const barney = new Dog('Pug');
 barney.breed
 ```
 
@@ -78,7 +78,7 @@ class Dog {
 ```
 The `bark` method is stored in `Dog.prototype`. You can see this for yourself. Try running the following in the Web Console:
 ```javascript
-var fido = new Dog();
+const fido = new Dog();
 console.log(fido);
 ```
 By expanding the `Dog {}` that's returned, you can see that `bark` is found under the `__proto__`.
@@ -109,7 +109,7 @@ class Dog {
 ```
 Here's how to then use this class:
 ```javascript
-var fido = new Dog();
+const fido = new Dog();
 fido.bark('Fido')
 ```
 This will print `Fido says Woof!` to the console.

@@ -26,7 +26,7 @@ All of these things are either optional for test code, or can be easily achieved
 ```js
 // circle-tests.js
 function testCircleRadiusDefaultsTo10() {
-  var circle = new Circle();
+  const circle = new Circle();
 
   if (circle.radius !== 10) {
     throw new Error("Circle size is not 10");
@@ -74,7 +74,7 @@ But the eye-watering agony could be reduced by abstracting some of the ugliness.
 ```js
 // assert.js
 
-var assert = {
+const assert = {
   isTrue: function(assertionToCheck) {
     if (!assertionToCheck) {
       throw new Error("Assertion failed: " + assertionToCheck + " is not truthy");
@@ -89,7 +89,7 @@ Now our test becomes:
 // circle-tests.js
 
 function testCircleRadiusDefaultsTo10() {
-  var circle = new Circle();
+  const circle = new Circle();
   assert.isTrue(circle.radius === 10);
 };
 

@@ -16,7 +16,7 @@ First we want to give the user the ability to create a plane object by running `
 
 ```javascript
 describe("Plane", function() {
-  var plane;
+  let plane;
 
   beforeEach(function() {
     plane = new Plane();
@@ -121,7 +121,7 @@ So, in the interest of brevity we're going to race through our test setup and ge
 
 ```javascript
 describe("Airport", function() {
-  var airport;
+  let airport;
 
   beforeEach(function() {
     airport = new Airport();

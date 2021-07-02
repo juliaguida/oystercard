@@ -51,12 +51,12 @@ $ npm install --save-dev mocha
 `./specs/features/homepageFeature.js`
 
 ```javascript
-var webdriverio = require('webdriverio');
-var expect = require('chai').expect;
+const webdriverio = require('webdriverio');
+const { expect } = require('chai');
 
 describe('Homepage Tests', function() {
 
-  var client = {};
+  let client = {};
 
   before(function(done) {
     client = webdriverio.remote({ desiredCapabilities: {browserName: 'chrome'}   });

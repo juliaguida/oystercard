@@ -18,7 +18,7 @@ Here is one possible TDD implementation of FizzBuzz, after refactoring - if your
 
 describe('FizzBuzz', () => {
 
-  let fizzBuzz
+  let fizzBuzz;
 
   beforeEach(() => {
     fizzBuzz = new FizzBuzz();

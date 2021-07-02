@@ -51,7 +51,7 @@ jQuery is also a great help when we want to dynamically add elements to the page
 
 ```javascript
 $('#add').on('click', function() {
-  var $newItem = $('<li>New item</li>')
+  const $newItem = $('<li>New item</li>')
   $newItem.appendTo('.items');
 });
 ```
@@ -118,7 +118,7 @@ This is telling our `ul.items` to watch out for any clicks on any of its childre
 ```javascript
 $(document).ready(function() {
     $('#add').on('click', function() {
-      var $newItem = $('<li>New item</li>')
+      const $newItem = $('<li>New item</li>')
       $newItem.appendTo('.items');
     });
 

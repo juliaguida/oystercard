@@ -24,14 +24,14 @@ class Weather {
 // airport-tests.js
 
 function testCanLandPlaneIfWeatherIsNotStormy() {
-  var weather = new Weather();
+  const weather = new Weather();
 
   weather.isStormy = function() {
     return false;
   };
 
-  var plane = new Plane();
-  var airport = new Airport(weather);
+  const plane = new Plane();
+  const airport = new Airport(weather);
 
   airport.land(plane);
 };
@@ -57,14 +57,14 @@ function testCanLandPlaneIfWeatherIsNotStormy() {
     }
   }
 
-  var weather = new Weather();
+  const weather = new Weather();
 
   weather.isStormy = function() {
     return false;
   };
 
-  var planeDouble = new PlaneDouble();
-  var airport = new Airport(weather);
+  const planeDouble = new PlaneDouble();
+  const airport = new Airport(weather);
 
   airport.land(planeDouble);
 };
@@ -88,14 +88,14 @@ function testCanLandPlaneIfWeatherIsNotStormy() {
     }
   }
 
-  var weather = new Weather();
+  const weather = new Weather();
 
   weather.isStormy = function() {
     return false;
   };
 
-  var planeDouble = new PlaneDouble();
-  var airport = new Airport(weather);
+  const planeDouble = new PlaneDouble();
+  const airport = new Airport(weather);
 
   airport.land(planeDouble);
 
