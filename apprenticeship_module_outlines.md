@@ -431,7 +431,6 @@ These exercises can be used for independent study, or enhanced by group discussi
 | TDD                       | [Introduction to Javascript and Jasmine][js_and_jasmine]       |
 | Learn by translation      | [Learning a new language by translation][learn_by_translation] |
 | Encapsulation             | [JS Objects][js_objects]                                       |
-| Using events              | [Following the flow][events]                                   |
 
 | Stretch Skill             |                                                                |
 | ------------------------- | -------------------------------------------------------------- |
