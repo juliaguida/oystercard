@@ -51,7 +51,7 @@ Return to these questions each day to check your understanding.
 
 ## The Count projects
 
-The [Count](https://github.com/alicelieutier/count) project is a tiny, model full stack web app.  It exemplifies:
+The [Count](https://github.com/makersacademy/js-count-example) project is a tiny, model full stack web app.  It exemplifies:
 
 * Making Ajax requests.
 * Testing frontend code.
