@@ -1517,7 +1517,7 @@ A table of all apprenticeship activities, tagged with the most relevant standard
       <tr id="d63dcbe5-ef46-4cb7-afb8-ce5e6f537b64">
         <td>Count App</td>
         <td>practical</td>
-        <td>https://github.com/alicelieutier/count</td>
+        <td>https://github.com/makersacademy/js-count-example</td>
         <td>5</td>
         <td>2</td>
         <td>

@@ -202,7 +202,7 @@ By the end of the week all developers can:
 
 ### Resources
 
-* [Count app](https://github.com/alicelieutier/count):
+* [Count app](https://github.com/makersacademy/js-count-example):
 A tiny JavaScript/Sinatra app that mimics the architecture of the Thermostat app. A useful guide for developers to use for concepts and idioms.
 * [Technical Learning Resources](https://airtable.com/shrbaXgV5mQnsvuGe/tblokmw6yNUO75ge6?blocks=hide)
 
