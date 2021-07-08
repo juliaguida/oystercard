@@ -233,6 +233,50 @@ Basically it's an issue of scope and clarity. `var` means that within a function
 
 What happens if you don't specify `var`? Basically Javascript looks up the scope chain - that is to say, it looks in every parent function, until it finds the variable (in this case `javabuzz`). Once it hits the uppermost level, if it still can't find `javabuzz` it will create it for you - and because it has been created at the top level, it becomes a global variable, available to every function in the program, which is generally considered a 'bad thing'. It's bad because if other JavaScript libraries use the same name in the global variable space, your program will break, so use `var`!
 
+There are two other keywords you will encounter for this as well: `let` and `const` ! `var`, `let` and `const` all live together in harmony, however in more modern codebases you will likely find much more `let` and `const` and much less `var`. This is simply due to the way the language has evolved, and it's important to understand the nuance of `var`, despite the decline in usage.
+
+```javascript
+describe('Javabuzz', function() {
+
+  let javabuzz; // OK !
+
+  javabuzz = 5 // OK !
+
+  const javafizz; // Error !
+
+  const bizzjava = 5; // OK !
+
+  bizzjava = 10 // Error !
+
+});
+```
+
+`const` does basically the same thing as `var` except we *cannot re-assign* `javabuzz`! This doesn't mean we can't call methods (`const thing = []; thing.sort()`) on something defined with `const` though - only re-assignment is restricted. `const` also cannot be initialised without a value. 
+
+`let` closely resembles `var` as well, but has it's own nuances:
+
+```javascript
+function go () {
+  let fizz = 'fizz';
+  var buzz = 'buzz';
+
+  if (true) {
+    console.log(fizz); // fizz
+    console.log(buzz); // buzz
+
+    var fizzbuzz = "fizzbuzz";
+    let buzzfizz = "buzzfizz";
+  }
+
+  console.log(fizzbuzz); // fizzbuzz
+  console.log(buzzfizz); // Error! undefined
+}
+```
+
+Here, we can see that `let` is used in the same way that `var` was previously. `let` allows re-assignment like `var` and operates with almost all of the same rules interchangeably. The only difference is `let` is block scoped and `var` isn't. That means that `let` will only be defined in the current block it's in (i.e. between two curly braces `{ inside here }`) and cannot be accessed outside that. `var` is *function* scoped meaning it can be accessed outside of normal blocks `{}` but not `function(){}` blocks. 
+
+In general, the best practice is to favour `const` > `let` > `var` where possible. There are few cases where you will need to use `var` in <current_year>
+
 #### Contextual healing
 
 As I mentioned previously, Jasmine has no equivalent for RSpec's `context` block. While this is both sad and upsetting, it's by no means going to stop us writing meaningful tests. We can just nest another `describe` function in the place of context:
@@ -240,7 +284,7 @@ As I mentioned previously, Jasmine has no equivalent for RSpec's `context` block
 ```javascript
 describe('Javabuzz', function() {
 
-  var javabuzz;
+  let javabuzz;
 
   describe('knows when a number is', function() {
 
@@ -255,7 +299,7 @@ However, it does support `it` - so let's put one of those in!
 ```javascript
 describe('Javabuzz', function() {
 
-  var javabuzz;
+  let javabuzz;
 
   describe('knows when a number is', function() {
 
@@ -273,7 +317,8 @@ Well alright, this is looking pretty good - don't you think? I'm excited. Howeve
 ```javascript
 describe('Javabuzz', function() {
 
-  var javabuzz;
+  // Notice we use let here because we are re-assigning javabuzz later
+  let javabuzz; 
 
   describe('knows when a number is', function() {
 
@@ -299,7 +344,7 @@ So close! All we need now is an expectation within our `it` block and we are an 
 ```javascript
 describe('Javabuzz', function() {
 
-  var javabuzz;
+  let javabuzz;
 
   describe('knows when a number is', function() {
 
@@ -399,7 +444,7 @@ The second thing to be aware of, is the `return` keyword. That one's a deal-brea
 
 Given that by now, we all know our Fizz from our Buzz, we'll leave it up to you to create the rest of the tests. By the time you are finished the spec file should have 6 tests (2 tests for each method to make sure a number IS divisible by n, and NOT divisible by n).
 
-You may find you have a lot of repetition in the spec file - namely the instantiation of our `Javabuzz` class in each `it` statement. Remember the `let` syntax in Ruby? Jasmine affords us the same luxury! Just after we declare `var javabuzz` at the top level of our spec file, add the following:
+You may find you have a lot of repetition in the spec file - namely the instantiation of our `Javabuzz` class in each `it` statement. Remember the `let` syntax in Ruby? Jasmine affords us the same luxury! However, quite inconveniently, JavaScript also has a `let` keyword that does something different. Just after we declare `let javabuzz` at the top level of our spec file, add the following:
 
 ```javascript
  beforeEach(function() {
@@ -504,7 +549,7 @@ class Javabuzz {
 All our tests pass. Rejoice! No, seriously, go celebrate. Do something nice for yourself. If you want to test your game, go to your browser, and in the same window where your `SpecRunner.html` is loaded up, open your console (Google Chrome shortcut is `cmd + option + i`) and at the prompt initialise an instance of `Javabuzz();` as you did in your spec file:
 
 ```javascript
-var javabuzz = new Javabuzz();
+const javabuzz = new Javabuzz();
 ```
 
 and then throw some numbers at it:

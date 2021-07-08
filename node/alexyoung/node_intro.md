@@ -24,7 +24,7 @@
 
 ## The module system
 
-* Load a file with `var example = require('./example.js')`;
+* Load a file with `const example = require('./example.js')`;
   * The extension can be omitted: Node will try `.js`, `.json`, and then `.node`
   * This means you can load data from JSON files very easily, which is ideal for configuration files in web development
 * Modules are cached, so repeatedly requiring `require('app.js')` will return the same exported object
@@ -51,9 +51,9 @@ function fib(n) {
 }
 
 function jortSort(array) {
-  var originalArray = array.slice(0);
+  const originalArray = array.slice(0);
   array.sort(function(a, b) { return a - b; });
-  for (var i = 0; i < originalArray.length; ++i) {
+  for (let i = 0; i < originalArray.length; ++i) {
     if (originalArray[i] !== array[i]) return false;
   }
   return true;
@@ -63,7 +63,7 @@ function jortSort(array) {
 Usage:
 
 ```javascript
-var stuff = require('./stuff');
+const stuff = require('./stuff');
 stuff.fib(4);
 stuff.jortSort([33, 2, 44, 1, 92]);
 ```
@@ -81,7 +81,7 @@ module.exports = function(n) {
 Usage:
 
 ```
-var fib = require('./fib');
+const fib = require('./fib');
 fib(4);
 ```
 
@@ -98,7 +98,7 @@ Example:
 ```shell
 $ npm install express
 $ node
-> var express = require('express');
+> const express = require('express');
 ```
 
 ### Globals
@@ -117,8 +117,8 @@ $ node
 Example:
 
 ```javascript
-var buf = new Buffer('string');
-var encoded = buf.toString('base64');
+const buf = new Buffer('string');
+const encoded = buf.toString('base64');
 ```
 ### Events
 
@@ -131,8 +131,8 @@ var encoded = buf.toString('base64');
 * Idiom: Lots of things use events which is useful for architecture: for example, the Express "app" object
 
 ```javascript
-var EventEmitter = require('events').EventEmitter;
-var messageBus = new EventEmitter();
+const EventEmitter = require('events').EventEmitter;
+const messageBus = new EventEmitter();
 
 // Add a listener
 messageBus.on('notify', function(message) {
@@ -156,9 +156,9 @@ messageBus.emit('notify');
 The "pipe" method lets you pipe streams a bit like in the terminal:
 
 ```javascript
-var r = fs.createReadStream('file.txt');
-var z = zlib.createGzip();
-var w = fs.createWriteStream('file.txt.gz');
+const r = fs.createReadStream('file.txt');
+const z = zlib.createGzip();
+const w = fs.createWriteStream('file.txt.gz');
 r.pipe(z).pipe(w);
 ```
 

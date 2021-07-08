@@ -20,11 +20,11 @@
 **Example**
 
 ```javascript
-var EventEmitter = require('events').EventEmitter;
-var fs = require('fs');
+const EventEmitter = require('events').EventEmitter;
+const fs = require('fs');
 
 function readThisFile() {
-  var eventBus = new EventEmitter();
+  const eventBus = new EventEmitter();
 
   process.nextTick(function() {                                               //1
     fs.readFile('./index.js', { encoding: 'utf8' }, function(err, data) {

@@ -90,10 +90,10 @@ We can now run our tests using the command `npm test`. `jasmine-node` has to be 
 ```javascript
 describe('Gutter game', function(){
 
-  var game = new Game();
+  const game = new Game();
 
   it('Scores 0 on a gutter game', function(){
-    for(var i = 0; i < 20; i++){
+    for(let i = 0; i < 20; i++){
       game.roll(0);
     }
     expect(game.score).toEqual(0);
@@ -114,7 +114,7 @@ We will also need to require it at the top of the spec file:
 
 `spec/gameSpec.js`
 ```javascript
-var Game = require('../src/game');
+const Game = require('../src/game');
 ```
 
 *(if that `require` seems a bit strange, all will be explained...)*

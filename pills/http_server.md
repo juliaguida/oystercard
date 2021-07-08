@@ -24,11 +24,11 @@ This is useful when you need to serve a version of your project for your tests t
     $ npm install http-server --save-dev
 
 ```js
-var httpServer = require("http-server");
-var path = require("path");
+const httpServer = require("http-server");
+const path = require("path");
 
-var pathToHtmlAndJsFiles = path.join(__dirname, "path/from/current/dir/to/html/and/js/files");
-var server = httpServer.createServer({ root: pathToHtmlAndJsFiles });
+const pathToHtmlAndJsFiles = path.join(__dirname, "path/from/current/dir/to/html/and/js/files");
+const server = httpServer.createServer({ root: pathToHtmlAndJsFiles });
 server.listen(3000);
 ```
 

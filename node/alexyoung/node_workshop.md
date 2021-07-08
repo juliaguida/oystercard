@@ -28,8 +28,8 @@ $ npm install --save-dev mocha supertest
 ## A sample Express project
 
 ```javascript
-var express = require('express');
-var app = express();
+const express = require('express');
+const app = express();
 
 app.set('port', process.env.PORT || 3000);
 
@@ -49,9 +49,9 @@ module.exports = app;
 ## A sample test
 
 ```javascript
-var app = require('./../');
-var assert = require('assert');
-var request = require('supertest');                //1
+const app = require('./../');
+const assert = require('assert');
+const request = require('supertest');                //1
 
 describe('Sample app', function() {
   it('should serve Hello', function(done) {

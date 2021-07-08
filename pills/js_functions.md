@@ -18,7 +18,7 @@ We've become familiar in Ruby with _literals_.  These are expressions that direc
 ```
 The `function` keyword in JavaScript creates a new Function object (i.e. an object that can be invoked):
 ```javascript
-var bark = function() {
+const bark = function() {
   return 'Woof';
 }
 
@@ -33,7 +33,7 @@ You must include the parentheses when invoking a function, even if there are no 
 
 You can declare arguments in functions, as you would expect:
 ```javascript
-var bark = function(name) {
+const bark = function(name) {
   return name + ' says Woof';
 }
 
@@ -72,7 +72,7 @@ In JavaScript, we can do a very similar thing by passing an **anonymous function
 
 But don't allow the syntax to confuse you; what are we actually passing to the `forEach` function?  It's just a Function object.  The following is exactly the same:
 ```javascript
-var callback = function(arg) {
+const callback = function(arg) {
   console.log(arg);
 };
 
