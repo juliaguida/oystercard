@@ -483,7 +483,7 @@ By the end of the module all developers can:
 * Give feedback that results in a positive change to a codebase
 * Can use high-quality processes to build a project in a team
 
-For more information about this project and how great dev teams work together look [here](./engineering_projects/README.md).
+For more information about this project and how great dev teams work together look [here](https://github.com/makersacademy/course/tree/main/simple/engineering_projects). Note that if you're going to use a tech stack other than Ruby on Rails for this project, your coach will provide you with a link to a different template repo than the one provided in the engineering project docs.
 
 ## Weeks 11 & 12: Final Project
 
