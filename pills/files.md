@@ -16,7 +16,7 @@ Here are the different modes that are available:
 * a  : append mode; like w it is write only access, but pointer is positioned at the end of file instead of the beginning
 * a+ : append mode; like w + it is read and write access, but pointer is positioned at the end of file instead of the beginning
 
-So what should we use for our bike log? Well we want to be able to write the info of each new rental in our log, and we want the pointer to be positioned at the beginning of the file, so let's create our bikelog class:
+So what should we use for our bike log? Well we want to be able to write the info of each new rental in our log, and we want the pointer to be positioned at the beginning of the file, so let's create our `Bikelog` class:
 
 
 ```
@@ -27,7 +27,7 @@ class Bikelog
 	end
 end
 ```
-We have also assigned the new file the instance variable bike_log by adding `bike_log=` in front of it, so we can refer to it easily afterwards if needed. 
+We have also assigned the new file the instance variable bike_log by adding `bike_log=` in front of it, so we can refer to it easily afterwards if needed.
 
 ## Opening files
 
@@ -38,17 +38,17 @@ This allows Ruby to access the information in the file and do stuff with it. And
 ## Append data to a file
 …append to a file by adding the information about each rental to the bike_log document. How do we go about that?
 
-```	
+```
 	def add_rental (name,date)
 	File.open("bike_log.txt", "a") { |file| file.puts "Name: #{name}, Date: #{date}"}
 	end
 ```
 
-So our `add_rental` method takes the name of the renter as an argument, as well as the date of rental. We append these bits of information to our empty file “bike_log.txt” by using a block that will print the information through string interpolation to the file. That information will be added to the end of the file because we are using “a” when we open the file, which places the cursor at the end of the file. 
+So our `add_rental` method takes the name of the renter as an argument, as well as the date of rental. We append these bits of information to our empty file “bike_log.txt” by using a block that will print the information through string interpolation to the file. That information will be added to the end of the file because we are using “a” when we open the file, which places the cursor at the end of the file.
 
 Once you have added that method to your Bike class, open pry or irb and use the add_rental method to add a few lines to your bike_log.txt (see the bottom of the page for guidance if needed).
 
-Fyi, you could also use the shovel operator to append text:
+You could also use the shovel operator to append text:
 ```
 File.open("bike_log.txt", "a") { |file| file << "Name: #{name}, Date: #{date}"}
 ```
@@ -63,7 +63,7 @@ File.open("bike_log.txt", "a") { |file|
 
 So you know how to open a file, but that won’t literally open the bike_log file for you to read, it just opens it for Ruby to look at, but Ruby doesn’t do anything with it.
 
-So if you, the human, want to look at the file, you have to ask Ruby to show it to you. Let’s create a check_log method. 
+So if you, the human, want to look at the file, you have to ask Ruby to show it to you. Let’s create a check_log method.
 
 ```
 def check_log

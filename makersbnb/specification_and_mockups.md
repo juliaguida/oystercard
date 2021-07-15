@@ -32,7 +32,7 @@ We would like a web application that allows users to list spaces they have avail
 
 ### Mockups
 
-Mockups for MakersBnB are available [here](https://github.com/makersacademy/course/blob/master/makersbnb/makers_bnb_images/MakersBnB_mockups.pdf).
+Mockups for MakersBnB are available [here](https://github.com/makersacademy/course/blob/main/makersbnb/makers_bnb_images/MakersBnB_mockups.pdf).
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

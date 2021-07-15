@@ -39,7 +39,7 @@ In this challenge, you will write a script to **reset your database** every time
 &nbsp;<details><summary>CLICK ME</summary>
 #### Switching database depending on environment
 
-You might want to use an [Environment Variable](http://blog.honeybadger.io/ruby-guide-environment-variables/), e.g. `ENV`, to store the current environment. You could then use it to connect to the correct database for your environment.
+You might want to use an [Environment Variable](https://blog.honeybadger.io/ruby-guide-environment-variables/), e.g. `ENV`, to store the current environment. You could then use it to connect to the correct database for your environment.
 
 Think about how you can ensure that the environment variable is assigned a particular value every time you run RSpec. For example, the `spec_helper.rb` file is run when you use `rspec`.
 
@@ -73,10 +73,10 @@ Once your feature test is passing, your unit tests for `Bookmark.all` are probab
 
 ## Resources
 
-* [Environment Variables in Ruby](http://blog.honeybadger.io/ruby-guide-environment-variables/)
+* [Environment Variables in Ruby](https://blog.honeybadger.io/ruby-guide-environment-variables/)
 * [How do I get the current Rack Environment?](https://stackoverflow.com/questions/15459569/how-to-get-the-current-rack-environment-in-rake)
-* [PostgreSQL `DROP TABLE IF EXISTS` command](https://www.postgresql.org/docs/8.2/static/sql-droptable.html)
-* [PostgreSQL `TRUNCATE` command](https://www.postgresql.org/docs/8.2/static/sql-truncate.html)
+* [PostgreSQL `DROP TABLE IF EXISTS` command](https://www.postgresql.org/docs/8.2/sql-droptable.html)
+* [PostgreSQL `TRUNCATE` command](https://www.postgresql.org/docs/8.2/sql-truncate.html)
 * [Difference between TRUNCATE and DROP TABLE](https://stackoverflow.com/questions/135653/difference-between-drop-table-and-truncate-table)
 * [Running a command before each RSpec test](https://stackoverflow.com/questions/9958110/is-it-possible-to-add-somewhere-a-beforeeach-hook-so-that-all-spec-file-c)
 

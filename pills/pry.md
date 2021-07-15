@@ -4,13 +4,14 @@
 
 Imagine you could see the world as Ruby sees it... REPLs give you EXACTLY that - __RUBY'S EYES!!!__
 
-![NeoVision](https://raw.githubusercontent.com/makersacademy/course/master/pills/images/code_vision.jpg?token=ACI6tY6F41BUs0FM95qEDBZDqw-X4cuLks5U6urywA%3D%3D)
+![NeoVision](images/code_vision.jpg)
 
 That's right - you can see precisely what Ruby is seeing. How many real-life conflicts would be resolved by being able to see through the other party's eyes? This is why using a REPL is so useful.
 
 ### IRB vs Pry
 
-So [Pry](http://pryrepl.org/) isn't the only game in town. In fact, the default baked-in REPL is called IRB, and doesn't need to be installed. Our own Mihai is such an IRB advocate that he is likely to delete this pill out of sheer loyalty ;) To run IRB, simply fire up your Terminal (or better yet iTerm), and type ```irb```. More information on IRB can be found [here](https://github.com/makersacademy/course/blob/master/pills/irb.md).
+So [Pry](http://pryrepl.org/) isn't the only game in town. In fact, the default baked-in REPL is called IRB, and doesn't need to be installed. Our own Mihai is such an IRB advocate that he is likely to delete this pill out of sheer loyalty ;) To run IRB, simply fire up your Terminal (or better yet iTerm), and type ```irb```. More information on IRB can be found [here](https://github.com/makersacademy/course/blob/main/pills/irb.md).
+
 
 To install Pry, simply type the following into your Terminal:
 ```shell
@@ -19,7 +20,7 @@ gem install pry
 
 ### So Why Pry?
 
-Pry gives you a few features that are not currently supported by IRB. It is extendible and allows you:
+Pry gives you a few features that are not currently supported by IRB. It is extensible and allows you:
 
 #### Syntax Colouring
 
@@ -62,10 +63,10 @@ Now, remember our ```hello``` method from before? Let's say I want to send this 
 This should result in the following output:
 
 ```shell
-Gist created at URL https://gist.github.com/6a99e05ea063a8fe2f20, which is now in the clipboard.
+Gist created at URL https://gist.github.com/6a99e05ea063a8fe2f20 which is now in the clipboard.
 ```
 
-See that? Pry not only creates your Gist, but places it on your clipboard too! All you have to do is click in your Broswer's address bar and paste...
+See that? Pry not only creates your Gist, but places it on your clipboard too! All you have to do is click in your browser's address bar and paste...
 
 There are lots of other options with this particular integration, which I have included below:
 
@@ -96,7 +97,7 @@ One of the most useful features in Pry is the ability to insert a line into your
 
 [Check out this excellent tutorial on how to debug using Pry.](http://yorickpeterse.com/articles/debugging-with-pry/)
 
-If you are looking for a tl;dr, just write some code, ```'require pry'``` at the top of the file, and put ```binding.pry``` where you want time to stand still. Here's some sample code for you to give that a try:
+If you are looking for a summary, just write some code, ```'require pry'``` at the top of the file, and put ```binding.pry``` where you want time to stand still. Here's some sample code for you to give that a try:
 
 ```ruby
 require 'pry'

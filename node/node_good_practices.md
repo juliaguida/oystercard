@@ -6,15 +6,15 @@ Many thanks to [Spike](http://github.com/Spike01) for the original design this c
 
 ## npm
 
-:pill: [npm](https://github.com/makersacademy/course/blob/master/pills/npm.md)
+:pill: [npm](https://github.com/makersacademy/course/blob/main/pills/npm.md)
 
 ##Grunt
 
-:pill: [Grunt](https://github.com/makersacademy/course/blob/master/pills/grunt.md)
+:pill: [Grunt](https://github.com/makersacademy/course/blob/main/pills/grunt.md)
 
 ##JSHint and 'use strict'
 
-:pill: [jshint](https://github.com/makersacademy/course/blob/master/pills/jshint.md)
+:pill: [jshint](https://github.com/makersacademy/course/blob/main/pills/jshint.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

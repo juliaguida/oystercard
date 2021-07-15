@@ -1,6 +1,6 @@
 # Practice Project week
 
-You'll spend this week working in teams on a project. You'll generate some project ideas (eg "Build a Scheme compiler", or "Make a game".) You'll each choose which projects you'd prefer to work on.  Your coach will try to assign you to a team that will work on one of your preferred projects.
+You'll spend this week working in teams on a project. You'll generate some project ideas (e.g. "Build a Scheme compiler", or "Make a game".) You'll each choose which projects you'd prefer to work on.  Your coach will try to assign you to a team that will work on one of your preferred projects.
 
 This week will be a one week version of final projects.
 
@@ -24,7 +24,7 @@ Production code is generally built by a team of developers. It is important that
 
 The practice and final projects also provide a safe environment for you to be creative and enjoy exploring new directions with your code.
 
-* [Detailed learning objectives](https://github.com/makersacademy/course/blob/master/practice_project_week/learning_objectives.md)
+* [Detailed learning objectives](https://github.com/makersacademy/course/blob/main/practice_project_week/learning_objectives.md)
 
 ## What is a successful project?
 
@@ -44,17 +44,17 @@ You'll have standups and retros in your teams.
 
 ## Project design workshop
 
-* We'll kick off the projects with a [project design workshop](https://github.com/makersacademy/course/blob/master/practice_project_week/project_design_workshop.md).
+* We'll kick off the projects with a [project design workshop](https://github.com/makersacademy/course/blob/main/practice_project_week/project_design_workshop.md).
 
 ## Presentations
 
-At the end of the week, each group will give a presentation about their project.  They will talk through a very simple slide deck and do a quick demo of their project.  There's no need to spend ages planning or practicising the presentation.  It's mainly to communicate about your technical achievements, and show off your cool project to the rest of your cohort.
+At the end of the week, each group will give a presentation about their project.  They will talk through a very simple slide deck and do a quick demo of their project.  There's no need to spend ages planning or practising the presentation.  It's mainly to communicate about your technical achievements, and show off your cool project to the rest of your cohort.
 
 Here are some [guidelines](./presentation_guidelines.md) to follow when planning your presentation.
 
 ## Resources
 
-* :pill: [Development workflow](https://github.com/makersacademy/course/blob/master/pills/development_workflow.md)
+* :pill: [Development workflow](https://github.com/makersacademy/course/blob/main/pills/development_workflow.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

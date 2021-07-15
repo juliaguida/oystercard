@@ -8,7 +8,7 @@ Each team will start with the same project seed and virtual card-wall with some 
 
 * [Learning Objectives](learning_objectives.md)
 
-The above objectives are a tool to focus on specific learning, which you can then assess using the [learning triangle](https://github.com/makersacademy/course/blob/master/pills/blooms_taxonomy.md).
+The above objectives are a tool to focus on specific learning, which you can then assess using the [learning triangle](https://github.com/makersacademy/course/blob/main/pills/blooms_taxonomy.md).
 
 ### Assessment Criteria
 

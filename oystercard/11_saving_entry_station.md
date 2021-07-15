@@ -39,7 +39,7 @@ I need to know where I've travelled from
 </details>
 
 ## Suggested resources:
-- [Doubles, mocks, stubs, spies and fakes](https://github.com/makersacademy/course/blob/master/pills/doubles.md)
+- [Doubles, mocks, stubs, spies and fakes](https://github.com/makersacademy/course/blob/main/pills/doubles.md)
 - [let and let! in RSpec](https://www.relishapp.com/rspec/rspec-core/v/2-4/docs/helper-methods/let-and-let)
 - [True, False and Nil](http://www.skorks.com/2009/09/true-false-and-nil-objects-in-ruby/)
 - [Make tests pending in RSpec](https://www.relishapp.com/rspec/rspec-core/v/2-0/docs/pending/pending-examples)

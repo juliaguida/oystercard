@@ -6,7 +6,7 @@
   * Link 'Incremental Development' with the concept of user stories and BDD.
   * Link 'Iterative Development' with the concept of Agile planning.
   * Apply Agile methodologies throughout the project.
-  * Identify a Minumum Viable Product (/Prototype) for your project.
+  * Identify a Minimum Viable Product (/Prototype) for your project.
 
 ## User stories
   * Express the application as a set of user stories before writing a line of code.
@@ -18,11 +18,11 @@
 
 ## Using source code control
   * Implement a successful workflow pattern using a git branching strategy.
-  * Link source code control with successful teamworking.
+  * Link source code control with successful team-working.
 
-## Teamworking
+## Team working
   * Evaluate the effectiveness of pair programming in your project.
-  * Evaluate how pair programming supports reduction of WIP.
+  * Evaluate how pair programming supports reduction of WIP (work in progress).
 
 ## Fun
   * Have some!

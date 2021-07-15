@@ -20,7 +20,7 @@ npm will automatically be installed when you install node.
 
 Node is one of the newest technologies on offer at Makers. One of the first things you are likely to hear about Node.js is that it allows you to "build fast, scalable network applications" using Javascript on the server side.
 
-This means that if you choose the path of Javascript, you can become full-stack with a single language. function(){} ftw!
+This means that if you choose the path of Javascript, you can become full-stack with a single language.
 
 ### Blocking vs Non-Blocking Code
 
@@ -38,9 +38,7 @@ However, in an event based scenario like the second example, it would be a lot e
 
 While chatting about this subject with a [very astute student](https://github.com/yvettecook), a good analogy of callbacks came into being: Have you ever been to a restaurant/bar where you are given a small device to accompany you while you have a drink and wait for your table? Halfway through your second Long Island Iced Tea, you get the fright of your life as said device springs to live in a whir of vibration and flashing lights- signalling that your table is ready for you to continue your dining experience (so please report to a member of the waiting staff to be seated.)
 
-In this case, you have a function called __eatAtRestaurant__ and as an argument, you pass a second function called __tableForTwoPlease__ which is necessary for __eatAtRestaurant__ to complete successfully. That annoying little thing with the flashing lights is the message sent to the calling function (__eatAtRestaurant__) to let you know that __tableForTwoPlease__ has been processed.
-
-[Video on NodeJS by Spike](https://vimeo.com/110240527)
+In this case, you have a function called `eatAtRestaurant` and as an argument, you pass a second function called `tableForTwoPlease` which is necessary for `eatAtRestaurant` to complete successfully. That annoying little thing with the flashing lights is the message sent to the calling function (`eatAtRestaurant`) to let you know that `tableForTwoPlease` has been processed.
 
 Resources
 ---------

@@ -31,7 +31,7 @@ Let's just review we are clear about how the above `expect(fido.hairy?).to eq tr
 expect(fido.hairy?()).to(eq(true))
 ```
 
-'expect', 'to' and 'eq' are all methods that RSpec provides.  'eq(true)' calls the RSpec method 'eq' with the single argument 'true', which returns an RSpec [Equality matcher object](http://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers/equality-matchers), which is then passed an argument to the RSpec method 'to', which is being called on the the RSpec object that was returned as a result of calling 'expect(fido.hairy?())'.  This might seem hopelessly convoluted, but it is designed to make the end result more readable.
+`expect`, `to` and `eq` are all methods that RSpec provides.  `eq(true)` calls the RSpec method `eq` with the single argument 'true', which returns an RSpec [Equality matcher object](http://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers/equality-matchers), which is then passed an argument to the RSpec method 'to', which is being called on the RSpec object that was returned as a result of calling `expect(fido.hairy?())`.  This might seem hopelessly convoluted, but it is designed to make the end result more readable.
 
 ```ruby
 expect(fido.hairy?).to eq true
@@ -48,7 +48,7 @@ it 'is hairy' do
 end
 ```
 
-This test is much more readable than the previous version and is almost equivalent. Behind the scenes, RSpec takes everything after the `be_` (in this case `hairy`) - adds a question mark to make `hairy?`, then calls that method, expecting it to return a [truthy](https://github.com/makersacademy/course/blob/master/pills/boolean.md) value.  Note that the following expressions *are not equivalent*:
+This test is much more readable than the previous version and is almost equivalent. Behind the scenes, RSpec takes everything after the `be_` (in this case `hairy`) - adds a question mark to make `hairy?`, then calls that method, expecting it to return a [truthy](https://github.com/makersacademy/course/blob/main/pills/boolean.md) value.  Note that the following expressions *are not equivalent*:
 ```ruby
 expect(fido.hairy?).to be true
 expect(fido.hairy?).to be_truthy

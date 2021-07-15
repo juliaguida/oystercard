@@ -60,8 +60,6 @@ And now to create our method. As you will have noticed, we place the _properties
 
 It's important to understand that unlike Ruby where your instances inherit from a class, when it comes to JavaScript, your instances inherit from other instances. When the JavaScript interpreter cannot find a property or method defined on the current instance it looks to the next instance in the inheritance chain for the missing information.
 
-For more information on how prototypal inheritance works, check out this great article on [webreference.com](http://www.webreference.com/programming/javascript/prototypal_inheritance/index.html).
-
 But for now, we can think of `prototype` as a "storage area" which relates to the object referenced immediately before the `prototype` keyword and stores the function (method) you are defining. Let's look at some code to understand this more thoroughly:
 
 ```javascript
@@ -117,7 +115,7 @@ Sweet success! We now have a fully-operational aircraft.
 
 ### The Airport
 
-Now would be an excellent time to implement an airport. While our plane was a particularly simple object, our airport is going to need to interact with a second object, adding a dependency on a plane object. Since we test our objects in isolation, this is going to be the perfect time for us to explore doubling objects in JavaScript. I can literally feel your excitement traveling back in time, and bouncing off me while I write this. Incredible work people.
+Now would be an excellent time to implement an airport. While our plane was a particularly simple object, our airport is going to need to interact with a second object, adding a dependency on a plane object. Since we test our objects in isolation, this is going to be the perfect time for us to explore doubling objects in JavaScript. I can literally feel your excitement travelling back in time, and bouncing off me while I write this. Incredible work people.
 
 So, in the interest of brevity we're going to race through our test setup and get straight to writing our first test, which wants to make sure an `Airport` is empty upon creation:
 

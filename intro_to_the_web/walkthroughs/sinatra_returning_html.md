@@ -12,14 +12,14 @@ require 'sinatra/reloader' if development?
 
 get '/cat' do
   "<div>
-    <img src='http://bit.ly/1eze8aE'>
+    <img src='http://placekitten.com/500/500'>
    </div>"
 end
 ````
 
 Now go to the webpage at the `localhost` address and check out the fruits of your labour. If the page isn't showing as you expect - are you using `Sinatra::Reloader`?
 
-A good time to commit your code, push it to Github (:pill: [Version Control with Git](https://github.com/makersacademy/course/blob/master/pills/git.md)), and switch Driver/Navigator Roles&nbsp;:twisted_rightwards_arrows:
+A good time to commit your code, push it to Github (:pill: [Version Control with Git](https://github.com/makersacademy/course/blob/main/pills/git.md)), and switch Driver/Navigator Roles&nbsp;:twisted_rightwards_arrows:
 
 So, we just have a cat image. As lovely as it is, is a bit dull. Real web pages have something else in them that makes them look good: CSS.
 
@@ -31,7 +31,7 @@ require 'sinatra/reloader' if development?
 
 get '/cat' do
   "<div style='border: 3px dashed red'>
-     <img src='http://bit.ly/1eze8aE'>
+     <img src='http://placekitten.com/500/500'>
    </div>"
 end
 ````

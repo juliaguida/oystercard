@@ -2,7 +2,7 @@
 
 ## Overview
 
-In the context of HTTP requests, parameters provide a way for information to be passed from a user to your application. Params are used to allow interactivity on a website, for example by allowing form data to be sent. 
+In the context of HTTP requests, parameters provide a way for information to be passed from a user to your application. Params are used to allow interactivity on a website, for example by allowing form data to be sent.
 
 Params are passed in the form of a hash, a series of key-value pairs.
 
@@ -20,7 +20,7 @@ server.rb
     puts params
     erb :form
   end
-  
+
 ```
 
 ``` ruby
@@ -33,12 +33,12 @@ form.erb
   </form>
 ```
 
-In form.erb you can see the first `<form>` tag contains 3 attributes: 
+In form.erb you can see the first `<form>` tag contains 3 attributes:
 * `name` - This is the name of the form
 * `action` - this is the path to which the form will be sent
 * `method` - this is the type of HTTP request via which the form will be sent
 
-When the user fills in their username and password, a POST request is sent to the `/form` path with a params hash. The server identifies this request and defines an instance variable `@username` that is available to the erb. The params hash identifies with the input's name, in this case the name="username". It then prints the params to the console and serves a new template `params.erb` to the user.
+When the user fills in their username and password, a POST request is sent to the `/form` path with a params hash. The server identifies this request and defines an instance variable `@username` that is available to the ERB. The params hash identifies with the input's name, in this case the name="username". It then prints the params to the console and serves a new template `params.erb` to the user.
 
 ### Query String Params
 
@@ -73,7 +73,7 @@ get '/hello/:name/:surname' do
 end
 ```
 
-It is important to note that, unlike query string params, path params are sequential - that is, they have to appear in the URL in the order prescribed in the controller. 
+It is important to note that, unlike query string params, path params are sequential - that is, they have to appear in the URL in the order prescribed in the controller.
 
 Path params are great because they allow you to have descriptive paths that can be even be edited directly by the user. For a great example of this, check out Kayak.com - when you search for a flight, they use path params to display the result, e.g. ``` http://www.kayak.co.uk/flights/LON-SIN/2015-01-16/2015-02-12 ```
 
@@ -108,12 +108,12 @@ Sinatra will actually take the splat values and put them into an array that is s
 
 
 
-### Exercise: 
+### Exercise:
 *To-Do List*
 
-* Write a to-do list - a simple 2 page sinatra application.
+* Write a to-do list - a simple 2 page Sinatra application.
 
-* On the 1st page, have a form with an input and a submit button. This form should post a request to the second page which should display the list. 
+* On the 1st page, have a form with an input and a submit button. This form should post a request to the second page which should display the list.
 
 * There should be a list class that the server writes to - this could be an array. The second page should display the contents of this array.
 

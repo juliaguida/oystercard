@@ -26,7 +26,7 @@ end
 ```
 You can read about the format of the Gemfile in this [brilliant tutorial](http://tosbourn.com/what-is-the-gemfile/).
 
-- Now let's check the version of Ruby we have installed. You can find out the latest stable Ruby version on [its website](https://www.ruby-lang.org/en/downloads/). As of today, it's 2.7.1. Assuming you have RVM installed (if not, follow the instructions from the [RVM website](https://rvm.io/rvm/install)), run `rvm list` to see what Ruby version you have on your machine. The output will look similar to this:
+- Now let's check the version of Ruby we have installed. You can find out the latest stable Ruby version on [its website](https://www.ruby-lang.org/en/downloads/). As of today, it's 2.7.1. Assuming you have RVM installed (if not, follow the instructions from the [RVM website](https://rvm.io/rvm/install), run `rvm list` to see what Ruby version you have on your machine. The output will look similar to this:
 
 ```
 rvm rubies
@@ -71,7 +71,7 @@ The very last step of the process is to run `bundle`. This will invoke bundler, 
 git add Gemfile
 git add Gemfile.lock
 git commit -m 'Closing #1: added a Gemfile'
-git push origin master
+git push origin main
 ```
 
 What you've just done was to add the files individually (first `Gemfile`, then `Gemfile.lock`). There's a git command to add all files in the current directory that will save you typing individual filenames but we advise you to add the files individually while you're still learning how to use git to make sure that you're adding exactly what you want and not something else.

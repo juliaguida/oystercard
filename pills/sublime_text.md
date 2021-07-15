@@ -1,6 +1,6 @@
 # SublimeText
 
-SublimeText is the editor we recommend you use at Makers. Download the beta version 3 from the official website and install it. It's free to evaluate but you should buy a license if you want to use it after Makers. 
+SublimeText is the editor we recommend you use at Makers. Download the beta version 3 from the official website and install it. It's free to evaluate but you should buy a license if you want to use it after Makers.
 
 ## License Key
 
@@ -30,7 +30,7 @@ It's very convenient to set up a symlink (shortcut) to use SublimeText from the 
 
 These instructions are specific to the version 3 of SublimeText, so make sure you have the latest version.
 
-The website advises you to create a shortcut (symlink) in ~/bin but it may not work out of the box on most machines. Try creating the shortcut in /usr/local/bin/ instead (create the directory if necessary).
+The website advises you to create a shortcut (symlink) in `~/bin` but it may not work out of the box on most machines. Try creating the shortcut in `/usr/local/bin/` instead (create the directory if necessary).
 
 ## Resources
 

@@ -44,7 +44,7 @@ In this trail, thoughtbot developers Harry Schwartz and Ian C. Anderson cover co
 
 > Your challenge is to build a web app that will ask the user for a name and birthday.
 
-[Get started here.](https://github.com/makersacademy/course/blob/master/intro_to_the_web/post_challenges/birthday_app.md)
+[Get started here.](https://github.com/makersacademy/course/blob/main/intro_to_the_web/post_challenges/birthday_app.md)
 
 #### Reasons to pick this
 
@@ -55,9 +55,9 @@ In this trail, thoughtbot developers Harry Schwartz and Ian C. Anderson cover co
 
 > Your mission is to build a program that can encrypt and decrypt files with a chosen cipher.
 >
-> Each part of this adventure has a set of Acceptance Criteria: these are mostly written as indicated method calls and their expected return values. Find part1, and start there. Grab the method calls and expectations, use a testing framework of your choice to speed your development, and start designing and test-driving.
+> Each part of this adventure has a set of Acceptance Criteria: these are mostly written as indicated method calls and their expected return values. Find part 1, and start there. Grab the method calls and expectations, use a testing framework of your choice to speed your development, and start designing and test-driving.
 
-[Get started here.](https://github.com/makersacademy/skills-workshops/tree/master/practicals/adventures/cipher-world)
+[Get started here.](https://github.com/makersacademy/skills-workshops/tree/main/practicals/adventures/cipher-world)
 
 #### Reasons to pick this
 
@@ -70,7 +70,7 @@ In this trail, thoughtbot developers Harry Schwartz and Ian C. Anderson cover co
 >
 > In the process, we'll prove to ourselves that our tools aren't magic. They're made up of simple concepts that we can understand, with enough time and thoughtfulness.
 
-[Get started here.](https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md)
+[Get started here.](https://github.com/makersacademy/skills-workshops/blob/main/practicals/adventures/learning_by_building_rspec.md)
 
 #### Reasons to pick this
 
@@ -83,7 +83,7 @@ In this trail, thoughtbot developers Harry Schwartz and Ian C. Anderson cover co
 >
 > At the end of it, you will be equipped with enough context to keep moving forward in your DevOps journey! 🔮
 
-[Get started here.](https://github.com/makersacademy/course/tree/master/devops)
+[Get started here.](https://github.com/makersacademy/course/tree/main/devops)
 
 #### Reasons to pick this
 
@@ -95,7 +95,7 @@ In this trail, thoughtbot developers Harry Schwartz and Ian C. Anderson cover co
 >
 > This is the part of computer science that deals with how efficient programmes are. We will also take a deeper look at how programmes interact with memory, and how to use that to make our own programmes faster.
 
-[Get started here.](https://github.com/makersacademy/course/tree/master/algorithmic_complexity)
+[Get started here.](https://github.com/makersacademy/course/tree/main/algorithmic_complexity)
 
 #### Reasons to pick this
 

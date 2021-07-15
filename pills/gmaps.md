@@ -7,7 +7,7 @@ Google Maps is a JavaScript library that makes use of a Google API to display an
 
 https://developers.google.com/maps/tutorials/fundamentals/adding-a-google-map
 
-but there are also wrappers that help web application frameworks like Rails to convert data stored on the server side into JSON data that can be rendered in the template that will eventually be processed as an HTML page on the client.  [GoogleMap4Rails](https://github.com/apneadiving/Google-Maps-for-Rails) is a popular Rails GMaps wrapper
+but there are also wrappers that help web application frameworks like Rails to convert data stored on the server side into JSON data that can be rendered in the template that will eventually be processed as an HTML page on the client.  [`GoogleMap4Rails`](https://github.com/apneadiving/Google-Maps-for-Rails) is a popular Rails GMaps wrapper
 
 ```sh
 rails g scaffold Charity title:string description:text address:string latitude:float longitude:float
@@ -16,7 +16,7 @@ rails g scaffold Charity title:string description:text address:string latitude:f
 In Gemfile
 
 ```ruby
-gem ‘geocoder’
+gem 'geocoder'
 ```
 
 bundle install
@@ -28,7 +28,7 @@ class Charity
 end
 ```
 
-Run server, make a charity (with an address, but not latitude and longitude), and then following the rest of the github read add following to Gemfile
+Run server, make a charity (with an address, but not latitude and longitude), and then following the rest of the Github read add following to Gemfile
 
 ```ruby
 gem 'gmaps4rails'
@@ -59,7 +59,7 @@ Also put the following:
 //= require gmaps/google
 ```
 
-in app/assets/javascripts/application.js
+in `app/assets/javascripts/application.js`
 
 Add the following to the bottom of your index page:
 
@@ -88,19 +88,17 @@ and adjust your charities controller like so:
   end
 ```
 
-and voila you should have a map in your index page with markers corresponding to your charity addresses.  There are lots the way to extend the map - see the github repo for details:
+and voila you should have a map in your index page with markers corresponding to your charity addresses.  There are lots the way to extend the map - see the Github repo for details:
 
 https://github.com/apneadiving/Google-Maps-for-Rails
 
-However as you might imagine, GMaps is not tied to a Rails backend.  Here's an example of a GMap application communicating with a Rails backend:
+However as you might imagine, GMaps is not tied to a Rails backend.  Here's an example of a Google Maps application communicating with a Rails backend:
 
 https://github.com/ToastShaman/nodejs-socketio-gmaps
 
 Watch out that running the above node project will likely conflict with any running rails server:
 
 http://stackoverflow.com/questions/12181253/changing-node-js-listening-port
-
-[TODO: add notes on node setup]
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

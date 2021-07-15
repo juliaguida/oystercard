@@ -4,8 +4,8 @@ We'll focus on debugging today, as a method of understanding more about a progra
 
 ## Getting started
 
-* **10:30** - [Debugging skills workshop](https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/debugging_1)
-* [Debugging approaches practical](https://github.com/makersacademy/skills-workshops/blob/master/practicals/debugging/debugging_approaches.md). Feel free to start this whenever you like, and/or:
+* **10:30** - [Debugging skills workshop](https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/debugging_1)
+* [Debugging approaches practical](https://github.com/makersacademy/skills-workshops/blob/main/practicals/debugging/debugging_approaches.md). Feel free to start this whenever you like, and/or:
 * **10.30** An informal session on floor 3 at for a group to work through the exercises from the practical.
 * An exercise on [debugging with Pry](https://learn.co/lessons/debugging-with-pry).
 

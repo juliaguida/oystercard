@@ -15,10 +15,10 @@ In this challenge you will learn the different use-cases for two of HTTP methods
 
 ### To complete this challenge, you will need to:
 
-- [ ] Use HTTPie's "-v" flag and make a request to 'http://getpostworkout.herokuapp.com/'.
+- [ ] Use HTTPie's "-v" flag and make a request to [http://getpostworkout.herokuapp.com/](http://getpostworkout.herokuapp.com/)'.
 - [ ] Study the request. Decide with your pair whether it was a GET or a POST request.
-- [ ] Use HTTPie and send your name as data to 'http://getpostworkout.herokuapp.com/': `http -f POST https://getpostworkout.herokuapp.com/ name=YourNameHere`
-- [ ] Visit 'http://getpostworkout.herokuapp.com/'. Explain to your partner what has happened to the data that you sent.
+- [ ] Use HTTPie and send your name as data to [http://getpostworkout.herokuapp.com/](http://getpostworkout.herokuapp.com/)': `http -f POST https://getpostworkout.herokuapp.com/ name=YourNameHere`
+- [ ] Visit [http://getpostworkout.herokuapp.com/](http://getpostworkout.herokuapp.com/)'. Explain to your partner what has happened to the data that you sent.
 - [ ] Make the same "POST" request again, this time with the `-v` flag.
 - [ ] Explain to your partner what was different about the request headers as compared to the first step.
 

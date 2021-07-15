@@ -38,7 +38,7 @@ The overall approach is to find ways to contribute to the community.  By contrib
 
 * **What is it?** Regular meetings where people interested in a particular technology or development-related topic gather to socialise.  Sometimes, there are talks preceding the socialising.
 
-* **What are some examples?** [London Ruby User Group](http://lrug.org/), [London Indies](http://www.londonindies.com/) game developer meetup, [London Software Craftsmanship Community](https://www.meetup.com/london-software-craftsmanship/), [Extreme Tuesday Club](https://www.meetup.com/eXtreme-Tuesday-Club-XTC/), [Queer Code London](https://www.meetup.com/Queer-Code-London/)
+* **What are some examples?** [London Ruby User Group](http://lrug.org/), [London Indies](https://londonindies.co.uk/) game developer meetup, [London Software Craftsmanship Community](https://www.meetup.com/london-software-craftsmanship/), [Extreme Tuesday Club](https://www.meetup.com/eXtreme-Tuesday-Club-XTC/), [Queer Code London](https://www.meetup.com/Queer-Code-London/)
 
 * **How do I join?** Register, then go.
 
@@ -118,7 +118,7 @@ Basically the same as Slack communities, but via a different communication mediu
 
 The company you work for is one of the most powerful communities you can belong to.  It's very important to choose one where you can contribute and learn.  It's a community where you'll spend a lot of time, where you'll work on varied projects, where you'll get feedback, where you'll try to achieve a goal, and where you'll be constantly discussing new ideas.
 
-Learn more about how to [find and introduce yourself to a company](https://github.com/makersacademy/jobhunters/blob/master/pills/how%20to%20job%20hunt/finding_a_job_the_smart_way.md).
+Learn more about how to [find and introduce yourself to a company](https://github.com/makersacademy/jobhunters/blob/main/pills/how%20to%20job%20hunt/finding_a_job_the_smart_way.md).
 
 ### [Stack Overflow](https://stackoverflow.com)
 

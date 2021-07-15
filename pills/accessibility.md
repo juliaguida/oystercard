@@ -8,11 +8,11 @@ The web is a visual medium, right?
 
 A [Google study](http://www.interactiveaccessibility.com/accessibility-statistics) found that there are _more visually-impaired internet users than there are Italian internet users_. As much as **3.5% of all web traffic** uses a _screen reader_ (a device that reads the structure of a web page aloud).
 
-What does this feel like? The most popular screen reader is [JAWS](https://store.freedomscientific.com/collections/software-products/products/jaws-pro-screenreader) (which costs over $1,000), but you can trial the world's second most popular for free: VoiceOver.
+What does this feel like? The most popular screen reader is [JAWS](https://www.freedomscientific.com/products/software/jaws/) (which costs over $1,000), but you can trial the world's second most popular for free: VoiceOver.
 
 ### Exercise 1: Empathy with screen-reading users
 
-- [Turn on VoiceOver](https://help.apple.com/voiceover/info/guide/10.12/#/vo2682) using Command-Fn-5.
+- [Turn on VoiceOver](https://help.apple.com/voiceover/info/guide/10.12/#/vo2682).
 - Visit an accessible site, like bbc.co.uk, and browse around using VoiceOver. Click any story, read the story, and then go back to the homepage.
 - Visit [an inaccessible site, like this W3C example](https://www.w3.org/WAI/demos/bad/before/news.html), and try to do the same thing.
 

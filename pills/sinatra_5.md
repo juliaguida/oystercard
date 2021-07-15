@@ -8,7 +8,7 @@ require 'sinatra/reloader' if development?
 
 get '/' do
   "<div style='border: 3px dashed red'>
-     <img src='http://bit.ly/1eze8aE'>
+     <img src='http://placekitten.com/500/500'>
    </div>"
 end
 ````
@@ -30,9 +30,9 @@ get '/' do
 end
 ````
 
-Assuming this all works it's a good time to commit our code, push it to Github and switch Driver/Navigator Roles again&nbsp;:twisted_rightwards_arrows:, but the question that's likely on your mind is what's happening here? On line 4 in the do ... end block, we're calling **erb**, a templating system that ships with Ruby. We are asking it to render a file called **index.erb** from the folder **views**. How does it know to look inside the folder **views**? The name of the folder is just a convention: if you don't specify any other name, erb will assume that you want to use the file in the **views** folder.
+Assuming this all works it's a good time to commit our code, push it to Github and switch Driver/Navigator Roles again&nbsp;:twisted_rightwards_arrows:, but the question that's likely on your mind is what's happening here? On line 4 in the do ... end block, we're calling `erb`, a templating system that ships with Ruby. We are asking it to render a file called `index.erb` from the folder `views`. How does it know to look inside the folder `views`? The name of the folder is just a convention: if you don't specify any other name, `erb` will assume that you want to use the file in the `views` folder.
 
-We just called **erb** a templating system. The reason is that it's actually much more powerful than it may seem on the surface. Erb stands for Embedded Ruby. This means that the templates can combine plain text, such as HTML code, with executable Ruby code.
+We just called `erb` a templating system. The reason is that it's actually much more powerful than it may seem on the surface. ERB stands for Embedded Ruby. This means that the templates can combine plain text, such as HTML code, with executable Ruby code.
 
 Let's say we want to give our kitten a name. We aren't sure what the name actually is, so let's select it from an array of kitten names randomly.
 
@@ -48,22 +48,22 @@ We've just selected a name for the kitten in the instance variable **@name**. Le
 ````html
 <div style='border: 3px dashed red'>
   My name is <%= @name %>
-  <img src='http://bit.ly/1eze8aE'>
+  <img src='http://placekitten.com/500/500'>
 </div>
 ````
 
-The second line contains the text and an embedded ruby tag. The code that begins with <% and ends with %> is an _erb_ tag, it is not part of HTML. Everything inside this tag is executed as Ruby code. In this case, we're just getting the value of **@name** variable. Because there is an = sign after the opening tag, the value will be "printed" to the resulting HTML. After erb processes this template, the HTML code that your browser actually sees will look like this:
+The second line contains the text and an embedded ruby tag. The code that begins with <% and ends with %> is an ERB tag, it is not part of HTML. Everything inside this tag is executed as Ruby code. In this case, we're just getting the value of **@name** variable. Because there is an = sign after the opening tag, the value will be "printed" to the resulting HTML. After `erb` processes this template, the HTML code that your browser actually sees will look like this:
 
 ````html
 <div style='border: 3px dashed red'>
   My name is Oscar
-  <img src='http://bit.ly/1eze8aE'>
+  <img src='http://placekitten.com/500/500'>
 </div>
 ````
 
-Technically, the **erb()** method reads the input file, processes Ruby that is inside and returns resulting HTML. This HTML is then returned by the block passed to the **get()** method:
+Technically, the `erb()` method reads the input file, processes Ruby that is inside and returns resulting HTML. This HTML is then returned by the block passed to the `get()` method:
 
-![Rendering erb in Sinatra](images/sinatra/rendering_erb.jpg)
+![Rendering ERB in Sinatra](images/sinatra/rendering_erb.jpg)
 
 So, we've just learned how to extract HTML into separate files and how to transfer data from Ruby code into templates. Naturally you'll want to commit the code, push it to Github and switch Driver/Navigator Roles &nbsp;:twisted_rightwards_arrows:.
 

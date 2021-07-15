@@ -10,7 +10,7 @@ source 'https://rubygems.org'
 gem 'sinatra'
 ````
 
-The first line tells [bundler](http://bundler.io) to download the gems from [RubyGems.org](https://www.rubygems.org) ( _the source of the gems in the Ruby world_). The second line tells bundler that you want to use the _sinatra_ gem in your project. After you create the file, execute the following command
+The first line tells [bundler](http://bundler.io) to download the gems from [RubyGems.org](https://www.rubygems.org) ( _the source of the gems in the Ruby world_). The second line tells bundler that you want to use the `sinatra` gem in your project. After you create the file, execute the following command
 
 ````
 $ bundle install
@@ -20,7 +20,7 @@ This will download and install the latest version of the gem from [RubyGems.org]
 
 Bundler and Gemfiles are particularly important when sharing projects you have built.  The Gemfile lets another developer know all the library dependencies your project has, and it also allows them to simply grab all the necessary dependencies by typing `bundle install` or even just `bundle`.
 
-Note also that when you run `bundle` that bundler creates a file called Gemfile.lock, which stores the precise version of all the gems that your projects are using.  Check it out.  Don't edit that file, it's auto-generated and just for reference, but it is very important when you start deploying your app to a cloud hosting service like Heroku.  In that case Heroku will use the Gemfile.lock to ensure that the precise versions of every Gem you are using is installed correctly.  This is critical in order to ensure that we minimize discrepancies between the code that runs on your local development environment and that running in the cloud.
+Note also that when you run `bundle` that bundler creates a file called Gemfile.lock, which stores the precise version of all the gems that your projects are using.  Check it out.  Don't edit that file, it's auto-generated and just for reference, but it is very important when you start deploying your app to a cloud hosting service like Heroku.  In that case Heroku will use the Gemfile.lock to ensure that the precise versions of every Gem you are using is installed correctly.  This is critical in order to ensure that we minimise discrepancies between the code that runs on your local development environment and that running in the cloud.
 
 ## Resources
 

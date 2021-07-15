@@ -33,7 +33,7 @@ In this challenge, you will write a unit test for the missing method, and make i
 ### Resources
 
 - [Introduction to RSpec](http://blog.teamtreehouse.com/an-introduction-to-rspec) (note that this resource uses the old RSpec syntax – you should use the new syntax [detailed here](http://rspec.info/blog/2012/06/rspecs-new-expectation-syntax/))
-- :pill: [RSpec](https://github.com/makersacademy/course/blob/master/pills/rspec.md)
+- :pill: [RSpec](https://github.com/makersacademy/course/blob/main/pills/rspec.md)
 - [RSpec Basic Structure](https://www.relishapp.com/rspec/rspec-core/docs/example-groups/basic-structure-describe-it)
 - [RSpec's one-liner syntax](https://www.relishapp.com/rspec/rspec-core/v/3-2/docs/subject/one-liner-syntax)
 

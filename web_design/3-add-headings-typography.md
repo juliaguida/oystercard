@@ -5,7 +5,7 @@
 
 ## Steps
 
-1. In html and css only, recreate the above designs for mobile and desktop.
+1. In HTML and CSS only, recreate the above designs for mobile and desktop.
 2. Use the correct elements and fonts for the headings (Roboto Slab) and body text (Roboto).
 3. Oh, and the fill text is from here (<https://www.lipsum.com/>).
 4. Deploy it.
@@ -15,7 +15,7 @@
 
 * Regardless of the changes you make, by the end the desktop viewport must end up as it was before.
 * Your code is practically pixel perfect compared to the design provided
-* All your styling in a separate file to the html.
+* All your styling in a separate file to the HTML.
 
 ## Possible resources
 

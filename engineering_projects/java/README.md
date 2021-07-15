@@ -11,11 +11,11 @@ Each team will start with a codebase and a virtual card-wall with some initial t
 
 * [Learning Objectives](learning_objectives.md)
 
-The above objectives are a tool to focus on specific learning, which you can then assess using the [learning triangle](https://github.com/makersacademy/course/blob/master/pills/blooms_taxonomy.md).
+The above objectives are a tool to focus on specific learning, which you can then assess using the [learning triangle](https://github.com/makersacademy/course/blob/main/pills/blooms_taxonomy.md).
 
 ### Assessment Criteria
 
-These [assessment criteria](https://github.com/makersacademy/course/blob/master/final_projects/project_criteria.md) will be how we look at your work
+These [assessment criteria](https://github.com/makersacademy/course/blob/main/final_projects/project_criteria.md) will be how we look at your work
 
 ## Project Set Up
 

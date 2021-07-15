@@ -4,15 +4,15 @@
 
 1. [What is version control?](#what-is-version-control)
 2. [Using Git commands to version control your own code](#using-git-commands-to-version-control-your-own-code)
-3. [GitHub](#github)
+3. [Github](#github)
 4. [Using Git to collaborate with others](#using-git-to-collaborate-with-others)
 5. [More resources](#resources)
 
 ## What is version control?
 
-Version control is the process and technology used to "control" various "versions" of the code that you write. If, for example, you were building a house, you'd likely start with the foundation and make sure it's solid before you started building the walls. You'd want to stop after the walls were built to make sure everything lined up properly before adding the roof. You wouldn't want to build the entire thing and *realize* after the roof is built that there is a crack in the foundation.
+Version control is the process and technology used to "control" various "versions" of the code that you write. If, for example, you were building a house, you'd likely start with the foundation and make sure it's solid before you started building the walls. You'd want to stop after the walls were built to make sure everything lined up properly before adding the roof. You wouldn't want to build the entire thing and *realise* after the roof is built that there is a crack in the foundation.
 
-Software version control helps us avoid these problems by allowing us to keep various versions of what we're building. If we *realize* we've made a mistake, we can revert back to a previous version that we know is solid.
+Software version control helps us avoid these problems by allowing us to keep various versions of what we're building. If we *realise* we've made a mistake, we can revert back to a previous version that we know is solid.
 
 Additionally, version control allows multiple versions to be built simultaneously and then brought together. It doesn't matter whether you're working in a team or writing code alone, version control is something you absolutely need to understand.
 
@@ -26,7 +26,7 @@ If you want to see what life was like when you were 10 years old, you can go bac
 
 You could even live several lives in parallel! Imagine you decide to rob a bank (not that you should!). Maybe you'll get rich and retire in Monte Carlo. Maybe you'll get caught and spend the next 10 years in jail. In real life you have to make a choice and live through the consequences. With version control you can try both options at the same time and see which one works out best. You can then decide what version you like best (robbing the bank or not) and live it for the rest of your life!
 
-Version control doesn't stop here. What if you decide to do a renovation to your flat? You need to change the floors, paint the ceiling, install a jacuzzi and remove a wall between a living room and the kitchen. Normally, you'd need to do all of that in order: first you remove the wall, then paint the ceiling, then change the floors, then install the jacuzzi, etc. You can't change the floor and paint the ceiling on the same day while removing the wall at the same time. However, with version control you can split the reality into several "parallel" realities and do the work in parallel. In one reality you'll be painting the ceiling, in another – removing the wall, and so on. When all the work is done, you'd "merge" all those realities into one, getting a beautiful renovated flat in a fraction of the time.
+Version control doesn't stop here. What if you decide to do a renovation to your flat? You need to change the floors, paint the ceiling, install a hot tub and remove a wall between a living room and the kitchen. Normally, you'd need to do all of that in order: first you remove the wall, then paint the ceiling, then change the floors, then install the hot tub, etc. You can't change the floor and paint the ceiling on the same day while removing the wall at the same time. However, with version control you can split the reality into several "parallel" realities and do the work in parallel. In one reality you'll be painting the ceiling, in another – removing the wall, and so on. When all the work is done, you'd "merge" all those realities into one, getting a beautiful renovated flat in a fraction of the time.
 
 It may sound like a science-fiction film but that's actually how version control works. Not using version control is like having time-travel skills and not using them! It's important to know and use version control because it's an awesome developer superpower.
 
@@ -61,9 +61,9 @@ git config --global core.safecrlf true
 Don't worry about what these do exactly as they're just formatting some settings to make things easier later on.
 
 
-### Your first git repository 
+### Your first git repository
 
-Let's create a git *repository* to illustrate how it works. Create a new directory with a small text file named gitText. The text should read "Git is Awesome!" like this:
+Let's create a git *repository* to illustrate how it works. Create a new directory with a small text file named `gitText`. The text should read "Git is Awesome!" like this:
 
 ```
 mkdir gitDir
@@ -71,7 +71,7 @@ cd gitDir
 echo "Git is Awesome" > gitText
 ```
 
-Now that we have our gitDir directory with a single text file, let's make this directory a git repository.
+Now that we have our `gitDir` directory with a single text file, let's make this directory a git repository.
 
 ```
 git init
@@ -88,7 +88,7 @@ Let's break down these commands line by line.
 ### Initialising the repository
 
 
-The first command initialises this directory as a git repo - it only has to be done once for every repository. 
+The first command initialises this directory as a git repo - it only has to be done once for every repository.
 
 ```
 git init
@@ -112,7 +112,7 @@ So, the first thing we do when we start a new project is to create a directory, 
 ### Adding files to the staging area
 
 
-The second line tells the computer to add the gitText file to the staging area (or staging, for short). What is staging area? Isn't git supposed to track all changes automatically?
+The second line tells the computer to add the `gitText` file to the staging area (or staging, for short). What is staging area? Isn't git supposed to track all changes automatically?
 
 ```
 git add gitText
@@ -156,12 +156,12 @@ When you commit the file, git tells you what it does:
 
 ```
 $ git commit -m "First commit"
-[master (root-commit) a1833e4] First commit
+[main (root-commit) a1833e4] First commit
  1 file changed, 1 insertion(+)
  create mode 100644 gitText
 ```
 
-This is what a successful commit message looks like. Git is telling you that it created a commit called "First commit" with a number (or hash, or SHA) a1833e4. One file was changed (gitText), there was one insertion (we put a line of text in it).
+This is what a successful commit message looks like. Git is telling you that it created a commit called "First commit" with a number (or hash, or SHA) `a1833e4`. One file was changed (`gitText`), there was one insertion (we put a line of text in it).
 
 So, we're creating a commit called "First commit" indicating that we just initialised a repo in this directory. If we ever need to go to the very beginning, we'll be able to checkout "first commit".
 
@@ -181,9 +181,9 @@ This will give you an overview of what files have changed since the last commit.
 
 So, git tells us that there's nothing to commit (working directory clean). The first part (nothing to commit) means that we haven't added anything to the staging area. The second part (working directory clean) means that there is nothing that could be added to the working directory. We haven't made any changes since the last commit, so we can't make another one. A commit is a record of some changes and we haven't made any.
 
-(There's also a mention of something called a "master branch". This refers to one name of the current "reality". Remember we can switch between different realities, or branches? The main one is called "master". We'll get to branches in due time, just ignore it for now).
+(There's also a mention of something called a "main branch". This refers to one name of the current "reality". Remember we can switch between different realities, or branches? The main one is called "main". We'll get to branches in due time, just ignore it for now).
 
-If we were to make a change such as changing the text of gitText, git would tell us that there's been a change. So, let's make a change a see what the status is again.
+If we were to make a change such as changing the text of `gitText`, git would tell us that there's been a change. So, let's make a change a see what the status is again.
 
 ![Step three](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381245987544_Screen%20Shot%202013-10-08%20at%2016.25.50.png)
 
@@ -224,7 +224,7 @@ git add gitText
 git status
 ```
 
-It will now show us that we've staged this new file, but it hasn't been *commited* yet.
+It will now show us that we've staged this new file, but it hasn't been *committed* yet.
 
 ![Step four](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381246723428_Screen%20Shot%202013-10-08%20at%2016.38.35.png)
 
@@ -254,11 +254,11 @@ This will list out information about all of the previous commits.
 
 ![Step six](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381247504285_Screen%20Shot%202013-10-08%20at%2016.49.02.png)
 
-This gives you the history of all changes, including who made them and when they were made. The long incomprehensible number (56d9881253...) is the unique number of every commit. We need it because the commit messages are not guaranteed to be unique.
+This gives you the history of all changes, including who made them and when they were made. The long incomprehensible number (`56d9881253...`) is the unique number of every commit. We need it because the commit messages are not guaranteed to be unique.
 
 ### Removing files
 
-For a final example, let's delete the gitText file completely and add another blank file called moreGitText. Then run git status.
+For a final example, let's delete the `gitText` file completely and add another blank file called `moreGitText`. Then run git status.
 
 ```
 rm gitText
@@ -266,18 +266,18 @@ touch moreGitText
 git status
 ```
 
-As you can see, it shows that moreGitText is not being tracked yet because we haven't staged it and gitText has been deleted. 
+As you can see, it shows that `moreGitText` is not being tracked yet because we haven't staged it and `gitText` has been deleted.
 
 ![Step seven](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381248192309_Screen%20Shot%202013-10-08%20at%2017.03.00.png)
 
-If we now add moreGitText and run git status:
+If we now add `moreGitText` and run git status:
 
 ```
 git add moreGitText
 git status
 ```
 
-You'll see that moreGitText is staged and ready to be committed, but the deletion of gitText isn't. 
+You'll see that `moreGitText` is staged and ready to be committed, but the deletion of `gitText` isn't.
 
 ![Step eight](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381248217999_Screen%20Shot%202013-10-08%20at%2017.03.26.png)
 
@@ -317,7 +317,7 @@ Git is an incredibly powerful tool and it can be a bit daunting when you're firs
 
 ### Going back in history
 
-Let's say you want to take a look what gitFile (that doesn't even exist anymore) looked like when we first created it. Let's take a look at the commit log first.
+Let's say you want to take a look what `gitFile` (that doesn't even exist anymore) looked like when we first created it. Let's take a look at the commit log first.
 
 ![Step 11](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381248816249_Screen%20Shot%202013-10-08%20at%2017.13.30.png)
 
@@ -329,16 +329,16 @@ git checkout a1833e4ef4a1b
 
 ![Step 12](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381249076792_Screen%20Shot%202013-10-08%20at%2017.15.36.png)
 
-Note that we're using just the first few characters of the commit hash. You don't have to copy the entire commit hash, just the first few characters will do as long as there is no ambiguity (you have to use at least four, though). 
+Note that we're using just the first few characters of the commit hash. You don't have to copy the entire commit hash, just the first few characters will do as long as there is no ambiguity (you have to use at least four, though).
 
-Now git takes us to a "parallel universe" to the time when we just created our "first commit". If you `ls` the directory now, you'll see that the moreGitText doesn't exist yet and gitText still exists (we haven't deleted it yet). Furthermore, gitText contains the text that we put in it right before "first commit".
+Now git takes us to a "parallel universe" to the time when we just created our "first commit". If you `ls` the directory now, you'll see that the `moreGitText` doesn't exist yet and `gitText` still exists (we haven't deleted it yet). Furthermore, `gitText` contains the text that we put in it right before "first commit".
 
 ![Step 13](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381249323435_Screen%20Shot%202013-10-08%20at%2017.21.37.png)
 
-There are ways to take changes from this commit and bring them into the latest version and do many other exciting things but we'll cover them later. Let's just take a look at what our files were at the point of the first commit and go back to the "main" reality (branch) called "master".
+There are ways to take changes from this commit and bring them into the latest version and do many other exciting things but we'll cover them later. Let's just take a look at what our files were at the point of the first commit and go back to the "main" reality (branch) called "main".
 
 ```
-git checkout master
+git checkout main
 ```
 
 ![Step 14](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381249491294_Screen%20Shot%202013-10-08%20at%2017.24.42.png)
@@ -361,12 +361,12 @@ As a developer, you are your Github profile. When hiring developers, most techno
 
 The reason for this is that Github shows what you've been doing as a developer. If you're claiming you're a developer and you have little to show on Github, other developers won't take you seriously unless you have an impressive history of projects you worked on. If you're a junior developer, having a decent Github profile helps a lot. For example, this is a real email we received from one of our hiring partners some time ago:
 
-Evgheny S.:
-> So, two of your graduates applied for a job with us and we had a good look through their github. To say we're impressed is an understatement.
+Evgeny S.:
+> So, two of your graduates applied for a job with us and we had a good look through their Github. To say we're impressed is an understatement.
 
 The first thing that this guy did was to look at everything our graduates created at Github during their time at Makers. Because these students kept their Github profiles in a really good state, they managed to impress him even before coming for an interview.
 
-To sum it up: you are your Github profile. Just putting Makers on your CV achieves nothing. You have to show what you can do in code. Don't worry that you'll be checking in some basic code at first because all developers start with "hello, world". It's much better than having an empty Github.
+To sum it up: you are your Github profile. Just putting Makers on your CV achieves nothing. You have to show what you can do in code. Don't worry that you'll be checking in some basic code at first because all developers start with "hello, world". It's much better than having an empty Github profile.
 
 
 ### git is distributed
@@ -378,7 +378,7 @@ Github is really just another computer somewhere in the USA that you can create 
 
 So Github's web interface is nothing more but a visual interface to git installed on Github's server.
 
-Git is a [distributed version control system](http://en.wikipedia.org/wiki/Distributed_revision_control). What this means is that there is no such thing as a "central" reposity in git. In other words, all repositories are created equal. It also means that every developer must have a repository on their computer to work on a shared project. If you have a project repository on your laptop and another developer also has a repository for this project on her laptop, these repositories are equal in every respect. Github is just another computer where you can create a repository. Your repositories on Github are not "superior" in any way to your local ones. Normally you'll have a repository on the laptops of all developers, on Github and on the computer where your production website resides (we'll learn how to deploy our code later).
+Git is a [distributed version control system](http://en.wikipedia.org/wiki/Distributed_revision_control). What this means is that there is no such thing as a "central" repository in git. In other words, all repositories are created equal. It also means that every developer must have a repository on their computer to work on a shared project. If you have a project repository on your laptop and another developer also has a repository for this project on her laptop, these repositories are equal in every respect. Github is just another computer where you can create a repository. Your repositories on Github are not "superior" in any way to your local ones. Normally you'll have a repository on the laptops of all developers, on Github and on the computer where your production website resides (we'll learn how to deploy our code later).
 
 The key feature of git is its ability to copy code between repositories. If you have a local repository and a remote repository on Github, you can copy code in either direction. In the next section we'll see how it's done. You can also move code using git between developers' laptops directly if you wish to.
 
@@ -388,13 +388,13 @@ The key feature of git is its ability to copy code between repositories. If you 
 
 First, go through [this tutorial to generate SSH keys for Github](https://help.github.com/articles/generating-ssh-keys).
 
-Second, create a new repository by clicking the large green "New repository" button on Github's homepage (you must be logged in). 
+Second, create a new repository by clicking the large green "New repository" button on Github's homepage (you must be logged in).
 
 ![Step 16](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381335055212_Screen%20Shot%202013-10-09%20at%2017.10.44.png)
 
 Make it public, so that others could see it. Unless you have a good reason to keep the code private, make it public. Don't initialise it with a README file.
 
-At this point Github runs `git init` somewhere on their computer. After you do this, you'll see an empty repository. 
+At this point Github runs `git init` somewhere on their computer. After you do this, you'll see an empty repository.
 
 ![Step 17](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381335315204_Screen%20Shot%202013-10-09%20at%2017.14.59.png)
 
@@ -412,7 +412,7 @@ Typing `git remote -v` gives no output, meaning that you have no remotes set up.
 git remote add origin git@github.com:makersacademy/playing-with-git.git
 ```
 
-You'll need to replace the address of the repository (*git@github.com:makersacademy*/playing-with-git.git) with the one Github gives you. This command adds a remote called "origin" with the given address to your local repo.
+You'll need to replace the address of the repository (`git@github.com:makersacademy/playing-with-git.git`) with the one Github gives you. This command adds a remote called "origin" with the given address to your local repo.
 
 Why is it called origin? It's just a convention. You can call it whatever you want but if you're using one repository to store the code remotely (and coordinate the work of several *devs*, if part of a team), it's a convention among developers to call it "origin".
 
@@ -420,14 +420,14 @@ Check the list of your remotes now:
 
 ![Step 19](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381335853408_Screen%20Shot%202013-10-09%20at%2017.23.54.png)
 
-Cool. Now your local repository knows that it's "linked" to another repository somewhere on github.com. Note that no real connection is established yet. You could have added a remote while being offline. The only thing this command does is modifying a .git/config file.
+Cool. Now your local repository knows that it's "linked" to another repository somewhere on `github.com`. Note that no real connection is established yet. You could have added a remote while being offline. The only thing this command does is modifying a .git/config file.
 
 ![Step 20](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381336089702_Screen%20Shot%202013-10-09%20at%2017.28.02.png)
 
 Next we'll need to transfer the code from the local repository to the one on Github (called "origin"). This operation is called a "push". Do this:
 
 ```
-git push -u origin master
+git push -u origin main
 ```
 
 You should see this output.
@@ -437,10 +437,10 @@ You should see this output.
 This means that the push went well. Let's break this command down:
 
 ```
-git push -u origin master
+git push -u origin main
 ```
 
-It tells git to push your code from your local repository (it's implied) to a repository called origin (that's the name of the remote that we just added). The last bit, "master", means that we're pushing the branch called "master" (the only branch we have right now). We haven't discussed branches yet, so don't worry about it. The "-u" switch means that these parameters should be saved as default, so next time you won't have to type "origin master". You'll be able to simply do
+It tells git to push your code from your local repository (it's implied) to a repository called origin (that's the name of the remote that we just added). The last bit, "main", means that we're pushing the branch called "main" (the only branch we have right now). We haven't discussed branches yet, so don't worry about it. The "-u" switch means that these parameters should be saved as default, so next time you won't have to type "origin main". You'll be able to simply do
 
 ```
 git push
@@ -448,7 +448,7 @@ git push
 
 Try it now. Git will tell you that everything is up to date. This means that there are no local changes that haven't been pushed yet to Github.
 
-Ok, let's now take a look at Github. Just refresh the page. You'll see the same content you have locally.
+OK, let's now take a look at Github. Just refresh the page. You'll see the same content you have locally.
 
 ![Step 22](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381336762893_Screen%20Shot%202013-10-09%20at%2017.39.13.png)
 
@@ -489,7 +489,7 @@ You need to be in the directory where the repository is in order to push your da
 By now you know how to create a repo locally and push your local code to Github. You also need to know how to get your code back from Github. Let's say you and one other developer work on a website together. You both have local repos and a Github repository that you both have added as a remote called "origin". Your colleague made some changes to the website and pushed them to Github. How do you get them? You need to "pull" them:
 
 ```
-git pull origin master
+git pull origin main
 ```
 
 This command tells git to get all the latest commits from origin and copy them into your local repository. Try pulling the changes now. Nothing will happen because there are no remote changes.
@@ -498,7 +498,7 @@ This command tells git to get all the latest commits from origin and copy them i
 
 Let's make a remote change. We'll use Github UI for this but normally this would happen because someone else pushed new code.
 
-Go to your git repo and click on moreGitText file:
+Go to your git repo and click on `moreGitText` file:
 
 ![Step 27](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381340516535_Screen%20Shot%202013-10-09%20at%2018.41.42.png)
 
@@ -518,7 +518,7 @@ You will see the commit you've just done there. However, this change isn't refle
 
 ![Step 31](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381340765344_Screen%20Shot%202013-10-09%20at%2018.45.58.png)
 
-This is because we haven't pulled the changes yet. Let's get the latest changes from Github. You don't have to type the full `git pull origin master` command if you've done `git push -u origin master` before because the "-u" flag would save "origin master" parameters as default ones, so we can just do:
+This is because we haven't pulled the changes yet. Let's get the latest changes from Github. You don't have to type the full `git pull origin main` command if you've done `git push -u origin main` before because the "-u" flag would save "origin main" parameters as default ones, so we can just do:
 
 ```
 git pull
@@ -581,7 +581,7 @@ If you then need to work with another project you created before, move to that d
 cd ~/Projects/command-line-practice
 ```
 
-and then do the same there: some changes, commits and pushes to github.
+and then do the same there: some changes, commits and pushes to Github.
 
 
 ### Cloning repositories from Github
@@ -597,11 +597,11 @@ First, navigate to your projects directory that we created earlier. Let's say it
 cd ~/Projects
 ```
 
-Then open [the Github repository](https://github.com/JoshCheek/ruby-kickstart) in your browser. On the right there will be a box with a "clone url".
+Then open [the Github repository](https://github.com/JoshCheek/ruby-kickstart) in your browser. On the right there will be a box with a "clone URL".
 
 ![Step 34](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381397446815_JoshCheek%20ruby%20kickstart.png)
 
-Copy it by clicking the button next to the url. Now use it in the command line:
+Copy it by clicking the button next to the URL. Now use it in the command line:
 
 ![Step 35](https://dchtm6r471mui.cloudfront.net/hackpad.com_mKMM4CQ89LW_p.52567_1381397626330_Screen%20Shot%202013-10-10%20at%2010.33.35.png)
 
@@ -619,7 +619,7 @@ git did the equivalent of the following:
 
 ```
 mkdir ruby-kickstart
-cd ruby-kickstart 
+cd ruby-kickstart
 git init
 git remote add origin https://github.com/JoshCheek/ruby-kickstart.git
 git pull
@@ -632,7 +632,7 @@ A common mistake is to forget that `git clone` created a folder for you. You nee
 
 ## Using Git to collaborate with others
 
-See the [GitHub collaboration](./github_collaboration.md) :pill:
+See the [Github collaboration](./github_collaboration.md) :pill:
 
 ## Resources
 

@@ -14,7 +14,7 @@ If you feel comfortable doing so, you can say something directly to the person w
 
 #### In public
 
-This is best for minor transgressions where you expect that the person just made an mistake.  For example:
+This is best for minor transgressions where you expect that the person just made a mistake.  For example:
 
 Person A: "Explain it to me in a way that my mum would understand". Person B: "That's subtly sexist." Person A: "Sorry, I wasn't thinking." Person B: "That's OK."
 

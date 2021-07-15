@@ -34,7 +34,7 @@ In this challenge, you will run a Feature Test to test the above. It will fail, 
 
 ### To complete this challenge, you will need to:
 
-- [ ] Start `irb` (or another REPL such as :pill: [Pry](https://github.com/makersacademy/course/blob/master/pills/pry.md))
+- [ ] Start `irb` (or another REPL such as :pill: [Pry](https://github.com/makersacademy/course/blob/main/pills/pry.md))
 - [ ] Instantiate a `DockingStation` as `docking_station`
 - [ ] Ask `docking_station` to release a bike, and save the response to a variable `bike`
 - [ ] Ask the `bike` if it is `working?`
@@ -55,8 +55,8 @@ In this challenge, you will run a Feature Test to test the above. It will fail, 
 </details>
 
 ### Resources
-- :pill: [RSpec predicate matchers](https://github.com/makersacademy/course/blob/master/pills/rspec_predicate.md)
-- :pill: [RSpec `subject`](https://github.com/makersacademy/course/blob/master/pills/rspec_subject.md)
+- :pill: [RSpec predicate matchers](https://github.com/makersacademy/course/blob/main/pills/rspec_predicate.md)
+- :pill: [RSpec `subject`](https://github.com/makersacademy/course/blob/main/pills/rspec_subject.md)
 
 
 ### [Walkthrough](walkthroughs/9.md)

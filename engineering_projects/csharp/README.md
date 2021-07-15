@@ -6,13 +6,13 @@ Each team will start a virtual card-wall with some initial tickets to get you st
 
 ### Assessment Criteria
 
-These [assessment criteria](https://github.com/makersacademy/course/blob/master/final_projects/project_criteria.md) will be how we look at your work
+These [assessment criteria](https://github.com/makersacademy/course/blob/main/final_projects/project_criteria.md) will be how we look at your work
 
 ### Your First Steps on the C# pathway
 
 If C# is new to your team, you'll need to spend the first week learning the basics.  Make your own copy of [this Trello board](https://trello.com/b/EjkmVb5N/learn-c-sharp-and-dotnet) and use it to guide you.
 
-You can then assess yourselves using the [learning triangle](https://github.com/makersacademy/course/blob/master/pills/blooms_taxonomy.md).
+You can then assess yourselves using the [learning triangle](https://github.com/makersacademy/course/blob/main/pills/blooms_taxonomy.md).
 
 ## Project Set Up
 

@@ -19,16 +19,16 @@ If you don't explain your response, others may find it confusing, or maybe even 
 You've got to say want you want, or others just won't know.
 
 ### 5. Consequences.
-#### e.g. "Otherwise this will continue to make me unhappy when we pair, and I think our working relationship will deterioriate. Besides, I don't think either of us will be getting the most out of the course if we're not truly collaborating."
+#### e.g. "Otherwise this will continue to make me unhappy when we pair, and I think our working relationship will deteriorate. Besides, I don't think either of us will be getting the most out of the course if we're not truly collaborating."
 This is _not_ a threat, it's just explaining what will happen if the behaviour continues. Again, it's important for people to understand why you think change would be good, and avoiding negative future consequences is always one of the reasons.
 
 If you say you'll take action e.g. report them for something, make sure you're prepared to follow through. Because if the behaviour continues and you don't follow through, you won't be taken seriously next time you raise the issue.
 
 ### 6. Positives.
 #### e.g. "And I am really grateful for what you bring to our pairing sessions. Aside from these situations, I learn a lot when I'm working with you, and I have a lot of fun too. I'd be sad to lose that, so I really hope we can work this out and build on all the good things that make pairing together valuable and enjoyable!
-Compliments come at the end, not the start (see step 1 if you've forgotten why). Because when you've been critical of someone, it is helpful and kind to remind them of their value. Just make sure you do it all in the right order. 
+Compliments come at the end, not the start (see step 1 if you've forgotten why). Because when you've been critical of someone, it is helpful and kind to remind them of their value. Just make sure you do it all in the right order.
 
-n.b. Being nice != dismissing everything you've just said. If you're feeling uncomfortable you may feel the urge to do this, but dont—it defeats the purpose of raising the issue in the first place. Stand by your words—they were reasonable and sincere.
+n.b. Being nice != dismissing everything you've just said. If you're feeling uncomfortable you may feel the urge to do this, but don't — it defeats the purpose of raising the issue in the first place. Stand by your words—they were reasonable and sincere.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

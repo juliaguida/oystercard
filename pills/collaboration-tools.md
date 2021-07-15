@@ -26,7 +26,7 @@ Any tool that enables two or more people to view and contribute in realtime is w
 - [GitHub wikis](https://help.github.com/en/github/building-a-strong-community/about-wikis)
 
 ## Whiteboards
-- [Miro](https://miro.com) (formerly Realtimeboard)
+- [Miro](https://miro.com)
 - [Creately](https://creately.com)
 
 ## Diagrams

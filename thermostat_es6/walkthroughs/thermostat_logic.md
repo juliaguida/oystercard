@@ -67,7 +67,7 @@ class Thermostat {
 }
 ```
 
-Now when we refresh our `SpecRunner.html` file in the browser, we get NTB (Nuthin' But Green)! Our test is passing, and life is good :sunrise:
+Now when we refresh our `SpecRunner.html` file in the browser, we get a passing test suite! Our test is passing, and life is good :sunrise:
 
 So here we should notice two things:
 1. Our `temperature` property is situated between the `{}` of our `Thermostat` object constructor function.
@@ -129,7 +129,7 @@ While it’s always been possible to meet even the most stringent privacy needs 
 
 You can read the article [here](http://philipwalton.com/articles/implementing-private-and-protected-members-in-javascript/) - there really are a lot of hoops to jump through when you compare the luxurious simplicity that Ruby provides for us. This is where you start to see how when jumping between languages you will be confronted by differences in languages that force us to compromise our expectations of a language.
 
-In this case, we're going to leave the code as is so you can see the contrast between approaches (see [Tansaku's solution for AirportsJS](https://github.com/tansaku/airport_js )), and for simplicity since we have a lot to get through with this walkthrough!
+In this case, we're going to leave the code as is so you can see the contrast between approaches (see [this solution for Airport](https://github.com/tansaku/airport_js)), and for simplicity since we have a lot to get through with this walkthrough!
 
 ### It's getting hot in here
 
@@ -226,7 +226,7 @@ constructor() {
   }
 ```
 
-Notice how I'm using capital letters for the property name? As you might probably have realised, I intend this value to be a constant, and am marking that intention in the use of capitalization. It does not freeze the value, merely communicates intent to the next Developer.
+Notice how I'm using capital letters for the property name? As you might probably have realised, I intend this value to be a constant, and am marking that intention in the use of capitalisation. It does not freeze the value, merely communicates intent to the next Developer.
 
 Armed with this new property, let us create a method to return a boolean check on whether or not the temperature is currently set to the `MINIMUM_TEMPERATURE` inside our class:
 
@@ -360,7 +360,7 @@ describe('when power saving mode is on', () => {
 });
 ```
 
-Did you spot that we have used a nested `describe()` here? In Jasmine there is no equivalent to RSpec's `context()` so we have to make do. But it does make our test output more readable so it's ok. So, let's make sure our test setup cannot increase the temperature to 26 when PSM is off. To do so, let's crack open our old friend `up()`:
+Did you spot that we have used a nested `describe()` here? In Jasmine there is no equivalent to RSpec's `context()` so we have to make do. But it does make our test output more readable so it's OK. So, let's make sure our test setup cannot increase the temperature to 26 when PSM is off. To do so, let's crack open our old friend `up()`:
 
 ```javascript
 // src/thermostat.js
@@ -393,7 +393,7 @@ class Thermostat {
 }
 ```
 
-Wünderbar! Now `isMaximumTemperature()` will make a LOT more sense :wink:
+Wonderful! Now `isMaximumTemperature()` will make a LOT more sense :wink:
 
 ```javascript
 // src/thermostat.js
@@ -413,7 +413,7 @@ So to sum up, we have:
 * a function to determine if the current temperature is at the maximum for the current PSM status
 * and a refactored `up()` method which takes into account the `isMaximumTemperature()` return value
 
-To make sure our logic is sound, let us write a counter test to make doubley-sure:
+To make sure our logic is sound, let us write a counter test to make double sure:
 
 ```javascript
 // spec/thermostatSpec.js
@@ -457,7 +457,7 @@ resetTemperature() {
 }
 ```
 
-However, this is a little nasty. It contains a [MAGIC NUMBER](http://blog.silvabox.com/testing-with-magic-numbers/) (20). Boo. Hiss. I mean, there's nothing inherently wrong with the number twenty - but if a Developer were just to see that method out of context, it would not be _immediately_ obvious what we were going for with that number. And the goal, is to have code that **screams** its intent.
+However, this is a little nasty. It contains a MAGIC NUMBER (20). Boo. Hiss. I mean, there's nothing inherently wrong with the number twenty - but if a Developer were just to see that method out of context, it would not be _immediately_ obvious what we were going for with that number. And the goal, is to have code that **screams** its intent.
 
 Besides that, in terms of maintenance, if we decide the default temperature is going to be say, 21, we have to change it in two places now. And as we know, a good Dev is a lazy Dev. Let's  go back to our object constructor function and do a little refactor:
 

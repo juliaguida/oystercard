@@ -22,9 +22,9 @@
 * I grow collaboratively
 
 ---
-Find ways to gain insight on these goals using [this document](https://github.com/makersacademy/course/blob/master/goals/progress_insight.md).
+Find ways to gain insight on these goals using [this document](https://github.com/makersacademy/course/blob/main/goals/progress_insight.md).
 
-[Here are the goals for the job hunting stage of the journey](https://github.com/makersacademy/course/blob/master/goals/job_hunting_goals.md).
+[Here are the goals for the job hunting stage of the journey](https://github.com/makersacademy/course/blob/main/goals/job_hunting_goals.md).
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

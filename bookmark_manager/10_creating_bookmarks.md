@@ -47,13 +47,13 @@ In this challenge, you will build the entire feature of 'adding bookmarks to the
 ## Resources
 
 * [Capybara Cheat Sheet](https://gist.github.com/zhengjia/428105)
-* [PSQL Cheat Sheet](http://www.postgresqltutorial.com/postgresql-cheat-sheet/)
+* [PSQL Cheat Sheet](https://www.postgresqltutorial.com/postgresql-cheat-sheet/)
 
 ## [Walkthrough](walkthroughs/10.md)
 
 ## Ed's Walkthrough
 Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_manager/pulls) that show the diff for each section I worked through.
-- branch [`version1`](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version1): Steps 1-10 | [recording](https://youtu.be/LHX1SqQ5F-g)
+- branch [`version1`](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version1): Steps 1-10 | [recording](https://www.youtube.com/watch?v=LHX1SqQ5F-g)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

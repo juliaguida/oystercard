@@ -4,7 +4,10 @@
 
 By the end of modules 1 & 2 all developers can:
 
+<!-- spellchecker-disable -->
+<!-- Pending our adding unix to https://github.com/retextjs/retext-indefinite-article -->
 * Navigate a unix command line
+<!-- spellchecker-enable -->
 * Version control projects
 * Write a procedural program
 * Use a process for solving a problem
@@ -13,16 +16,20 @@ By the end of modules 1 & 2 all developers can:
 
 * [Mastery Quizzes](https://mastery-curriculum.makers.tech/)
 * [Student Directory](https://github.com/makersacademy/student-directory)
-* [TDD FizzBuzz Kata](https://github.com/makersacademy/course/blob/master/fizzbuzz/fizzbuzz.md)
+* [TDD FizzBuzz Kata](https://github.com/makersacademy/course/blob/main/fizzbuzz/fizzbuzz.md)
 
 ### Skills Breakdown
 
+<!-- spellchecker-disable -->
+<!-- Pending our adding unix to https://github.com/retextjs/retext-indefinite-article -->
 #### Navigate a unix command line
+<!-- spellchecker-enable -->
+
  - [ ] I can use the command line to run code and run tests
 
 #### Version control projects
  - [ ] I can use git to access and submit mastery quizzes
- 
+
 #### Write a procedural program
 
  - [ ] I can write programs using variables
@@ -67,13 +74,13 @@ By the end of the module all developers can:
 * I use a methodical approach to solving problems
 * I use my own initiative
 
-Remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md).
+Remind yourself of the rest [here](https://github.com/makersacademy/course/blob/main/apprenticeship_starting_pack/course_goals.md).
 
 ### Resources
 
-* [TDD Fizzbuzz video](https://www.youtube.com/watch?)
-* [The 4 phases of a test](https://robots.thoughtbot.com/four-phase-test)
-* [The three rules of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+* [TDD Fizzbuzz video](https://www.youtube.com/watch?v=y84suGhKVmg)
+* [The 4 phases of a test](https://thoughtbot.com/blog/four-phase-test)
+* [The three rules of TDD](https://gist.github.com/R4wm/a0ea5cba323d945625141e0c98238c64)
 * [Encapsulation on Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_%28computer_programming%29)
 * [Technical Learning Resources](https://airtable.com/shrtZmDUTQmQFdaZV/tblokmw6yNUO75ge6)
 
@@ -81,10 +88,10 @@ Remind yourself of the rest [here](https://github.com/makersacademy/course/blob/
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
-For some skills, there are several options so that you can spend some time focussing on that one skill, if that's the best use of your time right now.  There is no expectation that you or anyone else will complete all the exercises.
+For some skills, there are several options so that you can spend some time focusing on that one skill, if that's the best use of your time right now.  There is no expectation that you or anyone else will complete all the exercises.
 
 
-| Key Skill                     | Exercise                                  | 
+| Key Skill                     | Exercise                                  |
 | ----------------------------- | ---------------------------------------------- |
 | Test driven development       | [An intro to writing tests][writing_unit_tests]       |
 |                               | [Test Driving Practical][tdd_practical]        |                                         |
@@ -93,25 +100,25 @@ For some skills, there are several options so that you can spend some time focus
 | Debugging                     | [Debug a diary app][debugging_1]                     |                     
 
 | Stretch Skill                 | Exercise                                  |                       
-| ----------------------------- | ---------------------------------------------- | 
+| ----------------------------- | ---------------------------------------------- |
 | Test Driving Multiple Objects | [Simple Checkout][simple_checkout]             |
 |                               | [Test Drive a Notes App][tdd_notes_app]        |
 | Deciding what to test         | [Testing behaviour rather than state][behaviour_vs_state] |
 
-[debugging_1]: https://github.com/makersacademy/skills-workshops/tree/master/test_driven_development/debugging_1
+[debugging_1]: https://github.com/makersacademy/course/blob/main/test_driven_development/debugging_1
 [writing_unit_tests]: https://github.com/makersacademy/skills-workshops/tree/c268bb78fdc4df644d0ed7b1fdd189de426895f8/week-1/writing_tests
-[diagram_tdd]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/diagram_the_your_process.md
-[tdd_practical]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/test_driving.md
-[simple_checkout]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/test_drive_multiple_objects.md
-[tdd_notes_app]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/test_drive_a_notes_app.md
+[diagram_tdd]: https://github.com/makersacademy/course/blob/main/practicals/testing/diagram_the_your_process.md
+[tdd_practical]: https://github.com/makersacademy/course/blob/main/practicals/test_driving.md
+[simple_checkout]: https://github.com/makersacademy/course/blob/main/practicals/testing/test_drive_multiple_objects.md
+[tdd_notes_app]: https://github.com/makersacademy/course/blob/main/practicals/testing/test_drive_a_notes_app.md
 [bank_account]: https://github.com/makersacademy/simple_tdd_bank
-[behaviour_vs_state]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/behaviour_not_state.md
+[behaviour_vs_state]: https://github.com/makersacademy/course/blob/main/practicals/testing/behaviour_not_state.md
 
 
 
 ### Pairing challenge
 
-[Boris bikes](https://github.com/makersacademy/course/tree/master/boris_bikes)
+[Boris bikes](https://github.com/makersacademy/course/blob/main/boris_bikes)
 
 ### Individual challenge
 
@@ -125,7 +132,7 @@ As a software developer, there are some things you can be sure of.
 > 1. You're going to work on codebases that are, or will become, complex
 > 2. How you manage complexity has long term consequences
 
-Object Orientted Design (sometimes called Object Oriented Programming) is one way of ensuring that complexity is well managed and it's what we'll focus on this week.  It's important, however, to understand that other approaches exist and that the same goals underpin them all.
+Object Oriented Design (sometimes called Object Oriented Programming) is one way of ensuring that complexity is well managed and it's what we'll focus on this week.  It's important, however, to understand that other approaches exist and that the same goals underpin them all.
 
 > We seek to write code that is easy to read, reason about and change by
 > 1. Avoiding repetition
@@ -138,7 +145,7 @@ Everything you learn about OOD this week will map onto one or more of those thre
 
 #### Reflect on TDD
 
-The skills and concepts dealt with this week build on the things you learned last week, so take a moment to reflect on Test Driven Development. 
+The skills and concepts dealt with this week build on the things you learned last week, so take a moment to reflect on Test Driven Development.
 
 * What did you learn about your progress from doing the Airport challenge?
 * Can you test-drive a class with instance variables and methods?
@@ -156,7 +163,7 @@ By the end of the module all developers can:
 
 Stretch:
 * Test classes in isolation using mocking and dependency injection
-* Apply some basic OOP principles in tightly focussed exercises
+* Apply some basic OOP principles in tightly focused exercises
 
 #### Read and discuss the relevant course goals
 
@@ -164,11 +171,11 @@ Stretch:
 * I test-drive my code
 * I can design a system
 
-And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md).
+And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/main/apprenticeship_starting_pack/course_goals.md).
 
 ### Resources
-* [The 4 pilars of OOD](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
-* [POODR](https://www.poodr.com/), by Sandi Metz, is very highly regarded.  Put it on your post-bootcamp reading list if you don't have time for it now.
+* [The 4 pillars of OOD](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
+* [Practical Object Oriented Design in Ruby](https://www.poodr.com/), by Sandi Metz, is very highly regarded.  Put it on your post-bootcamp reading list if you don't have time for it now.
 * [SOLID](https://rubygarage.org/blog/solid-principles-of-ood) principles with Ruby examples
 * [Technical learning resources](https://airtable.com/shrtZmDUTQmQFdaZV/tblokmw6yNUO75ge6)
 
@@ -180,31 +187,31 @@ The intention is that you should work through the core exercises in order, from 
 
 
 | Key Skill                          | Exercise                                                 |                       
-| ---------------------------------- | -------------------------------------------------------- | 
+| ---------------------------------- | -------------------------------------------------------- |
 | Code Review                        | [Learn from someone else's code][code_review]            |
 | Encapsulation                      | [Achieve high cohesion and low coupling][encapsulation]  |
 | Refactoring                        | [Extract some variables, methods and classes][refactoring_using_oo]       |
 
 | Stretch Skill                    | Exercise                                              |
-| -------------------------------- | ----------------------------------------------------- | 
+| -------------------------------- | ----------------------------------------------------- |
 | Dependency injection             | [Inject some dependencies!][dependency_injection]     |
 | Mocking                          | [Mock the diary class][mocking]                       |
 
-[bank]: https://github.com/makersacademy/course/blob/master/individual_challenges/bank_tech_test.md
+[bank]: https://github.com/makersacademy/course/blob/main/individual_challenges/bank_tech_test.md
 [API]: https://rapidapi.com/collection/recommended-apis
 [class]: https://www.lucidchart.com/pages/uml-class-diagram
 [sequence]: https://www.lucidchart.com/pages/uml-sequence-diagram
 [diagram]: https://www.diagram.codes/
-[code_review]: https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/code_review
-[encapsulation]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md
-[forwarding_polymorphism]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/oo_relationships.md
-[refactoring_using_oo]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/refactoring.md
-[dependency_injection]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md
+[code_review]: https://github.com/makersacademy/course/blob/main/object_oriented_programming/code_review
+[encapsulation]: https://github.com/makersacademy/course/blob/main/practicals/object_oriented_design/encapsulation.md
+[forwarding_polymorphism]: https://github.com/makersacademy/course/blob/main/practicals/object_oriented_design/oo_relationships.md
+[refactoring_using_oo]: https://github.com/makersacademy/course/blob/main/practicals/object_oriented_design/refactoring.md
+[dependency_injection]: https://github.com/makersacademy/course/blob/main/practicals/object_oriented_design/dependency_injection.md
 [mocking]: https://github.com/neoeno/testing_relationships_between_classes
 
 ### Pairing challenge
 
-[Oystercard](https://github.com/makersacademy/course/tree/master/oystercard)
+[Oystercard](https://github.com/makersacademy/course/blob/main/oystercard)
 
 ### Individual challenge options
 
@@ -232,14 +239,14 @@ If you complete the above, try to:
 * Explain what is meant by 'deploy'
 * Deploy a simple Sinatra app (for example, Hello, World) using the free tier on Heroku
 
-These really are stretch goals.  We've not created any exercises for them, so part of the challenge is research based.  There's a lot of guidance on deploying sinatra applications to Heroku.  [This is a good place to start](https://devcenter.heroku.com/articles/rack#pure-rack-apps).
+These really are stretch goals.  We've not created any exercises for them, so part of the challenge is research based.  There's a lot of guidance on deploying Sinatra applications to Heroku.  [This is a good place to start](https://devcenter.heroku.com/articles/rack#pure-rack-apps).
 
-#### The broader course goals relevent to this module are...
+#### The broader course goals relevant to this module are...
 
 * I can design and build user interfaces
 * I test-drive my code
 
-And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md).
+And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/main/apprenticeship_starting_pack/course_goals.md).
 
 ### Resources
 
@@ -262,14 +269,14 @@ These exercises can be used for independent study, or enhanced by group discussi
 |                       | [Birthday][birthday]                                 |
 
 [capybara_workout]: https://capybara-workout.herokuapp.com/
-[servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md
-[clients]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md
-[http_servers]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md
-[birthday]: https://github.com/makersacademy/course/blob/master/intro_to_the_web/post_challenges/birthday_app.md
+[servers]: https://github.com/makersacademy/course/blob/main/practicals/servers_and_clients/servers.md
+[clients]: https://github.com/makersacademy/course/blob/main/practicals/servers_and_clients/clients.md
+[http_servers]: https://github.com/makersacademy/course/blob/main/practicals/servers_and_clients/http_servers.md
+[birthday]: https://github.com/makersacademy/course/blob/main/intro_to_the_web/post_challenges/birthday_app.md
 
 ### Pairing challenge
 
-[Intro to the web / Battle](https://github.com/makersacademy/course/tree/master/intro_to_the_web)
+[Intro to the web / Battle](https://github.com/makersacademy/course/blob/main/intro_to_the_web)
 
 ### Individual challenge
 
@@ -294,12 +301,12 @@ By the end of the module all developers can:
 * Follow an effective debugging process for database-backed web applications
 * Build a simple web app that can read from and write to a database
 
-#### The broader course goals relevent to this module are...
+#### The broader course goals relevant to this module are...
 
 * I can integrate a database
 * I can design a system
 
-And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/master/apprenticeship_starting_pack/course_goals.md).
+And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/main/apprenticeship_starting_pack/course_goals.md).
 
 ### Exercises for self-directed learning
 
@@ -314,10 +321,10 @@ These exercises can be used for independent study, or enhanced by pairing and gr
 | Build an app with a DB | [Message board][build-1]                       |
 
 [sqlmm]: https://mystery.knightlab.com/
-[build-1]: https://github.com/makersacademy/skills-workshops/tree/master/practicals/databases/blog
+[build-1]: https://github.com/makersacademy/course/blob/main/practicals/databases/blog
 [ruby-db-queries]: https://github.com/makersacademy/makers-sql-session
 [zoo]: https://sqlzoo.net/
-[ERD]: https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md
+[ERD]: https://github.com/makersacademy/course/blob/main/practicals/databases/entity_relationship_diagrams.md
 
 ### Resources
 
@@ -328,7 +335,7 @@ These exercises can be used for independent study, or enhanced by pairing and gr
 
 ### Pairing challenge
 
-[Bookmark Manager](https://github.com/makersacademy/course/blob/master/bookmark_manager/00_challenge_map.md)
+[Bookmark Manager](https://github.com/makersacademy/course/blob/main/bookmark_manager/00_challenge_map.md)
 
 ### Individual challenge
 
@@ -345,7 +352,7 @@ By the end of the module all developers can:
 * Test drive a simple command-line app using COBOL.
 * Follow an effective process for learning a new language
 
-#### The broader course goals relevent to this module are...
+#### The broader course goals relevant to this module are...
 
 * I test-drive my code
 * I use my own initiative
@@ -353,7 +360,7 @@ By the end of the module all developers can:
 
 ### Your challenge
 
-This week you'll work through the [cobol intro](https://github.com/makersacademy/cobol-intro/).  You'll mostly work solo but are encouraged to share knowledge, and struggles, with your peers!
+This week you'll work through the [COBOL intro](https://github.com/makersacademy/cobol-intro/).  You'll mostly work solo but are encouraged to share knowledge, and struggles, with your peers!
 
 Your coach will most likely arrange some ad-hoc sessions for that very purpose :)
 
@@ -376,14 +383,14 @@ By the end of this module all developers can:
 Some team meetings have been added to your schedule already:
 
 1. Team standups, where you'll quickly check in with each other and communicate your plans for the day.  Keep them brief. If you need time to discuss things in more detail, add specific meetings to your agenda for that.
-2. Team stand downs, where you'll quickly refelct on how your day has gone.  Again keep them brief.
+2. Team stand downs, where you'll quickly reflect on how your day has gone.  Again keep them brief.
 4. Sprint planning, where you'll aim to plan what work your team will take on in the next sprint.
 5. Sprint review, where you look back on the work done in the current sprint. If you had clients, they'd be in the room for this one.
 5. Sprint retrospectives, where you'll seek answers to the question "how can we be a better team?".  You'll think about what you did well, what could be improved and what actions you'll take to realise those improvements.
 
-You might consider adding these to your shedule:
+You might consider adding these to your schedule:
 
-1. Independent learning.  Make sure you strictly time box this and always include time for sharing what has been learned.  I'd recommend that you keep these to 45 mins plus 15 mins for sharing.
+1. Independent learning.  Make sure you strictly time box this and always include time for sharing what has been learned.  I'd recommend that you keep these to 45 minutes plus 15 minutes for sharing.
 2. Mobbing.  This is where you all 'gather around' one machine and write code together. It can be useful to have 3+ brains and pairs of eyes on a problem but these sessions can become tiresome.  Again, you should strictly time box these sessions.  You should also watch out for signs of disengagement – if you see them, it's time to mix things up.
 
 ### Why so many meetings??
@@ -392,13 +399,13 @@ For some of you, this will seem like overkill and you'll want to 'just get crack
 
 1 hour spent working on a really well understood task, pulling in the right direction, is worth infinitely more than 2 hours working on a poorly defined task, creating something that doesn't meet the specifications.
 
-[makersbnb]: https://github.com/makersacademy/course/tree/master/makersbnb
+[makersbnb]: https://github.com/makersacademy/course/blob/main/makersbnb
 
 ### Who will facilitate your meetings?
 
-On placement, you'll work in multidisciplinary teams, with people like Deliver Mangers and Product Managers, who provide vision and support.  This week, you'll do a lot of these things for yourselves.  I'd recommend that each day you nominate someone to faciliate team meetings.  Ideally, everyone in the team has at least one day in this role.
+On placement, you'll work in multidisciplinary teams, with people like Deliver Mangers and Product Managers, who provide vision and support.  This week, you'll do a lot of these things for yourselves.  I'd recommend that each day you nominate someone to facilitate team meetings.  Ideally, everyone in the team has at least one day in this role.
 
-As facilitator, your most important job is to create and maintain an friendly space so that everyone in the team feels comfortable contributing.  You might occasionally need to take a step back in order to do this well.
+As facilitator, your most important job is to create and maintain a friendly space so that everyone in the team feels comfortable contributing.  You might occasionally need to take a step back in order to do this well.
 
 ### What are the hallmarks of a great team?
 

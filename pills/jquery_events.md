@@ -21,11 +21,11 @@ $(document).ready(function(){
 });
 ```
 
-Our button has disappeared. See in in action here: http://jsfiddle.net/2FQr4/
+Our button has disappeared. See it in action here: http://jsfiddle.net/2FQr4/
 
 Now let's actually try to react to an event - in this case, let's do something when the button is clicked.
 
-To set up an event handler we'll use a jQuery method called `on`. We'll usually pass one argument to `on` the name of the event we want to react to - in this case we're reacting to a `click`. We'll also pass an anonymous function (i.e. the equivalent of a block), to our page to know what action to take when the event occurs - 
+To set up an event handler we'll use a jQuery method called `on`. We'll usually pass one argument to `on` the name of the event we want to react to - in this case we're reacting to a `click`. We'll also pass an anonymous function (i.e. the equivalent of a block), to our page to know what action to take when the event occurs -
 
 ```javascript```
 $('#add').on('click', function() {
@@ -121,7 +121,7 @@ $(document).ready(function() {
       var $newItem = $('<li>New item</li>')
       $newItem.appendTo('.items');
     });
-    
+
     $('.items').on('click', 'li', function() {
       $(this).remove();
     });

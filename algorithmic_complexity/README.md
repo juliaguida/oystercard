@@ -66,7 +66,7 @@ Once you have written a few, compare the shapes of different curves.
 
 **Resources**:
 
-* [A workshop about algorithm design](https://github.com/makersacademy/skills-workshops/tree/master/algorithmic_complexity/writing-algorithms)
+* [A workshop about algorithm design](https://github.com/makersacademy/skills-workshops/tree/main/algorithmic_complexity/writing-algorithms)
 * Watch the video recording of the workshop here: https://www.youtube.com/watch?v=uclAQBy1Epc&list=PLc4BYny7PXeSNl4uAOiDIbgX6GumDDqPC&index=2
 
 ### Making algorithms more efficient
@@ -89,15 +89,13 @@ There are two workshops supporting this topic.
 * [Here’s a table that shows the cost of operations on different data structures](https://en.wikipedia.org/wiki/Dynamic_array#Performance)
 * [Arrays](https://www.interviewcake.com/concept/python/array?) and [Dynamic Arrays](https://www.interviewcake.com/concept/python/dynamic-array)
 * [More on hashtables](https://www.interviewcake.com/concept/java/hash-map)
-* [Introduction to ruby hashes (an example of hash tables)](https://launchschool.com/blog/how-the-hash-works-in-ruby
-)
 * [An explanation of hashtables that has you build one in ruby](https://www.rubyguides.com/2017/02/hash-tables-explained/)
 
 - [ ] Looking at your less efficient algorithms, can you spot operations that have a high hidden cost?
 - [ ] Would some of your algorithms benefit from using a different data structure?
 - [ ] Challenge yourself to write linear functions for _shuffling_, _reversing_, _find duplicates_, _most frequent words_ and _sorting 0s and 1s_
 
-Here is a [practical](https://github.com/makersacademy/skills-workshops/blob/master/week-10-apprs/make_algorithms_faster_practical.md) to practice spotting hidden cost and making algorithms faster.
+Here is a [practical](https://github.com/makersacademy/skills-workshops/tree/main/week-10-apprs/make_algorithms_faster_practical.md) to practice spotting hidden cost and making algorithms faster.
 
 #### 2. Change the structure of your algorithm
 
@@ -111,7 +109,7 @@ The last workshop of the playlist touches on these topics. Watch here: https://w
 
 **Resources**:
 * [Divide and conquer algorithm](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm) on Wikipedia
-* [Recursion Demystified](https://medium.freecodecamp.org/recursion-demystified-99a2105cb871)
+* [Recursion Demystified](https://www.freecodecamp.org/news/recursion-demystified-99a2105cb871/)
 
 - [ ] Can you use this to make you sorting algorithm faster?
 

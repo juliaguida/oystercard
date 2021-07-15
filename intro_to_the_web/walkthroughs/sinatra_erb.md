@@ -11,7 +11,7 @@ First, let's add an `h1` tag, pre-filled with the 'static' content we _always_ w
 ```erb
 <h1>My name is </h1>
 <div style='border: 3px dashed red'>
-  <img src='http://bit.ly/1eze8aE'>
+  <img src='http://placekitten.com/500/500'>
 </div>
 ```
 
@@ -20,7 +20,7 @@ Now, let's add some ERB tags (`<% %>`) to print out the return value of a Ruby e
 ```erb
 <h1>My name is <% %></h1>
 <div style='border: 3px dashed red'>
-  <img src='http://bit.ly/1eze8aE'>
+  <img src='http://placekitten.com/500/500'>
 </div>
 ```
 
@@ -29,7 +29,7 @@ We need to remember to include the `=` after the first tag, otherwise the expres
 ```erb
 <h1>My name is <%= %></h1>
 <div style='border: 3px dashed red'>
-  <img src='http://bit.ly/1eze8aE'>
+  <img src='http://placekitten.com/500/500'>
 </div>
 ```
 
@@ -38,7 +38,7 @@ Now let's add an expression that samples some names from an array:
 ```erb
 <h1>My name is <%= ["Amigo", "Misty", "Almond"].sample %></h1>
 <div style='border: 3px dashed red'>
-  <img src='http://bit.ly/1eze8aE'>
+  <img src='http://placekitten.com/500/500'>
 </div>
 ```
 
@@ -49,7 +49,7 @@ When the page is rendered using `erb`, we should wind up with an HTML document t
 ```html
 <h1>My name is Oscar</h1>
 <div style='border: 3px dashed red'>
-  <img src='http://bit.ly/1eze8aE'>
+  <img src='http://placekitten.com/500/500'>
 </div>
 ```
 

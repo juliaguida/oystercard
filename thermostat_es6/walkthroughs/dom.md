@@ -6,7 +6,7 @@ You don't need to include anything to use the browser's DOM functions - they're 
 
 Before you address the thermostat, make sure that you understand some basic DOM concepts: `document.querySelector`, `document.querySelectorAll`, event listeners (`.addEventListener`), and callbacks.
 
-#### DOMContentLoaded
+#### `DOMContentLoaded`
 
 This utility function translates to "only execute the function when the document is ready", i.e. when the DOM is loaded. This is a good idea because it's difficult (but not impossible!) to attach an event listener to something that isn't there. Forgetting to wrap code in this is a common source of bugs.
 

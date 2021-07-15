@@ -16,7 +16,7 @@ Look out for a zoom link in your cohort channel on slack!
 | 1.30 - 2.00 | Meditation |
 | 2.00 - 2.45 | Meet the Coaches |
 | 2:45 - 3.00 | **BREAK** |
-| 3.00 - 4.45 | [Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/master/goals/README.md) |
+| 3.00 - 4.45 | [Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/main/goals/README.md) |
 | 4.45 - 5.00 | **BREAK**  |
 | 5.00 - 5.30 | Social time (optional) |
 
@@ -26,13 +26,13 @@ Make sure to read the [code of conduct guide](../../code_of_conduct_guide.md).  
 
 ## Learning at Makers
 
-[A summary](https://github.com/makersacademy/course/blob/master/pills/learning_at_makers.md).
+[A summary](https://github.com/makersacademy/course/blob/main/pills/learning_at_makers.md).
 
 **Useful docs** - read through these when you can today :) 
 
-* [Working from home](https://github.com/makersacademy/course/blob/master/pills/working-from-home.md).
+* [Working from home](https://github.com/makersacademy/course/blob/main/pills/working-from-home.md).
 
-* [Pairing](https://github.com/makersacademy/course/blob/master/pills/remote-pairing.md).
+* [Pairing](https://github.com/makersacademy/course/blob/main/pills/remote-pairing.md).
 
 ### Setting up your laptop
 

@@ -29,7 +29,7 @@ To stop the server, head to the terminal tab in which the server is running and 
 
 `$ ruby hello.rb`
 
-Head back to _http://localhost:4567/secret_: it now works! But restarting the server manually every time we change the code is going to get very painful.
+Head back to `http://localhost:4567/secret`: it now works! But restarting the server manually every time we change the code is going to get very painful.
 
 ## Automatic code reloading
 

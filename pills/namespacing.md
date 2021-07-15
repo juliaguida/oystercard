@@ -1,6 +1,6 @@
 # Namespacing
 
-Can we use modules on their own, without including them in classes? Yes, and it's fairly convenient way to group methods together to prevent name conflicts. For example, Ruby itself has a [Math](http://www.ruby-doc.org/core-2.0.0/Math.html) module that contains common trigonometric methods as well as constants PI and E. 
+Can we use modules on their own, without including them in classes? Yes, and it's fairly convenient way to group methods together to prevent name conflicts. For example, Ruby itself has a [Math](http://www.ruby-doc.org/core-2.0.0/Math.html) module that contains common trigonometric methods as well as constants PI and E.
 
 So, if you need to calculate a sine or PI / 2, you can do
 
@@ -19,9 +19,9 @@ module Math
 end
 ````
 
-The module math is not intended to be included in other classes (although it's possible) but simply serves as a namespace for methods and constants. Note that the method definition includes the name of the module (def Math.sin(x)). This makes it possible to call the sin() method without including Math in other classes.
+The module Math is not intended to be included in other classes (although it's possible) but simply serves as a namespace for methods and constants. Note that the method definition includes the name of the module (def Math.sin(x)). This makes it possible to call the sin() method without including Math in other classes.
 
-It's also possible to include modules and classes inside other modules and classes. For example, let's say you're writing a system that has a Client class corresponding to a real person. But then you decide to write another Client class, to represent a programme that connects to some server, for example an git client to connect to a git server.
+It's also possible to include modules and classes inside other modules and classes. For example, let's say you're writing a system that has a Client class corresponding to a real person. But then you decide to write another Client class, to represent a programme that connects to some server, for example a git client to connect to a git server.
 
 One solution would be to give them different names:
 

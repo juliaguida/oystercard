@@ -18,7 +18,7 @@ To help you achieve these goals:
 ## Action Plan
 In order to test my understanding of web apps and verify that I can build a simple web app with a form using an MVC framework, I will build a birthday greeter app.
 
-[Instructions and mockups here](https://github.com/makersacademy/course/blob/master/intro_to_the_web/post_challenges/birthday_app.md)
+[Instructions and mockups here](https://github.com/makersacademy/course/blob/main/intro_to_the_web/post_challenges/birthday_app.md)
 
 ## Evidence Plan
 - Can you explain how the information flows between the browser and your website?

@@ -79,8 +79,8 @@ To help, have a read through these pills. Writing smaller and better tickets wil
  - :pill: [Ticket splitting](../pills/splitting_stories.md)
  - [Ticket Estimation](https://www.atlassian.com/agile/project-management/estimation)
 
- - :pill:[Standups](https://github.com/makersacademy/course/blob/master/pills/student_standups.md)
- - :pill: [Sprint retros](https://github.com/makersacademy/course/blob/master/pills/project_retrospective.md)
+ - :pill:[Standups](https://github.com/makersacademy/course/blob/main/pills/student_standups.md)
+ - :pill: [Sprint retros](https://github.com/makersacademy/course/blob/main/pills/project_retrospective.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

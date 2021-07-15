@@ -1,6 +1,6 @@
 # A typical week at Makers
 
-This is the outline of what your first weeks at Makers will look like - as you progress into the course, this will change as those weeks will contain less and less coach-directed sessions, and more independent individual or team work. Remember to look at the [Week outlines](https://github.com/makersacademy/course/blob/master/week_outlines.md) to have more context on what will happen on a given week and the learning goals that will be covered.
+This is the outline of what your first weeks at Makers will look like - as you progress into the course, this will change as those weeks will contain less and less coach-directed sessions, and more independent individual or team work. Remember to look at the [Week outlines](https://github.com/makersacademy/course/blob/main/week_outlines.md) to have more context on what will happen on a given week and the learning goals that will be covered.
 
 ### Monday
 

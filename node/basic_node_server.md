@@ -2,7 +2,7 @@
 
 Many thanks to [Spike](http://github.com/spike01) for the original design of this component
 
-**There is a very, very condensed version of this walkthrough in the :pill:[JS Acceptance test pill](https://github.com/makersacademy/course/blob/master/pills/js_acceptance_tests.md), for ye of little patience**
+**There is a very, very condensed version of this walkthrough in the :pill:[JS Acceptance test pill](https://github.com/makersacademy/course/blob/main/pills/js_acceptance_tests.md), for ye of little patience**
 
 So, now that we can write unit tests and automate various tasks, it's time to take Node out on to the web. For this, we will be using the [Express framework](http://expressjs.com/), which has the same lightweight design philosophy as Sinatra. However, as Makers, we'll be wanting to write some tests first.  
 
@@ -143,7 +143,7 @@ Restart your server and run your test - it should go green!
 * See what happens if you replace `response.send` with `response.json` - can you see what this would be very useful for?
 * Write more tests and see if you can pass them! The documentation for Webdriver is [here](http://www.webdriver.io/guide.html)
 * If you want to see some examples of other testing frameworks, check out [Leo's node-mocha example](https://github.com/pitchinvasion/node-mocha) and Tony's [express-cucumber example](https://github.com/antonydenyer/express-cucumber). Remember to run `npm install` if you clone them to install dependencies. Leo's tests run with `npm test`, and Tony's with `make cucumber`.
-* Go to [the npm site](https://www.npmjs.com/browse/depended) and explore the packages there.
+* Go to [the npm site](https://www.npmjs.com/) and explore the packages there.
 * Have a look at how to use `response.render` - if you have any problems, don't worry, everything will be explained in the next walkthrough
 
 

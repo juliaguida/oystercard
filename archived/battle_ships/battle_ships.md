@@ -147,7 +147,7 @@ The idea of the _user interface_ (UI) is to provide our players with a good _use
 
 ### Resources
 
-- [An example MVP sequence for Battleships](https://github.com/makersacademy/course/blob/master/pills/mvp.md)
+- [An example MVP sequence for Battleships](https://github.com/makersacademy/course/blob/main/pills/mvp.md)
 - [Makers Lecture - Blocks, Procs and Lambdas](https://www.youtube.com/watch?v=2HTR4oOZ9iM)
 - [Battleships Game - Wikipedia](https://en.wikipedia.org/wiki/Battleship_(game))
 - [SOLID - Wikipedia](https://en.wikipedia.org/wiki/Solid_(object-oriented_design))

@@ -9,7 +9,7 @@ Before we refactor, our view looks something like this:
 ```erb
 <h1>My name is <%= ["Amigo", "Misty", "Almond"].sample %></h1>
 <div style='border: 3px dashed red'>
-  <img src='http://bit.ly/1eze8aE'>
+  <img src='http://placekitten.com/500/500'>
 </div>
 ```
 
@@ -39,7 +39,7 @@ Now, we can just access the instance variable within the view:
 ```erb
 <h1>My name is <%= @name %></h1>
 <div style='border: 3px dashed red'>
-  <img src='http://bit.ly/1eze8aE'>
+  <img src='http://placekitten.com/500/500'>
 </div>
 ```
 

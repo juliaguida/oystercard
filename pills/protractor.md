@@ -18,19 +18,21 @@ The documentation is not always the clearest, so this pill aims to act as a chea
 
 All the defaults are fine.
 
-### http-server
+### `http-server`
 
-[http-server](https://www.npmjs.com/package/http-server) serves static files (eg HTML, CSS and JavaScript) from a directory at a local URL (eg `http://localhost:8080`).
+[`http-server`](https://www.npmjs.com/package/http-server) serves static files (e.g. HTML, CSS and JavaScript) from a directory at a local URL (e.g. `http://localhost:8080`).
 
 It's a replacement for running your web app by opening the `index.html` file in a web browser.  Serving the web app files using `http-server` means they are available at a URL that can be accessed by Protractor.
 
-### Installing http-server
+### Installing `http-server`
 
-    $ npm install http-server --save
+```
+$ npm install http-server --save
+```
 
 `--save` adds `http-server` to your project's dependencies.  This lets people who download your project easily install the necessary dependencies and get the project running.
 
-### Setting up a node script alias to http-server
+### Setting up a node script alias to `http-server`
 
 Edit the `package.json` file in the root of your project.  Add an npm script alias for `start` that will run `http-server`:
 
@@ -50,7 +52,7 @@ This alias assumes that your web app code is in a folder called `app`.
 
 > For more on `package.json` and npm, see :pill: [npm](npm.md).
 
-### Running http-server
+### Running `http-server`
 
     $ npm run start
 
@@ -82,11 +84,11 @@ A program that gets commands like "click this button" from your tests and passes
 
 A library that lets your web browser understand the commands that Selenium sends.  There's one library for Chrome, one for Safari...
 
-### webdriver-manager
+### `webdriver-manager`
 
 The Protractor installation includes a program called `webdriver-manager`.  This program lets you install Selenium and a browser driver library.  It also lets you start the Selenium server.
 
-### Setting up a node script alias to webdriver-manager
+### Setting up a node script alias to `webdriver-manager`
 
 Edit the `package.json` file in the root of your project.  Add an npm script alias for `webdriver-manager`:
 
@@ -163,7 +165,7 @@ In a new terminal tab:
 
 You should see a Chrome browser window open up and navigate to the app, then close itself (this should be very fast!).  You should also see a dot to indicate that the test passed.
 
-If you don't see a dot, when you solve the problem, tell Mary what happened so she can improve this pill.
+If you don't see a dot, when you solve the problem, tell us what happened so she can improve this pill.
 
 [Written with the help of Yasmin's [notes on setting up Angular, Karma and Protractor](https://github.com/yasgreen93/setting_up_angular_notes). Thanks, Yasmin!]
 

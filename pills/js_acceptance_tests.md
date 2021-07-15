@@ -1,7 +1,7 @@
 #Javascript Acceptance/Integration/Feature Testing
 
 Listen up geeks. The tutorial below assumes you have done the pill on a
-[Basic Node Server](https://github.com/makersacademy/course/blob/master/node/basic_node_server.md).
+[Basic Node Server](https://github.com/makersacademy/course/blob/main/node/basic_node_server.md).
 
 Follow the steps below to get JS project setup for reliable acceptance testing:
 
@@ -14,21 +14,21 @@ Follow the steps below to get JS project setup for reliable acceptance testing:
 $ npm install -g selenium-standalone@latest
 $ selenium-standalone install
 ```
-#####3. Download and Install webdriverio locally to your project
+#####3. Download and Install `webdriverio` locally to your project
 ```sh
 $ npm install webdriverio --save-dev
 ```
-#####4. Download and Install chai locally to your project
+#####4. Download and Install `chai` locally to your project
 ```sh
 $ npm install chai --save-dev
 ```
-#####5. Download and Install mocha GLOBALLY 
+#####5. Download and Install mocha GLOBALLY
 ```sh
-$ npm install -g mocha 
+$ npm install -g mocha
 ```
-#####6. Download and Install mocha locally, so that it's in your `package.json` and future devs won't scratch their heads wondering why no tests are running 
+#####6. Download and Install mocha locally, so that it's in your `package.json` and future devs won't scratch their heads wondering why no tests are running
 ```sh
-$ npm install --save-dev mocha 
+$ npm install --save-dev mocha
 ```
 #####7. Example Setup
 `./views/index.html`
@@ -38,11 +38,11 @@ $ npm install --save-dev mocha
 <html lang="en">
 
   <title>Example Title</title>
-  
+
 <body>  
 
   <h1>Hello Makers</h1>
-  
+
 </body>
 
 </html>
@@ -64,7 +64,7 @@ describe('Homepage Tests', function() {
       done();
     });
   });
- 
+
   after(function(done) {
     client.end().then(function() {
       done();
@@ -77,12 +77,12 @@ describe('Homepage Tests', function() {
       .getTitle(function(err, title) {
         expect(err).to.not.be.true;
         expect(title).to.eql('Example Title');
-      }) 
+      })
       .call(done);
   });
-   
+
 });
- 
+
 ```
 
 ###Testing
@@ -93,7 +93,7 @@ $ selenium-standalone start
 ```
 #####2. Start your node server
 ```sh
-$ nodemon 
+$ nodemon
 ```
 or
 ```sh
@@ -103,7 +103,7 @@ $ npm start
 ```sh
 $ npm test
 ```
-or 
+or
 ```sh
 $ mocha
 ```
@@ -112,10 +112,10 @@ or
 ```sh
 $ grunt
 ```
-#####4. Bask in the glory of successful javascript testing.
+#####4. Bask in the glory of successful Javascript testing.
 
 ###Resources
-[WebdriverIO API Docs](http://www.webdriver.io/api.html)
+[`WebdriverIO` API Docs](http://www.webdriver.io/api.html)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

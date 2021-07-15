@@ -1,16 +1,16 @@
 # `rails console`
 
-> **PROTIP: level up your Rails-fu with [this guide to using Rails on the command line](http://guides.rubyonrails.org/command_line.html).**
+> **PROTIP: level up your Rails- skills with [this guide to using Rails on the command line](http://guides.rubyonrails.org/command_line.html).**
 
 Rails has a very handy way of letting you play around with the internals of your app.
 
 In Sinatra, you can run `irb` or `pry` to do this, but you also have to manually `require` your application's core files to get this running, which is a bit of a pain.
 
-In Rails, you can just run 
+In Rails, you can just run
 
 `$ rails console`
 
-and you're up and running. If you're in a hurry, you can type `rails c` instead. 
+and you're up and running. If you're in a hurry, you can type `rails c` instead.
 
 ### Basics
 

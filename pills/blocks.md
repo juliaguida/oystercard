@@ -2,7 +2,7 @@
 
 Blocks are a fundamental feature of Ruby. In fact, blocks are one of the reasons Ruby is so flexible and easy to use. Let's discuss the basics of using the blocks.
 
-In most cases, when calling a method, you pass simple objects – [Symbols](https://github.com/makersacademy/course/blob/master/pills/symbols.md), [Strings](https://github.com/makersacademy/course/blob/master/pills/strings.md), numbers – as arguments. However, you can also pass a block of code as an argument. This block of code is not executed immediately when the method is called but may be executed later.
+In most cases, when calling a method, you pass simple objects – [Symbols](https://github.com/makersacademy/course/blob/main/pills/symbols.md), [Strings](https://github.com/makersacademy/course/blob/main/pills/strings.md), numbers – as arguments. However, you can also pass a block of code as an argument. This block of code is not executed immediately when the method is called but may be executed later.
 
 For example, given an array of student names, we can iterate over this array by using this code:
 
@@ -34,7 +34,7 @@ Mary
 
 This is the most basic example of using blocks. Blocks can take several arguments (not just one) and they can be passed to any method, not just to one of the methods of class Array.
 
-You'll see blocks in the documentation for many [Ruby methods](https://github.com/makersacademy/course/blob/master/pills/methods.md). For example, if we have an array of names and we want to select the names that start with "A", we can use the [select()](http://www.ruby-doc.org/core-2.1.2/Array.html#method-i-select) method.
+You'll see blocks in the documentation for many [Ruby methods](https://github.com/makersacademy/course/blob/main/pills/methods.md). For example, if we have an array of names and we want to select the names that start with "A", we can use the [select()](http://www.ruby-doc.org/core-2.1.2/Array.html#method-i-select) method.
 
 ````ruby
 ["John", "Alice", "Amanda", "Bob"].select do |name|
@@ -101,7 +101,7 @@ If you don't pass the block to a method that expects it, then you'll see this er
 LocalJumpError: no block given (yield)
 ````
 
-The block can only appear immediately after the method invocation. You can't have standalone blocks that are not passed to any methods. However, it's possible to create standalone objects that behave like blocks: they are called procs (:pill: [procs](https://github.com/makersacademy/course/blob/master/pills/procs.md)) and lambdas (:pill: [lambdas](https://github.com/makersacademy/course/blob/master/pills/lambdas.md)).
+The block can only appear immediately after the method invocation. You can't have standalone blocks that are not passed to any methods. However, it's possible to create standalone objects that behave like blocks: they are called procs (:pill: [procs](https://github.com/makersacademy/course/blob/main/pills/procs.md)) and lambdas (:pill: [lambdas](https://github.com/makersacademy/course/blob/main/pills/lambdas.md)).
 
 ## do...end vs curly braces
 

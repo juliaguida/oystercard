@@ -17,13 +17,13 @@ Some Ruby concepts from least to most powerful:
 12. mixins
 13. inheritance
 
-Attr_* from least to most powerful:
+`attr_*` from least to most powerful:
 
-1. attr_reader
-2. attr_writer
-3. attr_accessor
+1. `attr_reader`
+2. `attr_writer`
+3. `attr_accessor`
 
-Wherever possible you should prefer the items with lower power to avoid uneccessary complexity.  Don't use a tool any more complex than you need, unless you really are getting something from it, such as special flexibility that you are pretty damn sure is going to support delivering value to the client.
+Wherever possible you should prefer the items with lower power to avoid unnecessary complexity.  Don't use a tool any more complex than you need, unless you really are getting something from it, such as special flexibility that you are pretty damn sure is going to support delivering value to the client.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

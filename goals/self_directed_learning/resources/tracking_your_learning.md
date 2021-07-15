@@ -12,16 +12,13 @@ In self-directed learning, one of the important aspects is to keep track of your
 * Matt (March 2019) records all his notes/learning/feedback in a [Github repo](https://github.com/mattTea/Portfolio)
 > It includes the goals, but also has all my projects, process, weekly goals (and in there my raw weekly notes), etc
 
-* Kim (March 2019) uses a custom tool:
-> Here is a [coding tracker template](https://docs.google.com/spreadsheets/d/1Mm8v544mnflkrIPhc6b_-tEGTLq9BC22liuTOZ9th9g/edit?usp=sharing) I've been using to log my long-term goals, weekly goals and daily goals. It was inspired by one of my friends, Linh from Codebar. She did a talk ages ago on how she tracked her competencies in her first dev job :slightly_smiling_face:
-
 * Guilherme has started writing a [blog](https://medium.com/@guilhermexunu) (April 2019)
 
 * Kiah (April 2019) is using both a [blog](http://www.coderkiah.com) and [Instagram](https://www.instagram.com/coderkiah/)
 
 * Paul (March 2019) keeps all his notes, including reflections and feedback on [Github](https://github.com/Hives/makers-notes)
 
-* Steven (April 2019) writes notes in markdown (here is [one example](https://hackmd.io/s/S1otqj56V)). He also **[records his screen regularly](https://www.youtube.com/channel/UCtXZ2rupF8wGyD5dFH3L0cQ/videos?view=0&sort=da&flow=grid)** to be able to look back at his process.
+* Steven (April 2019) writes notes in markdown (here is [one example](https://hackmd.io/s/S1otqj56V). He also **[records his screen regularly](https://www.youtube.com/channel/UCtXZ2rupF8wGyD5dFH3L0cQ/videos?view=0&sort=da&flow=grid)** to be able to look back at his process.
 
 * Aleks (May 2019) created a [google form](https://docs.google.com/forms/d/e/1FAIpQLSdvpx4Dwtpjh8ogPsKcKifkUh89u5PxaEVX-fycCaihAMu15Q/viewform) to gather feedback from their pair after each pairing session.
 

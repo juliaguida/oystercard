@@ -10,7 +10,7 @@ require 'sinatra/reloader' if development?
 
 get '/' do
   "<div>
-    <img src='http://bit.ly/1eze8aE'>
+    <img src='http://placekitten.com/500/500'>
    </div>"
 end
 ````
@@ -31,7 +31,7 @@ require 'sinatra/reloader' if development?
 
 get '/' do
   "<div style='border: 3px dashed red'>
-     <img src='http://bit.ly/1eze8aE'>
+     <img src='http://placekitten.com/500/500'>
    </div>"
 end
 ````
@@ -40,13 +40,13 @@ Now our web page looks like this:
 
 ![alt text](images/sinatra/sinatra_basic_5.png)
 
-To achieve this effect we added an **attribute** called **style** to the **div** element. Its **value** is "border: 3px dashed red". It defines what style is applied to the element, in this case a border, 3 pixels wide, dashed (as opposed to solid, for example), and red in colour.
+To achieve this effect we added an **attribute** called **style** to the **div** element. Its **value** is `border: 3px dashed red`. It defines what style is applied to the element, in this case a border, 3 pixels wide, dashed (as opposed to solid, for example), and red in colour.
 
 By combining HTML and CSS we can achieve sophisticated visual effects in our web applications. We'll explore the basics of how HTML and CSS work in more details later this week and we'll discuss advanced HTML and CSS features in weeks 7 and 8.
 
 Before we move on let's commit our code, push it to Github and switch Driver/Navigator Roles again&nbsp;:twisted_rightwards_arrows:
 
-Next up, we'll see if we can modularize some of our code into a _view_.
+Next up, we'll see if we can modularise some of our code into a _view_.
 
 [Go to part 5](sinatra_5.md)
 

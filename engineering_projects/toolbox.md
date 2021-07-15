@@ -2,18 +2,18 @@
 
 ## Here, you'll find help with the following scenarios
 
-* [We have this ticket, but don't know where to start on it.](https://github.com/makersacademy/course/blob/master/engineering_projects/toolbox.md#we-have-this-ticket-but-we-dont-know-where-to-start-on-it)
-* [We've finished our ticket, now we don't know what to do next](https://github.com/makersacademy/course/blob/master/engineering_projects/toolbox.md#weve-finished-our-ticket-now-we-dont-know-what-to-do-next)
-* [We're finding pairing difficult in our team](https://github.com/makersacademy/course/blob/master/engineering_projects/toolbox.md#were-finding-pairing-difficult-in-our-team)
-* [We're not sure we're learning much without a tutorial](https://github.com/makersacademy/course/blob/master/engineering_projects/toolbox.md#were-not-sure-were-learning-much-without-a-tutorial)
-* [What should we test in a Rails app?](https://github.com/makersacademy/course/blob/master/engineering_projects/toolbox.md#what-should-we-test-in-a-rails-app)
-* [I've spent two days working on a problem, and I'm still blocked!](https://github.com/makersacademy/course/blob/master/engineering_projects/toolbox.md#ive-spent-two-days-working-on-a-problem-and-im-still-blocked)
+* [We have this ticket, but don't know where to start on it.](https://github.com/makersacademy/course/blob/main/engineering_projects/toolbox.md#we-have-this-ticket-but-we-dont-know-where-to-start-on-it)
+* [We've finished our ticket, now we don't know what to do next](https://github.com/makersacademy/course/blob/main/engineering_projects/toolbox.md#weve-finished-our-ticket-now-we-dont-know-what-to-do-next)
+* [We're finding pairing difficult in our team](https://github.com/makersacademy/course/blob/main/engineering_projects/toolbox.md#were-finding-pairing-difficult-in-our-team)
+* [We're not sure we're learning much without a tutorial](https://github.com/makersacademy/course/blob/main/engineering_projects/toolbox.md#were-not-sure-were-learning-much-without-a-tutorial)
+* [What should we test in a Rails app?](https://github.com/makersacademy/course/blob/main/engineering_projects/toolbox.md#what-should-we-test-in-a-rails-app)
+* [I've spent two days working on a problem, and I'm still blocked!](https://github.com/makersacademy/course/blob/main/engineering_projects/toolbox.md#ive-spent-two-days-working-on-a-problem-and-im-still-blocked)
 
 
 
 
 #### We have this ticket, but we don't know where to start on it
-https://github.com/makersacademy/acebook-rails-template/blob/master/CONTRIBUTING.md
+https://github.com/makersacademy/acebook-rails-template/blob/main/CONTRIBUTING.md
 
 - Spend some time investigating how to approach it.
 - List out the things that need to be done, try to list them out in as small a piece as possible
@@ -24,7 +24,7 @@ https://github.com/makersacademy/acebook-rails-template/blob/master/CONTRIBUTING
 - Choose the smallest and easiest ticket first
 
 #### We've finished our ticket, now we don't know what to do next
-https://github.com/makersacademy/acebook-rails-template/blob/master/CONTRIBUTING.md
+https://github.com/makersacademy/acebook-rails-template/blob/main/CONTRIBUTING.md
 
 0. In the Unestimated list, split a big ticket into smaller tickets if needed.
 1. Estimate how long the tickets will take
@@ -33,7 +33,7 @@ https://github.com/makersacademy/acebook-rails-template/blob/master/CONTRIBUTING
 4. Complete Ticket
 5. Move it to Review
 6. Check with team for review (what is your review process?)
-7. Merge to master if needed
+7. Merge to the main branch if needed
 8. Move to Done
 9. Repeat from 3. Or from 1 if none are left
 

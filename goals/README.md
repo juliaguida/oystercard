@@ -34,7 +34,7 @@ You will know when to put in more effort, when to slow down, change focus, emplo
 
 * Take part in the projects and assignments of the course, including pairing and team projects.
 
-* Work towards the goals of the course as outlined by the coaching team. See the [course level goals here](https://github.com/makersacademy/course/blob/master/goals/course_goals.md).
+* Work towards the goals of the course as outlined by the coaching team. See the [course level goals here](https://github.com/makersacademy/course/blob/main/goals/course_goals.md).
 
 * Frequently seek feedback on your work in order to achieve a professional standard.
 
@@ -62,7 +62,7 @@ And then there's the matter of making the environment as rich in opportunities t
 In weeks 1-5:
 
 ### Morning
-* **09.30–12.30: Goal-directed project work.** You'll work independently on projects to achieve goals. You’ll use your [own way of tracking your goals](https://github.com/makersacademy/course/blob/master/goals/self_directed_learning/resources/tracking_your_learning.md) to self-assign projects and assess your progress.
+* **09.30–12.30: Goal-directed project work.** You'll work independently on projects to achieve goals. You’ll use your [own way of tracking your goals](https://github.com/makersacademy/course/blob/main/goals/self_directed_learning/resources/tracking_your_learning.md) to self-assign projects and assess your progress.
 
 Coaches will be running workshops, mini projects, 1:1s, or will generally be available to chat to.
 

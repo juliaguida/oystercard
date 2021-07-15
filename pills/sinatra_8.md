@@ -34,7 +34,7 @@ It refers to an absolute URL, that is, a URL that includes everything: the proto
 
 In other words, if a friend of yours open the kitten website you just created from another computer, she will get the HTML code but she won't see the kitten because localhost will refer to her computer and not yours.
 
-Even if you're planning to make this website available later on my-lovely-kitten.com, it's a bad idea to use an absolute url because then you will need this website to be up and running while you're developing it (and you haven't finished building it yet). Catch 22. Finally, your website may be available on several different domains, e.g. my-lovely-kitten.com and my-lovely-kitten.co.uk. Which address to use in this case? The correct answer is to not use absolute URLs unless you have a good reason to.
+Even if you're planning to make this website available later on my-lovely-kitten.com, it's a bad idea to use an absolute URL because then you will need this website to be up and running while you're developing it (and you haven't finished building it yet). Catch 22. Finally, your website may be available on several different domains, e.g. my-lovely-kitten.com and my-lovely-kitten.co.uk. Which address to use in this case? The correct answer is to not use absolute URLs unless you have a good reason to.
 
 So, how do we link to the image without mentioning the server address? Use a relative URL, like this:
 
@@ -42,7 +42,7 @@ So, how do we link to the image without mentioning the server address? Use a rel
 <img src='/images/kitten.png'>
 ```
 
-This tells the browser to use the address of the current website to fetch the page. So, for example, if this HTML page is server on localhost:4567, your browser will request this image:
+This tells the browser to use the address of the current website to fetch the page. So, for example, if this HTML page is server on `localhost:4567`, your browser will request this image:
 
 ```
 http://localhost:4567/images/kitten.png
@@ -51,7 +51,7 @@ http://localhost:4567/images/kitten.png
 But if you have deployed your site to production and it's now running on my-lovely-kitten.com, your browser will fetch the image from
 
 ```
-http://my-lovely-kitten.com/images/kitten.png
+http://example.org/images/kitten.png
 ```
 
 This applies not only to files but to all URLs. Remember, when we created a form, we used a relative URL?
@@ -62,9 +62,9 @@ This applies not only to files but to all URLs. Remember, when we created a form
 
 We could have used an absolute URL but it would have worked only on the computer the website is being developed on.
 
-##  Two kinds of relative urls
+##  Two kinds of relative URLs
 
-So far when we were discussing relative URLs we assumed they were relative to the domain. So, if a web page at http://locahost:4567/ has this HTML, the browser will interpret it as http://localhost:4567/images/kitten.png.
+So far when we were discussing relative URLs we assumed they were relative to the domain. So, if a web page at `http://locahost:4567/` has this HTML, the browser will interpret it as `http://localhost:4567/images/kitten.png`.
 
 ```html
 <img src='/images/kitten.png'>

@@ -387,17 +387,17 @@ if (exclaim(repeat, "hi") !== "hi!!!!!") {
 
 Different developers use different syntaxes to achieve the module pattern.  In this article, we've explored one of those ways.  The way the pattern is achieved isn't very important.  The important part is achieving the goal of encapsulation.
 
-If you are *serving* your code (not just opening an html file directly in a browser), you can also use the new "modules in browsers" for encapsulation. See here for more details: https://jakearchibald.com/2017/es-modules-in-browsers/
+If you are *serving* your code (not just opening an HTML file directly in a browser), you can also use the new "modules in browsers" for encapsulation. See here for more details: https://jakearchibald.com/2017/es-modules-in-browsers/
 
 ## Build tools
 
-The module pattern is a hack to deal with the fact that earlier browser JavaScript specifications don't provide a standard way to import code from a module.  Using `require` is much nicer.  Some people use build tools like Webpack and Browserify to let them use require in browser JavaScript code.  These tools take all the JavaScript files in a project and lightly rewrite the code to turn the `require` expressions into code that will work in the browser.
+The module pattern is a hack to deal with the fact that earlier browser JavaScript specifications don't provide a standard way to import code from a module.  Using `require` is much nicer.  Some people use build tools like `Webpack` and `Browserify` to let them use require in browser JavaScript code.  These tools take all the JavaScript files in a project and lightly rewrite the code to turn the `require` expressions into code that will work in the browser.
 
 However, while using a build tool can solve this problem, it adds another layer of complexity to your setup.
 
 ## Resources
 
-- [JavaScript module pattern workshop](https://github.com/makersacademy/skills-workshops/tree/master/further_javascript/javascript-module-pattern-workshop). Includes a whole app example of using the module pattern.
+- [JavaScript module pattern workshop](https://github.com/makersacademy/skills-workshops/tree/main/further_javascript/javascript-module-pattern-workshop). Includes a whole app example of using the module pattern.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

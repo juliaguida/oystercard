@@ -48,7 +48,7 @@ Enjoy these challenges - they are either adapted or directly copied from actual 
 
 ### Resources
 
-* [Tech test checklist](https://github.com/makersacademy/jobhunters/tree/master/pills/tech_tests)
+* [Tech test checklist](https://github.com/makersacademy/jobhunters/tree/main/pills/tech_tests)
 * [The Coding Dojo Handbook (recommended reading post-course)](https://leanpub.com/codingdojohandbook)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

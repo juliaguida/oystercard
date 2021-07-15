@@ -8,7 +8,7 @@ If/else statements are exactly what they sound like. We want some code to run if
 
 ````ruby
 hungry = true
-		
+
 if hungry
   puts "I'm hungry and would like some food."
 else
@@ -26,7 +26,7 @@ Try changing hungry to false and running it again - it will run the second puts 
 
 ````ruby
 hungry = true
-		
+
 if hungry == true
   puts "I'm hungry and would like some food."
 else
@@ -77,7 +77,7 @@ if hungry
 end
 ````
 
-It's also easy if we're doing a comparison that evaluates to an boolean value
+It's also easy if we're doing a comparison that evaluates to a boolean value
 
 ````ruby
 correct_answer = 4
@@ -93,27 +93,27 @@ But what if we are evaluating something that is not a boolean?
 if :france
   puts "will this be printed?"
 end
-		 
+
 if 7
   puts "and this?"
 end
-		 
+
 if nil
   puts "and this too?"
 end
-		 
+
 if false
   puts "but surely not this?"
 end
-		 
+
 if {:pi => 3.14.15.926}
   puts "what about a hash?"
 end
-		 
+
 if ""
   puts "or an empty string"?
 end
-		 
+
 if 0
   puts "and even zero!"
 end
@@ -129,7 +129,7 @@ A very common Ruby trick is to write if-statements on one line if they are short
 if hungry
   puts "let's go out"
 end
-		 
+
 puts "let's go out" if hungry
 ````
 
@@ -148,11 +148,11 @@ size <= 22 # true if size is less or equal to 22
 30 != 15 # true
 ````
 
-Let's go through each of these line by line. The first one you know, it's evaluating equality. If hungry is assigned a value of true, the entire comparison will evaluate to true. 
+Let's go through each of these line by line. The first one you know, it's evaluating equality. If hungry is assigned a value of true, the entire comparison will evaluate to true.
 
 Why does equality use two "=" instead of one? Because one "=" is what we use for assignment operators such as when we change the value of a variable.
 
-The next four comparisons should be familiar from the school math. They are greater than, greater than or equal to, less than, and less than or equal to, respectively.
+The next four comparisons should be familiar from school math. They are greater than, greater than or equal to, less than, and less than or equal to, respectively.
 
 The final comparison may look strange, but it simply means "not equal to" and is the opposite of "==" The example we've provided of "30 != 15" would evaluate to true because they're not equal.
 
@@ -162,7 +162,7 @@ Unless statements are the opposite of if/else statements - they will always run 
 
 ````ruby
 hungry = false
-		
+
 unless hungry
   puts "Don't eat food"
 end
@@ -174,7 +174,7 @@ Some Ruby developers find "unless" confusing, especially if it's used with compl
 
 ````ruby
 hungry = false
-		
+
 if !hungry
   puts "Don't eat food"
 end
@@ -189,7 +189,7 @@ This code does exactly the same thing as the example above it. Here, the bang (e
 
 ## Switch Statements
 
-After a certain point, if/else statements will get a bit too large for comfort. For example, if we wanted to create a bit of code that prints out the name of a fruit and its color, we might do it with if/else statements like this:
+After a certain point, if/else statements will get a bit too large for comfort. For example, if we wanted to create a bit of code that prints out the name of a fruit and its colour, we might do it with if/else statements like this:
 
 ````ruby
 if fruit == "apple"

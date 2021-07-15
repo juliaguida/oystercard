@@ -1,7 +1,7 @@
 RSpec "Subject"
 ===============
 
-RSpec ['subject'](http://www.relishapp.com/rspec/rspec-core/v/3-2/docs/subject) is a feature of RSpec that allows you to use the method call 'subject' to refer to a newly instantiated instance of the class under test, e.g. 
+RSpec ['subject'](http://www.relishapp.com/rspec/rspec-core/v/3-2/docs/subject) is a feature of RSpec that allows you to use the method call 'subject' to refer to a newly instantiated instance of the class under test, e.g.
 
 ```ruby
 describe MyObject do
@@ -13,7 +13,7 @@ describe MyObject do
 end
 ```
 
-Some developers will prefer to use let(:myobject) to get more explicit naming of the entity under test although you can also achieve the same effect with alias_method, like so:
+Some developers will prefer to use `let(:myobject)` to get more explicit naming of the entity under test although you can also achieve the same effect with alias_method, like so:
 
 ```ruby
 describe MyObject do
@@ -26,7 +26,7 @@ describe MyObject do
 end
 ```
 
-although at this point you might ask what we are saving over just using `let(:myobject) { MyObject.new }`, however subject is used in other ways by RSpec, and it's good to have a working knowledge of how subject can be used explcitly and implicitly and as part of one liners.  See http://www.relishapp.com/rspec/rspec-core/v/3-2/docs/subject for more details.
+although at this point you might ask what we are saving over just using `let(:myobject) { MyObject.new }`, however subject is used in other ways by RSpec, and it's good to have a working knowledge of how subject can be used explicitly and implicitly and as part of one liners.  See http://www.relishapp.com/rspec/rspec-core/v/3-2/docs/subject for more details.
 
 Using the subject shows that you know about this feature of RSpec, but it should be used "tastefully" , i.e. your code your be appropriately DRY, but also readable and comprehensible.
 

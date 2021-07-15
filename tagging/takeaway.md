@@ -14,7 +14,7 @@ Feel free to amend this plan, evidence, goals etc as much as you like to cater t
 - Go through the review rubric in docs
 - Ask these questions of your code — the answers should all be yes:
 - Do the tests pass?
-- Does rubocop pass?
+- Does Rubocop pass?
 - If you break the code, do the tests fail?
 - Is the code straightforward and easy to read? Does someone who isn't me think so?
 - Is the code well designed? (e.g. broken into multiple objects, each with a single responsibility)

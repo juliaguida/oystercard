@@ -19,7 +19,7 @@ Before we dive into using the command line, it's important to discuss the distin
 
 So what is the command line exactly? The command line is how we interact directly with the underlying code of our computer. Every computer has some way of accessing the command line. In fact, the command line is the primary interface that your computer uses. The graphical user interface (all the beautiful windows you can open) is just a more accessible way of using your computer that is often but not always available. Servers, for example, often don't have graphical interface at all, so command line is the only way to work with them.
 
-Using the command line on a Mac is done through the "Terminal" application. You can find it using Spotlight (the built-in search functionality in OSX). Press this combination:
+Using the command line on a Mac is done through the "Terminal" application. You can find it using Spotlight (the built-in search functionality in OS X). Press this combination:
 
 `⌘ + Space Bar`
 
@@ -29,7 +29,7 @@ The terminal application will open and you'll see something like this:
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380900937026_Screen%20Shot%202013-10-04%20at%2016.35.09.png "Bash image")
 
-As you can see, it will show you the name of your computer ("Makers Academy laptop") and what directory you're currently in ("Desktop"), followed by the name of the currently logged in user. At the end of the prompt, you'll see a dollar sign ($). This just represents the end of the prompt so if you ever see it used as an example, it doesn't need to be typed in. 
+As you can see, it will show you the name of your computer ("Makers Academy laptop") and what directory you're currently in ("Desktop"), followed by the name of the currently logged in user. At the end of the prompt, you'll see a dollar sign ($). This just represents the end of the prompt so if you ever see it used as an example, it doesn't need to be typed in.
 
 Directories in the command line are just a different way to access the directories you already have on your computer. So, for example, you can see in the screenshot that I'm currently in the "Desktop" directory. If I were to delete a file that's in that directory from the command line, it will delete it from the user-interface that you're used to using as well.
 
@@ -84,7 +84,7 @@ Okay, the "Desktop" directory is great, but what if I want to access other folde
 
 ` cd ..`
 
-The "cd" stands for "change directory" and the ".." tells us to move up to the parent directory. (Just for future reference, a "." represents "the directory I'm in" and ".." represents the parent directory.) Desktop's parent directory is usually the home directory and, as mentioned before, this is connotated by ~
+The "cd" stands for "change directory" and the ".." tells us to move up to the parent directory. (Just for future reference, a "." represents "the directory I'm in" and ".." represents the parent directory.) Desktop's parent directory is usually the home directory and, as mentioned before, this is denoted by ~
 
 ![alt text]( https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380901427436_Screen%20Shot%202013-10-04%20at%2016.43.32.png "cd")
 
@@ -176,18 +176,18 @@ If, instead of a directory, we wanted to remove a file. We would simply use "rm"
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380901891615_Screen%20Shot%202013-10-04%20at%2016.51.21.png "rm")
 
-Now let's try something else. Let's create a new directory called "SomeDir," change to that directory, create an empty file  called "someFile" and then change back out to its parent directory:
+Now let's try something else. Let's create a new directory called `SomeDir` change to that directory, create an empty file  called `someFile` and then change back out to its parent directory:
 
 ` mkdir SomeDir`
 ` cd SomeDir`
 ` touch someFile`
 ` cd ..`
 
-What if we wanted to remove "SomeDir"? Let's try running "rmdir" again:
+What if we wanted to remove `SomeDir`? Let's try running `rmdir` again:
 
 ` rmdir SomeDir `
 
-What? You got an error? 
+What? You got an error?
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380901939458_Screen%20Shot%202013-10-04%20at%2016.52.08.png "rmdir error")
 
@@ -240,9 +240,9 @@ If we now change directories to the parent and list the contents, we'll see the 
 
 ![alt text]( https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380902147077_Screen%20Shot%202013-10-04%20at%2016.55.28.png "mv")
 
-Did you notice how I had to confirm the name "newFile" when declaring the destination as well? This means that we can actually use the "mv" command to rename files without even moving them.
+Did you notice how I had to confirm the name `newFile` when declaring the destination as well? This means that we can actually use the "mv" command to rename files without even moving them.
 
-Let's go back into our "SomeDir" directory to bring newFile back over and I'll show you what I mean:
+Let's go back into our "SomeDir" directory to bring `newFile` back over and I'll show you what I mean:
 
 ` cd SomeDir`
 ` mv ../newFile newFile`
@@ -285,7 +285,7 @@ You'll see a blinking cursor on the next line for you type some text in. Go ahea
 `Those who understand binary and those who don't`
 `^C`
 
-The ^C interrupts the command and is done with Ctrl+C.
+The ^C interrupts the command and is done with `Ctrl+C`.
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380902655200_Screen%20Shot%202013-10-04%20at%2017.04.03.png "cat > ")
 
@@ -308,15 +308,17 @@ Ta-da. It's magic.
 
 What if we need to work with larger amounts of text? Copy the following text into another text document and save it in "SomeDir" as "longText.txt"
 
-*Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.*
+```
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-*It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).*
- 
-*Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.*
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 
-*The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.*
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-*There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.*
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+```
 
 As usual, let's double-check to make sure everything worked correctly:
 
@@ -350,15 +352,15 @@ We can view the last few lines of a file just as easily with:
 
 ` tail -f log.txt `
 
-OSX, the operating system on the Mac, uses a number of log files. You can peek at what your computer is doing by running
+OS X, the operating system on the Mac, uses a number of log files. You can peek at what your computer is doing by running
 
 `tail -f /private/var/log/system.log `
 
-First you'll see the last 10 messages. If you quit or start some application, your Terminal will be updated with new messages describing what's going on. To stop tailing the log, press Ctrl-C.
+First you'll see the last 10 messages. If you quit or start some application, your Terminal will be updated with new messages describing what's going on. To stop tailing the log, press `Ctrl-C`.
 
 #### Getting Help
 
-There will be any number of situations where you'll have a question about what command to use or wonder what a command is truly designed for. Let's see how to handle those situations. 
+There will be any number of situations where you'll have a question about what command to use or wonder what a command is truly designed for. Let's see how to handle those situations.
 
 `man ls `
 
@@ -377,13 +379,13 @@ The square brackets in synopsis mean that the parameter or switch is optional. F
 
 Every program on your computer has at least three "standard streams" associated with it. Streams are just channels used to connect the input and the output of the program to the environment (usually the terminal). The keyboard is referred to as an input stream. By reading from the input stream your program can read what you have typed on the keyboard. The screen is referred to as an output stream. By sending data to the output stream, a program can print something on the screen. There is also an error stream that is usually sent to the display as well but is used only to print error messages.
 
-The input stream is usually called stdin and has number 0. The output stream is stdout (#1) and the error stream is called stderr (#2).
+The input stream is usually called `STDIN` and has number 0. The output stream is `STDOUT` (#1) and the error stream is called `STDERR` (#2).
 
 ![alt text](http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Stdstreams-notitle.svg/535px-Stdstreams-notitle.svg.png "stout")
 
 (source: [Wikipedia](http://en.wikipedia.org/wiki/File:Stdstreams-notitle.svg)).
 
-Why do we need to know all of this? Because we can redirect the streams, connecting different streams from different programs. This will allow us to perform some sophisticated tasks. 
+Why do we need to know all of this? Because we can redirect the streams, connecting different streams from different programs. This will allow us to perform some sophisticated tasks.
 
 #### Pipes and Redirection
 
@@ -391,7 +393,7 @@ Pipes allow you to redirect streams. For example:
 
 `cat combined.txt | less`
 
-The "|" symbol, also known as a "pipe," passes the output stream (what would normally be printed on the screen) of the command to the left of the pipe to the input stream of the command on the right. So in this example it's passing the output of the file "combined.txt" into the "less" command that we learned about earlier.
+The "|" symbol, also known as a "pipe," passes the output stream (what would normally be printed on the screen) of the command to the left of the pipe to the input stream of the command on the right. So in this example it's passing the output of the file `combined.txt` into the "less" command that we learned about earlier.
 
 This will make "less" take the input from the input stream as opposed to opening the file given as an argument. The output of `cat combined.txt` will not be shown on the screen at all since we redirected the output stream to the input stream of `less`.
 
@@ -405,7 +407,7 @@ In addition to redirecting the output stream of one program to the input stream 
 
 `cat combined.txt > newCombined.txt`
 
-The greater-than symbol writes the output stream of the command on the left to the file on the right. Wait, we didn't have a "newCombined.txt" file before, did we? Let's check the folder's contents now.
+The greater-than symbol writes the output stream of the command on the left to the file on the right. Wait, we didn't have a `newCombined.txt` file before, did we? Let's check the folder's contents now.
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380904304651_Screen%20Shot%202013-10-04%20at%2017.31.33.png "terminal")
 
@@ -415,17 +417,17 @@ What happened is that we wrote the output of "combined" into a new file that we 
 
 As our programs get larger and we have to start wading through large numbers of files, the time will come when we want to have more control over how we look at the system. Let's look at a helpful way to do this.
 
-If we look again at the contents of our SomeDir folder, you should see this:
+If we look again at the contents of our `SomeDir` folder, you should see this:
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380904351261_Screen%20Shot%202013-10-04%20at%2017.32.22.png "ls")
 
-We have 1 text file and 6 other files. With only 7 files, finding what we want is pretty easy. But what if we had 7,000 files? Wildcards is the answer. 
+We have 1 text file and 6 other files. With only 7 files, finding what we want is pretty easy. But what if we had 7,000 files? Wildcards is the answer.
 
 This is how you'd list just the text files:
 
 `ls *.txt`
 
-The asterisk acts as a wildcard, telling the computer to only show you the files that end in .txt. You can use the wildcard in various scenarios. Take a guess at what each of these do before running them:
+The asterisk acts as a wildcard, telling the computer to only show you the files that end in `.txt`. You can use the wildcard in various scenarios. Take a guess at what each of these do before running them:
 
 `ls new*.txt`
 `ls *`
@@ -437,19 +439,19 @@ Another way to list specific files is by using the "find" command. It looks like
 
 `find . -name "*.txt" -print`
 
-This command works a lot just like normal English. It's saying: "find all files, starting with the current directory, with any name that ends in .txt and print it to the screen." Another cool feature of the "find" command is that, if you have additional directories inside the directory you search in, it will go into those directories as well and continue the search. Therefore, this is how we'd print out every text file in our home directory:
+This command works a lot just like normal English. It's saying: "find all files, starting with the current directory, with any name that ends in `.txt` and print it to the screen." Another cool feature of the "find" command is that, if you have additional directories inside the directory you search in, it will go into those directories as well and continue the search. Therefore, this is how we'd print out every text file in our home directory:
 
 `cd ~`
 `find . -name "*.txt" -print`
 
 The first command you already know - to change directories into your home directory. The second command is just using the find command again to tell it to go through and print all text files in the Home directory, plus any other directories inside your home directory.
 
-So, knowing everything that we know now, how could you create a text document that lists out every mp3 file in your Music directory? (Not everyone uses and stores their music the same way, so you may not be able to find any mp3 files on your computer, but you should understand how it works.)
+So, knowing everything that we know now, how could you create a text document that lists out every `mp3` file in your Music directory? (Not everyone uses and stores their music the same way, so you may not be able to find any `mp3` files on your computer, but you should understand how it works.)
 
 `cd ~/Music`
 `find . -name *.mp3 -print > myMusic.txt`
 
-Both wildcards and "find" are useful for displaying specific files, but what if we want to look inside those files? If you remember from earlier, we've created a few text files in SomeDir. What if I wanted to look at only those files with the word "binary" inside the file? That's where grep comes in.
+Both wildcards and "find" are useful for displaying specific files, but what if we want to look inside those files? If you remember from earlier, we've created a few text files in `SomeDir`. What if I wanted to look at only those files with the word "binary" inside the file? That's where grep comes in.
 
 `grep binary *.txt`
 
@@ -487,13 +489,13 @@ The "wc" command gives us the "word count" - among some other things.
 
 ![alt text]( https://dchtm6r471mui.cloudfront.net/hackpad.com_ymW6Sl1t69J_p.52567_1380907084407_Screen%20Shot%202013-10-04%20at%2018.17.56.png "counting workds")
 
-You can see that this command gaves us back 3 numbers: 9 - 492 - 3005. These are the line, word and character counts for the longText.txt file.
+You can see that this command gives us back 3 numbers: 9 - 492 - 3005. These are the line, word and character counts for the longText.txt file.
 
-And again, you can use pipes to count the output of other programs. How many readme files do we have in the home directory?
+And again, you can use pipes to count the output of other programs. How many README files do we have in the home directory?
 
 `find ~ -name "*.txt" -print | grep README | wc -l`
 
-First, find will find all text files, then grep will select those that have "readme" in their name and "wc -l" will count how many lines were given to it by grep. On my computer I have 24 readme files in my home directory.
+First, find will find all text files, then grep will select those that have `README` in their name and `wc -l` will count how many lines were given to it by grep. On my computer I have 24 `README` files in my home directory.
 
 #### Permissions
 
@@ -501,13 +503,18 @@ You can control the access to every file on your computer: some files can be rea
 
 `whoami`
 
+<!-- spellchecker-disable -->
+<!-- Pending our adding unix to https://github.com/retextjs/retext-indefinite-article -->
+
 Every file on a unix-based system has three classes of permissions: "user", "group" and "others". Every class has three permissions: read, write and execute. This allows us to give, for example, read and write access to the owner of the file, only read access to the group it belongs to and no access at all to all other users. Let's discuss classes and permissions in more details.
+
+<!-- spellchecker-enable -->
 
 "User" class determines the permissions that the owner of the file has. Every file on a Unix-like system has some user as an owner. A file can have at most one owner and not more.
 
 "Group" class determines the permissions that apply to a group of user. Any user can belong one or more groups of users (but doesn't have to). For example, if there are several users who access the computer only remotely, they may be organised into a special group that has limited privileges.
 
-"Others" class applies to all users that don't fall into the other two classes. 
+"Others" class applies to all users that don't fall into the other two classes.
 
 The "read" permission allows a file to be read. When applied to a directory, it allows to list directory's contents, that is, to see the list of files.
 
@@ -539,7 +546,7 @@ The second group are the permissions for the "group" class, that is, a group of 
 
 Finally, the last three characters are permissions for the "other" class of users.
 
-In the screenshot above, the longText.txt only had read permission for all users, while someFile has write permission for the group of users, unlike all other files.
+In the screenshot above, the `longText.txt` only had read permission for all users, while `someFile` has write permission for the group of users, unlike all other files.
 
 #### Changing permissions
 
@@ -569,9 +576,9 @@ For example, you may be already familiar with irb (pronounced eye-are-bee), the 
 
 ![alt text]( https://dchtm6r471mui.cloudfront.net/hackpad.com_o6W2ogQY8Xc_p.52567_1381140613000_Screen%20Shot%202013-10-07%20at%2011.10.05.png "irb")
 
-How can we run our little program just like irb by typing its name in the terminal without explicitely invoking ruby? We'll need to do two things: fix the permissions and add a shebang. Let's try running the file first.
+How can we run our little program just like irb by typing its name in the terminal without explicitly invoking ruby? We'll need to do two things: fix the permissions and add a shebang. Let's try running the file first.
 
-Make sure you quit irb if you launched it. 
+Make sure you quit irb if you launched it.
 
 `$ ./hello.rb`
 `-bash: ./hello.rb: Permission denied`
@@ -589,7 +596,7 @@ Try running the file right now. The permission denied error is now gone but we g
 
 So the terminal (or the shell, to be more precise) complains that it doesn't know what "puts" on line 1 means: command not found. Why is that?
 
-Try to see the situation from the computer's point of view. We asked it to run a program in the file hello.rb but we didn't tell the computer what programming language it was. Was it Ruby? Python? PHP? Something else? The file does have an "rb" extention hinting that it might be Ruby but the computer wouldn't make this assumption. And, even if it's Ruby, we probably have several versions of Ruby installed on the machine: 1.8.6, 1.9.3, 2.0.0, etc. Which one should be used to run our file? The computer needs a specific instruction.
+Try to see the situation from the computer's point of view. We asked it to run a program in the file `hello.rb` but we didn't tell the computer what programming language it was. Was it Ruby? Python? PHP? Something else? The file does have an `rb` extension hinting that it might be Ruby but the computer wouldn't make this assumption. And, even if it's Ruby, we probably have several versions of Ruby installed on the machine: 1.8.6, 1.9.3, 2.0.0, etc. Which one should be used to run our file? The computer needs a specific instruction.
 
 Without a specific instruction it will assume that the file is a "shell script", that is, a set of instructions in the same language that the command line uses. That's why you'll get exactly the same error if try to type `puts 'Hello, world'` in the terminal.
 
@@ -600,7 +607,7 @@ We want our file to be executed by Ruby, so let's find out where ruby interprete
 `$ which ruby`
 `/Users/shadchnev/.rvm/rubies/ruby-2.0.0-p0/bin/ruby`
 
-On my machine, the current version of ruby is located at "/Users/shadchnev/.rvm/rubies/ruby-2.0.0-p0/bin/ruby". Find out where your ruby is and add a shebang to your hello.rb using SublimeText.
+On my machine, the current version of ruby is located at `/Users/shadchnev/.rvm/rubies/ruby-2.0.0-p0/bin/ruby`. Find out where your ruby is and add a shebang to your `hello.rb` using Sublime Text.
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_o6W2ogQY8Xc_p.52567_1381141953228_Screen%20Shot%202013-10-07%20at%2011.32.20.png "hello world")
 
@@ -615,7 +622,7 @@ However, we've just hardcoded the path to Ruby right in the file. It will work o
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_o6W2ogQY8Xc_p.52567_1381142356445_Screen%20Shot%202013-10-07%20at%2011.38.46.png "shebang")
 
-The "/usr/bin/env ruby" command loads the "environment" (we'll discuss it in a minute) and executes whatever ruby you have on your machine. It may be 1.9.3 on mine and 2.0.0 on yours. This is a much more portable solution than the one we used before.
+The `/usr/bin/env ruby` command loads the "environment" (we'll discuss it in a minute) and executes whatever ruby you have on your machine. It may be 1.9.3 on mine and 2.0.0 on yours. This is a much more portable solution than the one we used before.
 
 Remember we mentioned irb as an example of a program that we can run without typing "ruby"? It also has shebang on the first line.
 
@@ -641,7 +648,7 @@ and deleting all files on your hard-drive, ignoring read-only flags and avoiding
 
 `rm -rf /*`
 
-Therefore, it's considered bad practice to work as a root on a permanent basis. Instead, you use a normal account with limited privileges (e.g. you can't do "rm -rf /*" and other dangerous things) but switch into a superuser mode only as necessary.
+Therefore, it's considered bad practice to work as a root on a permanent basis. Instead, you use a normal account with limited privileges (e.g. you can't do `rm -rf /*` and other dangerous things) but switch into a superuser mode only as necessary.
 
 You can execute a command as a superuser by prefixing it with "sudo". For example, if you want to delete a file you haven't got permissions to delete and you know the superuser password, you can
 
@@ -655,7 +662,7 @@ If you were asked to describe the physical environment you are in, you could tel
 
 If you are working with the command line, you also operate in an environment. For example, the command-line knows where your home folder is, where to find ruby, what's your username, and many other things. All this information is stored in environmental variables.
 
-Environmental variables (or env vars, for short) describe the current terminal session. You can see them by typing "env". 
+Environmental variables (or env vars, for short) describe the current terminal session. You can see them by typing "env".
 
 ![alt text]( https://dchtm6r471mui.cloudfront.net/hackpad.com_o6W2ogQY8Xc_p.52567_1381145273378_Screen%20Shot%202013-10-07%20at%2012.27.37.png "env")
 
@@ -665,9 +672,9 @@ Every line on this screen is a key/value pair, e.g.
 
 The HOME env variable defines where the home directory is for the current user. You can easily find variables responsible for setting the username, language, temporary directory, etc.
 
-Every program you launch on your computer has access to the environment variables. They help the programs to understand what environment they are working in. For example, if you needed to create a temporary file in your Ruby code, you'd read the value of the TMPDIR env variable to find out where the temporary directory is.
+Every program you launch on your computer has access to the environment variables. They help the programs to understand what environment they are working in. For example, if you needed to create a temporary file in your Ruby code, you'd read the value of the `TMPDIR` env variable to find out where the temporary directory is.
 
-You can view any single environment variable by typing "echo $ENV_VAR", e.g.
+You can view any single environment variable by typing `echo $ENV_VAR`, e.g.
 
 `$ echo $HOME`
 `/Users/shadchnev`
@@ -708,13 +715,13 @@ This is a list of paths, separated by colons. When you type a command without sp
 
 On my system, "ls" will be found in "/bin/ls".
 
-Remember when we had to type "./hello.rb" to execute the file, instead of just "hello.rb"? This is because if we hadn't explicitely specified that the program was in the current directory, the shell would look in all PATH directories and wouldn't find it there. Every program that you can run from your command line without specifying where they are (ls, chmod, date, pwd, etc) are somewhere on the PATH.
+Remember when we had to type "./hello.rb" to execute the file, instead of just "hello.rb"? This is because if we hadn't explicitly specified that the program was in the current directory, the shell would look in all PATH directories and wouldn't find it there. Every program that you can run from your command line without specifying where they are (ls, chmod, date, pwd, etc) are somewhere on the PATH.
 
 You must have tried switching ruby versions on your machine by now. How does it work? When you type
 
 `rvm use 1.9.3`
 
-rvm updates the PATH variable to include the folders relevant to the ruby version that you need. Then, when you type "ruby", the shell already knows where to look.
+`rvm` updates the `PATH` variable to include the folders relevant to the ruby version that you need. Then, when you type "ruby", the shell already knows where to look.
 
 If you have installed some software but you can't run it (command not found error), double check that the PATH variable is set correctly.
 
@@ -734,7 +741,7 @@ What it we wanted to modify PATH? Let's add one more directory at the end of PAT
 
 This adds my home directory to the end of the list of paths in PATH.
 
-Why would we want to modify environmental variables? One of the common use cases is storing sensitive data, e.g. passwords. 
+Why would we want to modify environmental variables? One of the common use cases is storing sensitive data, e.g. passwords.
 
 Let's say you're writing an open source project that uses photos from Facebook. Your code will need to use a secret key that will give you access to Facebook. This key is secret and you shouldn't share it with anyone. However, you want to share your open source code on Github. How should you do it?
 
@@ -802,7 +809,7 @@ How could you use "wc" command that we discussed earlier to count their number?
 
 #### vim
 
-We've resorted to using SublimeText earlier today but we won't always have the luxury of using graphical user interface. When connecting to a remote system, a shell (text-only command-line) will be the only interface you'll often have. Even worse, you may not have user-friendly text-based editors (e.g. nano) installed when you need to make a quick change. However, you'll need to look hard to find a system that doesn't have vi or vim (vi iMproved) installed.
+We've resorted to using SublimeText earlier today but we won't always have the luxury of using graphical user interface. When connecting to a remote system, a shell (text-only command-line) will be the only interface you'll often have. Even worse, you may not have user-friendly text-based editors (e.g. `nano`) installed when you need to make a quick change. However, you'll need to look hard to find a system that doesn't have vi or vim (vi iMproved) installed.
 
 This editor may seem very unfriendly at first but if it were really unusable, it wouldn't be so popular among developers and system administrators (why do they use vi). From practical perspective, it's worth knowing the basics because that's the editor you can always rely one on any unix-based system.
 
@@ -810,7 +817,7 @@ To create a new file or open an existing file, just pass it as an argument.
 
 `vi myFile`
 
-You'll see the empty file first. 
+You'll see the empty file first.
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_o6W2ogQY8Xc_p.52567_1381161102740_Screen%20Shot%202013-10-07%20at%2016.51.35.png "vim")
 
@@ -825,7 +832,7 @@ Let's suppose we want to save a file with the text "Hello, world" inside. Press 
 
 ![alt text]( https://dchtm6r471mui.cloudfront.net/hackpad.com_o6W2ogQY8Xc_p.52567_1381161468370_Screen%20Shot%202013-10-07%20at%2016.57.41.png "insert")
 
-Now whatever you type will be actually entered as text. Type "Hello, world". How do you save it now? Whatever you press now will be taken not as a command (save, exit, etc) but as text. To get back to the command mode press ESC. Now you're back in the command-mode.
+Now whatever you type will be actually entered as text. Type "Hello, world". How do you save it now? Whatever you press now will be taken not as a command (save, exit, etc) but as text. To get back to the command mode press `ESC`. Now you're back in the command-mode.
 
 ![alt text](https://dchtm6r471mui.cloudfront.net/hackpad.com_o6W2ogQY8Xc_p.52567_1381161644651_Screen%20Shot%202013-10-07%20at%2017.00.35.png "vim writing")
 
@@ -838,7 +845,7 @@ Now we can tell vi to save the file. Press colon (:) and then w ("w" stands for 
 
 Now we need to quit the editor. Type :q followed by Enter. (If you needed to quit without saving changes, you'd need to do :q!).
 
-This is the absolute minimum you need to know to make a basic edit using vi. Print a [cheat sheet](http://www.lagmonster.org/docs/vi.html) and practice using vi on a few files.
+This is the absolute minimum you need to know to make a basic edit using vi. Print a [cheat sheet](https://vim.rtorr.com) and practice using vi on a few files.
 
 #### Exiting the shell
 
@@ -847,7 +854,7 @@ Finally, to exit the shell, just type "exit" :)
 
 ## Challenges
 
-Before moving on to the next lesson, make sure that you're able to do each of the these [tasks](https://github.com/makersacademy/course/blob/master/challenges/command_line_challenges.md).
+Before moving on to the next lesson, make sure that you're able to do each of the these [tasks](https://github.com/makersacademy/course/blob/main/challenges/command_line_challenges.md).
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

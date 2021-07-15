@@ -10,7 +10,7 @@
 
 * How will you intercept URL changes so that they don't reload the page? Have a look at :pill: [frontend, single page app](../pills/frontend_single_page_app.md).
 
-* How will you implement the domain model? Maybe [Javascript Classes](https://github.com/makersacademy/course/blob/master/pills/js_classes.md)?
+* How will you implement the domain model? Maybe [Javascript Classes](https://github.com/makersacademy/course/blob/main/pills/js_classes.md)?
 
 * How will you construct your HTML content? You could write some display functions. Maybe they will create elements using `document.createElement()`? Maybe they will concatenate strings? Maybe they will use a tiny templating framework that you write. 
 

@@ -4,20 +4,20 @@
 
 ## Steps
 
-1. In html and css only, recreate the above design.
-2. Deploy it, probably using something like [netlify](https://netlify.app/).
+1. In HTML and CSS only, recreate the above design.
+2. Deploy it, probably using something like [Netlify](https://netlify.app/).
 3. [Complete this simple form for a coach to review it](https://airtable.com/shrPYZwx2GoE4h3Um).
 
 ## Requirements
 
 * Your code is practically pixel perfect compared to the design provided.
 * Everything, other than the lightest grey box, should be a fixed width.
-* All your styling is in a separate file to the html.
+* All your styling is in a separate file to the HTML.
 
 ## Possible resources
 
 * [Grid by Example](https://gridbyexample.com/learn/)
-* [W3's grid guide](https://www.w3schools.com/css/css_grid.asp)
+* [W3Schools' grid guide](https://www.w3schools.com/css/css_grid.asp)
 * [CSS Tricks complete guide to grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

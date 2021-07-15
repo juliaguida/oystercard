@@ -1,4 +1,4 @@
-# http-server
+# `http-server`
 
 A small library that runs a local server to serve static assets like HTML, CSS and JavaScript.  It's useful for serving a frontend website locally.
 
@@ -36,7 +36,7 @@ server.listen(3000);
 
 ## Resources
 
-- [http-server documentation on npmjs.com](https://www.npmjs.com/package/http-server)
+- [`http-server` documentation on npmjs.com](https://www.npmjs.com/package/http-server)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

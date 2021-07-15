@@ -14,7 +14,7 @@ The clue is in the name. A README is a file that should be read carefully before
 * Contact information for the distributor or programmer
 * Known bugs
 * Troubleshooting
-* Credits and acknowledgments
+* Credits and acknowledgements
 * A changelog (usually for programmers)
 * A news section (usually for users)
 
@@ -22,7 +22,7 @@ On GitHub, if your repo contains a `README.md` file, this will be automagically 
 
 ## What should my README contain?
 
-Writing a README (and any other form of documentation) can be tedious, but it doesn't have to be. GitHub gives you a lot of the information listed above for free - bugs through GitHub issues, automatic license information, changelog through your commit history etc. etc. While on the course, you should keep your READMEs up to date - otherwise, you'll have to do all of them at the end, and from experience we can tell you that you are unlikely to enjoy this.
+Writing a README (and any other form of documentation) can be tedious, but it doesn't have to be. GitHub gives you a lot of the information listed above for free - bugs through GitHub issues, automatic license information, changelog through your commit history etc. While on the course, you should keep your READMEs up to date - otherwise, you'll have to do all of them at the end, and from experience we can tell you that you are unlikely to enjoy this.
 
 So, as a minimum, here's what you need:
 
@@ -30,7 +30,7 @@ So, as a minimum, here's what you need:
 * The title of the project
 * What the project is/what it does
 * How to install it (what to clone, what to run to get all dependencies)
-* How to run it (is it a command line tool? Do you have to load it into IRB? Is is a web application? What port needs to be used?)
+* How to run it (is it a command line tool? Do you have to load it into IRB? Is it a web application? What port needs to be used?)
 * How to run the tests
 
 Later on, you can add screenshots and additional information to your heart's content, but make sure you have this with all your repos as you proceed through the course. You will thank yourself later.
@@ -64,7 +64,7 @@ This may seem like not much, but this is the minimum amount of information a new
 
 If you do feel like making your README extra awesome, [here is a list of awesome READMEs for inspiration](https://github.com/matiassingers/awesome-readme).
 
-Happy documentationing.
+Happy documenting.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

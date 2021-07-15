@@ -9,7 +9,7 @@ languages are quite different.
 ###Compilation
 
 The first difference you will notice is that Java is compiled. Unlike Ruby
-and JS, files writen in Java (conventionally saved with the extension `.java`).
+and JS, files written in Java (conventionally saved with the extension `.java`).
 cannot be run directly by your computer. Instead they are changed by another
 program - the compiler - into files which can be run by the Java Virtual
 Machine (JVM) - files with the extension `.class`. The JVM runs Java programs
@@ -166,7 +166,7 @@ is written in [Groovy]. Groovy is basically what Java people wrote when they
 were jealous of Ruby.
 
 Installing Gradle can be as simple as `brew install Gradle`. Recent versions
-even come with a project initializing script: `gradle init --type java-library`
+even come with a project initialising script: `gradle init --type java-library`
 will generate a series of files. Of interest to you will be the contents of
 `src/main` and `src/test`. To run the tests is simply a case of running `gradle
 test`. Building the project - `gradle build`.
@@ -182,7 +182,7 @@ be a terrible beast to master. Professional Java developers tend to steer clear
 of pure text editors like [Vim] and [Sublime] in favour of using an [IDE] - an
 integrated development environment. These programs take care of the
 boilerplate in Java, constantly compile your code in the background to pick up
-errors on as you're typing, organize your project directory structure, help you
+errors on as you're typing, organise your project directory structure, help you
 to refactor, provide handy shortcuts, push to Git, run your tests... they
 almost write the code for you. Although it's important to know what's going on
 in the background, a good IDE will help you write good code faster.
@@ -203,7 +203,7 @@ especially the first track on [Learning the Java Language], along with the
 [Clojure]: http://clojure.org/
 [Eclipse]: https://eclipse.org/
 [Gradle]: http://www.gradle.org/
-[Groovy]: http://groovy.codehaus.org/
+[Groovy]: https://groovy-lang.org
 [IDE]: http://en.wikipedia.org/wiki/Integrated_development_environment
 [IntelliJ IDEA]: https://www.jetbrains.com/idea/
 [Java reference pages]: https://docs.oracle.com/javase/8/

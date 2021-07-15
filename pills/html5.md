@@ -7,7 +7,7 @@ But in actual fact, HTML is the backbone of the web. It's the cradle that keeps 
 
 ### Doctype
 
-Ironically, the first thing in a HTML document is not even a html tag. The ```<!DOCTYPE>``` tag is an instruction to the browser, telling it which version of HTML the following document is composed in.
+Ironically, the first thing in an HTML document is not even an HTML tag. The ```<!DOCTYPE>``` tag is an instruction to the browser, telling it which version of HTML the following document is composed in.
 
 Previous versions of HTML have had some fairly intimidating looking doctypes - see this one for HTML 4.01 Transitional:
 

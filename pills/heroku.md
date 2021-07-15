@@ -36,7 +36,7 @@ You should see something like
 git version 1.7.12.4 (Apple Git-37)
 ````
 
-Once you have verified that you have heroku and git locally, we need to start preparing for deployment.
+Once you have verified that you have Heroku and git locally, we need to start preparing for deployment.
 
 ### Prepare the project for deployment
 
@@ -103,7 +103,7 @@ heroku create
 Finally, we're ready to deploy. Type this command into the terminal. At this point your website will actually be sent to the web server and become live.
 
 ````
-git push heroku master
+git push heroku main
 ````
 
 You should see something like this as an output.
@@ -132,10 +132,10 @@ Total 7 (delta 4), reused 0 (delta 0)
 
 -----> Compiled slug size: 25.1MB
 -----> Launching... done, v7
-       http://tech-bikers-demo.herokuapp.com deployed to Heroku
+       http://example.herokuapp.com deployed to Heroku
 
-To git@heroku.com:tech-bikers-demo.git
-   fc4d30c..8bdc99d  master -> master
+To git@heroku.com:example.git
+   fc4d30c..8bdc99d  main -> main
 ````
 
 If you see it, it means that the deployment went successfully. If you see an error, you're going to have to start Googling the error you get and spending some time on Stack Overflow. Until you see an output like the one shown above, it hasn't worked. Keep trying and don't give up.
@@ -148,7 +148,7 @@ heroku open
 
 into the Command Line and it will be launched in the browser! It should look exactly the same as on your local machine but this time it will have a public URL that you'll be able to use from any computer.
 
-Note that heroku relies on whatever is visible in git.  Any time you make a change to your local code you will need to ensure that you have committed it to your git repository in order for it to be pushed to heroku.  Please also take care with files that are being ignored by git due to a .gitignore file:
+Note that Heroku relies on whatever is visible in git.  Any time you make a change to your local code you will need to ensure that you have committed it to your git repository in order for it to be pushed to Heroku.  Please also take care with files that are being ignored by git due to a `.gitignore` file:
 
 https://devcenter.heroku.com/articles/gitignore
 

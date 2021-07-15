@@ -6,7 +6,7 @@ Athletic Coding is a term coined by Professor Philip Johnson of University of Ha
 Athletic Pairing
 --------
 
-The idea can be extended to an athletic pairing using a pairing protocol such as ping-pong or change-the-message, so that a a pair of students can work to increase the speed with which they can complete a pairing kata.
+The idea can be extended to an athletic pairing using a pairing protocol such as ping-pong or change-the-message, so that a pair of students can work to increase the speed with which they can complete a pairing kata.
 
 Resources
 --------

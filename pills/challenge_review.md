@@ -55,7 +55,7 @@ Skills:
 
 ### Concept workshops
 
-Once the questions have been submitted to the coach organising the concept review, they will arrange for some focussed group sessions to address the most relevant themes. These slots will typically be 30 minutes to an hour long.
+Once the questions have been submitted to the coach organising the concept review, they will arrange for some focused group sessions to address the most relevant themes. These slots will typically be 30 minutes to an hour long.
 
 An effort will be made to do these sessions as early as possible; scheduling may mean that they sometimes take place later in the week.
 
