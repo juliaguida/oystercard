@@ -108,14 +108,14 @@ For some skills, there are several options so that you can spend some time focus
 |                               | [Test Drive a Notes App][tdd_notes_app]        |
 | Deciding what to test         | [Testing behaviour rather than state][behaviour_vs_state] |
 
-[debugging_1]: https://github.com/makersacademy/course/blob/main/test_driven_development/debugging_1
+[debugging_1]: https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/debugging_1
 [writing_unit_tests]: https://github.com/makersacademy/skills-workshops/tree/c268bb78fdc4df644d0ed7b1fdd189de426895f8/week-1/writing_tests
-[diagram_tdd]: https://github.com/makersacademy/course/blob/main/practicals/testing/diagram_the_your_process.md
+[diagram_tdd]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/testing/diagram_the_your_process.md
 [tdd_practical]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/test_driving.md
-[simple_checkout]: https://github.com/makersacademy/course/blob/main/practicals/testing/test_drive_multiple_objects.md
-[tdd_notes_app]: https://github.com/makersacademy/course/blob/main/practicals/testing/test_drive_a_notes_app.md
+[simple_checkout]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/testing/test_drive_multiple_objects.md
+[tdd_notes_app]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/testing/test_drive_a_notes_app.md
 [bank_account]: https://github.com/makersacademy/simple_tdd_bank
-[behaviour_vs_state]: https://github.com/makersacademy/course/blob/main/practicals/testing/behaviour_not_state.md
+[behaviour_vs_state]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/testing/behaviour_not_state.md
 
 
 
