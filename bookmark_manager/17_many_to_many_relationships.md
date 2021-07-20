@@ -57,6 +57,8 @@ In this challenge, you will set up a **many to many relationship** between Bookm
 Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_manager/pulls) that show the diff for each section I worked through.
 - branch [`version5`](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version5): Steps 17 | [recording](https://youtu.be/lUgXzqBaDT4), [recording 2](https://youtu.be/weFlLixdrBw)
 
+[Next Challenge](../18_registration.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

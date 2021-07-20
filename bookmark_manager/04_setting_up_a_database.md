@@ -72,6 +72,8 @@ In this challenge, you will **install the PostgreSQL database system**, and inte
 ## [Walkthrough - Mac OS](walkthroughs/04_mac.md)
 ## [Walkthrough - Linux](walkthroughs/04_linux.md)
 
+[Next Challenge](../05_creating_your_first_table.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

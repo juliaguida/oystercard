@@ -33,6 +33,8 @@ In this challenge, you will play with some tooling that gives you more insight i
 
 ## [Walkthrough](walkthroughs/08.md)
 
+[Next Challenge](../09_setting_up_a_testing_environment.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

@@ -57,6 +57,8 @@ Remember to maintain RESTful routing conventions.
 
 ## [Walkthrough](walkthroughs/12.md)
 
+[Next Challenge](../13_crud.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

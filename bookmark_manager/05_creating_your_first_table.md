@@ -34,6 +34,8 @@ In this challenge, you will use Postgres' built-in command-line program, `psql`,
 
 ## [Walkthrough](walkthroughs/05.md)
 
+[Next Challenge](../06_manipulating_table_data.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

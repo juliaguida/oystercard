@@ -41,6 +41,8 @@ Throughout this challenge we'll create User Stories based on the specification, 
 
 ## [Walkthrough](walkthroughs/01.md)
 
+[Next Challenge](./02_setting_up_a_web_project.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

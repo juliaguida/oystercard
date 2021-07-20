@@ -28,6 +28,8 @@ We've written a user story and we have an idea of the first interaction, before 
 
 ## [Walkthrough](walkthroughs/02.md)
 
+[Next Challenge](../03_viewing_bookmarks.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

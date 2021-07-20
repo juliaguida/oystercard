@@ -34,6 +34,8 @@ In this challenge, you will use SQL to **c**reate, **r**ead (**query**), **u**pd
 
 ## [Walkthrough](walkthroughs/06.md)
 
+[Next Challenge](../07_interacting_with_postgres_from_ruby.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---
