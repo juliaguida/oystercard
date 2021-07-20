@@ -14,10 +14,10 @@ In this challenge, you will use SQL to **c**reate, **r**ead (**query**), **u**pd
 ## To complete this challenge, using the psql command line interface
 
 - [ ] List any existing rows in the bookmarks table.
-- [ ] Create four link entries in the `bookmarks` table, with the following URLs: `https://www.makersacademy.com/`, `https://twitter.com/`, and `https://www.google.com/`, using an `INSERT` statement.
+- [ ] Create four link entries in the `bookmarks` table, with the following URLs: `http://www.makersacademy.com/`, `http://www.askjeeves.com`  `http://www.twitter.com/`, and `http://www.google.com/`, using an `INSERT` statement.
 - [ ] List the four entries using a `SELECT` statement.
-- [ ] Delete the link with a URL of `http://twitter.com` using a `DELETE` statement.
-- [ ] Update the `http://twitter.com` link to `https://www.destroyallsoftware.com` using an `UPDATE` statement.
+- [ ] Delete the link with a URL of `http://www.askjeeves.com` using a `DELETE` statement.
+- [ ] Update the `http://www.twitter.com` link to `http://www.destroyallsoftware.com` using an `UPDATE` statement.
 
 ## Hints
 &nbsp;<details><summary>CLICK ME</summary>
