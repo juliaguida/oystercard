@@ -43,7 +43,7 @@ To fix this problem, you will create a **validation** that ensures the submitted
 Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_manager/pulls) that show the diff for each section I worked through.
 - branch [`version3`](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version3): Steps 14-15 | [recording](https://youtu.be/c7vVCXJzjX0)
 
-[Next Challenge](../16_one_to_many_relations.md)
+[Next Challenge](./16_one_to_many_relations.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

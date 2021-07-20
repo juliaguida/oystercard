@@ -37,7 +37,7 @@ In this challenge, you will get the application and database talking to each oth
 
 ## [Walkthrough](walkthroughs/07.md)
 
-[Next Challenge](../08_upgrading_your_toolset.md)
+[Next Challenge](./08_upgrading_your_toolset.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

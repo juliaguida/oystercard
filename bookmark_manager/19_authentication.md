@@ -41,7 +41,7 @@ In this challenge, you will implement sign in and out, which together are called
 Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_manager/pulls) that show the diff for each section I worked through.
 - branch [`version6`](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version6): Steps 18-19 | [recording](https://youtu.be/sV346p8zIkQ)
 
-[Back to the challenge map](../00_challenge_map.md)
+[Back to the challenge map](./00_challenge_map.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

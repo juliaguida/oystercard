@@ -55,7 +55,7 @@ In this challenge, you will build the entire feature of 'adding bookmarks to the
 Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_manager/pulls) that show the diff for each section I worked through.
 - branch [`version1`](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version1): Steps 1-10 | [recording](https://www.youtube.com/watch?v=LHX1SqQ5F-g)
 
-[Next Challenge](../11_wrapping_database_data_in_program_objects.md)
+[Next Challenge](./11_wrapping_database_data_in_program_objects.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

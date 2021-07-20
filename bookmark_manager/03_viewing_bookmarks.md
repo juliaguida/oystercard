@@ -29,7 +29,7 @@ Now we've set up our basic web app we can start implementing features! So let's 
 
 ## [Walkthrough](walkthroughs/03.md)
 
-[Next Challenge](../04_setting_up_a_database.md)
+[Next Challenge](./04_setting_up_a_database.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

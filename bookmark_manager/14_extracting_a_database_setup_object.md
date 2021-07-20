@@ -44,7 +44,7 @@ In this stage you'll make a first step towards making your own ORM!
 
 ## [Walkthrough](walkthroughs/14.md)
 
-[Next Challenge](../15_validating_bookmarks.md)
+[Next Challenge](./15_validating_bookmarks.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

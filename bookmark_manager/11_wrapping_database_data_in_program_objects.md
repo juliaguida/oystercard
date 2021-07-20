@@ -65,7 +65,7 @@ You may want to update the `Bookmark.all` method to return instances of the `Boo
 
 ## [Walkthrough](walkthroughs/11.md)
 
-[Next Challenge](../12_deleting_bookmarks.md)
+[Next Challenge](./12_deleting_bookmarks.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

@@ -82,7 +82,7 @@ Once your feature test is passing, your unit tests for `Bookmark.all` are probab
 
 ## [Walkthrough](walkthroughs/09.md)
 
-[Next Challenge](../10_creating_bookmarks.md)
+[Next Challenge](./10_creating_bookmarks.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
