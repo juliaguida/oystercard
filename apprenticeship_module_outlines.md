@@ -205,12 +205,12 @@ The intention is that you should work through the core exercises in order, from 
 [class]: https://www.lucidchart.com/pages/uml-class-diagram
 [sequence]: https://www.lucidchart.com/pages/uml-sequence-diagram
 [diagram]: https://www.diagram.codes/
-[code_review]: https://github.com/makersacademy/course/blob/main/object_oriented_programming/code_review
-[encapsulation]: https://github.com/makersacademy/course/blob/main/practicals/object_oriented_design/encapsulation.md
-[forwarding_polymorphism]: https://github.com/makersacademy/course/blob/main/practicals/object_oriented_design/oo_relationships.md
+[code_review]: https://github.com/makersacademy/skills-workshops/tree/main/object_oriented_programming/code_review
+[encapsulation]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/encapsulation.md
+[forwarding_polymorphism]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/oo_relationships.md
 [refactoring_using_oo]: https://github.com/makersacademy/course/blob/main/practicals/object_oriented_design/refactoring.md
-[dependency_injection]: https://github.com/makersacademy/course/blob/main/practicals/object_oriented_design/dependency_injection.md
-[mocking]: https://github.com/neoeno/testing_relationships_between_classes
+[dependency_injection]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/dependency_injection.md
+[mocking]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/object_oriented_design/testing_relationships.md
 
 ### Pairing challenge
 
