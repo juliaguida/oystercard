@@ -41,7 +41,7 @@ In this challenge, you will convert your instance variable `@bike` to reference 
 
 ### Resources
 
-- [Ruby `initialize` method](http://www.rubyist.net/~slagell/ruby/objinitialization.html)
+- [Ruby `initialize` method](https://ruby-doc.org/docs/ruby-doc-bundle/UsersGuide/rg/objinitialization.html)
 
 ### [Walkthrough](walkthroughs/14.md)
 
