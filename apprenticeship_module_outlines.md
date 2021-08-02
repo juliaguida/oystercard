@@ -272,9 +272,9 @@ These exercises can be used for independent study, or enhanced by group discussi
 |                       | [Birthday][birthday]                                 |
 
 [capybara_workout]: https://capybara-workout.herokuapp.com/
-[servers]: https://github.com/makersacademy/course/blob/main/practicals/servers_and_clients/servers.md
-[clients]: https://github.com/makersacademy/course/blob/main/practicals/servers_and_clients/clients.md
-[http_servers]: https://github.com/makersacademy/course/blob/main/practicals/servers_and_clients/http_servers.md
+[servers]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/servers_and_clients/servers.md
+[clients]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/servers_and_clients/clients.md
+[http_servers]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/servers_and_clients/http_servers.md
 [birthday]: https://github.com/makersacademy/course/blob/main/intro_to_the_web/post_challenges/birthday_app.md
 
 ### Pairing challenge
