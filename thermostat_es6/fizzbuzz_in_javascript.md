@@ -25,7 +25,7 @@ In case you've forgotten the rules of FizzBuzz:
 
 ### Resources
 - [Jasmine documentation](http://jasmine.github.io/2.3/introduction.html)
-- [Jasmine example files](https://github.com/jasmine/jasmine/tree/master/lib/jasmine-core/example)
+- [Jasmine example files](https://github.com/jasmine/jasmine/tree/main/lib/jasmine-core/example)
 - [Learn X in Y minutes - JavaScript](http://learnxinyminutes.com/docs/javascript/)
 - [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - :pill: [JavaBuzz pill](/pills/javascript&JasminePill.md)
