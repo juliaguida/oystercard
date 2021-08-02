@@ -1,5 +1,17 @@
 **Crucial Omissions:** There are some cross-cutting strands that we fit in alongside other work. These include wellbeing and code quality. They are not the topic of any one module, and you will miss them out unless you think of them regularly!
 
+## Contents
+
+- [Weeks 1 & 2: Basic Programming](#weeks-1--2-basic-programming)
+- [Week 3: Test-Driven Development](#week-3-test-driven-development)
+- [Week 4: Object-Oriented Design](#week-4-object-oriented-design)
+- [Week 5: The Web](#week-5-the-web)
+- [Week 6: Databases](#week-6-databases)
+- [Week 7: MakersBnB](#week-7-makersbnb)
+- [Week 8: Learn A New Language](#week-8-learn-a-new-language)
+- [Weeks 9 & 10: Engineering Project I](#weeks-9--10-engineering-project-i)
+- [Weeks 11 & 12: Final Project](#weeks-11--12-final-project)
+
 ## Weeks 1 & 2: Basic Programming
 
 By the end of modules 1 & 2 all developers can:
