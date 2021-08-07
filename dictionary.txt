@@ -294,6 +294,7 @@ JSLint
 JSON
 jUnit
 JVM
+K10
 Kaptur
 Kata
 kata
@@ -333,6 +334,7 @@ Makermix
 MakersBnB
 MakersBnb
 Makersbnb
+MakersFlix
 Marcin's
 Masha
 matcher
@@ -375,6 +377,7 @@ Namespacing
 namespacing
 natively
 NDUF
+Neo4J
 NeoVision
 Netlify
 nightwatch
@@ -535,6 +538,7 @@ substrings
 subtype
 sudoku
 superclass
+superfamily
 symlink
 synonymously
 syntaxes
