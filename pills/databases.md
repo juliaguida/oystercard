@@ -18,7 +18,7 @@ This week, you’ll be using **relational databases** where the data is organise
 |02| Terry        | terry@yahoo.com  | giraffe   |
 |03| Susie        | susie@email.com  | crocodile |
 
-## Non-Relational Databases
+## Non-Relational Databases
 
 There’s also a superfamily called **non-relational databases**.  You’ll not use any of these this week, but it’s important that you know they exist and, depending on which track you follow, you might use one of them (most likely a document database) in the coming weeks.  The most commonly used non-relational databases are key/value stores, document databases and graph data stores.  I’ll introduce each one below.
 
