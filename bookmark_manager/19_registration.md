@@ -45,7 +45,7 @@ In this challenge, you will **register** new users.
 * [You're probably storing passwords incorrectly](https://blog.codinghorror.com/youre-probably-storing-passwords-incorrectly/)
 * [BCrypt, a secure password hasher](https://github.com/codahale/bcrypt-ruby)
 
-## [Walkthrough](walkthroughs/18.md)
+## [Walkthrough](walkthroughs/19.md)
 
 [Next Challenge](./19_authentication.md)
 
@@ -54,7 +54,7 @@ In this challenge, you will **register** new users.
 ---
 
 **How was this resource?**  
-[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/18_registration.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/18_registration.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/18_registration.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/18_registration.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/18_registration.md&prefill_Sentiment=😀)  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/19_registration.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/19_registration.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/19_registration.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/19_registration.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/19_registration.md&prefill_Sentiment=😀)  
 Click an emoji to tell us.
 
 <!-- END GENERATED SECTION DO NOT EDIT -->

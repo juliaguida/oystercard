@@ -45,7 +45,7 @@ In this challenge, you will set up a [one to many relationship](http://www.datab
 
 * [One-to-many relationships](http://www.databaseprimer.com/pages/relationship_1tox/)
 
-## [Walkthrough](walkthroughs/16.md)
+## [Walkthrough](walkthroughs/17.md)
 
 ## Ed's Walkthrough
 Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_manager/pulls) that show the diff for each section I worked through.
@@ -58,7 +58,7 @@ Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_man
 ---
 
 **How was this resource?**  
-[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/16_one_to_many_relations.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/16_one_to_many_relations.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/16_one_to_many_relations.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/16_one_to_many_relations.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/16_one_to_many_relations.md&prefill_Sentiment=😀)  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/17_one_to_many_relations.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/17_one_to_many_relations.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/17_one_to_many_relations.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/17_one_to_many_relations.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/17_one_to_many_relations.md&prefill_Sentiment=😀)  
 Click an emoji to tell us.
 
 <!-- END GENERATED SECTION DO NOT EDIT -->

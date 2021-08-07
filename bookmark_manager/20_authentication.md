@@ -35,11 +35,11 @@ In this challenge, you will implement sign in and out, which together are called
 
 * [How to use bcrypt-ruby in general](https://github.com/codahale/bcrypt-ruby)
 
-## [Walkthrough](walkthroughs/19.md)
+## [Walkthrough](walkthroughs/20.md)
 
 ## Ed's Walkthrough
 Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_manager/pulls) that show the diff for each section I worked through.
-- branch [`version6`](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version6): Steps 18-19 | [recording](https://youtu.be/sV346p8zIkQ)
+- branch [`version6`](https://github.com/dearshrewdwit/demo_bookmark_manager/tree/version6): Steps 19-20 | [recording](https://youtu.be/sV346p8zIkQ)
 
 [Back to the challenge map](./00_challenge_map.md)
 
@@ -48,7 +48,7 @@ Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_man
 ---
 
 **How was this resource?**  
-[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/19_authentication.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/19_authentication.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/19_authentication.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/19_authentication.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/19_authentication.md&prefill_Sentiment=😀)  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/20_authentication.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/20_authentication.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/20_authentication.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/20_authentication.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/20_authentication.md&prefill_Sentiment=😀)  
 Click an emoji to tell us.
 
 <!-- END GENERATED SECTION DO NOT EDIT -->

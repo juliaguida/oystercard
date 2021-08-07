@@ -32,7 +32,7 @@ In this stage you'll make a first step towards making your own ORM!
   - [ ] `DatabaseConnection.setup` is a class method. It takes one parameter: a database name. It should set up a connection to that database, which is saved as a class instance variable in `DatabaseConnection`.
   - [ ] `DatabaseConnection.query` is a class method. It takes one parameter: an SQL query string. It should use the class instance variable from `setup` to execute that SQL query string on the correct database, via `pg`.
 - [ ] Write a setup script that runs when the application boots, which calls `DatabaseConnection.setup` with the correct database for the environment.
-- [ ] Replace calls to `PG.connect` and `connection.exec` in `Bookmark` with your new `DatabaseConnection` wrapper class.
+- [ ] Replace calls to `PG.connect` and `connection.exec_params` in `Bookmark` with your new `DatabaseConnection` wrapper class.
 
 ## Resources
 
@@ -42,7 +42,7 @@ In this stage you'll make a first step towards making your own ORM!
 - [What is an ORM?](https://stackoverflow.com/questions/1279613/what-is-an-orm-and-where-can-i-learn-more-about-it)
 
 
-## [Walkthrough](walkthroughs/14.md)
+## [Walkthrough](walkthroughs/15.md)
 
 [Next Challenge](./15_validating_bookmarks.md)
 
@@ -51,7 +51,7 @@ In this stage you'll make a first step towards making your own ORM!
 ---
 
 **How was this resource?**  
-[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/14_extracting_a_database_setup_object.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/14_extracting_a_database_setup_object.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/14_extracting_a_database_setup_object.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/14_extracting_a_database_setup_object.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/14_extracting_a_database_setup_object.md&prefill_Sentiment=😀)  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/15_extracting_a_database_setup_object.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/15_extracting_a_database_setup_object.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/15_extracting_a_database_setup_object.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/15_extracting_a_database_setup_object.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/15_extracting_a_database_setup_object.md&prefill_Sentiment=😀)  
 Click an emoji to tell us.
 
 <!-- END GENERATED SECTION DO NOT EDIT -->

@@ -36,7 +36,7 @@ To fix this problem, you will create a **validation** that ensures the submitted
 * [Setting up Sinatra Flash](https://gist.github.com/cmkoller/0d3b048b3c4b48ee4955)
 * [Sinatra Flash (for showing one-time messages)](https://github.com/SFEley/sinatra-flash)
 
-## [Walkthrough](walkthroughs/15.md)
+## [Walkthrough](walkthroughs/16.md)
 
 ## Ed's Walkthrough
 
@@ -50,7 +50,7 @@ Check out the [pull requests](https://github.com/dearshrewdwit/demo_bookmark_man
 ---
 
 **How was this resource?**  
-[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/15_validating_bookmarks.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/15_validating_bookmarks.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/15_validating_bookmarks.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/15_validating_bookmarks.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/15_validating_bookmarks.md&prefill_Sentiment=😀)  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/16_validating_bookmarks.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/16_validating_bookmarks.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/16_validating_bookmarks.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/16_validating_bookmarks.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/16_validating_bookmarks.md&prefill_Sentiment=😀)  
 Click an emoji to tell us.
 
 <!-- END GENERATED SECTION DO NOT EDIT -->
