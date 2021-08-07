@@ -24,7 +24,7 @@ There’s also a superfamily called **non-relational databases**.  You’ll not 
 
 ### Key/value data stores
 
-Key-value data stores are basically a big hash – you associate each of your values with a unique key that can be used, later on, to retrieve the value.  The main advantages of a key/value data store are speed (it’s extremely quick to read and write data) and flexibility (you don’t have to change the schema when your data structures change).  Though it’s not a plain key/value data store, because you can a wide variety of data structures as the values, Redis is likely to be the first thing that comes to most people’s minds when talking about key/value data stores.
+Key-value data stores are basically a big hash – you associate each of your values with a unique key that can be used, later on, to retrieve the value.  The main advantages of a key/value data store are speed (it’s extremely quick to read and write data) and flexibility (you don’t have to change the schema when your data structures change).  Though it’s not a plain key/value data store, because you can a wide variety of data structures as the values, [Redis](https://www.youtube.com/watch?v=G1rOthIU-uo&ab_channel=Fireship) is likely to be the first thing that comes to most people’s minds when talking about key/value data stores.
 
 > Here's an example of a key/value data store which currently contains 4 keys and 4 values. On first glance it seems like the key/value pairs in this example are all related but there's nothing in the database structure that reflects this. They're just a bunch of key/value pairs.
 
@@ -40,7 +40,7 @@ Key-value data stores are basically a big hash – you associate each of your v
 
 ### Document databases
 
-**Document databases**, store data in collections of documents often using JSON (Javascript Object Notation).  The main advantages of document databases is that they are more flexible, compared to relational databases, and scale better. Getting into the details of their scalability requires us to dive deep into database theory, which is interesting but not entirely necessary right now. MongoDB is a very popular document database.
+**Document databases**, store data in collections of documents often using JSON (Javascript Object Notation).  The main advantages of document databases is that they are more flexible, compared to relational databases, and scale better. Getting into the details of their scalability requires us to dive deep into database theory, which is interesting but not entirely necessary right now. [MongoDB](https://www.youtube.com/watch?v=EE8ZTQxa0AM&ab_channel=MongoDB) is a very popular document database.
 
 > Here's an example of collection (let's call it `people`) from a document database. The two documents (each one corresponding to one person) have different properties... which may seem odd but our document database doesn't care about that.
 
@@ -63,7 +63,7 @@ Key-value data stores are basically a big hash – you associate each of your v
 
 ### Graph databases
 
-**Graph databases** store data in the form of, you guessed it, a graph!  On that graph, records are stored as nodes and the relationships between them as edges or vertices.  Proponents of graph databases argue that storing data as a graph helps with development speed because it more closely resembles the way in which devs and clients will think about the data.  I.e. Less effort is required when it comes to ‘translating’ to, and from, the whiteboard.  Graph database query languages also allow you to examine deeply nested relationships without writing a hundred lines of code. Neo4J is a popular graph database.
+**Graph databases** store data in the form of, you guessed it, a graph!  On that graph, records are stored as nodes and the relationships between them as edges or vertices.  Proponents of graph databases argue that storing data as a graph helps with development speed because it more closely resembles the way in which devs and clients will think about the data.  I.e. Less effort is required when it comes to ‘translating’ to, and from, the whiteboard.  Graph database query languages also allow you to examine deeply nested relationships without writing a hundred lines of code. [Neo4J](https://www.youtube.com/watch?v=ujimD6MP87I&ab_channel=Neo4j) is a popular graph database.
 
 > Here's an example of a graph database visualisation. Note how easy it is to see the relationships between different people and any given film or any other person, via a film.
 
