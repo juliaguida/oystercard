@@ -341,7 +341,7 @@ These exercises can be used for independent study, or enhanced by pairing and gr
 [build-1]: https://github.com/makersacademy/skills-workshops/tree/main/practicals/databases/blog
 [ruby-db-queries]: https://github.com/makersacademy/makers-sql-session
 [zoo]: https://sqlzoo.net/
-[ERD]: https://github.com/makersacademy/course/blob/main/practicals/databases/entity_relationship_diagrams.md
+[ERD]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/databases/entity_relationship_diagrams.md
 
 ### Resources
 
