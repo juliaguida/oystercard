@@ -30,6 +30,8 @@ In this challenge, you will install Jasmine, set up a new project and try to fin
 
 ### [Walkthrough](walkthroughs/setting_up_jasmine.md)
 
+[Next Challenge](./fizzbuzz_in_javascript.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

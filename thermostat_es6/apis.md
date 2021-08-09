@@ -27,6 +27,8 @@ Add a feature to display the weather in a city selected by the user.
 
 ### [Walkthrough](walkthroughs/apis.md)
 
+[Next Challenge](./styling.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

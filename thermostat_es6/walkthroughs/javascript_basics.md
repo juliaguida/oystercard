@@ -191,7 +191,7 @@ wherever possible will prevent accidental errors later on.
 To get yourself into this habit, consider restricting yourself to `const` and
 then only changing it to `let` when you get an error.
 
-[Forward to the Challenge Map](../README.md)
+[Next Challenge](../setting_up_jasmine.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

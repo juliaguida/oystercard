@@ -130,7 +130,7 @@ Finally, delete all the files in `spec` and `src` that are not needed - your fol
 4 directories, 10 files
 ```
 
-[Forward to the Challenge Map](../README.md)
+[Next Challenge](../fizzbuzz_in_javascript.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

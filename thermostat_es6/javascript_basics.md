@@ -41,6 +41,8 @@ The JavaScript equivalent is the Console tab of the Chrome developer tools.  Whe
 
 ### [Walkthrough](walkthroughs/javascript_basics.md)
 
+[Next Challenge](./setting_up_jasmine.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

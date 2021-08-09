@@ -53,7 +53,7 @@ Now, add your thermostat code to the page, with a `<script>` tag just before the
 
 Make sure that the HTML elements are all present by trying to play with your thermostat in the console. Nothing will work at this stage - we'll get to that next...
 
-[Forward to the Challenge Map](../README.md)
+[Next Challenge](../dom.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

@@ -32,6 +32,8 @@ In case you've forgotten the rules of FizzBuzz:
 
 ### [Walkthrough](walkthroughs/fizzbuzz_in_javascript.md)
 
+[Next Challenge](./airport_challenge_js.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

@@ -39,6 +39,8 @@ Specification:
 
 ### [Walkthrough](walkthroughs/thermostat_logic.md)
 
+[Next Challenge](./interface.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

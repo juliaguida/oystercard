@@ -563,7 +563,7 @@ energyUsage() {
 
 Fantastic! Truly exciting! Now we have a fully-tested thermostat ready to go. Next step - hooking it up to an interface! Onward, brave Soldiers...
 
-[Forward to the Challenge Map](../README.md)
+[Next Challenge](../interface.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

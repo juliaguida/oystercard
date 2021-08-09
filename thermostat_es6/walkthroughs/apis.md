@@ -161,7 +161,7 @@ Why did we have to call `event.preventDefault()`? Try removing this, and see wha
 
 Our page is reloading completely! But why? Well, the default behaviour of the `form` tag, when submitted by the user, is to load the next page to which the form data is sent - or to reload the same page, if no `action` attribute is present. But that's not what we want! So we have to intercept the `event` passed to the event listener callback, and to call `preventDefault()` on it, to ask the browser not to perform its default action when submitting the form. Doing this, the page won't reload, and we can handle the form "submission" in our own way (in this case, by calling `displayWeather`).
 
-[Forward to the Challenge Map](../README.md)
+[Next Challenge](../styling.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

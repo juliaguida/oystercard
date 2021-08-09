@@ -23,7 +23,7 @@
 - CSS reset
 - Grouping rules
 
-[Forward to the Challenge Map](../README.md)
+[Next Challenge](../saving_state.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

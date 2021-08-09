@@ -736,7 +736,7 @@ Full code for above (but in ES5 syntax) available at: https://github.com/tansaku
 
 
 
-[Forward to the Challenge Map](../README.md)
+[Next Challenge](../thermostat_logic.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

@@ -29,6 +29,8 @@ The first part of this challenge is intentionally left really open. When you fir
 
 ### [Walkthrough](walkthroughs/dom.md)
 
+[Next Challenge](./apis.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

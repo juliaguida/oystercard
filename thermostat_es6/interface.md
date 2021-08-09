@@ -22,6 +22,8 @@ In this challenge, you will build the skeleton of a UI, so that you can then sta
 
 ### [Walkthrough](walkthroughs/interface.md)
 
+[Next Challenge](./dom.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---

@@ -99,7 +99,7 @@ for (let i = 1; i <= 100; i++) {
 }
 ```
 
-[Forward to the Challenge Map](../README.md)
+[Next Challenge](../airport_challenge_js.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

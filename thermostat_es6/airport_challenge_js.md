@@ -26,6 +26,8 @@ Take your Ruby code and attempt to rewrite it in JavaScript - don't dwell too lo
 
 ### [Walkthrough](walkthroughs/airport_challenge_js.md)
 
+[Next Challenge](./thermostat_logic.md)
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---
