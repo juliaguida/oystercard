@@ -417,9 +417,15 @@ What would you add to the list?
 
 In this module you'll focus on developing a great process for learning a new language.  From time to time you should ask yourself this question: what would my plan be if I were to start learning another new language tomorrow?  You might find that your answer to this question changes during the week.
 
+You'll either be learning Javascript (using the materials outlined below) or Python, [here](https://github.com/makersacademy/python-music-player-challenges).  The goals are the same, either way.  If you're not sure which track you should take, please reach out to your coach.
+
+### Javascript
+
+> For the Javascript track, read on.  If you're due to learn Python, please go back to the link up there 👆
+
 If you already know some Javascript, please keep an open mind and pay close attention to how the week is structured. If you can do this really well, you'll come away with some insights into how to learn new programming languages.
 
-### This module's main goals
+#### This module's main goals
 
 By the end of the module all developers can:
 
@@ -434,7 +440,7 @@ By the end of the module all developers can:
 * I test-drive my code
 * I use my own initiative
 
-### Exercises for self-directed learning
+#### Exercises for self-directed learning
 
 These exercises can be used for independent study, or enhanced by group discussion.
 
@@ -462,7 +468,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 [learn_by_translation]: https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A
 [js_objects]: https://hackmd.io/LNOhghGETu2Mry0LYCGKwQ?view
 
-### Resources
+#### Resources
 
 * [JavaScript track on Exercism.io](https://exercism.io/tracks/javascript)
 * [You Don't Know JS – a free book series](https://github.com/getify/You-Dont-Know-JS)
@@ -470,11 +476,11 @@ These exercises can be used for independent study, or enhanced by group discussi
 * [Codepen](https://codepen.io/) is a really great tool for playing with HTML, CSS and JS
 * [Technical learning resources](https://airtable.com/shrtZmDUTQmQFdaZV/tblokmw6yNUO75ge6)
 
-### Pairing challenge
+#### Pairing challenge
 
 [Thermostat](https://github.com/makersacademy/course/blob/main/thermostat_es6/README.md)
 
-### Individual challenge
+#### Individual challenge
 
 For this module there are several options.  You should take a moment to decide which is the right one for you before getting started.  If you choose something and regret it, go back and choose something else! :)
 
