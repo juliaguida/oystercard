@@ -3,11 +3,13 @@
 Knowledge pills are like little vitamin pills you can take in quickly to understand a concept. We try to keep them as small as possible so that you can extract the information you need and gain the basic understanding quickly.
 
 ## Unix
+
 :pill: [The command line](https://github.com/makersacademy/course/blob/main/pills/command_line.md)
 
 :pill: [Sublime Text License](https://github.com/makersacademy/course/blob/main/pills/sublime_text.md)
 
 ## Git
+
 :pill: [Version Control with Git](https://github.com/makersacademy/course/blob/main/pills/git.md)
 
 ## Ruby
@@ -72,8 +74,7 @@ Knowledge pills are like little vitamin pills you can take in quickly to underst
 
 :pill: [Variables](https://github.com/makersacademy/course/blob/main/pills/variables.md)
 
-:pill: [Meta-programming](https://github.com/makersacademy/course/blob/master/pills/meta_programming.md)
-
+:pill: [Meta-programming](https://github.com/makersacademy/course/blob/main/pills/meta_programming.md)
 
 ## Rails
 
@@ -84,7 +85,6 @@ Knowledge pills are like little vitamin pills you can take in quickly to underst
 :pill: [Active Record](pills/activerecord.md)
 
 :pill: [Helper Methods](pills/rails_helpers.md)
-
 
 ## Testing
 
