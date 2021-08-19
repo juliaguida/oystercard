@@ -48,7 +48,7 @@ we get our intended end user functionality
  => nil
 ```
 
-and we've completely de-coupled DockingStation from Bike.  It can be tested independently and we don't need to require Bike in the DockingStation class definition.
+and we've completely decoupled DockingStation from Bike.  It can be tested independently and we don't need to require Bike in the DockingStation class definition.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
