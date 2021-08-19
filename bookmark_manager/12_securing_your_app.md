@@ -15,7 +15,7 @@ Let's return to our specification:
 * Filter bookmarks by tag
 * Users manage their bookmarks
 
-Great work so far, but is this app secure against attack?  In short, no, it is not!
+Great work so far, but is this app secure against attack? In short, no, it is not!
 
 During this challenge step, you and your pair will be tasked with discovering a specific vulnerability, exploiting it on your own machine and then refactoring the codebase to secure the app.
 
@@ -32,6 +32,8 @@ During this challenge step, you and your pair will be tasked with discovering a 
 [owasp_top_ten]: https://owasp.org/www-project-top-ten/
 
 ## [Walkthrough](walkthroughs/12.md)
+
+[Next Challenge](./13_deleting_bookmarks.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
