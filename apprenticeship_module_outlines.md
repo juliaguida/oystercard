@@ -14,6 +14,8 @@
 
 ## Weeks 1 & 2: Basic Programming
 
+During these first two modules, you will learn to use the essential tools of software development, the basic syntax of Ruby and you'll build procedural programs.
+
 By the end of modules 1 & 2 all developers can:
 <!-- spellchecker-disable -->
 <!-- Pending our adding unix to https://github.com/retextjs/retext-indefinite-article -->
@@ -24,12 +26,11 @@ By the end of modules 1 & 2 all developers can:
 * Use a process for solving a problem
 
 ### Challenges
-
-* [Mastery Quizzes](https://mastery-curriculum.makers.tech/)
-* [Student Directory](https://github.com/makersacademy/student-directory)
-* [TDD FizzBuzz Kata](https://github.com/makersacademy/course/blob/main/fizzbuzz/fizzbuzz.md)
+All the challenges for this module are on Teachable. If you don't already have access, please reach out to your coach on day 1.
 
 ### Skills Breakdown
+
+You can use this section to track your progress and find relevant supplementary materials.
 
 <!-- spellchecker-disable -->
 <!-- Pending our adding unix to https://github.com/retextjs/retext-indefinite-article -->
