@@ -33,13 +33,13 @@ In this challenge, you will implement the above features using the skills you ha
 ### Hints
 
 <details><summary>CLICK ME</summary>
-  <li>By now you should be getting to grips with the TDD cycle.  Tackle of the above user stories one at a time, going through the full process of feature testing, unit testings, then implementing the feature.  Everything you need for this challenge has been covered in earlier steps - good luck!</li>
+  <li>By now you should be getting to grips with the TDD cycle.  Tackle of the above user stories one at a time, going through the full process of unit testing, implementing the feature and and using IRB to confirm everything works.  Everything you need for this challenge has been covered in earlier steps - good luck!</li>
 </details>
 
 ### Resources
 - :pill: [The BDD Cycle](https://github.com/makersacademy/course/blob/main/pills/bdd_cycle.md)
 
-[Previous Challenge](17_initialization_defaults.md) | [Next Challenge](19_isolating_tests_with_doubles.md)
+[Previous Challenge](14_initialization_defaults.md) | [Next Challenge](16_isolating_tests_with_doubles.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

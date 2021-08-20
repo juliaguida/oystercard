@@ -26,7 +26,7 @@ In this challenge, you will raise an exception when a user attempts to dock a bi
 ### Hints
 
 <details><summary>CLICK ME</summary>
-  <li>We now want to set a limit on the number of Bikes a DockingStation can hold, but right now we don't know what that limit should be.  For now, lets keep things simple and assume that the limit should be one Bike.  Run a feature test which expects an error when trying to dock a Bike in a DockingStation which already contains one.</li>
+  <li>We now want to set a limit on the number of Bikes a DockingStation can hold, but right now we don't know what that limit should be.  For now, lets keep things simple and assume that the limit should be one Bike.</li>
   <li>No error - no surprises there.  Now write a matching unit test - this is likely to look similar to the test you wrote in the last step.  Once you have a failing test, get it to pass!</li>
 </details>
 
@@ -35,7 +35,7 @@ In this challenge, you will raise an exception when a user attempts to dock a bi
 - [RSpec errors documentation (Github)](https://github.com/rspec/rspec-expectations#expecting-errors)
 - [Relish errors documentation](http://www.relishapp.com/rspec/rspec-expectations/v/3-3/docs/built-in-matchers/raise-error-matcher)
 
-[Previous Challenge](12_raising_exceptions.md) | [Next Challenge](14_complex_attributes.md)
+[Previous Challenge](9_raising_exceptions.md) | [Next Challenge](11_complex_attributes.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

@@ -1,4 +1,4 @@
-# Wrapping Collections
+# Complex attributes
 
 [Back to the Challenge Map](0_challenge_map.md)
 
@@ -20,7 +20,6 @@ In this challenge, you will convert your instance variable `@bike` to reference 
 
 ### To complete this challenge, you will need to:
 
-- [ ] Write a manual feature test for the above feature. Consider using `20.times { docking_station.dock Bike.new }`.
 - [ ] Rename your attribute `@bike` to a name better reflecting that it will store more than one `Bike` instance.
 - [ ] Use `rspec` to identify areas of your code that need to be updated to use this new attribute name.
 - [ ] Update your existing tests to recognise this new name for the attribute.
@@ -31,7 +30,6 @@ In this challenge, you will convert your instance variable `@bike` to reference 
 ### Hints
 
 <details><summary>CLICK ME</summary>
-  <li>Let's start with the feature test - we want to be able to dock 20 bikes without problem, then see an error when we attempt to dock the 21st.</li>
   <li>It feels as though we're going to need to make some changes to our code to accommodate this new requirement - for a start, we should change the name of our instance variable to reflect the fact that it will now be holding multiple bikes.</li>
   <li>If you run your tests now, you're likely to see several failures as a result of this name change.  Don't panic!  This is a great example of why it's so important to write tests in the first place - we have a clear picture of all of the points at which our code is now failing and the fixes we need to make.</li>
   <li>First of all, lets update the instance variable to point at a collection which can hold a number of bikes - an array seems a sensible choice</li>
@@ -43,7 +41,7 @@ In this challenge, you will convert your instance variable `@bike` to reference 
 
 - [Ruby `initialize` method](https://ruby-doc.org/docs/ruby-doc-bundle/UsersGuide/rg/objinitialization.html)
 
-[Previous Challenge](13_limiting_capacity.md) | [Next Challenge](15_single_responsibility_principle.md)
+[Previous Challenge](10_limiting_capacity.md) | [Next Challenge](12_single_responsibility_principle.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

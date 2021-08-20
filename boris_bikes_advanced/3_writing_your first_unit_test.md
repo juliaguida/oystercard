@@ -1,10 +1,6 @@
-# From Feature Tests to Unit Tests
+# Writing Your First Unit Test
 
 [Back to the Challenge Map](0_challenge_map.md)
-
-You should now understand that our error happened because Ruby doesn't know what a `DockingStation` is. Ruby doesn't know this because you haven't told it about `DockingStation`s: you just asked Ruby to make you a new one.
-
-Ruby errors are quite helpful, but they don't tell you exactly how to solve them. For that, you need a testing framework.
 
 In this challenge, you will initialise a testing framework, **RSpec**, and plan your DockingStation with a **Unit Test**.
 
@@ -13,6 +9,28 @@ In this challenge, you will initialise a testing framework, **RSpec**, and plan 
 - Create a spec file
 - Describe an Object using a specification
 - Set up a Unit Test
+
+### Challenge setup
+
+Here is the User Story you converted into a Domain Model:
+
+```
+As a person,
+So that I can use a bike,
+I'd like a docking station to release a bike.
+
+As a person,
+So that I can use a good bike,
+I'd like to see if a bike is working
+```
+
+Here is a functional representation of that story:
+
+Objects  | Messages
+------------- | -------------
+Person  |
+Bike  | working?
+DockingStation | release_bike
 
 ### To complete this challenge, you will need to:
 
@@ -36,7 +54,7 @@ In this challenge, you will initialise a testing framework, **RSpec**, and plan 
 - [Setting up RSpec (video)](https://www.youtube.com/watch?v=rRDQKAAGw6M)
 - [RSpec basics and Spec files](https://semaphoreci.com/community/tutorials/getting-started-with-rspec) (start from 'RSpec basics' partway down the page)
 
-[Previous Challenge](4_errors_are_good.md) | [Next Challenge](6_passing_your_first_unit_test.md)
+[Previous Challenge](2_working_with_user_stories.md) | [Next Challenge](4_passing_your_first_unit_test.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

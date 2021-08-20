@@ -29,7 +29,7 @@ In this challenge, you will further refactor your code, using a **constant**.
 - [Ruby Constants (RubyDoc)](http://ruby-doc.org/docs/ruby-doc-bundle/UsersGuide/rg/constants.html)
 - [Magic Numbers](https://www.eliotsykes.com/magic-numbers)
 
-[Previous Challenge](15_single_responsibility_principle.md) | [Next Challenge](17_initialization_defaults.md)
+[Previous Challenge](12_single_responsibility_principle.md) | [Next Challenge](14_initialization_defaults.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

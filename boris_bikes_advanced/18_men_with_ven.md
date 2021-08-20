@@ -5,7 +5,7 @@
 > You get a van, Jez. We could be men...with ven.
 > _Super Hans, Peep Show_
 
-Now we have a system capable of fulfilling all of our User Stories, and therefore all of our features. Our Unit Tests are isolated, and our Feature Tests are thorough.
+Now we have a system capable of fulfilling all of our User Stories, and therefore all of our features.
 
 Now, let's introduce two new objects to our domain: Vans and Garages. As you implement them you will realise how easily you can extend your domain when you follow the practices you've met this week.
 
@@ -28,19 +28,19 @@ In this challenge, you will implement two User Stories with minimal scaffolding.
 
 ### To complete this challenge, you will need to:
 
-- [ ] Use the Feature - Unit cycle to implement the above User Stories.
+- [ ] Use the unit testing cycle to implement the above User Stories.
 
 ### Hints
 
 <details><summary>CLICK ME</summary>
   <li>There's a lot of work to get through in order to complete this step!  Go right back to the start of the development process - think about what the user stories tell you about the objects you're going to need and the interactions between them.</li>
-  <li>Notice that the user stories each contain a lot of information - you'll likely want to break each one up into multiple feature tests.</li>
+  <li>Notice that the user stories each contain a lot of information - you'll likely want to break each one up into smaller steps</li>
 </details>
 
 ### Resources
 - :pill: [The BDD Cycle](https://github.com/makersacademy/course/blob/main/pills/bdd_cycle.md)
 
-[Previous Challenge](20_mocking_behaviour_on_doubles.md) | [Next Challenge](22_modules_as_mixins.md)
+[Previous Challenge](17_mocking_behaviour_on_doubles.md) | [Next Challenge](19_modules_as_mixins.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

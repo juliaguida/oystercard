@@ -61,7 +61,8 @@ There are ways of DRYing the above up, as well: check the Resources for more inf
 - [ ] Use RSpec's `allow` syntax to permit the double to respond to methods the test requires
 - [ ] Repeat for each test
 - [ ] Refactor the `allow` statements to use method stubs at the point of `double` creation (see [shorthand syntax](https://github.com/rspec/rspec-mocks#method-stubs))
-- [ ] Ensure all your feature and unit tests are passing
+- [ ] Ensure all unit tests are passing
+- [ ] Play with your app in IRB to confirm everything works as expected
 
 ### Hints
 
@@ -73,7 +74,7 @@ There are ways of DRYing the above up, as well: check the Resources for more inf
 - [Mocking a simple return value](https://www.relishapp.com/rspec/rspec-mocks/v/2-14/docs/method-stubs/allow-with-a-simple-return-value)
 - [RSpec Method Stubs (shorthand) (Github)](https://github.com/rspec/rspec-mocks#method-stubs)
 
-[Previous Challenge](19_isolating_tests_with_doubles.md) | [Next Challenge](21_men_with_ven.md)
+[Previous Challenge](16_isolating_tests_with_doubles.md) | [Next Challenge](18_men_with_ven.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

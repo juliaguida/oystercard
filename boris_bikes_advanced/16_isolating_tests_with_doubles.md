@@ -90,7 +90,7 @@ In the next challenge, we'll figure out how to get this test passing (i.e. how t
 - :pill: [Doubles](https://github.com/makersacademy/course/blob/main/pills/doubles.md)
 - [RSpec Mocks (docs)](https://relishapp.com/rspec/rspec-mocks/docs)
 
-[Previous Challenge](18_dealing_with_broken_bikes.md) | [Next Challenge](20_mocking_behaviour_on_doubles.md)
+[Previous Challenge](15_dealing_with_broken_bikes.md) | [Next Challenge](17_mocking_behaviour_on_doubles.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

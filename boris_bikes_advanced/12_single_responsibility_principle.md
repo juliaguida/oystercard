@@ -47,7 +47,7 @@ In this challenge, you will use **private methods** to extract method responsibi
 - [Single Responsibility Principle (Thoughtbot)](https://robots.thoughtbot.com/back-to-basics-solid) <-- extracts classes rather than methods, but the principle still applies
 - [`private` methods in Ruby](http://culttt.com/2015/06/03/the-difference-between-public-protected-and-private-methods-in-ruby/)
 
-[Previous Challenge](14_complex_attributes.md) | [Next Challenge](16_removing_magic_numbers.md)
+[Previous Challenge](11_complex_attributes.md) | [Next Challenge](13_removing_magic_numbers.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

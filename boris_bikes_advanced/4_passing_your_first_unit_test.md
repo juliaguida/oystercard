@@ -48,7 +48,6 @@ In this challenge, you will create a `DockingStation` class and include it in th
 ### Hints
 
 <details><summary>CLICK ME</summary>
-  <li>You now have a matching failure in your feature and unit test - time to write some code!</li>
   <li>Remember - your job is to get your tests passing in the simplest way possible.  In order to do this, you'll need to define a DockingStation class in a file within a '/lib' directory.</li>
   <li>At this point, try running RSpec again - the test still fails!  Why might this be?</li>
   <li>Right now, your spec file has no way of knowing about the contents of your file in the '/lib' directory - you'll need to require it.  Check the links below for more info.</li>
@@ -58,7 +57,7 @@ In this challenge, you will create a `DockingStation` class and include it in th
 - [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 - [Including files in Ruby](http://rubylearning.com/satishtalim/including_other_files_in_ruby.html)
 
-[Previous Challenge](5_from_feature_tests_to_unit_tests.md) | [Next Challenge](7_back_to_the_feature.md)
+[Previous Challenge](3_writing_your_first_unit_test.md) | [Next Challenge](5_back_to_the_unit_test.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

@@ -35,18 +35,17 @@ In this challenge, you will learn how to test and raise exceptions.
 
 ### To complete this challenge, you will need to:
 
-- [ ] Feature test the feature you are building using irb
 - [ ] Use `{}` and `raise_error` syntax in your RSpec unit test to test exception raising
 - [ ] Use the `fail` or `raise` keyword to raise an exception in your code (not your tests)
 - [ ] Make the test pass by raising an exception
 - [ ] Explain why you use curly braces in the RSpec error handling syntax to your partner
-- [ ] Feature-test the feature again.
+- [ ] Play with your app in IRB to confirm that it works as expected
 
 ### Hints
 
 <details><summary>CLICK ME</summary>
-  <li>We want to raise an error when a user tries to release a bike from an empty DockingStation.  What would an 'empty' DockingStation object look like? Presumably one where the instance variable you set up in the last step doesn't yet contain a bike.  Run a feature test with the expectation that releasing a bike from an empty docking station will raise an error</li>
-  <li>Unsurprisingly, the feature test fails.  Not because we see an error message, but rather because we don't - we can release bikes from empty DockingStations without any problem.  You know the drill by now - let's write a matching unit test.  RSpec provides us with a raise_error method for just this sort of situation, but it's usage is a little tricky.  Check the documentation below to see how it works.</li>
+  <li>We want to raise an error when a user tries to release a bike from an empty DockingStation.  What would an 'empty' DockingStation object look like? Presumably one where the instance variable you set up in the last step doesn't yet contain a bike.</li>
+  <li>You know the drill by now - let's write a unit test.  RSpec provides us with a raise_error method for just this sort of situation, but it's usage is a little tricky.  Check the documentation below to see how it works.</li>
   <li>The last step is to make this test past.  You'll need to do some research on how to raise an error in Ruby.</li>
 </details>
 
@@ -55,7 +54,7 @@ In this challenge, you will learn how to test and raise exceptions.
 - [RSpec errors documentation (Github)](https://github.com/rspec/rspec-expectations#expecting-errors)
 - [Relish errors documentation](http://www.relishapp.com/rspec/rspec-expectations/v/3-3/docs/built-in-matchers/raise-error-matcher)
 
-[Previous Challenge](11_using_instance_variables.md) | [Next Challenge](13_limiting_capacity.md)
+[Previous Challenge](8_using_instance_variables.md) | [Next Challenge](10_limiting_capacity.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

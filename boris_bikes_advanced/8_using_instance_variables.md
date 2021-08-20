@@ -26,16 +26,14 @@ In this challenge, you will pass instances of the `Bike` class into a `DockingSt
 
 ### To complete this challenge, you will need to:
 
-- [ ] Write a feature test for docking a bike at a docking station
 - [ ] Write a unit test for the method you need to add to `DockingStation` to make docking possible
-- [ ] Pass both tests
 - [ ] Use an instance variable with `attr_reader` to do a full test-implementation cycle for the second User Story above
+- [ ] Manually test that your program behaves as expected, in IRB
 
 ### Hints
 
 <details><summary>CLICK ME</summary>
-  <li>As usual, we're starting this step of the challenge with a failing feature test.  You've seen this kind of failure before - write a matching unit test and pass it in the simplest way possible.</li>
-  <li>We now have a method for docking bikes, but it doesn't do anything.  In order to implement the desired behaviour, a DockingStation object needs to have somewhere to stokre the Bike objects which get docked. Ruby provides us with something called instance variables which are perfectly suited for this job. Take a look at the materials linked below for more information.</li>
+  <li>We now have a method for docking bikes, but it doesn't do anything.  In order to implement the desired behaviour, a DockingStation object needs to have somewhere to store the Bike objects which get docked. Ruby provides us with something called instance variables which are perfectly suited for this job. Take a look at the materials linked below for more information.</li>
   <li>Once you start to understand how instance variable operate, you can write your test.  You want to be able to pass a bike as an argument to your dock method, and for that same bike to then be stored in your instance variable.  Implement this behaviour and you're done!</li>
 </details>
 
@@ -45,7 +43,7 @@ In this challenge, you will pass instances of the `Bike` class into a `DockingSt
 - [RubyMonk: instance variables](https://rubymonk.com/learning/books/4-ruby-primer-ascent/chapters/45-more-classes/lessons/110-instance-variables)
 - [RSpec `respond_to` expectations documentation](http://www.relishapp.com/rspec/rspec-expectations/v/3-3/docs/built-in-matchers/respond-to-matcher)
 
-[Previous Challenge](10_making_stations_release_bikes.md) | [Next Challenge](12_raising_exceptions.md)
+[Previous Challenge](7_making_stations_release_bikes.md) | [Next Challenge](9_raising_exceptions.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
