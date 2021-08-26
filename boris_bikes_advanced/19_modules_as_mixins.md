@@ -28,7 +28,7 @@ In this challenge, you will refactor your code to **compose** objects using mixi
 - [RSpec Shared Examples (Relish)](https://www.relishapp.com/rspec/rspec-core/v/2-0/docs/example-groups/shared-example-group)
 - :pill: [Modules](https://github.com/makersacademy/course/blob/main/pills/modules.md)
 
-[Previous Challenge](18_men_with_ven.md)
+[Previous Challenge](18_men_with_ven.md) | [Next Challenge](20_make_it_your_own.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
