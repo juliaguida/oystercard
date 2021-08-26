@@ -10,6 +10,8 @@ To help structure your work, here are 22 challenges. They all build on one anoth
 
 ### Challenges
 
+In the original version of Boris Bikes, each challenge step is accompanied by a walkthrough, which provides precise instructions for when people get blocked. You've elected to do the advanced version, which does not come with those walkthroughs. You will probably get stuck at some point though! When that happens, remember the [escalation process](https://github.com/makersacademy/course/blob/cdda63c32f8121c67a2409ae64ddf572822da93e/pills/escalation_process.md).
+
 1. [Setting up a Project](1_setting_up_a_project.md)
 2. [Working with User Stories](2_working_with_user_stories.md)
 3. [From a Domain Model to a Feature Test](3_from_domain_models_to_feature_tests.md)
