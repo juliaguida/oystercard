@@ -6,6 +6,8 @@ You've built a working emulator – now it's your chance to take this codebase i
 - [ ] Pick one or more tasks and do the work
 OR
 - [ ] Come up with your own task, extract some learning objectives, then do the work
+- [ ] Make a 30 min screen recording of yourself working on something from this list and share it with a peer for feedback on your developer process
+- [ ] Watch a screen recording by one of your peers and give them feedback on their developer process
 
 ### Options
 
