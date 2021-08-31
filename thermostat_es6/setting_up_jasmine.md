@@ -2,7 +2,7 @@
 
 [Back to the Challenge Map](README.md)
 
-To be able to TDD, we need a testing framework. The very awesome [Pivotal Labs](http://pivotal.io/labs) have built [Jasmine](https://github.com/Jasmine/jasmine) which conveniently has syntax that is extremely similar to RSpec.
+To be able to TDD, we need a testing framework. [Jasmine](https://github.com/Jasmine/jasmine) is a JavaScript testing framework which conveniently has syntax that is extremely similar to RSpec.
 
 In this challenge, you will install Jasmine, set up a new project and try to find common ground between RSpec and Jasmine.
 
