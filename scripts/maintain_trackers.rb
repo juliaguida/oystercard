@@ -5,7 +5,7 @@
 require "find"
 
 PROJECT_ROOT = File.expand_path("..", File.dirname(__FILE__))
-REPOSITORY = "course"
+REPOSITORY = "makersacademy/course"
 
 START_TAG = "<!-- BEGIN GENERATED SECTION DO NOT EDIT -->"
 END_TAG = "<!-- END GENERATED SECTION DO NOT EDIT -->"
