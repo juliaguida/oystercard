@@ -22,6 +22,8 @@ Demo.new # this is wrong, modules can't be instantiated!
 So, what are modules good for? We can include them into classes (and other modules). For example:
 
 ```ruby
+require 'demo' # assuming demo.rb is in the same directory
+
 class Person
   include Demo # so all methods from Demo become part of Person
 end
