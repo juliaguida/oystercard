@@ -84,7 +84,7 @@ get('story.json')
 
 You'll notice we've only defined the error handler once as the final argument in the last `then` method - Promises are clever enough to keep looking down the chain until they find an error callback that can be called. Only having to define one error handler which handles all the errors is one of the biggest advantages that Promises offers us - it allows us to essentially create a `try`/`catch` block that works with asynchronous code.
 
-> Unfortunately Promises are not yet fully supported natively on all browsers, support is becoming more widespread but until then you will have to use a [library](https://github.com/jakearchibald/es6-promise) to make sure they work in all browsers.
+> Promises are supported by _nearly_ all web browsers. In your jobs, you may encounter things called 'polyfills' or other tools used to get versions of Javascript that don't have promises to support them. This can be important if your website needs to be usable by people who have old mobile phones. You don't need to think too much about this now, but keep it in mind as you move forward in your career.
 
 Resources
 -------
