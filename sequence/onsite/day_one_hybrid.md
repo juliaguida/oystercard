@@ -7,7 +7,7 @@ If you have any questions, just ask!
 Make sure you've read the [student manual](https://docs.google.com/document/d/1G3am9kQzBFBerZjCR6WlinJb3YfgOpx486VFCH3R8DI/edit?usp=sharing) - remember before coming to the office:
 
  * Make sure you've got a negative lateral flow test result (you'll need to show the text or email)
- * Install the NHS Covid app
+ * Install the NHS COVID app
  * Wear a mask inside the building and on public transport
  * Bring your own hot drinks cup and bottle
  * Bring your laptop and charger - or pick it here on your first day (take it home with you when leaving the building)
@@ -17,7 +17,7 @@ Make sure you've read the [student manual](https://docs.google.com/document/d/1G
 
 ### Morning
 
-The building will be opened by the operations team at 09:00. When you arrive, please go first at the reception on the 1st floor - our receptionist will check your negative Covid test and your temperature. You'll then be able to go on the 2nd floor.
+The building will be opened by the operations team at 09:00. When you arrive, please go first at the reception on the 1st floor - our receptionist will check your negative COVID test and your temperature. You'll then be able to go on the 2nd floor.
 
 If you arrive early please wait in the 2nd Floor Kitchen. Please bring your breakfast in case you don't have it at home. Your coach will arrive around that time. Please ask them any questions you have about the course.
 
@@ -25,7 +25,7 @@ Please post questions about our [facilities](https://github.com/makersacademy/co
 
 * 09.00 - 09.30 Arrive in the building :coffee: (2nd Floor Kitchen)
 * 09.30 - 10.45 _Welcome to Makers_ - your first workshop (2nd Floor)
-* 10.45 - 11.00 Get your laptopts :computer: (3rd Floor - your coach will tell where to find yours)
+* 10.45 - 11.00 Get your laptops :computer: (3rd Floor - your coach will tell where to find yours)
 * 11.00 - 12.30 _Life at Makers_ by Dana (3rd Floor - dial-in on Zoom)
 * 12.30 - 13.30 **Lunch** (here are some [options](https://github.com/makersacademy/course/blob/main/pills/lunch_near_makers.pdf)). If you'd like to use the kitchen space on 2nd floor, make sure you follow the time slot for your group (Sapphire or Emerald) to make sure there's enough space. If the weather is nice, there's also a few small squares and parks not far from the building to eat outside.
 
