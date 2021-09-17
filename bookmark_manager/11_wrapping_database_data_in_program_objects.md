@@ -46,7 +46,9 @@ The `Post` class would, in this case, _wrap_ the data in each row of the table, 
   - [ ] Clicking a link in the list should open the `url` of the bookmark.
 
 ## Hints
+
 &nbsp;<details><summary>CLICK ME</summary>
+
 #### Adding new fields to the database
 
 Before you can save bookmarks with a title, or display the title in the `bookmarks`, you'll need to update the `bookmarks` table in the `development` and `test` databases. See the suggested resources before for more information on how to do this.
@@ -65,14 +67,14 @@ You may want to update the `Bookmark.all` method to return instances of the `Boo
 
 ## [Walkthrough](walkthroughs/11.md)
 
-[Next Challenge](./12_deleting_bookmarks.md)
+[Next Challenge](./12_securing_your_app.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---
 
 **How was this resource?**  
-[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/11_wrapping_database_data_in_program_objects.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/11_wrapping_database_data_in_program_objects.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/11_wrapping_database_data_in_program_objects.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/11_wrapping_database_data_in_program_objects.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=course&prefill_File=bookmark_manager/11_wrapping_database_data_in_program_objects.md&prefill_Sentiment=😀)  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy/course&prefill_File=bookmark_manager/11_wrapping_database_data_in_program_objects.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy/course&prefill_File=bookmark_manager/11_wrapping_database_data_in_program_objects.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy/course&prefill_File=bookmark_manager/11_wrapping_database_data_in_program_objects.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy/course&prefill_File=bookmark_manager/11_wrapping_database_data_in_program_objects.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy/course&prefill_File=bookmark_manager/11_wrapping_database_data_in_program_objects.md&prefill_Sentiment=😀)  
 Click an emoji to tell us.
 
 <!-- END GENERATED SECTION DO NOT EDIT -->
