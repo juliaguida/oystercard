@@ -401,6 +401,8 @@ NDUF
 Neo4J
 NeoVision
 Netlify
+NHS
+Nightriders
 nightwatch
 Nikesh
 Nitrous
@@ -497,6 +499,7 @@ repo
 repo's
 repos
 Requesters
+reputational
 Retrium
 Roald
 Roboto
@@ -582,6 +585,8 @@ Templating
 Terraform
 text-centric
 TextEdit
+TfL
+Thoughtbot
 thoughtbot
 Thoughtbot
 Thoughtbot's
