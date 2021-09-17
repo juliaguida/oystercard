@@ -61,7 +61,7 @@ I'd like to see if a bike is working
 - [Explain Like I'm 5 - Object-Oriented Programming](https://www.reddit.com/r/explainlikeimfive/comments/1pyhng/eli5_objected_oriented_programming/)
 - [What's a Class Structure?](http://sjmog.github.io/posts/504_whats-a-class-structure/)
 
-[Previous Challenge](2_working_with_user_stories.md) | [Next Challenge](3_from_domain_models_to_feature_tests.md)
+[Previous Challenge](1_setting_up_a_project.md) | [Next Challenge](3_writing_your_first_unit_test.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
