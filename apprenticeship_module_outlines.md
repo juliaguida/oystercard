@@ -134,9 +134,9 @@ For some skills, there are several options so that you can spend some time focus
 
 ### Pairing challenges
 
-* The original [Boris Bikes](https://github.com/makersacademy/course/blob/main/boris_bikes) challenge
+* The original [Boris Bikes](https://github.com/makersacademy/course/blob/main/boris_bikes/0_challenge_map.md) challenge
 
-* The [Boris Bikes Fast Track](https://github.com/makersacademy/course/blob/main/boris_bikes_fast_track) challenge
+* The [Boris Bikes Fast Track](https://github.com/makersacademy/course/blob/main/boris_bikes_fast_track/0_challenge_map.md) challenge
 
 ### Individual challenge
 
