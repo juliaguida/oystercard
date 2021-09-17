@@ -14,14 +14,14 @@ OR
 You are not expected to complete all of these tasks! Pick one that helps you to achieve your goals for today, work on it and, if you finish, pick another one.
 
 #### Further improve code quality
-You've already worked through a few nice refactoring steps, but there's always more polishing to be done.  How though, will you know what to change? One option is to use a static code analysis tool such as [rubocop](https://github.com/rubocop/rubocop) or [reek](https://github.com/troessner/reek). Another option is to share your code with a peer and get feedback – you could then do the same for them!
+You've already worked through a few nice refactoring steps, but there's always more polishing to be done.  How though, will you know what to change? One option is to use a static code analysis tool such as [RuboCop](https://github.com/rubocop/rubocop) or [Reek](https://github.com/troessner/reek). Another option is to share your code with a peer and get feedback – you could then do the same for them!
 
 #### Monetisation
 > As the Mayor of London
 > So that I can continue to reap the reputational rewards of Boris Bikes
 > The system must be sustainable (users must be charged)
 
-At the moment, it would appear that these bikes are free to use!  Design and implemnt a system that means people have to pay to use these bikes. You can assume that they'll use Oyster Cards and that those cards will be topped up elsewhere in, for example, Tube Stations.
+At the moment, it would appear that these bikes are free to use!  Design and implement a system that means people have to pay to use these bikes. You can assume that they'll use Oyster Cards and that those cards will be topped up elsewhere in, for example, Tube Stations.
 
 #### Reporting broken bikes
 > As a member of staff at TfL
@@ -72,7 +72,7 @@ Electrify the bikes and implement a feature that shows how much charge is left o
 > So that I can rent bikes easily and without having to learn Ruby
 > I want a nice user interface
 
-Build and test a new UserInterface class which is used by DockingStation to present options to and get inputs from a user.
+Build and test a new `UserInterface` class which is used by DockingStation to present options to and get inputs from a user.
 
 #### Reporting
 > As a member of staff at TfL
