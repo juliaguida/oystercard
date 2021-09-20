@@ -36,7 +36,7 @@ In this challenge, you will test drive a new `Bike` class.
 - [ ] Set up the spec file to `describe` the `Bike` class
 - [ ] Run RSpec from the Command Line
 - [ ] Fix the error you see, similarly to how you fixed the same error for DockingStation
-- [ ] Add a test to your `bike_spec.rb` file that expects `Bike` instances to `respond_to` the method `working?
+- [ ] Add a test to your `bike_spec.rb` file that expects `Bike` instances to `respond_to` the method `working?`
 - [ ] Make this test pass.
 
 ### Hints
