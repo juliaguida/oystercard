@@ -122,7 +122,7 @@ For some skills, there are several options so that you can spend some time focus
 | Deciding what to test         | [Testing behaviour rather than state][behaviour_vs_state] |
 
 [debugging_1]: https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/debugging_1
-[writing_unit_tests]: https://github.com/makersacademy/skills-workshops/tree/c268bb78fdc4df644d0ed7b1fdd189de426895f8/week-1/writing_tests
+[writing_unit_tests]: https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/writing_tests
 [diagram_tdd]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/testing/diagram_the_your_process.md
 [tdd_practical]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/test_driving.md
 [simple_checkout]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/testing/test_drive_multiple_objects.md
