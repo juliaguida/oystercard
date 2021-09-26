@@ -155,7 +155,7 @@ Object Oriented Design (sometimes called Object Oriented Programming) is one way
 > We seek to write code that is easy to read, reason about and change by
 > 1. Avoiding repetition
 > 2. Breaking programs down into small, simple, pieces
-> 3. Ensuring that the relationships among pieces are simple
+> 3. Ensuring that the relationships between pieces are simple
 
 Everything you learn about OOD this week will map onto one or more of those three goals.
 
@@ -163,11 +163,12 @@ Everything you learn about OOD this week will map onto one or more of those thre
 
 #### Reflect on TDD
 
-The skills and concepts dealt with this week build on the things you learned last week, so take a moment to reflect on Test Driven Development.
+The skills and concepts dealt with this week consolidate and build on the things you learned last week, so take a moment to reflect on Test Driven Development.
 
 * What did you learn about your progress from doing the Airport challenge?
 * Can you test-drive a class with instance variables and methods?
 * Can you test-drive two classes that work together?
+* Do you always write tests first?
 
 If you need to spend more time working on these things, go for it!
 
@@ -229,7 +230,8 @@ The intention is that you should work through the core exercises in order, from 
 
 ### Pairing challenge
 
-[Oystercard](https://github.com/makersacademy/course/blob/main/oystercard)
+* The [Oystercard Original Track](https://github.com/makersacademy/course/blob/main/oystercard)
+* The [Oystercard Fast Track](https://github.com/makersacademy/course/blob/main/oystercard_fast_track)
 
 ### Individual challenge options
 
