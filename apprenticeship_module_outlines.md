@@ -376,6 +376,15 @@ By the end of this module all developers can:
 * Run stand-ups and retrospectives
 * Use a branch/PR/merge git workflow
 * Give and receive meaningful code review
+* Recognise that contributions to teamwork do not always involve writing code
+
+### Tools and Resources
+
+* [Trello](https://trello.com/) is a todo list with superpowers!
+* [Miro](https://miro.com/) is a great tool for keeping all your team's plans and reflections in one place. You can use it alongside or instead of Trello.
+* [A brief into to git branching workflows](https://www.youtube.com/watch?v=aJnFGMclhU8&ab_channel=GitHubTraining%26Guides)
+* [Learn Git Branching](https://learngitbranching.js.org/) is a lovely resource for learning about how git branches work.
+* And [here's](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) Git's docs on branching.
 
 ### Your schedule
 
