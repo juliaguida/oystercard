@@ -175,7 +175,7 @@ If you need to spend more time working on these things, go for it!
 #### Read and discuss this module's goals
 
 By the end of the module all developers can:
-* Review another person's code and learn from what they read
+* Review another person's code and learn from what they wrote
 * Review another person's code and give them meaningful feedback
 * Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
 * Break one class into two classes that work together, while maintaining test coverage
