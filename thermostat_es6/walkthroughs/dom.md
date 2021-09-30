@@ -128,7 +128,7 @@ Hooking the other buttons up should be relatively straightforward, resulting in 
 ```javascript
 // interface.js
 document.addEventListener("DOMContentLoaded", () => {
-  const updateTemperature() = () => {
+  const updateTemperature = () => {
     document.querySelector('#temperature').innerText = thermostat.temperature;
   }
 
