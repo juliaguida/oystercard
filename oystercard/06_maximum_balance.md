@@ -49,7 +49,7 @@ I want a maximum limit (of £90) on my card
 - [raise_error matcher](https://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers/raise-error-matcher)
 - [expect vs expect with a block on SO](http://stackoverflow.com/questions/19960831/rspec-expect-vs-expect-with-block-whats-the-difference)
 - [Ruby constants](http://rubylearning.com/satishtalim/ruby_constants.html)
-- [If statements](http://www.dev-hq.net/ruby/5--if-statements)
+- [If statements](https://docs.ruby-lang.org/en/3.0.0/doc/syntax/control_expressions_rdoc.html#label-Modifier+if+and+unless)
 - [String interpolation](https://rubymonk.com/learning/books/1-ruby-primer/chapters/5-strings/lessons/31-string-basics)
 - [DRY: Don't Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 
