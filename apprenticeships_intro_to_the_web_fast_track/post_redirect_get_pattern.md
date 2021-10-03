@@ -24,7 +24,7 @@ First, we are extracting parameters to state. Then, we are rendering a view. But
 
 ### Learning Objectives Covered
 
-Using the post-redirect-get pattern will help you build user-friendly web applications. So, this is another _best practice_ focussed challenge.
+Using the post-redirect-get pattern will help you build user-friendly web applications. So, this is another _best practice_ focused challenge.
 
 ### To complete this challenge, you will need to:
 

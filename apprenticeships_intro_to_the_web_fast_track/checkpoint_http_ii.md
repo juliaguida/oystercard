@@ -4,7 +4,7 @@
 
 Time to pause and reflect on what you've learned so far, so that you can track your progress towards the goals of this week.
 
-The last four steps in this challenge focussed on two of the weekly goals:
+The last four steps in this challenge focused on two of the weekly goals:
 
 * Explain and diagram the HTTP request/response cycle
 * Test-drive a simple Sinatra app

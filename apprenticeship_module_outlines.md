@@ -286,7 +286,9 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 ### Pairing challenge
 
-[Intro to the web / Battle](https://github.com/makersacademy/course/blob/main/apprenticeships_intro_to_the_web)
+[Intro to the web – Original Track ](https://github.com/makersacademy/course/blob/main/apprenticeships_intro_to_the_web)
+
+[Intro to the web – Fast Track ](https://github.com/makersacademy/course/blob/main/apprenticeships_intro_to_the_web_fast_track)
 
 ### Individual challenge
 

@@ -4,7 +4,7 @@
 
 Time to pause and reflect on what you've learned so far, so that you can track your progress towards the goals of this week.
 
-The first four steps in this challenge focussed on one of the weekly goals:
+The first four steps in this challenge focused on one of the weekly goals:
 
 * Explain and diagram the HTTP request/response cycle
 
@@ -12,7 +12,7 @@ The first four steps in this challenge focussed on one of the weekly goals:
 
 * In step 1, you learned about how the web is made up of clients, such as your browser, and servers, like the machines that run Google search.
 
-* In step 2, you were introduced to Hyptertext Transfer Protocol, which is a set of rules (a protocol) that describes how clients and servers should communicate.
+* In step 2, you were introduced to Hypertext Transfer Protocol, which is a set of rules (a protocol) that describes how clients and servers should communicate.
 
 * In step 3, you learned that HTTP requests can contain parameters, embedded into the URL as a _query string_.
 
