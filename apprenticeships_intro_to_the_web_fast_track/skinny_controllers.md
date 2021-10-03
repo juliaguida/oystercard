@@ -1,0 +1,47 @@
+# Skinny Controllers
+
+[Back to the Challenge Map](README.md)
+
+We just refactored the Model layer so our classes have one responsibility each. Now we're going to shrink some of the repetition in our Controller layer (in `app.rb`).
+
+There is a saying when separating concerns like this:
+
+> Keep your Controllers skinny.
+
+It's an unpleasant phrase, but it's apt: in general, we want our controllers to do nothing more than small amounts of routing logic. Any of the complex stuff we want to push off into the Model. There's plenty of rationale for this: for one, you can reuse your Model layer with lots of different controllers if the Model layer stands independently.
+
+In this challenge, you will refactor your controller to make it more 'skinny'. You'll also cut in half the number of pesky global variables :angry: we're using.
+
+### Learning Objectives Covered
+
+By moving some of the application logic into a new Game class, you are working towards:
+
+* Test-drive a simple Sinatra app
+* Write feature tests using Capybara
+
+You are also applying a _best practice_ – **Separation of Concerns**.
+
+### To complete this challenge, you will need to:
+
+- [ ] Test-drive towards having `Game.new` accept two `Player` instances
+- [ ] Change messages being called on `Player` instances to ones being called on a `Game` instance instead
+- [ ] Replace the `$player_1` and `$player_2` global variables with references to a `$game` global variable that is instantiated when a game is started.
+
+### Resources
+
+- [Forget fat models: it’s time for skinny controllers and skinny models](https://medium.com/makers-academy/forget-fat-models-its-time-for-skinny-controllers-and-skinny-models-a9b84ec481b7#.8vs2uzw1f)
+- [Sandi Metz' Rules for Developers (Thoughtbot)](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)
+
+### [Walkthrough](walkthroughs/skinny_controllers.md)
+
+[Previous challenge](srp_anyone.md) - [Next challenge](switching_turns.md)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy/course&prefill_File=intro_to_the_web/skinny_controllers.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy/course&prefill_File=intro_to_the_web/skinny_controllers.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy/course&prefill_File=intro_to_the_web/skinny_controllers.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy/course&prefill_File=intro_to_the_web/skinny_controllers.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy/course&prefill_File=intro_to_the_web/skinny_controllers.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->
