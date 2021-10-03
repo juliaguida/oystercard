@@ -253,21 +253,11 @@ By the end of the week, all developers can:
 * Explain and diagram the HTTP request/response cycle
 * Explain and diagram the MVC pattern
 
-#### Stretch goals
+Before you start, take a moment to think about how you will track your progress towards these goals. Write down your plan and share it with your peers.
 
-If you complete the above, try to:
-* Explain what is meant by 'deploy'
-* Deploy a simple Sinatra app (for example, Hello, World) using the free tier on Heroku
+Then, every morning, you should come back to these goals and rate your progress.
 
-These really are stretch goals.  We've not created any exercises for them, so part of the challenge is research based.  There's a lot of guidance on deploying Sinatra applications to Heroku.  [This is a good place to start](https://devcenter.heroku.com/articles/rack#pure-rack-apps).
-
-#### The broader course goals relevant to this module are...
-
-* I can design and build user interfaces
-* I test-drive my code
-
-And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/main/apprenticeship_starting_pack/course_goals.md).
-
+On Friday, you'll do a solo exercise which will help you to test your self assessment.
 ### Resources
 
 * [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) – you'll probably get asked about this in a job interview one day ;)
@@ -276,17 +266,17 @@ And you can remind yourself of the rest [here](https://github.com/makersacademy/
 
 ### Exercises for self-directed learning
 
-These exercises can be used for independent study, or enhanced by group discussion.  They will help you work towards this week's goals.  If you find that these tasks contain a lot of code that confuses you, you might be better off doing some exercises from a previous week to cement that learning.  If you're not sure what to do, reach out to a coach right now!  Don't hesitate :)
+These exercises can be used for independent study, or enhanced by group discussion.  They will help you work towards this week's goals.  If you're not sure what to do, reach out to a coach right now!  Don't hesitate :)
 
 > WATCH OUT, REMOTE WORKERS!!  Some of these exercises ask you to collaborate with another learner and send messages from your machine to theirs. This will not work as described unless you're on the same network, so you won't be able to do those few parts whilst working remotely.
 
 | Key Skill             | Exercise.                                            |
 | --------------------- | ---------------------------------------------------- |
+| TDD                   | [Learn Capybara][capybara_workout]                   |
+|                       | [Birthday][birthday]                                 |
 | Servers/Clients       | [Servers][servers]                                   |
 |                       | [Clients][clients]                                   |
 |                       | [HTTP Severs][http_servers]                          |
-| TDD                   | [Learn Capybara][capybara_workout]                   |
-|                       | [Birthday][birthday]                                 |
 
 [capybara_workout]: https://capybara-workout.herokuapp.com/
 [servers]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/servers_and_clients/servers.md
@@ -296,7 +286,7 @@ These exercises can be used for independent study, or enhanced by group discussi
 
 ### Pairing challenge
 
-[Intro to the web / Battle](https://github.com/makersacademy/course/blob/main/intro_to_the_web)
+[Intro to the web / Battle](https://github.com/makersacademy/course/blob/main/apprenticeships_intro_to_the_web)
 
 ### Individual challenge
 
