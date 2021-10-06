@@ -18,7 +18,7 @@ So, what comes next?
 
 Imagine that you and your pair have been tasked with building a Sinatra application to fulfil this set of requirements
 
-- When a user navigates to `https://caclulator.com/addition`, they should be greeted by a welcome page
+- When a user navigates to `https://calculator.com/addition`, they should be greeted by a welcome page
 - The welcome page should have a friendly message and a form
 - The form should have three fields
   - One for the user's name
