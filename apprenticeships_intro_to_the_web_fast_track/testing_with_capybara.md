@@ -25,7 +25,7 @@ To complete this challenge you will need to have Firefox installed.
 
 ### To complete this challenge, you will need to:
 
-- [ ] Make sure you have installed Firefox browser on your machine (you can use `brew cask install firefox` if you haven't).
+- [ ] Make sure you have installed Firefox browser on your machine (you can use `brew install firefox` if you haven't).
 - [ ] List `capybara` and `selenium-webdriver` in a Gemfile.
 - [ ] make sure bundle install works - you may need to manually install Xcode if you haven't already.
 - [ ] install Firefox GeckoDriver, `brew install geckodriver`. If Firefox does not work for you after installing GeckoDriver, it is also possible to use [gem 'chromedriver-helper'](https://github.com/flavorjones/chromedriver-helper).
