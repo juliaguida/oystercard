@@ -319,13 +319,12 @@ By the end of the module all developers can:
 
 These exercises can be used for independent study, or enhanced by pairing and group discussion.
 
-| Key Skill              | Exercise                                       |
-| ---------------------- | -----------------------------------------------|
-| Explain db relations   | [Entity Relationship Diagrams][ERD]            |
-| Use SQL                | [SQL Zoo][zoo]                                 |
-|                        | [SQL Murder Mystery][sqlmm]                    |
-| Querying a database    | [Extend a DB backed app][ruby-db-queries]      |
-| Build an app with a DB | [Message board][build-1]                       |
+| Key Skill                   | Exercise                                  |
+| --------------------------- | ------------------------------------------|
+| Use SQL                     | [SQL Zoo][zoo]                            |
+| Query a database using Ruby | [Extend a DB backed app][ruby-db-queries] |
+| Explain db relations        | [Entity Relationship Diagrams][ERD]       |
+| Build an app with a DB      | [Message board][build-1]                  |
 
 [sqlmm]: https://mystery.knightlab.com/
 [build-1]: https://github.com/makersacademy/skills-workshops/tree/main/practicals/databases/blog
