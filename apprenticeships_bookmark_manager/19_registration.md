@@ -48,7 +48,7 @@ In this challenge, you will **register** new users.
 
 ## [Walkthrough](walkthroughs/19.md)
 
-[Next Challenge](./19_authentication.md)
+[Next Challenge](./20_authentication.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
