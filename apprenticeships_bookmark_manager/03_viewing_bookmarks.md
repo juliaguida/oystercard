@@ -13,11 +13,11 @@ Now we've set up our basic web app we can start implementing features! So let's 
 ## To complete this challenge, you will need to
 
 - [ ] Write a failing feature test for viewing bookmarks at the `/bookmarks` route.
-- [ ] Pass the feature test in the simplest way possible.
+- [ ] Pass the feature test in the simplest way possible, by hard coding some bookmarks, for now.
 - [ ] Refactor the code to use the View and Controller.
 - [ ] Test drive a refactor of the code to use a Model, that returns the list of bookmarks.
 
-> HINT: You'll probably want to create a `Bookmark` model that responds to the class method `.all` with a hard-coded array of `Bookmark` instances.
+> HINT: You'll probably want to create a `Bookmark` model that responds to the class method `.all` with a hard-coded array of `Bookmark` instances. See the resource on [Class and instance methods in Ruby](http://www.railstips.org/blog/archives/2009/05/11/class-and-instance-methods-in-ruby/) if you're unsure about how to define a class method.
 
 ## Resources
 

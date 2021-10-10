@@ -1,11 +1,10 @@
 # Bookmark Manager
 
-This week, you will build a web app that stores web bookmarks in a database.
+This week, you will build a web app that stores web bookmarks in a database. If you end up using the walkthrough a lot, that's fine! Just make sure that you and your pair regularly pause to test each other's understanding of what you're being guided towards.
+
+If you try to solve the challenges on your own early on, you'll probably find a quite different codebase in the walkthrough, should you need it in later challenges. In this case, you should not consider to the walkthrough to be 'correct' – it's just one possible way of implementing Bookmark manager and you'll need to adapt the code in the walkthrough to fit your application.
 
 ## Learning objectives
-
-### During this pairing challenge...
-
 ##### You will work towards these new goals:
 
 * Diagram the data flow from user action to server resource and back again
@@ -44,7 +43,7 @@ Working through the challenges, you'll be guided towards a particular applicatio
 
 ![example_structure](/images/example_structure.png)
 
-Note how the views directory has a subdirectory for each of the two models, `bookmark` and `comment`. This is a common structure for web applications and it allows you to use a short, standardised name for each view.
+Note how the views directory has a sub-directory for each of the two models, `bookmark` and `comment`. This is a common structure for web applications and it allows you to use a short, standardised name for each view.
 
 You may also have noticed the migrations directory and be wondering what that's about. Migrations are used to make changes to the database. You could do these manually, but then you'd need to record exactly what changes were made, in what order, so that you could recreate the same database on another machine or in the cloud. Migrations save you the pain of doing that. In this project, your migrations will contain SQL (and language specifically designed for interacting with certain types of database). In other projects, they'll be structured differently but will perform the exact same role.
 
