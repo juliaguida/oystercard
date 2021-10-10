@@ -315,13 +315,6 @@ By the end of the module all developers can:
 * Follow an effective debugging process for database-backed web applications
 * Build a simple web app that can read from and write to a database
 
-#### The broader course goals relevant to this module are...
-
-* I can integrate a database
-* I can design a system
-
-And you can remind yourself of the rest [here](https://github.com/makersacademy/course/blob/main/apprenticeship_starting_pack/course_goals.md).
-
 ### Exercises for self-directed learning
 
 These exercises can be used for independent study, or enhanced by pairing and group discussion.
