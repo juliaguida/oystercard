@@ -41,7 +41,7 @@ This is the basic view of the website. You will build it by working through the 
 
 Working through the challenges, you'll be guided towards a particular application structure through a series of intermediate steps, refactoring as you go. Below is an example of how your application could look at some point in it's development – it's a simplified version of our Bookmark Manager example application, so your app might never have this exact structure, but that's OK.
 
-![example_structure](/images/example_structure.png)
+![](./images/example_structure.png)
 
 Note how the views directory has a sub-directory for each of the two models, `bookmark` and `comment`. This is a common structure for web applications and it allows you to use a short, standardised name for each view.
 
