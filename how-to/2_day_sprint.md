@@ -19,7 +19,7 @@ Have a planning session where you choose a number of unestimated tickets in `Une
 On your card wall, pairs should assign themselves to a card in 'To do' and move it across to `In progress`.
   - Make a branch and work on that branch to complete the task on the card
   - When the task is complete and CI is passing on GitHub, make a PR and move the ticket to `Review`
-  - Pairs must get 2 approvals before they merge the code - a team member can [approve]()
+  - Pairs must get 2 approvals before they merge the code - a team member can approve.
     - The expectation is you give an approval if you understand how the code works and think it's of good quality
     - Try to use a PR as a knowledge-sharing ground
       - Requesters should write an informative description of what the PR changes, and link it to a ticket for more information.
