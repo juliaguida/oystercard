@@ -6,7 +6,7 @@
 
 3. Pair on implementing the user story.
 
-4. When you are done, create a pull request from your branch to `master`.
+4. When you are done, create a pull request from your branch to `main`.
 
 5. Get another member of the team to review your PR.
 
