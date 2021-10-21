@@ -186,44 +186,50 @@ By the end of the week all developers can build tested, easy-to-change software 
 
 By the end of the week all developers can:
 
-* Test drive a simple front-end web app with Javascript
-* Follow an effective process for learning a new language
+* Test-drive a simple Javascript program using Node.
+* Explain how asynchronous programming is different from synchronous, blocking
+  programming.
+* Apply a coherent process to learn a new language.
 
 ### Challenges
 
-* [Afternoons - Thermostat](https://github.com/makersacademy/course/blob/main/thermostat_es6/README.md)
-* [End of unit - Bowling continuation in JS](https://github.com/makersacademy/bowling-challenge)
+ * [Afternoons - Discovering JS and Thermostat](https://github.com/makersacademy/javascript-fundamentals#sequence)
+ * [End of unit - Bowling continuation in JS](https://github.com/makersacademy/bowling-challenge)
 
 ### Practicals
 
-* [Learning a new language by translation](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A)
-* [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/main/javascript_fundamentals/async_JS.md)
-* [Closures](https://hackmd.io/cIFsMAqISHqVHN_-p9hY0Q)
+ * [Learning a new language by translation](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A)
+ * [Explore asynchronicity in JavaScript with callback functions](https://github.com/makersacademy/javascript-fundamentals/tree/main/practicals/callbacks)
+ * [What is a callback in JavaScript? (video)](https://www.youtube.com/watch?v=xHneyv38Jro)
+ * [Closures](https://hackmd.io/cIFsMAqISHqVHN_-p9hY0Q)
+ * [Stretch — build a web server with JavaScript](https://github.com/makersacademy/javascript-fundamentals/tree/main/practicals/web-server)
 
 ### Resources
 
-* [Count app](https://github.com/makersacademy/js-count-example):
-A tiny JavaScript/Sinatra app that mimics the architecture of the Thermostat app. A useful guide for developers to use for concepts and idioms.
-* [Technical Learning Resources](https://airtable.com/shrbaXgV5mQnsvuGe/tblokmw6yNUO75ge6?blocks=hide)
+* [The function keyword in JS](https://github.com/makersacademy/course/blob/main/pills/js_functions.md)
+* [JavaScript versions - ES6 and before](https://www.codecademy.com/articles/javascript-versions)
+* [Testing with Jest (video)](https://www.youtube.com/watch?v=8gHEv5iNRKk)
+* [What is a callback in JavaScript? (video)](https://www.youtube.com/watch?v=xHneyv38Jro)
+* [Understanding Jest
+  mocks](https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c)
+* [Build a simple web server with express](https://expressjs.com/en/starter/hello-world.html)
 
 ### Skills workshops
 
-* [Encapsulation with the constructor & prototype pattern](https://github.com/makersacademy/skills-workshops/tree/main/javascript_fundamentals/encapsulation_with_constructor_and_prototype_pattern)
-* [Following the flow and getting visibility](https://github.com/makersacademy/skills-workshops/tree/main/javascript_fundamentals/following_the_flow_and_getting_visibility_in_javascript_es6)
-* [Following the Ajax request/response cycle](https://github.com/makersacademy/skills-workshops/tree/main/javascript_fundamentals/following_ajax_request_response_cycle)
-* [Callbacks and following the flow of control](https://github.com/makersacademy/skills-workshops/tree/main/javascript_fundamentals/callbacks_following_the_flow_of_control)
+ * [Asynchronous JS and callbacks](https://github.com/makersacademy/javascript-fundamentals/tree/main/workshops/async-js-and-callbacks)
+ * [Following the flow and getting visibility in JavaScript](https://github.com/makersacademy/javascript-fundamentals/tree/main/workshops/debugging)
 
 ## Week 7
 
 By the end of the week all developers can:
 
-* Build a frontend single-page app using only pure Javascript.
-* Request and use data from an external API.
-* Explain that libraries are made of ordinary code that I could write myself if I needed to.
+* Test-drive a simple Javascript program running in a web browser, using modern JS build tools.
+* Use the DOM API to build a web user interface for this program.
+* Build a single-page web application fetching and updating remote data using JS.
 
 ### Challenges
 
-* [Afternoon Group Project](https://github.com/makersacademy/course/blob/main/further_javascript)
+* [Afternoons - JS in the browser and Notes app](https://github.com/makersacademy/javascript-web-applications#sequence)
 * End of unit, either of:
   * [News summary](https://github.com/makersacademy/news-summary-challenge)
   * [Chitter API Frontend Challenge](https://github.com/makersacademy/frontend-api-challenge)
@@ -234,6 +240,8 @@ By the end of the week all developers can:
 * [Reading beyond your level](https://hackmd.io/F-pmnp3hRhePddmf3mnKGw)
 * [Explore Closures in JS](https://github.com/makersacademy/skills-workshops/blob/main/further_javascript/explore_closures.md)
 * [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/main/javascript_fundamentals/async_JS.md)
+* [Manipulating the DOM with JS](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+* [Using fetch to make HTTP requests](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 ### Resources
 
