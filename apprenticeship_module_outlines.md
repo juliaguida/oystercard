@@ -415,11 +415,11 @@ What would you add to the list?
 
 In this module you'll focus on developing a great process for learning a new language.  From time to time you should ask yourself this question: what would my plan be if I were to start learning another new language tomorrow?  You might find that your answer to this question changes during the week.
 
-You'll either be learning Javascript (using the materials outlined below) or Python, [here](https://github.com/makersacademy/python-music-player-challenges).  The goals are the same, either way.  If you're not sure which track you should take, please reach out to your coach.
+You'll either be learning Javascript (using the materials outlined below) or Java, [here](https://github.com/makersacademy/java-apprenticeship-module).  The goals are the same, either way.  If you're not sure which track you should take, please reach out to your coach.
 
 ### Javascript
 
-> For the Javascript track, read on.  If you're due to learn Python, please go back to the link up there 👆
+> For the Javascript track, read on.  If you're due to learn Java, please go back to the link up there 👆
 
 If you already know some Javascript, please keep an open mind and pay close attention to how the week is structured. If you can do this really well, you'll come away with some insights into how to learn new programming languages.
 
