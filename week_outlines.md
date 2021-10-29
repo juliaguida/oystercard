@@ -236,16 +236,19 @@ By the end of the week all developers can:
 
 ### Practicals
 
-* [Modelling the flow of API calls with JS](https://github.com/makersacademy/skills-workshops/tree/main/further_javascript/process-modelling-js-api/process_modelling)
 * [Reading beyond your level](https://hackmd.io/F-pmnp3hRhePddmf3mnKGw)
+* [Playing with the DOM to update a page](https://github.com/makersacademy/javascript-web-applications/tree/main/practicals/playing-with-dom)
+* [Exercise: Building a custom GitHub page](https://github.com/makersacademy/javascript-web-applications/tree/main/practicals/github-frontend)
+* [Exercise: Building a frontend for the thermostat server](https://github.com/makersacademy/javascript-web-applications/tree/main/practicals/thermostat-frontend)
 * [Explore Closures in JS](https://github.com/makersacademy/skills-workshops/blob/main/further_javascript/explore_closures.md)
 * [Explore asynchronicity in Javascript](https://github.com/makersacademy/skills-workshops/blob/main/javascript_fundamentals/async_JS.md)
 * [Manipulating the DOM with JS](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 * [Using fetch to make HTTP requests](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+* [Modelling the flow of API calls with JS](https://github.com/makersacademy/skills-workshops/tree/main/further_javascript/process-modelling-js-api/process_modelling)
 
 ### Resources
 
-* [Technical Learning Resources](https://airtable.com/shrfvOQf2zZNGUhk8/tblokmw6yNUO75ge6?blocks=hide)
+* [Technical Learning Resources](https://airtable.com/shrV1b6EWdf5EHWii/tblokmw6yNUO75ge6)
 
 ## Week 8-9
 
