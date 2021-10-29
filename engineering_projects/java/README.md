@@ -23,8 +23,8 @@ These [assessment criteria](https://github.com/makersacademy/course/blob/main/fi
 
 ## The Spring Boot track
 
-* [Template repository](https://github.com/makersacademy/acebook-java-template)
-* [Initial card wall](https://trello.com/b/3T1tgGU5/acebook-java-template)
+* [Template repository](https://github.com/makersacademy/acebook-java-react-template)
+* [Initial card wall](https://trello.com/b/9mJOi2NA/acebook-java-react)
 
 ## The Spark track
 * [Template repository](https://github.com/makersacademy/acebook-java-spark-template)
