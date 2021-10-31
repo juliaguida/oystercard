@@ -497,11 +497,10 @@ For this module there are several options.  You should take a moment to decide w
 
 By the end of the module all developers can:
 
-* Explain how dev teams work together
-* Give feedback that results in a positive change to a codebase
-* Can use high-quality processes to build a project in a team
+* Navigate a legacy codebase.
+* Build production-quality software in a team.
 
-For more information about this project and how great dev teams work together look [here](https://github.com/makersacademy/course/tree/main/simple/engineering_projects). Note that if you're going to use a tech stack other than Ruby on Rails for this project, your coach will provide you with a link to a different template repo than the one provided in the engineering project docs.
+For more information about this project and how great dev teams work together look [here](https://github.com/makersacademy/course/tree/main/simple/apprenticeships_engineering_projects).
 
 ## Weeks 11 & 12: Final Project
 
