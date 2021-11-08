@@ -38,7 +38,7 @@ This is not a test, nor a challenge to see how many features you can cram into t
 
 ## 2-Day Sprints
 
-https://github.com/makersacademy/acebook-rails-template/blob/main/CONTRIBUTING.md
+[Contributing Guide](https://github.com/makersacademy/acebook-rails-template/blob/master/CONTRIBUTING.md)
 
 - :pill: [Standups](../pills/student_standups.md)
 - :pill: [Project Retros](../pills/project_retrospective.md)
