@@ -29,17 +29,18 @@ So you will know if your software is production-quality if, at the end of the tw
 
 You will know your team is working well if:
 
-* **You're shipping features.**  
-  Software, deployed, getting into the hands of the users — that is the aim of your work! But beware: it's easy to start off fast, but staying fast is the real challenge (and often involves starting slow).
-
 * **Everyone is contributing.**  
   No one should be sitting around waiting, no one should be passively letting the team get on with things. If this happens, you are wasting energy that can be going into building software.
+
+* **You're proud of your work.**  
+  If you know you're working together effectively, if you know you're building production-quality software, if you know you're learning and taking care of yourselves, you should be proud.
+
+* **You're shipping features.**  
+  Software, deployed, getting into the hands of the users — that is the aim of your work! But beware: it's easy to start off fast, but staying fast is the real challenge (and often involves starting slow).
 
 * **You feel good.**  
   That means you're well-rested, taking care of yourselves, speaking and listening to each other. Treat frustration like thirst — not a problem to suppress, but a helpful signal from yourself to surface and figure out how to fix. Don't stew!
 
-* **You're proud of your work.**  
-  If you know you're working together effectively, if you know you're building production-quality software, if you know you're learning and taking care of yourselves, you should be proud.
 
 ## Beginner Team Process
 
