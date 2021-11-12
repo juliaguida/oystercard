@@ -9,8 +9,7 @@ Make sure you've read the [student manual](https://docs.google.com/document/d/1G
  * Make sure you've got a negative lateral flow test result (you'll need to show the text or email)
  * Install the NHS COVID app
  * Wear a mask inside the building and on public transport
- * Bring your own hot drinks cup and bottle
- * Bring your laptop and charger - or pick it here on your first day (take it home with you when leaving the building)
+ * Bring your laptop and charger - or pick it here on your first day (take it home with you when leaving the building) if you're borrowing one from us
  * Bring earphones or headphones for sessions where you'll need to dial-in on Zoom
 
 ## Schedule for the first day
@@ -32,9 +31,9 @@ Please post questions about our [facilities](https://github.com/makersacademy/co
 ### Afternoon
 
 * 13.30 - 14.00 Meditation (3rd Floor - dial-in on Zoom)
-* 14.00 - 14.30 Meet your coaches! (2nd Floor). Please ask them a lot of questions, they can give you very useful advice on how to best thrive on the course :)
-* 15:00 - 16:00 _[Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/main/goals/README.md)_(2nd Floor)
-* 16:00 - 17:00 Setup your laptops and install everything you'll need for week 1 - http://www.preparetocode.io/
+* 14.00 - 15.15 _[Succeeding at Makers, and beyond](https://github.com/makersacademy/course/blob/main/goals/README.md)_(2nd Floor)
+* 15:15 - 16:00 Setup your laptops and install everything you'll need for week 1 - http://www.preparetocode.io/
+* 16:00 - 17:00 Meet your coaches! (2nd Floor). Please ask them a lot of questions, they can give you very useful advice on how to best thrive on the course :)
 * 17.00 - 18.00 **Hang out / social time** (2nd Floor Kitchen)
 
 ## Code of conduct
@@ -59,19 +58,15 @@ The building will be open from 09.00 - 18.00, Monday - Thursday.
 
 [A summary](https://github.com/makersacademy/course/blob/main/pills/low_noise_policy.md).
 
-## Seating plan
-
-[A summary](https://github.com/makersacademy/course/blob/main/pills/seating_plan.md).
-
 ## Laptops
 
 ### Getting your laptop (onsite cohorts)
 
-At 14.30 on the first day, go to the 3rd floor and ask for Jess, Jodi or Sarah. You can take the lift or the stairs to the 3rd floor.
+If you're borrowing a laptop from us, we'll give this to you before your first dial-in session of the day. 
 
 ### Setting up your laptop
 
-Have a look at [Prepare to Code](http://www.preparetocode.io/). It has a guide for what software to install to prepare for the Makers course.
+Have a look at [Prepare to Code](http://www.preparetocode.io/). It has a guide for what software to install to prepare for the Makers course. The first thing to install will be Zoom of course! 
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
