@@ -93,12 +93,50 @@ So I can enjoy my game of Battle,
 I want a sexy user interface
 ```
 
+### About Sinatra's Modular style
+
+So far, in this challenge, we've used Sinatra's classic style and wrote the route definitions in the top-level scope. I.e. Not inside a class.
+
+There is a slightly more complex way to write Sinatra applications, which we'll use from now on, called the "modular" style. The main difference is that the file `app.rb` defines a class, and we define routes inside that class. Below is an example of an empty "modular" Sinatra application, defining no routes:
+
+```ruby
+require 'sinatra/base'
+require 'sinatra/reloader'
+
+class MyApp < Sinatra::Base
+  configure :development do
+    register Sinatra::Reloader
+  end
+
+  # our routes would go here
+
+  # # Start the server if this file is executed directly (do not change the line below)
+  run! if app_file == $0
+end
+```
+
+We can run this app using `ruby app.rb`, as we did until now for the "classic" style. But a better way is also to use a gem called `rackup` — it's a more standard way to run Ruby web applications, and we also don't have to specify the file name every time. When using `rackup`, we need to add one more file to our project, called `config.ru`:
+
+```ruby
+# config.ru
+require './app'
+run MyApp
+```
+
+Note that the class name given to `run` (on the second line) needs to be the name of the application class we defined in `app.rb`. After creating this new file, we're able to run our Sinatra app with `rackup`, running the following inside the project directory:
+
+```bash
+gem install rackup
+rackup 
+```
+
 ### To complete this challenge, you will need to:
 
 - [ ] Start a new project directory (you could call it `Battle`)
 - [ ] Add dependencies for `rspec` and `sinatra` using a Gemfile, and install using `bundle`.
 - [ ] Add an `app.rb` file at the root.
-- [ ] Set up a Sinatra application called `Battle` inside `app.rb` using Sinatra's Modular Style.
+- [ ] Set up a Sinatra application class called `Battle` inside `app.rb` using Sinatra's Modular Style.
+- [ ] Declare a route inside this new class for `GET /`, responding with the string `Hello Battle!`.
 - [ ] Add a `config.ru` file.  Check you can use it to run your app.
 - [ ] Check you can visit your app's homepage in a web browser and see `Hello Battle!`.
 - [ ] Use the `rspec` `init` command to initialise an RSpec skeleton directory and file structure.
@@ -106,7 +144,7 @@ I want a sexy user interface
 
 ### Resources
 
-- [Sinatra Modular Style](http://www.sinatrarb.com/intro.html#Sinatra::Base%20-%20Middleware,%20Libraries,%20and%20Modular%20Apps)
+- [Sinatra Modular Style](http://sinatrarb.com/intro.html#:~:text=Serving%20a%20Modular%20Application)
 - [RSpec `init`](https://relishapp.com/rspec/rspec-core/v/2-8/docs/command-line/init-option)
 
 ### [Walkthrough](walkthroughs/getting_started_with_battle.md)

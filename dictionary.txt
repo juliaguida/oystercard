@@ -447,6 +447,8 @@ polymorphism
 Polymorphism
 pomodoro
 Pomodoro
+Pytest
+pytest
 post-bootcamp
 post-precourse
 Postfacto
@@ -646,6 +648,7 @@ V8
 validator
 ven
 Ven
+VSCode
 verbalisations.
 viewport
 visitable
@@ -671,6 +674,8 @@ Weezer's
 wellbeing
 whir
 whitespace
+whitespaces
+Whitespace
 wifi
 Wilger
 WIP

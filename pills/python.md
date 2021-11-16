@@ -8,7 +8,7 @@ Python is a generalist language, used for scripting, creating applications and d
 
 * Python is **very sensitive to whitespace**. Instead of `do end` or `{}`, python uses the level of indentation your code is written at to know which block it belongs to. Mixing tabs and spaces will create bugs. You may want to set up your IDE to show whitespaces. In VSCode you can use *View > Render Whitespace*.
 
-* You can open a python repl using `python3` without arguments. Leave the repl using `exit()` or `quit()`.
+* You can open a python REPL using `python3` without arguments. Leave the REPL using `exit()` or `quit()`.
 
 * Here's a simple function definition in python:
 ```py
