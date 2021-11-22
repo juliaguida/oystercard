@@ -193,7 +193,8 @@ By the end of the week all developers can:
 
 ### Challenges
 
- * [Afternoons - Discovering JS and Thermostat](https://github.com/makersacademy/javascript-fundamentals#sequence)
+ * [Start here](https://github.com/makersacademy/javascript-fundamentals/blob/main/contents/01_getting_started.md)
+ * [Afternoons pairing - Discovering JS and Thermostat](https://github.com/makersacademy/javascript-fundamentals#sequence)
  * [End of unit - Bowling continuation in JS](https://github.com/makersacademy/bowling-challenge)
 
 ### Practicals
