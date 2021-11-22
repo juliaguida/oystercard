@@ -4,6 +4,7 @@ Software engineers nearly always work in teams. This week you will work in a sim
 
 ## Template Repositories
 
+* [Ruby/Rails](https://github.com/makersacademy/acebook-rails-template)
 * [Java/Springboot](https://github.com/makersacademy/acebook-java-template)
 * [NodeJS/Express](https://github.com/makersacademy/acebook-node-template)
 
