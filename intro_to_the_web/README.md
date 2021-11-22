@@ -81,8 +81,6 @@ By the end of the week all developers can:
 * [Skinny Controllers](skinny_controllers.md)
 * [Switching Turns](switching_turns.md)
 * [Multiplayer](multiplayer.md)
-* [Losing and Winning](losing_and_winning.md)
-* [Killing the Global Variable](killing_the_global_variable.md)
 
 ### Post-challenges
 
