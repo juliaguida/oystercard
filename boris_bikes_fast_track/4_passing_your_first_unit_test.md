@@ -55,7 +55,7 @@ In this challenge, you will create a `DockingStation` class and include it in th
 
 ### Resources
 - [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
-- [Including files in Ruby](http://rubylearning.com/satishtalim/including_other_files_in_ruby.html)
+- [Including files in Ruby](https://github.com/makersacademy/course/blob/main/pills/require.md)
 
 [Previous Challenge](3_writing_your_first_unit_test.md) | [Next Challenge](5_back_to_the_unit_test.md)
 
