@@ -113,7 +113,8 @@ For some skills, there are several options so that you can spend some time focus
 |                               | [Test Driving Practical][tdd_practical]        |                                         |
 |                               | [Bank Account][bank_account]                   |
 |                               | [Diagram Your TDD Process][diagram_tdd]      |
-| Debugging                     | [Debug a diary app][debugging_1]                     |                     
+| Debugging                     |[Debug a card game programme][debugging_card_game]                       |                     
+|                               |[Debug a diary app][debugging_1] |
 
 | Stretch Skill                 | Exercise                                  |                       
 | ----------------------------- | ---------------------------------------------- |
@@ -129,6 +130,7 @@ For some skills, there are several options so that you can spend some time focus
 [tdd_notes_app]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/testing/test_drive_a_notes_app.md
 [bank_account]: https://github.com/makersacademy/simple_tdd_bank
 [behaviour_vs_state]: https://github.com/makersacademy/skills-workshops/blob/main/practicals/testing/behaviour_not_state.md
+[debugging_card_game]: https://github.com/makersacademy/skills-workshops/tree/main/test_driven_development/debugging_card_game#readme
 
 
 
