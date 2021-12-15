@@ -1,12 +1,6 @@
-# Spring Break Information for Developers on Immersive
+# Seasonal Break Information for Developers on Immersive
 
-Hello everyone! Makers is closed for a spring break for the week of Jun 21st. It has been a challenging time over the past year, and we would encourage you to use this time to refresh.
-
-## Meeting up
-
-If you'd like to meet up with your cohort in person we would definitely encourage it, while following the government guidelines, and will be providing a small budget of £20 pp to spend on entertainment or travel to facilitate this. [You can read about how to submit receipts here.](https://docs.google.com/document/d/1ROS4bZfghlJp7gRtpADtWTd0kTwRh1jpePBLk0nSC5A/edit#)
-
-## Programming
+Hello everyone! Makers is closed for seasonal breaks in both winter and spring. We encourage you to use this time to refresh, but this repo exists in case you'd like to do some programming. 
 
 If you, like me, find programming not just a challenging profession but also an interesting intellectual pursuit, you might enjoy the following challenges.
 
