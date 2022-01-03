@@ -136,9 +136,7 @@ For some skills, there are several options so that you can spend some time focus
 
 ### Pairing challenges
 
-* The [Boris Bikes Original Track](https://github.com/makersacademy/course/blob/main/boris_bikes/0_challenge_map.md)
-
-* The [Boris Bikes Fast Track](https://github.com/makersacademy/course/blob/main/boris_bikes_fast_track/0_challenge_map.md)
+The [Boris Bikes](https://github.com/makersacademy/course/blob/main/boris_bikes/0_challenge_map.md) Challenge
 
 ### Individual challenge
 
@@ -232,8 +230,7 @@ The intention is that you should work through the core exercises in order, from 
 
 ### Pairing challenge
 
-* The [Oystercard Original Track](https://github.com/makersacademy/course/blob/main/oystercard)
-* The [Oystercard Fast Track](https://github.com/makersacademy/course/blob/main/oystercard_fast_track)
+The [Oyster Card](https://github.com/makersacademy/course/blob/main/oystercard) Challenge
 
 ### Individual challenge options
 
@@ -343,7 +340,7 @@ These exercises can be used for independent study, or enhanced by pairing and gr
 
 ### Pairing challenge
 
-[Bookmark Manager](https://github.com/makersacademy/course/blob/main/apprenticeships_bookmark_manager/00_challenge_map.md)
+The [Bookmark Manager](https://github.com/makersacademy/course/blob/main/apprenticeships_bookmark_manager/00_challenge_map.md) Challenge
 
 ### Individual challenge
 
